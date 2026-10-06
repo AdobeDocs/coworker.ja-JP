@@ -21,7 +21,7 @@ ht-degree: 1%
 
 この動画では、カスタム同僚スキルがアクティベーションゲートとして機能し、組織のアクティベーション標準に照らし合わせてオーディエンスを自動的に検証し、ダウンストリームに移行する方法をご覧いただけます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503166/?captions=jpn&learn=on&enablevpops)
 
 ## アクティブ化の品質ゲートスキルの例
  

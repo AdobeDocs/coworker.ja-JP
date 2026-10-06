@@ -114,7 +114,7 @@ Coworker Campaignsは、積極的に開発を進めている製品です。 次�
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492808?captions=jpn&learn=on){transcript=true}
 
 
 新しい機能は、体験版中に出荷されます。 フィードバックは、次のステップを決定するのに役立ちます。 ヘッダーの製品内フィードバックアイコンを介してフィードバックを送信します。

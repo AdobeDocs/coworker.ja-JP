@@ -17,7 +17,7 @@ ht-degree: 4%
 
 同僚とのチャットインターフェイスを使って方向性を定める。 このガイドでは、アプリにアクセスしてワークスペースをナビゲートする方法から、会話を最大限に活用する方法、履歴を管理する方法、設定をカスタマイズする方法まで、すべてを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
 
 ## 同僚とのチャット
 

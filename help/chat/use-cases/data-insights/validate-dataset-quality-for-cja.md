@@ -19,7 +19,7 @@ Adobe Customer Journey Analytics（CJA）では、データ品質は正確なレ
 
 このビデオでは、クエリを記述したり、データを手動で調べたりすることなく、Coworker **の** データ検証スキルを使用して、Customer Journey Analyticsの実装を強化するデータセットの品質をすばやく評価する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503520/?captions=jpn&learn=on&enablevpops)
 
 ## CJAレポートの背後にあるデータセットを発見
 

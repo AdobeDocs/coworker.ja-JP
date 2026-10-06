@@ -45,7 +45,7 @@ Coworkerには、Adobe AnalyticsからCustomer Journey Analyticsにアップグ�
 
 実装がどのように設計されているかを知る必要はありません。 このスキルは、Customer Journey Analyticsの実装でAnalytics Source コネクタを使用しているか、Experience Platform Web SDKの新しい実装を使用しているかを自動的に検出します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496849/?captions=jpn&learn=on&enablevpops)
 
 ## 検証セッションを開始
 

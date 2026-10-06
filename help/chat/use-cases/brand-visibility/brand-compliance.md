@@ -28,4 +28,4 @@ ht-degree: 0%
 
 チームメンバーは、単に問題を特定するだけでなく、実行可能な提案を提示することで、 例えば、キャプションが画一的すぎたり、call to actionが欠けている場合、適切なタグを配置した、ブランド基準を満たす修正済みのキャプションを提供します。 このプロセスにより、コンテンツ制作を合理化し、最小限の労力でブランドコンプライアンスを確保できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502703/?captions=jpn&learn=on&enablevpops)

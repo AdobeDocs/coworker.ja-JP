@@ -23,7 +23,7 @@ ht-degree: 1%
 
 サンドボックスツール エージェンティックスキルを使用して、Adobe Experience Platform環境全体でオブジェクトのメタデータ（スキーマやオーディエンスを含む）を移動し、自然言語で達成したい目標を記述します。 CX Coworkerを使用すれば、必要なメタデータの検索、依存関係の自動特定、移行パッケージの作成、オブジェクトの移行を会話型のエクスペリエンスを通じて行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496709?captions=jpn&learn=on)
 
 ## 前提条件 {#prerequisites}
 

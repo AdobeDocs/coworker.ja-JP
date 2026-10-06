@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobe CX Enterprise Coworkerを使用して、AEM Sites ページを作成します。 このビデオでは、Coworkerがチャットプロンプトを使用して、ビジュアルコンテンツフラグメントから構築されたWKND ホームページに新しいプロモーションを追加します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503863/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503864/?captions=jpn&learn=on)
 
 >[!NOTE]
 >

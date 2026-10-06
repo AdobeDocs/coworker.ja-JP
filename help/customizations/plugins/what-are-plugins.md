@@ -17,7 +17,7 @@ ht-degree: 4%
 
 このビデオでは、プラグインを紹介し、新しい機能で[!DNL Coworker]を拡張する方法を説明します。 プラグインとは何か、含まれるコンポーネント、プラグインがスキルとMCP サーバーにどのように関連するか、およびワークスペースからプラグインをインストール、使用、削除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503656/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503658/?captions=jpn&learn=on&enablevpops)
 
 ## プラグインとは何ですか？
 

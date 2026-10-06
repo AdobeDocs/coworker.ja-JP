@@ -19,7 +19,7 @@ ht-degree: 1%
 
 新しい会話を開始するたびに同じ指示を繰り返す代わりに、Memoryを使用すると、選択した情報をセッション間で転送でき、より速く、より適切な応答を提供できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503667/?captions=jpn&learn=on&enablevpops)
 
 ## メモリについて
 

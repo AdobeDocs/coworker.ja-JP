@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Coworkerでの統合の概要、統合の概要、統合機能を使用する理由、インターフェイスの使用方法などをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503744/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503746/?captions=jpn&learn=on&enablevpops)

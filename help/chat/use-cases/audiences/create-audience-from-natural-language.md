@@ -24,4 +24,4 @@ ht-degree: 0%
 
 通常、オーディエンス、ジャーニー、データセット、宛先がどのように接続しているかを監査することは、手作業による時間のかかる作業です。 このビデオでは、CoworkerがAdobe Experience Platform（AEP）環境の全体像を生成し、業界のベストプラクティスに照らしてベンチマークテストを実施し、その結果を活用して新しいオーディエンスを構築する方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496868/?captions=jpn&learn=on&enablevpops)

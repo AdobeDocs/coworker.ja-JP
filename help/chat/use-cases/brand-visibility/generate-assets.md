@@ -27,4 +27,4 @@ ht-degree: 0%
 
 また、さらにカスタマイズするための柔軟性も提供します。 アセットを変更したり、バリエーションを作成したり、Instagram ストーリーなど、様々な形式にコンテンツを適応させたりすることができます。 このアプローチにより、チームメンバーが技術的な詳細を管理しながら、目標に集中することができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502708/?captions=jpn&learn=on&enablevpops)

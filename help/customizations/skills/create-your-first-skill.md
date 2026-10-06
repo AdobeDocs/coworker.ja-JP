@@ -31,7 +31,7 @@ ht-degree: 0%
 
 これにより、必要に応じてシンプルな指示だけで実行できる、繰り返し可能なワークフローを実現できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502333/?captions=jpn&learn=on&enablevpops)
 
 ## 分析を再利用可能なスキルに変える
 
