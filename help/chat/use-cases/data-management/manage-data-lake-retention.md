@@ -78,7 +78,7 @@ CX Coworkerを使用して、サンドボックス内のエクスペリエンス
 
 ![提案されたデータレイクの保持ポリシー、その影響、および変更が適用される前に必要な確認を示す同僚](../../assets/data-management/retention-impact-preview.png)
 
-リテンションポリシーを確定した後、Adobe Experience Platform UIに変更内容が表示されるまでに短い時間がかかる場合があります。 リテンションポリシーは、期限切れのデータを直ちに削除しません。 最初のリテンションジョブは、ポリシーが適用されてから24時間以内に開始されます。 最初の実行後、スケジュールされたジョブは、30日ごとに期限切れのレコードを評価して削除します。 保持とパージについて詳しくは、[Experience Event データセット保持（TTL）ガイド ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)を参照してください。
+リテンションポリシーを確定した後、Adobe Experience Platform UIに変更内容が表示されるまでに短い時間がかかる場合があります。 リテンションポリシーは、期限切れのデータを直ちに削除しません。 最初のリテンションジョブは、ポリシーが適用されてから24時間以内に開始されます。 最初の実行後、スケジュールされたジョブは、30日ごとに期限切れのレコードを評価して削除します。 保持とパージについて詳しくは、[Experience Event データセット保持（TTL）ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)を参照してください。
 
 リテンションポリシーの変更はすべて、ポリシーの設定、変更、削除などのタイミングを含む監査証跡に記録されます。 監査記録には、各変更を行ったユーザー、変更が行われた日時、変更された内容が記録されます。 Coworkerが提供するリンクに従って、Adobe Experience Platformのデータセットの「監査ログ」タブでこれらのイベントを確認できます。 詳しくは、[監査ログの概要](https://experienceleague.adobe.com/ja/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview)を参照してください。
 
@@ -99,4 +99,4 @@ Data Management Agentを使用する場合は、次の点に注意してくだ�
 
 ## 次の手順 {#next-steps}
 
-Data Management Agentのスキル、スコープ、動作および制限について詳しくは、[Data Management Agentの概要](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management)を参照してください。 Adobe Experience Platformでのデータレイク保持ポリシーの仕組みについて詳しくは、[Experience Event データセット保持（TTL）ガイド ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)を参照してください。
+Data Management Agentのスキル、スコープ、動作および制限について詳しくは、[Data Management Agentの概要](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management)を参照してください。 Adobe Experience Platformでのデータレイク保持ポリシーの仕組みについて詳しくは、[Experience Event データセット保持（TTL）ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide)を参照してください。

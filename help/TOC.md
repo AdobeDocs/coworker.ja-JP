@@ -18,7 +18,7 @@ ht-degree: 10%
 - チャット {#chat}
   - [概要](./chat/overview.md)
   - [UI ガイド](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [Adobe Workfrontのユースケース](./chat/use-cases/overview.md)
     - データインサイト {#data-insights}
@@ -75,14 +75,14 @@ ht-degree: 10%
   - {hide-from-toc}[Adobe CX Coworker Gateway](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/overview)
   - {hide-from-toc}[Real-Time CDP MCP ベータ版](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
   - 基本を学ぶ {#mcp-get-started}
-    - {hide-from-toc}[CX Coworker Gateway Tools](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/access)へのアクセス
-    - {hide-from-toc}[CX Coworker Gatewayのインストール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/install)
-    - CX Coworker Gatewayの{hide-from-toc}[ セッションコンテキストツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/context-tools)
+    - {hide-from-toc}[CX Coworker Gateway Toolsへのアクセス](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/access)
+    - {hide-from-toc}[CX Coworker Gatewayのインストール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/install)
+    - {hide-from-toc}[CX Coworker Gatewayの セッションコンテキストツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/context-tools)
   - 製品ツール {#mcp-product-tools}
-    - {hide-from-toc}[Real-Time CDP ツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
-    - {hide-from-toc}[Experience Platform ツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/aep-mcp)
-    - {hide-from-toc}[Journey Optimizer ツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/ajo-mcp)
-    - {hide-from-toc}[Customer Journey Analytics ツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/cja-mcp)
-    - {hide-from-toc}[Adobe Analytics ツール ](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/analytics-mcp)
+    - {hide-from-toc}[Real-Time CDP ツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
+    - {hide-from-toc}[Experience Platform ツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/aep-mcp)
+    - {hide-from-toc}[Journey Optimizer ツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/ajo-mcp)
+    - {hide-from-toc}[Customer Journey Analytics ツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/cja-mcp)
+    - {hide-from-toc}[Adobe Analytics ツール &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/analytics-mcp)
     - [Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)
     - [ターゲット](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)

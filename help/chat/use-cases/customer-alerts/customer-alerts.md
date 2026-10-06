@@ -29,7 +29,7 @@ CX Coworkerの顧客アラートスキルを活用して、アラート活動を
 - 組織に関連するアラートを表示する権限。
 - CX CoworkerにインストールされたAdobe CXO プラグイン。
 
-プラグインのインストール手順については、[Coworker UI ガイド ](../../ui-guide.md)を参照してください。
+プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](../../ui-guide.md)を参照してください。
 
 ## 顧客アラートスキルの活用 {#use-customer-alert-skills}
 

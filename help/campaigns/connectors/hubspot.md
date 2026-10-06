@@ -21,17 +21,17 @@ Adobe Coworker Campaignsを使用すると、HubSpot アカウントを接続し
 >このコネクタを使用するには、まず次の要素が必要です。
 >
 >* アクティブなHubSpot アカウント
->* 次のスコープで作成された[ サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key)が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
+>* 次のスコープで作成された[&#x200B; サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key)が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
 
 ## つながる方法
 
-1. [同僚キャンペーンのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [同僚キャンペーンのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
-   ![ コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
+   ![&#x200B; コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![ コネクタ画面に統合ボタンを追加](./assets/hubspot-2.png)
+   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/hubspot-2.png)
 
    >[!NOTE]
    >
@@ -39,13 +39,13 @@ Adobe Coworker Campaignsを使用すると、HubSpot アカウントを接続し
 
 1. HubSpot行で、**Connect**&#x200B;をクリックします。
 
-   ![接続ボタンがハイライト表示されたHubSpot タイル ](./assets/hubspot-3.png)
+   ![接続ボタンがハイライト表示されたHubSpot タイル &#x200B;](./assets/hubspot-3.png)
 
 1. 必要な権限を示すモーダルが表示されます（この記事の上部にある前提条件に記載されています）。 「**続行**」をクリックします。
 
 1. HubSpot **サービスキー**&#x200B;を入力し、**接続**&#x200B;をクリックします。
 
-   ![ サービスキーフィールドと接続ボタンを使用してHubSpot ダイアログを接続](./assets/hubspot-4.png)
+   ![&#x200B; サービスキーフィールドと接続ボタンを使用してHubSpot ダイアログを接続](./assets/hubspot-4.png)
 
 接続後、HubSpotはコネクターリストに表示され、連絡先リストをHubSpotから同期にリンクするときに選択できます。
 
@@ -57,8 +57,8 @@ Adobe Coworker Campaignsを使用すると、HubSpot アカウントを接続し
 
 1. 「**切断**」をクリックします（現時点ではサービスキーを再入力する必要はありません）。
 
-   ![切断ボタンがハイライト表示されたHubSpotの管理ダイアログ ](./assets/hubspot-6.png)
+   ![切断ボタンがハイライト表示されたHubSpotの管理ダイアログ &#x200B;](./assets/hubspot-6.png)
 
 1. 「**切断**」をもう一度クリックして確認します。
 
-   ![切断ボタンがハイライト表示された接続確認ダイアログ ](./assets/hubspot-7.png)
+   ![切断ボタンがハイライト表示された接続確認ダイアログ &#x200B;](./assets/hubspot-7.png)
