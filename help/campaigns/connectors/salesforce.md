@@ -22,17 +22,17 @@ Adobe Coworker Campaignsを使用すると、Salesforce アカウントを接続
 >
 >* アクティブなSalesforce アカウント
 >* Salesforceの次の権限：`api`、`sobjects.Contact.read`、`sobjects.Campaign.read`、`sobjects.CampaignMember.read`
->* Salesforce インスタンス URL、[ クライアント ID、およびクライアント シークレット ](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key)を便利に使用できます
+>* Salesforce インスタンス URL、[&#x200B; クライアント ID、およびクライアント シークレット &#x200B;](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key)を便利に使用できます
 
 ## つながる方法
 
-1. [同僚キャンペーンのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [同僚キャンペーンのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
    ![同僚キャンペーンがナビゲーションを残し、展開をカスタマイズおよびコネクタがハイライト表示される](./assets/salesforce-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![ コネクタ画面に統合ボタンを追加](./assets/salesforce-2.png)
+   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/salesforce-2.png)
 
    >[!NOTE]
    >
