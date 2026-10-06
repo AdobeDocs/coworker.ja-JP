@@ -29,6 +29,6 @@ ht-degree: 1%
 
 ## 関連トピック
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
+- [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
 - Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"}。
 - [その他の同僚チャットのユースケース](../overview.md#journeys)

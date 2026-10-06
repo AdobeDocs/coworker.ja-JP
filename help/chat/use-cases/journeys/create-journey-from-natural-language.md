@@ -30,5 +30,5 @@ ht-degree: 1%
 
 ## 関連トピック
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
+- [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
 - [その他の同僚チャットのユースケース](../overview.md#journeys)

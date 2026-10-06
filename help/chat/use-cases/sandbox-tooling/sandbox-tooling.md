@@ -33,7 +33,7 @@ ht-degree: 1%
 - 検出または移行するオブジェクトへのアクセス。
 - CX CoworkerにインストールされたAdobe CXO プラグイン。
 
-プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## エージェント型スキルのサンドボックスツールの使用 {#use-sandbox-tooling-agentic-skills}
 
@@ -62,7 +62,7 @@ CX Coworkerを通じて、自然言語を使用してサンドボックスツー
 
    ![&#x200B; リクエストの状態を示す転送の完了ページ。](./assets/sandbox-tooling/transfer-complete.png)
 
-CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## サポートされるユースケース {#supported-use-cases}
 
@@ -108,5 +108,5 @@ CX Coworkerを使用すると、自然言語で移行を記述することで、
 
 このガイドでは、サンドボックスツールのエージェント型スキルを使用して、サポートされているオブジェクトをサンドボックス間で検索、パッケージ化、移行する方法を説明します。
 
-サンドボックスツールについて詳しくは、[&#x200B; サンドボックスツールガイド &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling)を参照してください。
+サンドボックスツールについて詳しくは、[&#x200B; サンドボックスツールガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/sandbox/ui/sandbox-tooling)を参照してください。
 

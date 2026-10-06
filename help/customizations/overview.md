@@ -19,22 +19,22 @@ ht-degree: 28%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills
+* https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills
   {title = What are skills?}
   {description = Learn about skills in Adobe CX Coworker, reusable playbooks that standardize workflows and deliver consistent results across conversations and users.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker
+* https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker
   {title = What are integrations?}
   {description = Get a quick tour and overview of integrations in Coworker, including what an integration is, why you'd use one, and how to use the interface.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins
+* https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins
   {title = What are plugins?}
   {description = Learn about Adobe CX Coworker plugins, installable packages that bundle skills and MCP servers to extend functionality for a specific business need.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory
+* https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory
   {title = What is memory?}
   {description = Learn how Coworker CX Memory helps personalize AI interactions by remembering preferences, work styles, and reporting defaults across conversations.}
   {cta = Watch}
@@ -45,7 +45,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="スキルとは？" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="スキルとは？" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502322/?format=jpeg&nocache=1790273741021" alt="スキルとは？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -54,11 +54,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="スキルとは？"> スキルとは何ですか？</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="スキルとは？"> スキルとは何ですか？</a>
                     </p>
                     <p class="is-size-6">Adobe CX Coworkerのスキルについて学び、ワークフローを標準化し、会話やユーザー間で一貫性のある結果を提供する再利用可能なプレイブックを活用しましょう。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -68,7 +68,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="統合とは何ですか？" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="統合とは何ですか？" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503744/?format=jpeg&nocache=1790273741207" alt="統合とは何ですか？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -77,11 +77,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" title="統合とは何ですか？">統合とは何ですか？</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" title="統合とは何ですか？">統合とは何ですか？</a>
                     </p>
                     <p class="is-size-6">Coworkerでの統合の概要、統合の概要、統合機能を使用する理由、インターフェイスの使用方法などをご確認ください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -91,7 +91,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="プラグインとは何ですか？" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="プラグインとは何ですか？" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503656/?format=jpeg&nocache=1790273741022" alt="プラグインとは何ですか？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -100,11 +100,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" title="プラグインとは何ですか？"> プラグインとは何ですか？</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" title="プラグインとは何ですか？"> プラグインとは何ですか？</a>
                     </p>
                     <p class="is-size-6">Adobe CX Coworkerのプラグイン、スキルとMCP サーバーをバンドルしたインストール可能なパッケージを学び、特定のビジネスニーズに合わせて機能を拡張します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -114,7 +114,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="メモリとは何ですか？" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="メモリとは何ですか？" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503657/?format=jpeg&nocache=1790273741019" alt="メモリとは何ですか？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -123,11 +123,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" title="メモリとは何ですか？"> メモリとは何ですか？</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" title="メモリとは何ですか？"> メモリとは何ですか？</a>
                     </p>
                     <p class="is-size-6">Coworker CX Memoryが、会話全体の嗜好、作業スタイル、デフォルトのレポートを記憶することで、AIとのやり取りをパーソナライズする方法を説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>

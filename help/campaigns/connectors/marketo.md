@@ -22,7 +22,7 @@ Adobe Workfront Campaignsを利用すれば、Marketo Engageアカウントを�
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* MarketoのCoworker Campaigns用に[&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)が作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
+>* MarketoのCoworker Campaigns用に[&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)が作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
 
 ## つながる方法
 

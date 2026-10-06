@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->このページの手順は、以前のすべてのアップグレード手順を完了した後にのみ実行します。 推奨されるアップグレード手順（ほとんどの組織で推奨）に従うか、Customer Journey Analytics アップグレードガイドで組織に応じて動的に生成される手順に従うことができます。 <ul><li>**推奨されるアップグレード手順** （ほとんどの組織で推奨）<p>Adobe Customer Journey Analyticsを導入するための一連のステップ。</p><p>詳しくは、[Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations)を参照してください。</p></li><li>**Customer Journey Analytics アップグレードガイド** （組織の特定のニーズに合わせたカスタム手順）<p>組織と独自の状況に合わせてカスタマイズされたアップグレード手順を動的に生成する新しいアップグレードガイドを利用できます。</p><p>Customer Journey Analyticsからガイドにアクセスするには、「**[!UICONTROL Workspace]**」タブを選択し、左側のパネルで「**[!UICONTROL Customer Journey Analyticsにアップグレード]**」を選択します。 画面の指示に従います。</p></li></ul>
+>このページの手順は、以前のすべてのアップグレード手順を完了した後にのみ実行します。 推奨されるアップグレード手順（ほとんどの組織で推奨）に従うか、Customer Journey Analytics アップグレードガイドで組織に応じて動的に生成される手順に従うことができます。 <ul><li>**推奨されるアップグレード手順** （ほとんどの組織で推奨）<p>Adobe Customer Journey Analyticsを導入するための一連のステップ。</p><p>詳しくは、[Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations)を参照してください。</p></li><li>**Customer Journey Analytics アップグレードガイド** （組織の特定のニーズに合わせたカスタム手順）<p>組織と独自の状況に合わせてカスタマイズされたアップグレード手順を動的に生成する新しいアップグレードガイドを利用できます。</p><p>Customer Journey Analyticsからガイドにアクセスするには、「**[!UICONTROL Workspace]**」タブを選択し、左側のパネルで「**[!UICONTROL Customer Journey Analyticsにアップグレード]**」を選択します。 画面の指示に従います。</p></li></ul>
 
 Coworkerには、Adobe AnalyticsからCustomer Journey Analyticsにアップグレードする際にデータを検証できる検証スキルが含まれています。 データ検証は、1回の会話で完了します。
 
@@ -194,7 +194,7 @@ Coworkerには、Adobe AnalyticsからCustomer Journey Analyticsにアップグ�
 
    設定プロセスを繰り返す必要はなく、企業、レポートスイート、データビューの選択は、会話の間を通じて繰り返されます。
 
-1. 引き続き、[推奨されるアップグレード手順](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations#recommended-upgrade-steps-for-most-organizations)またはCustomer Journey Analytics アップグレードガイドの動的に生成されるアップグレード手順に従ってください。
+1. 引き続き、[推奨されるアップグレード手順](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations#recommended-upgrade-steps-for-most-organizations)またはCustomer Journey Analytics アップグレードガイドの動的に生成されるアップグレード手順に従ってください。
 
    Customer Journey AnalyticsからCustomer Journey Analytics アップグレードガイドにアクセスするには、「**[!UICONTROL Workspace]**」タブを選択し、左側のパネルで「**[!UICONTROL Customer Journey Analyticsにアップグレード]**」を選択します。 画面の指示に従います。
 
