@@ -2,15 +2,15 @@
 title: Coworkerによるストリーミングメディア実装の検証
 description: Coworkerのストリーミングメディア検証スキルが、設定、セッション、ログをチェックして、実装が正しく追跡されていることを確認する方法について説明します。
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1304'
 ht-degree: 2%
 ---
 
 # Coworkerでストリーミングメディア実装を検証する
 
-Coworkerには、Edge Network上のAdobe Streaming Media （ビデオおよびオーディオ分析）の実装を確認し、Customer Journey AnalyticsやAdobe AnalyticsにフィードするStreaming Media Validation スキルが含まれています。 Assurance、データセット設定、XDM スキーマフィールドグループ、Customer Journey Analytics データビューの設定、生のネットワークログを手動で相互参照する代わりに、1つの検証レポートを取得します。
+Adobe CX Enterprise Coworkerには、Edge Network上のAdobe Streaming Media （ビデオおよびオーディオ分析）の実装を確認し、Customer Journey AnalyticsやAdobe Analyticsに情報を提供するStreaming Media Validation スキルが含まれています。 Assurance、データセット設定、XDM スキーマフィールドグループ、Customer Journey Analytics データビューの設定、生のネットワークログを手動で相互参照する代わりに、1つの検証レポートを取得します。
 
 ストリーミングメディアトラッキングを実装またはトラブルシューティングする場合は、このスキルを使用して、実装が正しく設定されていることを確認し、予想どおりにデータを収集し、追跡する意図をキャプチャします。これらはすべて、Coworker Chatの会話で行うことができます。
 

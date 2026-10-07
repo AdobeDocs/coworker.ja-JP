@@ -2,15 +2,15 @@
 title: Coworker プロジェクトでの実装チェックリストの生成
 description: Coworker Projectsが、実装ガイド計画から事前入力された実装チェックリストを生成する方法と、割り当てて追跡できる手順について説明します。
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 1%
+source-wordcount: '703'
+ht-degree: 0%
 ---
 
 # Coworker Projectsを使用した実装チェックリストの生成
 
-Coworker Projectsでは、Customer Journey Analytics、Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード、Content Analytics（ACA）、Marketing Campaign Analytics（MCA）、またはストリーミングメディアの実装ガイド計画から順序付きの手順を事前に入力した実装チェックリストプロジェクトを生成できます。 Coworkerは、技術的に可能な限り多くのステップを自動化または支援するため、実装を進めるための追跡可能な単一の場所を用意します。
+Adobe CX Enterprise Coworkerでは、Coworker プロジェクトで実装チェックリストプロジェクトを生成できます。このプロジェクトには、Customer Journey Analyticsの実装ガイド計画、Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード、Content Analytics（ACA）、Marketing Campaign Analytics（MCA）、またはStreaming Mediaの順序付き手順が事前に入力されています。 Coworkerは、技術的に可能な限り多くのステップを自動化または支援するため、実装を進めるための追跡可能な単一の場所を用意します。
 
 導入を主導している場合、技術的なステップを実行している場合、または進捗状況を可視化する必要がある場合は、このチェックリストを使用して、同僚を離れることなく、作業の割り当て、ステータスの追跡、チームとの共同作業を行うことができます。
 
