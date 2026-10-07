@@ -18,7 +18,7 @@ Adobe CX Enterprise Coworker Chatの概要と、自社のデータを分析す�
 
 Coworker Chatなら、自然言語を使ってAdobe Adobeのプロダクトタスクを自動化し、柔軟なプランニング、カスタマイズ可能なスキル、インテリジェントな実行によってアイデアをすばやくアクションに結び付けることができます。 Coworkerの一般的な詳細については、[CX Enterprise Coworkerの概要](/help/home.md)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503520/?captions=jpn&learn=on&enablevpops)
 
 ## データ分析の仕組み
 

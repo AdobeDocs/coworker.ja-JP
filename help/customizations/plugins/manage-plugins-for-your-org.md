@@ -54,7 +54,7 @@ ht-degree: 0%
 
 管理者が、既存のAdobeの権限との整合性を維持しながら、承認済みプラグインでAdobe Workfront Chatを拡張し、マーケットプレイスを管理して、スキルや接続されたツールへのアクセスを管理する方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504183/?captions=jpn&learn=on&enablevpops)
 
 ## 学習すること
  
