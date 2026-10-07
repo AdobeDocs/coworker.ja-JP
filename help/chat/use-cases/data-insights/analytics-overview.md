@@ -296,7 +296,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-これらのユースケース（使用するスキルやサンプルプロンプトなど）について詳しくは、[ データインサイトのユースケース ](/help/chat/use-cases/overview.md#data-insights)を参照してください。
+これらのユースケース（使用するスキルやサンプルプロンプトなど）について詳しくは、[&#x200B; データインサイトのユースケース &#x200B;](/help/chat/use-cases/overview.md#data-insights)を参照してください。
 
 ### 基本を学ぶ
 
@@ -451,13 +451,13 @@ CARDS
 | ユースケース | 説明 |
 | --- | --- |
 | [Customer Journey AnalyticsとAdobe Analytics データの分析](/help/chat/use-cases/data-insights/analytics-chat.md) | データビューやレポートスイートに関する自然言語の質問に答え、ファネルやその他のビジュアライゼーションを構築し、顧客が離脱する原因を見つけ出します。 Analysis Workspaceで任意のビジュアライゼーションを開いて、さらに詳しく分析できます。 |
-| [ トレンドと根本原因を探る](/help/chat/use-cases/data-insights/root-cause-analysis.md) | Customer Journey AnalyticsとAdobe Analyticsのデータの傾向と、パフォーマンスの変化を促す要因を手動でのクエリなしで特定します。 |
+| [&#x200B; トレンドと根本原因を探る](/help/chat/use-cases/data-insights/root-cause-analysis.md) | Customer Journey AnalyticsとAdobe Analyticsのデータの傾向と、パフォーマンスの変化を促す要因を手動でのクエリなしで特定します。 |
 | [実装の計画](/help/chat/use-cases/data-insights/implementation-guide.md) | Customer Journey Analyticsの実装、Adobe Analyticsからのアップグレード、EdgeでのContent Analytics、Marketing Campaign Analytics、ストリーミングメディアコレクションの設定などについて、パーソナライズされたステップバイステップの計画を作成します。 計画には、所有者、労力の見積もり、依存関係、検証手順などの詳細が含まれます。 |
 | [実装チェックリストを生成](/help/chat/use-cases/data-insights/intelligent-checklist.md) | Customer Journey Analyticsの導入計画をCoworker Projectsのチェックリストに変換し、手順の割り当て、ステータスの追跡、承認ゲートの追加を可能にします。 |
 | [Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード時にデータを検証](/help/chat/use-cases/data-insights/data-validation-aa-cja.md) | Adobe Analytics レポートスイートとCustomer Journey Analytics データビュー間のディメンション、指標、傾向を比較し、アップグレードをサポートするための修正を推奨します。 |
-| [ ストリーミングメディア実装の検証](/help/chat/use-cases/data-insights/streaming-media-validation.md) | データストリーム、スキーマ、データセット、データビュー、セッションデータを確認して、ストリーミングメディアトラッキングが設定され、データが正しく収集されていることを確認します。 |
+| [&#x200B; ストリーミングメディア実装の検証](/help/chat/use-cases/data-insights/streaming-media-validation.md) | データストリーム、スキーマ、データセット、データビュー、セッションデータを確認して、ストリーミングメディアトラッキングが設定され、データが正しく収集されていることを確認します。 |
 | [Customer Journey Analyticsのデータセット品質を検証](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md) | Customer Journey Analyticsレポートに使用するデータセットを特定し、スキーマ、ID品質、フィールド品質をチェックすることで、ダッシュボードを構築する前に問題を解決できます。 |
 | [Experience Platformに取り込んだ後のデータの検証](/help/chat/use-cases/data-insights/data-validation-aep.md) | Experience Platformのデータセットとフィールドに対して統計チェックとセマンティックチェックを実行し、無効な値やマッピングの問題などのデータ品質の問題を見つけます。 |
 
-これらのユースケース（使用するスキルやサンプルプロンプトなど）について詳しくは、[ データインサイトのユースケース ](/help/chat/use-cases/overview.md#data-insights)を参照してください。
+これらのユースケース（使用するスキルやサンプルプロンプトなど）について詳しくは、[&#x200B; データインサイトのユースケース &#x200B;](/help/chat/use-cases/overview.md#data-insights)を参照してください。
 
