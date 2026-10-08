@@ -6,10 +6,10 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 10%
+source-wordcount: '220'
+ht-degree: 20%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -22,7 +22,9 @@ ht-degree: 10%
   - ユースケース {#use-cases}
     - [Adobe Workfrontのユースケース](./chat/use-cases/overview.md)
     - データインサイト {#data-insights}
-      - [CJAデータの分析](./chat/use-cases/data-insights/analytics-chat.md)
+      - {hide-from-toc}[概要](./chat/use-cases/data-insights/analytics-overview-v2.md)
+      - {hide-from-toc}[概要](./chat/use-cases/data-insights/analytics-overview.md)
+      - [基本を学ぶ](./chat/use-cases/data-insights/analytics-chat.md)
       - [トレンドと根本原因を探る](./chat/use-cases/data-insights/root-cause-analysis.md)
       - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
@@ -42,9 +44,10 @@ ht-degree: 10%
     - アラート {#alerts}
       - [顧客アラートのスキル](./chat/use-cases/customer-alerts/customer-alerts.md)
     - ブランドの可視性 {#brand-visibility}
-      - [マーケティングアセットの生成](./chat/use-cases/brand-visibility/generate-assets.md)
       - [ブランドコンプライアンスのチェック](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [AEM Sites ページの作成](./chat/use-cases/brand-visibility/author-web-pages.md)
+      - [AEM Assetsのオンボーディング](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [マーケティングアセットの生成](./chat/use-cases/brand-visibility/generate-assets.md)
     - ワークフロー/プランニング {#workflow-and-planning}
       - [デジタルキャンペーンの立ち上げ計画](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - カスタマイズ {#customizations}
@@ -58,9 +61,11 @@ ht-degree: 10%
     - [統合とは何ですか？](./customizations/integrations/understanding-integrations-in-coworker.md)
   - プラグイン {#plugins}
     - [プラグインとは何ですか？](./customizations/plugins/what-are-plugins.md)
+    - [組織のプラグインの管理](./customizations/plugins/manage-plugins-for-your-org.md)
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - キャンペーン {#campaigns}
+  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./campaigns/new-teams-experience.md)
   - [概要](./campaigns/overview.md)
   - [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./campaigns/launch-manage-campaign.md)
@@ -71,18 +76,3 @@ ht-degree: 10%
     - [Marketo Engage](./campaigns/connectors/marketo.md)
     - [Hubspot](./campaigns/connectors/hubspot.md)
   - [リリースノート](./campaigns/release-notes.md)
-- MCP {#mcp}
-  - {hide-from-toc}[Adobe CX Coworker Gateway](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/overview)
-  - {hide-from-toc}[Real-Time CDP MCP ベータ版](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
-  - 基本を学ぶ {#mcp-get-started}
-    - {hide-from-toc}[CX Coworker Gateway Toolsへのアクセス](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/access)
-    - {hide-from-toc}[CX Coworker Gatewayのインストール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/install)
-    - {hide-from-toc}[CX Coworker Gatewayの セッションコンテキストツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/context-tools)
-  - 製品ツール {#mcp-product-tools}
-    - {hide-from-toc}[Real-Time CDP ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
-    - {hide-from-toc}[Experience Platform ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/aep-mcp)
-    - {hide-from-toc}[Journey Optimizer ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/ajo-mcp)
-    - {hide-from-toc}[Customer Journey Analytics ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/cja-mcp)
-    - {hide-from-toc}[Adobe Analytics ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/mcp/analytics-mcp)
-    - [Workfront](https://experienceleague.adobe.com/ja/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)
-    - [ターゲット](https://experienceleague.adobe.com/ja/docs/target/using/mcp/target-mcp)
