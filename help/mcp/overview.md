@@ -38,12 +38,12 @@ CX Coworker Gatewayは、CX Coworker Gateway製品ツール用の管理エンド
 
 | 製品ツール | エンドポイントを通じて公開される情報 | 対象 | ドキュメント |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Real-Time CDP** | オーディエンス、宛先、ソース、ID名前空間、アクティベーションの正常性（読み取り専用） | Beta | [Real-Time CDP ツール &#x200B;](rtcdp-mcp.md) |
-| **Experience Platform** | スキーマ、データセット、データガバナンス、クエリサービス、監査イベント、オブザーバビリティ指標、サンドボックス正常性チェック評価（読み取り専用） | Beta | [Experience Platform ツール &#x200B;](aep-mcp.md) |
-| **Journey Optimizer** | キャンペーン、ジャーニー、チャネル設定（読み取り専用）、コンテンツテンプレート、フラグメント、ランディングページ、インラインメッセージコンテンツ（読み取りと書き込み） | Beta | [Journey Optimizer ツール &#x200B;](ajo-mcp.md) |
-| **Customer Journey Analytics** | データビュー、ディメンション、指標、レポート、セグメント、日付範囲、プロジェクト、オーディエンス（読み取りと書き込み） | 使用可能 | [Customer Journey Analytics ツール &#x200B;](cja-mcp.md) |
-| **Adobe Analytics** | レポートスイート、ディメンション、指標、レポート、セグメント、日付範囲、ワークスペースプロジェクト（サポートされているコンポーネントの読み取りと書き込み） | 使用可能 | [Adobe Analytics ツール &#x200B;](analytics-mcp.md) |
-| **Workfront** | プロジェクト、タスク、承認ワークフローの作業管理ツール | プレビュー | [Workfront MCP サーバー](https://experienceleague.adobe.com/ja/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
+| **Real-Time CDP** | オーディエンス、宛先、ソース、ID名前空間、アクティベーションの正常性（読み取り専用） | Beta | [Real-Time CDP ツール ](rtcdp-mcp.md) |
+| **Experience Platform** | スキーマ、データセット、データガバナンス、クエリサービス、監査イベント、オブザーバビリティ指標、サンドボックス正常性チェック評価（読み取り専用） | Beta | [Experience Platform ツール ](aep-mcp.md) |
+| **Journey Optimizer** | キャンペーン、ジャーニー、チャネル設定（読み取り専用）、コンテンツテンプレート、フラグメント、ランディングページ、インラインメッセージコンテンツ（読み取りと書き込み） | Beta | [Journey Optimizer ツール ](ajo-mcp.md) |
+| **Customer Journey Analytics** | データビュー、ディメンション、指標、レポート、セグメント、日付範囲、プロジェクト、オーディエンス（読み取りと書き込み） | 使用可能 | [Customer Journey Analytics ツール ](cja-mcp.md) |
+| **Adobe Analytics** | レポートスイート、ディメンション、指標、レポート、セグメント、日付範囲、ワークスペースプロジェクト（サポートされているコンポーネントの読み取りと書き込み） | 使用可能 | [Adobe Analytics ツール ](analytics-mcp.md) |
+| **Workfront** | プロジェクト、タスク、承認ワークフローの作業管理ツール | プレビュー | [Workfront MCP サーバー](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
 
 
 >[!NOTE]
@@ -55,6 +55,6 @@ CX Coworker Gatewayは、CX Coworker Gateway製品ツール用の管理エンド
 ## 基本を学ぶ {#mcp-get-started}
 
 1. [CX Coworker Gateway tools](access.md)へのアクセスを確認して、製品の可用性、イネーブルメント、権限を確認します。
-2. [CX Coworker Gateway用Adobeのインストール &#x200B;](install.md)に従って、MCP クライアントをエンドポイントに接続します。
+2. [CX Coworker Gateway用Adobeのインストール ](install.md)に従って、MCP クライアントをエンドポイントに接続します。
 3. 使用する各製品ツールの製品ページを確認します。
 

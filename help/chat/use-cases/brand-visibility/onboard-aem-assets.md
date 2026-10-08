@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Experience Manager AssetsでCoworkerを使用してデジタルアセット管理（DAM）を効率的に設定する方法をご紹介します。 この動画では、AEM Assetsの合理的な設定プロセスと最適な利用を可能にするための、ブランドのオンボーディング手順を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504159/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504157/?learn=on&enablevpops)
