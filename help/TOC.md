@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 6c126810936bea3e883d74e6ff685991cb40cd4a
+source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 20%
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 20%
 - チャット {#chat}
   - [概要](./chat/overview.md)
   - [UI ガイド](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [Adobe Workfrontのユースケース](./chat/use-cases/overview.md)
     - データインサイト {#data-insights}
@@ -65,6 +65,7 @@ ht-degree: 20%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - キャンペーン {#campaigns}
+  - {hide-from-toc}[新しいチーム エクスペリエンス ](./campaigns/new-teams-experience.md)
   - [概要](./campaigns/overview.md)
   - [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./campaigns/launch-manage-campaign.md)
