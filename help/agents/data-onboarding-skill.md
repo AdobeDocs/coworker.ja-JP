@@ -28,7 +28,7 @@ CX Coworkerのデータオンボーディングスキルを活用して、単一
 - Adobe CX Enterprise Coworkerへのアクセス。自社のデータオンボーディングスキルが有効になっている。
 - Adobe Experience Platformでスキーマを作成する権限。
 
-プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## データオンボーディングスキルの活用 {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ CX Coworkerのデータオンボーディングスキルを活用して、単一
 
 1. データ品質のレビュー、セマンティックエンリッチメント、スキーママッピング、スキーマの作成を通じて、Adobe Workfrontの従業員との会話を継続し、必要に応じて各ステップを確認しましょう。
 
-CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## サポートされるユースケース {#supported-use-cases}
 
@@ -78,4 +78,4 @@ Coworkerは、入力フィールドのセマンティックな意味を提案し
 
 このガイドでは、スキーマの作成からデータオンボーディングスキルを開始する方法と、CX Coworkerで達成できるメリットについて説明します。
 
-Experience Platform UIの手順とアクセス/適格性のシナリオについては、スキーマ UI ガイドの[AIを使用したデータのオンボーディング &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill)を参照してください。
+Experience Platform UIの手順とアクセス/適格性のシナリオについては、スキーマ UI ガイドの[AIを使用したデータのオンボーディング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill)を参照してください。
