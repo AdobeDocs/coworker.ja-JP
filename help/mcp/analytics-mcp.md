@@ -39,7 +39,7 @@ Adobe Analyticsツールは、MCP クライアントからの分析の発見と�
 | セグメントと日付範囲 | 製品の権限で許可されている再利用可能なセグメントと日付範囲を作成および更新できます。 |
 | Workspace プロジェクト | Analysis Workspace プロジェクトの概要を説明します。 |
 
-現在のツールの一覧については、[Adobe Analytics MCP ツール リファレンス ](https://developer.adobe.com/analytics-mcp/docs/aa/reference){target="_blank"}を参照してください。
+現在のツールの一覧については、[Adobe Analytics MCP ツール リファレンス &#x200B;](https://developer.adobe.com/analytics-mcp/docs/aa/reference){target="_blank"}を参照してください。
 
 ## サンプルプロンプト {#mcp-use-cases}
 
@@ -59,4 +59,4 @@ Adobe Analyticsツールは、MCP クライアントからの分析の発見と�
 
 ## 詳細 {#mcp-more}
 
-完全なツールリファレンスと基本ガイドについては、[Adobe Analytics MCP ドキュメント ](https://developer.adobe.com/analytics-mcp/docs/aa/){target="_blank"}を参照してください。
+完全なツールリファレンスと基本ガイドについては、[Adobe Analytics MCP ドキュメント &#x200B;](https://developer.adobe.com/analytics-mcp/docs/aa/){target="_blank"}を参照してください。

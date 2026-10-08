@@ -67,7 +67,7 @@ Journey Optimizerのツールは、キャンペーン、ジャーニー、チャ
 
 Journey Optimizerでは、上記の読み取り専用のツールに加えて、コンテンツテンプレート、フラグメント、ランディングページ、ジャーニーまたはキャンペーンのインラインメッセージコンテンツなど、コンテンツアセットを、自然言語プロンプトを使用してCX Coworkerから直接検索および管理できます。 この機能は、Journey Optimizer コンテンツの読み取りと書き込みが可能な個別のMCP ツールのセットを搭載しており、CX Coworkerにアクセスできるすべてのお客様が利用できます。
 
-詳しくは、Adobe Journey Optimizer ドキュメントの[ コンテンツ管理ツール ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#content-management){target="_blank"}を参照してください。
+詳しくは、Adobe Journey Optimizer ドキュメントの[&#x200B; コンテンツ管理ツール &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#content-management){target="_blank"}を参照してください。
 
 コンテンツ管理ツールを活用すると、次のことが可能になります。
 
@@ -95,4 +95,4 @@ Journey Optimizerでは、上記の読み取り専用のツールに加えて、
 | エンゲージメントやパフォーマンスに関する指標はない | ツールは、インプレッション、クリックスルー率、コンバージョン、配信統計などのレポートデータを返しません。 | Journey Optimizerのレポート、Customer Journey Analyticsのツール、Adobe Analyticsのツールをパフォーマンス指標に使用できます。 |
 | キャンペーンリストのページネーションは制限されています | キャンペーンリストは、結果の最初のページを返します。最大50件のキャンペーンがアルファベット順に並べ替えられます。 オフセット値と制限値は適用されません。 | キャンペーン IDがわかっている場合は、`Get Campaign`を直接使用します。 Journey Optimizer UIを使用したフルブラウジングとフィルタリング。 |
 | 日付、チャネル、スケジュール別にサーバーサイドのフィルタリングなし | キャンペーンリストは、ステータスのフィルタリングをサポートしていますが、公開日、スケジュール日、チャネル、キャンペーンタイプのフィルタリングはサポートしていません。 | Journey Optimizer UIのキャンペーンリストを使用して、ネイティブの日付とチャネルフィルタリングを実行できます。 |
-| 商品ツールでメッセージコンテンツを取得できない | Message HTML、件名、パーソナライゼーショントークン、オファーコンテンツは、上記の読み取り専用ツールでは利用できません。 | [ コンテンツ管理ツール ](#mcp-content-management)を使用して、インラインメッセージコンテンツを取得および更新するか、Journey Optimizer UIで直接表示します。 |
+| 商品ツールでメッセージコンテンツを取得できない | Message HTML、件名、パーソナライゼーショントークン、オファーコンテンツは、上記の読み取り専用ツールでは利用できません。 | [&#x200B; コンテンツ管理ツール &#x200B;](#mcp-content-management)を使用して、インラインメッセージコンテンツを取得および更新するか、Journey Optimizer UIで直接表示します。 |

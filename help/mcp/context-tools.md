@@ -63,5 +63,5 @@ MCP クライアントに、1つの自然言語リクエストでこの設定を
 
 ## 関連ページ {#mcp-core-related}
 
-- [Adobe CX Coworker Gatewayをインストール ](install.md) – 製品コンテキストの設定セクションを含む、MCP クライアントを接続する方法。
+- [Adobe CX Coworker Gatewayをインストール &#x200B;](install.md) – 製品コンテキストの設定セクションを含む、MCP クライアントを接続する方法。
 - [CX Coworker Gateway tools](access.md)へのアクセス – 製品別のアクセス要件。

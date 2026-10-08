@@ -24,7 +24,7 @@ CX Coworker Gatewayは、ブラウザーベースのAdobe サインインフロ�
 1. エンドポイント URL `https://cx-coworker-gateway.adobe.io/mcp`を追加します。
 2. 接続を保存または有効にします。
 3. クライアントが初めてツールを呼び出すときに、ブラウザーベースのAdobe ログインを完了します。
-4. ツールで必要に応じて、セッションの製品コンテキスト（すべての製品の整理、Experience Platformベースのツールのサンドボックス、Customer Journey Analyticsのデータビュー）を設定します。 ツール呼び出しについては、[製品コンテキスト ](#mcp-connect-params)を参照してください。
+4. ツールで必要に応じて、セッションの製品コンテキスト（すべての製品の整理、Experience Platformベースのツールのサンドボックス、Customer Journey Analyticsのデータビュー）を設定します。 ツール呼び出しについては、[製品コンテキスト &#x200B;](#mcp-connect-params)を参照してください。
 
 >[!NOTE]
 >
@@ -72,7 +72,7 @@ CX Coworker Gatewayは、ブラウザーベースのAdobe サインインフロ�
 1. クライアントで個人用コネクタ、アプリ、またはMCP設定を開きます。
 2. CX Coworker Gateway コネクタを見つけて有効にします。
 3. 会話を開始し、Adobe ツールのいずれかを呼び出し、プロンプトが表示されたら、ブラウザーベースのAdobe ログインを完了します。
-4. ツールで必要に応じて、セッションの製品コンテキスト（すべての製品の整理、Experience Platformベースのツールのサンドボックス、Customer Journey Analyticsのデータビュー）を設定します。 ツール呼び出しについては、[製品コンテキスト ](#mcp-connect-params)を参照してください。
+4. ツールで必要に応じて、セッションの製品コンテキスト（すべての製品の整理、Experience Platformベースのツールのサンドボックス、Customer Journey Analyticsのデータビュー）を設定します。 ツール呼び出しについては、[製品コンテキスト &#x200B;](#mcp-connect-params)を参照してください。
 
 管理者が既に組織のコネクタを追加している場合、ユーザーはURLを自分で入力する必要はありません。
 
@@ -192,7 +192,7 @@ MCPは、アクティブな1つのAdobe組織に対するすべてのツール�
 - **Experience Platform ベースの製品** — Real-Time CDP、Experience Platform、およびJourney Optimizer ツールは、Experience Platform サンドボックス内で動作します。 サンドボックスはセッションごとに1回設定し、3つはすべて共有します。
 - **その他の製品** — Experience Platform上に構築されていない製品では、サンドボックスコンテキストは使用されません。 Adobe Analytics、Customer Journey Analytics、Workfront、Marketo、Targetの各ツールは、Customer Journey AnalyticsのデータビューやAdobe Analyticsのレポートスイートなど、独自の製品リソースに対して処理されます。
 
-セッションの開始時にコンテキストを1回設定：各プロダクトツールは、セッションの途中で組織、サンドボックス、データビューを切り替えません。 組織、サンドボックス、データビューのコンテキストを設定するツールについては、[ セッションコンテキストツール ](context-tools.md)を参照してください。
+セッションの開始時にコンテキストを1回設定：各プロダクトツールは、セッションの途中で組織、サンドボックス、データビューを切り替えません。 組織、サンドボックス、データビューのコンテキストを設定するツールについては、[&#x200B; セッションコンテキストツール &#x200B;](context-tools.md)を参照してください。
 
 例：
 
