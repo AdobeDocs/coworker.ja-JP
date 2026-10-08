@@ -26,4 +26,4 @@ ht-degree: 0%
  
 アナリストやマーケターは、自然言語を使うことで、データに関する質問、視覚化された結果の取得、有意義なトレンドの特定、パフォーマンスを促進する要因の発見などを、すべて1回の会話で行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496852/?captions=jpn&learn=on&enablevpops)

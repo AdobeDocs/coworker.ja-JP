@@ -83,11 +83,11 @@ Customer Journey Analytics ツールは、MCP クライアントから管理さ�
 
 **概要**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486315/?captions=jpn&learn=on&enablevpops)
 
 **実施中**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486326/?captions=jpn&learn=on&enablevpops)
 
 ## 詳細 {#mcp-more}
 
