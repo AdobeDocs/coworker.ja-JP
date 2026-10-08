@@ -18,7 +18,7 @@ ht-degree: 20%
 - チャット {#chat}
   - [概要](./chat/overview.md)
   - [UI ガイド](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [Adobe Workfrontのユースケース](./chat/use-cases/overview.md)
     - データインサイト {#data-insights}
@@ -65,7 +65,7 @@ ht-degree: 20%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - キャンペーン {#campaigns}
-  - {hide-from-toc}[新しいチーム エクスペリエンス ](./campaigns/new-teams-experience.md)
+  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./campaigns/new-teams-experience.md)
   - [概要](./campaigns/overview.md)
   - [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./campaigns/launch-manage-campaign.md)
