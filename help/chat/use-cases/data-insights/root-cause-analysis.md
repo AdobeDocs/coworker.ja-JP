@@ -14,15 +14,15 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 ---
 
 # Customer Journey Analyticsと同僚 – 自然言語による傾向と根本原因を探る
 
-多くの場合、指標の変化を理解するには、複数のレポートをナビゲートし、複雑なクエリを作成し、データセットをまたいでトレンドを手動で分析する必要があります。 このビデオでは、Coworkerが会話型AIとCustomer Journey Analytics（CJA）を組み合わせることで、そのプロセスをどのように簡素化するのかをご紹介します。
+多くの場合、指標の変化を理解するには、複数のレポートをナビゲートし、複雑なクエリを作成し、データセットをまたいでトレンドを手動で分析する必要があります。 このビデオでは、Adobe CX Enterprise Coworkerが会話型AIとCustomer Journey Analytics（CJA）を組み合わせることで、そのプロセスをどのように簡素化するかを説明します。
  
 アナリストやマーケターは、自然言語を使うことで、データに関する質問、視覚化された結果の取得、有意義なトレンドの特定、パフォーマンスを促進する要因の発見などを、すべて1回の会話で行うことができます。
 

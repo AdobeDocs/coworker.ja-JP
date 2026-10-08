@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
 workflow-type: tm+mt
 source-wordcount: '802'
 ht-degree: 15%
@@ -111,7 +111,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" title="Adobe CX Enterprise CoworkerでCX ワークフローを変革" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/exl-live-20260924.png" alt="Adobe CX Enterprise CoworkerでCX ワークフローを変革"
+                        <img class="is-bordered-r-small" src="./assets/exl-live-20260924.png" alt="Adobe CX Enterprise CoworkerでCX ワークフローを変革"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" title="Adobe WorkfrontのオーディエンスおよびジャーニーB2C機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/exl-live-20261008.png" alt="Adobe WorkfrontのオーディエンスおよびジャーニーB2C機能"
+                        <img class="is-bordered-r-small" src="./assets/exl-live-20261008.png" alt="Adobe WorkfrontのオーディエンスおよびジャーニーB2C機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

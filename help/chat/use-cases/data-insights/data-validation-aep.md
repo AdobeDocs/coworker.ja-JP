@@ -10,15 +10,15 @@ jira: PLAT-302857
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1058'
 ht-degree: 0%
 ---
 
 # Adobe Experience PlatformデータをCoworkerで検証
 
-Coworkerには、Experience Platform データセットのデータ品質をチェックするデータ検証スキルが含まれます。 単一の同僚チャット会話を通じて、データセットの統計的およびセマンティック検証の実行、データセットフィールドの分析、データ品質の問題の特定に使用できます。
+Adobe CX Enterprise Coworkerには、Experience Platform データセットのデータ品質をチェックするデータ検証スキルが含まれています。 単一の同僚チャット会話を通じて、データセットの統計的およびセマンティック検証の実行、データセットフィールドの分析、データ品質の問題の特定に使用できます。
 
 データエンジニア、データ管理者、実装エンジニアは、SQL クエリや複雑なスキーマ階層を使用せずに、迅速な品質チェックにデータを使用します。
 
@@ -157,4 +157,4 @@ Electronics Sample 1000 データセットで自動的に選択された5つの�
 * [アップグレード時のAdobe AnalyticsからCustomer Journey Analytics データへの検証](./data-validation-aa-cja.md)
 * [Coworkerのデータ検証スキルを使用したCustomer Journey Analytics データの検証](./validate-dataset-quality-for-cja.md)
 * [データの検証（AI アシスタント）](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
-* [Customer Journey Analytics レポートを信頼する：Adobe CX Coworkerでのデータ検証スキル &#x200B;](https://www.youtube.com/watch?v=gCSm_QYSYhk) （ビデオ）
+* [Customer Journey Analytics レポートを信頼する：Adobe CX Enterprise Coworkerでのデータ検証スキル &#x200B;](https://www.youtube.com/watch?v=gCSm_QYSYhk) （ビデオ）

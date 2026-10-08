@@ -2,15 +2,15 @@
 title: Adobe Customer Journey AnalyticsまたはStreaming Mediaの実装計画を共同作業で行う
 description: Coworkerの実装ガイドスキルが、エクスポート可能なチェックリストを使用して、ディスカバリーディスカバリーの会話を、パーソナライズされた順序付きの実装計画に変える方法を説明します。
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # Adobe Workfrontの導入計画
 
-Coworkerには、5つの実装ガイドスキルが含まれています。Customer Journey Analytics、Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード、Content Analytics（ACA）、Marketing Campaign Analytics（MCA）、ストリーミングメディアの各サーフェスごとに1つずつスキルを習得できます。 各スキルは、短いディスカバリー会話を、パーソナライズされた依存関係に対応した実装計画に変換します。インタラクティブなチェックリストとすぐに使用できる書き出しが、すべて1つのCoworker Chat会話内で完結します。
+Adobe CX Enterprise Coworkerには、Customer Journey Analytics、Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード、Content Analytics（ACA）、Marketing Campaign Analytics（MCA）、Streaming Mediaの5つの実装ガイドスキルが含まれています。 各スキルは、短いディスカバリー会話を、パーソナライズされた依存関係に対応した実装計画に変換します。インタラクティブなチェックリストとすぐに使用できる書き出しが、すべて1つのCoworker Chat会話内で完結します。
 
 そうしたツールを導入または移行する場合は、Adobeの実装要件を手作業で調べたり、プロジェクト計画をゼロから構築したりする必要はなく、そうしたスキルを活用して、手順に従った順序付きのプランを作成できます。
 
