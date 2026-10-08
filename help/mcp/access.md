@@ -25,8 +25,8 @@ Adobe CX Enterpriseは、単一のMCPを通じて商品ツールを公開して�
 | Journey Optimizer | Beta | アクティブなJourney Optimizerライセンス、Adobe組織に対するBetaのイネーブルメント、キャンペーン、ジャーニー、チャネル設定を表示する権限。 |
 | Customer Journey Analytics | 使用可能 | アクティブなCustomer Journey Analytics ライセンスと、Adobe Admin Consoleの&#x200B;**MCP アクセス**&#x200B;権限項目を含む製品プロファイル。 製品権限は、アクセスまたは変更できるデータビュー、コンポーネント、レポート、プロジェクト、オーディエンスを引き続き管理します。 |
 | Adobe Analytics | 使用可能 | アクティブなAdobe Analytics ライセンスと、Adobe Admin Consoleの&#x200B;**MCP アクセス**&#x200B;権限項目を含む製品プロファイル。 製品権限は、アクセスまたは変更できるレポートスイート、コンポーネント、レポート、セグメント、日付範囲、プロジェクトを引き続き管理します。 |
-| Workfront | プレビュー | アクティブなWorkfront ライセンスとWorkfront MCPの有効化。 [Workfront MCP ドキュメント ](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)を参照してください。 |
-| ターゲット | Beta | Adobe Experience Platform組織でのActive Target ライセンス。 [Target MCP ドキュメント ](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp-get-started)を参照してください。 |
+| Workfront | プレビュー | アクティブなWorkfront ライセンスとWorkfront MCPの有効化。 [Workfront MCP ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)を参照してください。 |
+| ターゲット | Beta | Adobe Experience Platform組織でのActive Target ライセンス。 [Target MCP ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp-get-started)を参照してください。 |
 
 
 
@@ -59,4 +59,4 @@ MCP クライアントを接続する前に、次のことを確認します。
 - サポートされているMCP クライアント （[!DNL Claude]、[!DNL ChatGPT]、[!DNL Cursor]、[!DNL Claude Code]、[!DNL Codex]、または[!DNL VS Code]など）にアクセスできます。
 - エンタープライズ版のインストールでは、MCP クライアントの組織設定でコネクタやカスタムアプリを管理できます。
 
-次：[Adobe CX Coworker Gatewayをインストール ](install.md)。
+次：[Adobe CX Coworker Gatewayをインストール &#x200B;](install.md)。

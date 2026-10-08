@@ -91,4 +91,4 @@ Customer Journey Analytics ツールは、MCP クライアントから管理さ�
 
 ## 詳細 {#mcp-more}
 
-完全なツールリファレンスと基本ガイドについては、[Customer Journey Analytics MCP ドキュメント ](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}を参照してください。
+完全なツールリファレンスと基本ガイドについては、[Customer Journey Analytics MCP ドキュメント &#x200B;](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}を参照してください。
