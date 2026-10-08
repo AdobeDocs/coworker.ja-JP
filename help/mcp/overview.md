@@ -43,7 +43,7 @@ CX Coworker Gatewayは、CX Coworker Gateway製品ツール用の管理エンド
 | **Journey Optimizer** | キャンペーン、ジャーニー、チャネル設定（読み取り専用）、コンテンツテンプレート、フラグメント、ランディングページ、インラインメッセージコンテンツ（読み取りと書き込み） | Beta | [Journey Optimizer ツール &#x200B;](ajo-mcp.md) |
 | **Customer Journey Analytics** | データビュー、ディメンション、指標、レポート、セグメント、日付範囲、プロジェクト、オーディエンス（読み取りと書き込み） | 使用可能 | [Customer Journey Analytics ツール &#x200B;](cja-mcp.md) |
 | **Adobe Analytics** | レポートスイート、ディメンション、指標、レポート、セグメント、日付範囲、ワークスペースプロジェクト（サポートされているコンポーネントの読み取りと書き込み） | 使用可能 | [Adobe Analytics ツール &#x200B;](analytics-mcp.md) |
-| **Workfront** | プロジェクト、タスク、承認ワークフローの作業管理ツール | プレビュー | [Workfront MCP サーバー](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
+| **Workfront** | プロジェクト、タスク、承認ワークフローの作業管理ツール | プレビュー | [Workfront MCP サーバー](https://experienceleague.adobe.com/ja/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
 
 
 >[!NOTE]

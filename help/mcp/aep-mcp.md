@@ -255,7 +255,7 @@ Query Serviceのリソース向けの統合ツール。 アドホッククエリ
 
 >[!NOTE]
 >
->このツールは、評価結果のみを取得します。 フラグ付きの問題を修正するには、[!DNL Experience Platform] UIのヘルスチェックの詳細パネルを使用します。 [&#x200B; ヘルスチェック &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks)を参照してください。 サポートされているヘルスチェックの自動修復ガイダンスは、[CX Coworker Chat](../chat/overview.md)のスキルとして利用できます。
+>このツールは、評価結果のみを取得します。 フラグ付きの問題を修正するには、[!DNL Experience Platform] UIのヘルスチェックの詳細パネルを使用します。 [&#x200B; ヘルスチェック &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/run-and-operate/health-checks)を参照してください。 サポートされているヘルスチェックの自動修復ガイダンスは、[CX Coworker Chat](../chat/overview.md)のスキルとして利用できます。
 
 **機能：**&#x200B;現在のサンドボックスのすべてのヘルスチェック結果を一覧表示し、1つの名前付きチェックの結果を取得します
 

@@ -11,9 +11,9 @@ ht-degree: 6%
 
 Adobe Journey Optimizerの製品ツールを使用して、MCP対応クライアントからキャンペーン、ジャーニー、チャネル設定を調査します。 これらのツールは、組織が有効になっていて、ユーザーアカウントに必要なJourney Optimizer権限が付与されている場合、[CX Coworker Gateway](overview.md)から利用できます。
 
-詳しくは、Adobe Journey Optimizer ドキュメントの[MCP クライアントの操作](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"}を参照してください。
+詳しくは、Adobe Journey Optimizer ドキュメントの[MCP クライアントの操作](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"}を参照してください。
 
-ジャーニーを作成、分析、シミュレートするための会話型のエージェント型エクスペリエンスについては、代わりに[Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)を参照してください。
+ジャーニーを作成、分析、シミュレートするための会話型のエージェント型エクスペリエンスについては、代わりに[Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)を参照してください。
 
 >[!AVAILABILITY]
 >
