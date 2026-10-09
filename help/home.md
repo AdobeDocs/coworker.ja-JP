@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # CX Enterprise Coworkerの概要 {#overview}
@@ -89,7 +89,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience League LIVE：同僚のロック解除シリーズ
+## Experience League LIVE: Coworker Unlocked シリーズ
 
 CX Enterprise Coworker Unlocked シリーズでは、企業がAIを活用したアシスタントを活用して、顧客体験作業をどのように合理化しているのかをご紹介します。 各セッションでは、Adobe Experience Cloud アプリケーションをまたいでワークフローを加速し、インサイトを獲得して、タスクを自動化するのに役立つ、実用的なユースケース、ライブデモ、エキスパートガイダンスについて解説します。 以前のエピソードを閲覧するか、今後のイベントに登録することで、生産性を高め、顧客体験の成果を促進するための新しい方法を学ぶことができます。
 
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 同僚チーム（旧Campaigns）
+## 共同作業者キャンペーン
 
-Coworker Teamsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためにテンプレート化された機能です。
+Coworker Campaignsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためのテンプレート化された機能です。
 
 * [概要](./campaigns/overview.md)
 * [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)

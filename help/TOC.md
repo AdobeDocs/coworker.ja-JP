@@ -5,11 +5,10 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-hide: true
-source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
+source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 20%
+source-wordcount: '228'
+ht-degree: 19%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -29,6 +28,8 @@ ht-degree: 20%
       - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
+    - データオンボーディング {#data-onboarding}
+      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -39,6 +40,7 @@ ht-degree: 20%
       - [ロイヤルティに関する課題を作成し、インサイトを獲得](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - 最適化 {#optimization}
       - [Target アクティビティの起動](./chat/use-cases/optimization/target.md)
+      - [テストの加速](./chat/use-cases/optimization/accelerate-experimentation.md)
     - サンドボックスツール {#sandbox-tooling}
       - [エージェント型スキルのサンドボックスツール](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - アラート {#alerts}
