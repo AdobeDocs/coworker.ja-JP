@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
 workflow-type: tm+mt
-source-wordcount: '7086'
+source-wordcount: '7196'
 ht-degree: 6%
 ---
 # Adobe Workfrontのユースケース {#use-cases}
@@ -149,6 +149,7 @@ ht-degree: 6%
 | [&#x200B; ジャーニーのフォールアウトを分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーの途中で顧客が離脱する場所や理由を特定し、離脱につながる行動パターンを検出します | `journey-analyze-fallout` | Adobe Journey Optimizer（AJO） | 「リエンゲージメントの過程で離脱したユーザーはどこにいますか？」 <br> 「ジャーニーXのどのノードのフォールアウトが最も高いか？」 |
 | [&#x200B; カスタムアクションエラーの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | カスタムアクションが失敗しているか、ジャーニー内でエラー率が急増しているかを特定し、失敗がより大きな混乱に連鎖する前に根本原因を診断できます | `journey-analyze-custom-action` | Adobe Journey Optimizer（AJO） | 「ロイヤルティ登録ジャーニーでカスタムアクションが失敗するのはなぜですか？」 <br> 「ウェルカムジャーニーのカスタムアクション ExternalPushのエラー率を表示する」 |
 | [&#x200B; ジャーニーの異常値の検出](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーの開始、終了、過去のベースラインに対する送信カウントにおける予期しない急増、急減、フラットラインを検出して確認し、可能性の高い根本原因を明らかにします | `journey-analyze-anomaly` | Adobe Journey Optimizer（AJO） | 「昨日のウェルカムジャーニーのエントリが低下した理由は何ですか？」 <br> 「今週のカート放棄ジャーニーで、出口が急増しましたか？」 |
+| [&#x200B; ビジネスパフォーマンス分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのパフォーマンスを分析し、パフォーマンスの低いジャーニーを最適化するための具体的な機会を特定します。 トレンド、ボトルネック、期待できる要因などを明らかにし、エンゲージメントとコンバージョンを向上させます。 ビジネスパフォーマンスのインサイトにもとづいて、ジャーニーのデザイン、ターゲティング、メッセージ戦略を調整するための、実用的なレコメンデーションを獲得できます。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「ジャーニー[ジャーニー名]のパフォーマンスを分析し、最適化を推奨します。」 <br> 「ジャーニー[ジャーニー名]が先月と比較してパフォーマンスが低いのはなぜですか？」 <br> 「ジャーニー[ジャーニー名]のパフォーマンスを向上させるにはどうすればよいですか？」 <br> 「ジャーニー名[のジャーニーのどの部分が、コンバージョンまたはエンゲージメントを制限している可能性が高いですか？」] |
 | [&#x200B; ジャーニーのバージョンを比較](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 2つのジャーニーバージョンを比較し、ノード、接続、ジャーニーレベルのプロパティ変更の構造化された差分を確認します | `journey-analyze-version-comparison` | Adobe Journey Optimizer（AJO） | 「ウェルカムジャーニーのバージョン 2と3を比較」 <br> 「これら2つのジャーニーバージョン間で何が変更されたか？」 |
 
 **関連情報**
