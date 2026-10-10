@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Targetを利用して、Adobe Experience Manager（AEM） Sitesのテストを効率化するCX Enterprise Coworkerの仕組みをご紹介します。 ビジネス目標を設定することから始めて、CoworkerがAdobe TargetでのA/B テストの作成、配信の問題のトラブルシューティング、AEM as a Cloud Service web サイトでの複数のエクスペリエンスの正常な実行にどのように役立つかをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504249/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504250/?captions=jpn&learn=on&enablevpops)
