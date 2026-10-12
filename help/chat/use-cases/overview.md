@@ -7,24 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
+source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
 workflow-type: tm+mt
-source-wordcount: '7196'
+source-wordcount: '7646'
 ht-degree: 6%
 ---
 # Adobe Workfrontのユースケース {#use-cases}
 
 共同作業チャットを使用すると、複数のUIを移動したり、手動でクエリを記述したりするのではなく、自然言語を使用して[!DNL Experience Platform] データをクエリ、分析、アクションできます。 このページでは、実務担当者が最も重視しているユースケースを、データインサイト、オーディエンス、ジャーニー、ロイヤルティ、基本要素、サンドボックスツールなどの作業領域ごとに分類して説明します。 各エントリには、呼び出すスキル、使用するアプリケーション、コピーできるプロンプトのサンプル、独自のデータへの適応、会話による絞り込みなどがあります。
-
->[!NOTE]
->
->近日リリース予定：
->
->CX Enterprise Coworkerに搭載されたAEMのAgentic機能は、より迅速な作業を支援します。
->
->対象となるすべてのお客様は、CoworkerのAdobe Experience Manager エージェンティック機能にローリングベースでアクセスできます。
->
->AEMの[AI - AEMのエージェンティック機能の概要](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/overview)も参照してください。
 
 ## ブランド体験
 
@@ -231,6 +221,27 @@ Adobe Workfront Chatを使用して、キャンペーンメッセージのコピ
 **関連情報**
 
 * [Coworker for content management](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"}では、Adobe Journey Optimizerのコンテンツ管理ツールと利用可能なスキルについて詳しく説明しています。
+
+## Campaign v8
+
+共同作業チャットを使用すると、Adobe Campaign v8での配信の検索と更新、アセットの管理、データモデルの調査、ワークフローの検査、検証、トラブルシューティングを行うことができます。
+
+| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| --- | --- | --- | --- | --- |
+| 配信の検索と検査 | 名前、フォルダー、チャネル、ステータスで配信を検索し、チャネルコンテンツやSMTP設定を含む配信の詳細を取得し、再利用可能なメールコンテンツテンプレートを参照し、組み込みの配信レポートを確認します | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | 「名前に「ニュースレター」が含まれるメールコンテンツテンプレートを検索します。」 ・ 「下書きメール配信を表示する」 ・ 「今月失敗した配信の数は？」 ・ 「この配信で使用する件名と送信者は何か？」 |
+| 配信の作成と更新 | チャネルテンプレートと名前付きコンテンツから配信またはテンプレートを作成し、既存の配信のラベルとチャネルごとのメッセージコンテンツを編集します | `create_delivery`, `update_delivery` | Adobe Campaign v8 | 「ニュースレターのコンテンツテンプレートを使用してメールを作成する」 ・ “ Change the subject of the Summer Launch email.” ・ “ Replace the HTML content of this delivery.” |
+| 配信を送信せずに配信を準備 | 配信をブロードキャストせずにターゲットを解決し、パーソナライゼーションをレンダリング | `prepare_delivery` | Adobe Campaign v8 | 「サマーローンチ配信の準備」 ・ 「この配信で準備を実行しますが、送信しないでください。」 |
+| メール SMTPおよびweb分析設定の設定 | メール配信のSMTP ヘッダー設定、およびweb分析アカウントとトラッキングタグを設定します | `update_email_smtp_config`, `update_email_web_analytics` | Adobe Campaign v8 |  |
+| アセットと添付ファイルの管理 | アセットとしてファイルをアップロードし、そのメタデータと公開URLを読み取り、プライベートアセットを公開し、アセットを実際の添付ファイルとして配信にリンクします | `upload_asset`, `get_asset_url`, `publish_asset`, `attach_asset` | Adobe Campaign v8 | 「この画像をアップロードして、メールで使用できるようにします。」 ・ 「アップロードした画像のパブリック URLを教えてください。」 ・ 「私がアップロードしたPDFをサマーローンチの配信に添付します。」 |
+| キャンペーンの調査 | キャンペーンとテンプレートを検索し、子ワークフローや配信を含むキャンペーンの詳細を確認できます | `find_campaign`, `describe_campaign` | Adobe Campaign v8 |  |
+| ワークフローの把握と検証 | ワークフローを検索し、ワークフローを要約したり、ワークフローのアクティビティと配信のタッチポイントをドリルダウンしたり、ワークフロー定義を静的に検証したりできます | `find_workflow`, `describe_workflow`, `validate_workflow` | Adobe Campaign v8 | 「ようこそ」ワークフローについて説明します。 ・ 「このワークフローで使用されている配信はどれですか？」 ・ 「ようこそワークフローを検証します。」 |
+| ワークフローの制御 | ライフサイクルコマンド（開始、一時停止、停止、再開、またはウェイクアップ）を使用してワークフローを駆動し、ワークフロー内の配信アクティビティを再設定します | `control_workflow`, `update_workflow_delivery_activity` | Adobe Campaign v8 | 「ようこそワークフローを開始します。」 ・ 「このワークフローを一時停止します。」 |
+| ワークフローのトラブルシューティング | ワークフローの実行時、実行ジャーナル、現在のタスク、保留中のエンジンコマンドなど、多くのワークフローの正常性を一度に確認できます | `read_workflow_health`, `read_workflow_history`, `read_workflow_logs`, `read_workflow_tasks`, `read_workflow_jobs` | Adobe Campaign v8 |  |
+| データモデルの探索と拡張 | スキーマカタログを参照し、スキーマの構造を調べ、スキーマから行を読み取り、新しいスキーマを作成し、物理SQL テーブルを作成または変更します | `find_schema`, `describe_schema`, `read_schema_entity`, `create_schema`, `update_database_structure` | Adobe Campaign v8 | 「受信者に関連するスキーマを検索」 ・ 「受信者スキーマの説明」 ・ 「ロイヤルティ設定のカスタムスキーマを作成する」。 |
+
+**関連情報**
+
+* [Adobe Campaignの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/new/get-started){target="_blank"}では、Adobe Campaign v8の概要を説明しています。
 
 ## 最適化
 
