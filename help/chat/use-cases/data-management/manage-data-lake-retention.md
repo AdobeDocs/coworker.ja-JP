@@ -1,7 +1,13 @@
 ---
 title: データレイクの管理
 description: CX Coworkerを使用して、最適化する価値のあるエクスペリエンスイベントデータを特定し、データセットの使用と保持の影響を分析し、データレイクリテンションポリシーを管理する方法を説明します。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # データレイクの管理
 
 CX Coworkerを使用して、サンドボックス内のエクスペリエンスイベント データの価値を把握し、最適化から恩恵を受ける可能性のあるデータを特定します。 サンドボックスのデータの最適化やデータセットのクリーンアップをCoworkerに依頼するなど、幅広いリクエストから始めることができます。 Coworkerは、Data Management Agentを使用して、調査する価値のあるデータセットを抽出し、データセットがどの程度積極的に使用されたかを分析し、保持期間の影響をモデル化し、必要に応じてデータレイクの保持ポリシーの管理を支援します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504097?captions=jpn&learn=on)
 
 ## 始める前に {#before-you-begin}
 
