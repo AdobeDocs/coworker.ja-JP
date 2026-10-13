@@ -47,7 +47,7 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 | [実装の計画](/help/chat/use-cases/data-insights/implementation-guide.md)<p>![実装の計画](../../assets/ui-guide-6.png)</p> | Customer Journey Analyticsの実装、Adobe Analyticsからのアップグレード、EdgeでのContent Analytics、Marketing Campaign Analytics、ストリーミングメディアコレクションの設定などについて、パーソナライズされたステップバイステップの計画を作成します。 計画には、所有者、労力の見積もり、依存関係、検証手順などの詳細が含まれます。<p>**サンプルプロンプト：** 「Customer Journey Analyticsの実装の計画を手伝ってください」</p><p>詳しくは、[同僚との実装の計画](/help/chat/use-cases/data-insights/implementation-guide.md)を参照してください。</p> |
 | [実装チェックリストを生成](/help/chat/use-cases/data-insights/intelligent-checklist.md)<p>![実装チェックリストを生成](../../assets/data-validation-aa-cja/date-detail.png)</p> <p>実験的</p> | Customer Journey Analyticsの導入計画をCoworker Projectsのチェックリストに変換し、手順の割り当て、ステータスの追跡、承認ゲートの追加を可能にします。<p>詳しくは、[同僚プロジェクトを使用した実装チェックリストの生成](/help/chat/use-cases/data-insights/intelligent-checklist.md)を参照してください。</p> |
 | [Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード時にデータを検証](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)<p>![Adobe AnalyticsからCustomer Journey Analyticsへのアップグレード時にデータを検証](../../assets/data-validation-aa-cja/trend-bar-card.png)</p> | Adobe Analytics レポートスイートとCustomer Journey Analytics データビュー間のディメンション、指標、傾向を比較し、アップグレードをサポートするための修正を推奨します。<p>**サンプルプロンプト：** 「AA レポートスイートとCJA データビューの比較」</p><p>詳しくは、「[Adobe AnalyticsからCustomer Journey Analyticsにアップグレードする際にCoworkerでデータを検証する](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)」を参照してください。</p> |
-| [ ストリーミングメディア実装の検証](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![ ストリーミングメディア実装の検証](../../assets/ui-guide-8.png)</p> <p>実験的</p> | データストリーム、スキーマ、データセット、データビュー、セッションデータを確認して、ストリーミングメディアトラッキングが設定され、データが正しく収集されていることを確認します。<p>**サンプルプロンプト：** 「ストリーミングメディアの実装は全体的にどれくらい正常ですか？」</p><p>詳しくは、[ ストリーミングメディア実装を共同作業者と検証](/help/chat/use-cases/data-insights/streaming-media-validation.md)するを参照してください。</p> |
+| [&#x200B; ストリーミングメディア実装の検証](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![&#x200B; ストリーミングメディア実装の検証](../../assets/ui-guide-8.png)</p> <p>実験的</p> | データストリーム、スキーマ、データセット、データビュー、セッションデータを確認して、ストリーミングメディアトラッキングが設定され、データが正しく収集されていることを確認します。<p>**サンプルプロンプト：** 「ストリーミングメディアの実装は全体的にどれくらい正常ですか？」</p><p>詳しくは、[&#x200B; ストリーミングメディア実装を共同作業者と検証](/help/chat/use-cases/data-insights/streaming-media-validation.md)するを参照してください。</p> |
 | [Customer Journey Analyticsのデータセット品質を検証](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Customer Journey Analyticsのデータセット品質を検証](../../assets/data-validation-aep/dataset-validation.png)</p> <p>実験（来週）</p> | Customer Journey Analyticsレポートに使用するデータセットを特定し、スキーマ、ID品質、フィールド品質をチェックすることで、ダッシュボードを構築する前に問題を解決できます。<p>詳しくは、「[Coworkerでのデータ検証スキルを使用したCustomer Journey Analytics データの検証](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)」を参照してください。</p> |
 | [Experience Platformに取り込んだ後のデータの検証](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Experience Platformに取り込んだ後のデータの検証](../../assets/data-validation-aep/null-values.png)</p> | Experience Platformのデータセットとフィールドに対して統計チェックとセマンティックチェックを実行し、無効な値やマッピングの問題などのデータ品質の問題を見つけます。<p>**サンプルプロンプト：** 「データセット Electronics サンプル 1000の検証」</p><p>詳しくは、[Experience Platform データを共同作業者と検証](/help/chat/use-cases/data-insights/data-validation-aep.md)するを参照してください。</p> |
 
@@ -58,7 +58,7 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 | ユースケース | 関数 |
 | --- | --- |
 | [Customer Journey AnalyticsとAdobe Analytics データの分析](/help/chat/use-cases/data-insights/analytics-chat.md)<p>![Customer Journey AnalyticsとAdobe Analytics データの分析](../../assets/coworker-funnel-response-card.png)</p> | データビューやレポートスイートに関する自然言語の質問に答え、ファネルやその他のビジュアライゼーションを構築し、顧客が離脱する原因を見つけ出します。 Analysis Workspaceで任意のビジュアライゼーションを開いて、さらに詳しく分析できます。<p>**サンプルプロンプト：** 「過去30日間のページビューを表示する」</p><p>詳しくは、[同僚チャットによるデータ分析の基本を学ぶ](/help/chat/use-cases/data-insights/analytics-chat.md)を参照してください。</p> |
-| [ ファネルの分析](#skills-and-limitations) | マルチステップのコンバージョンファネルを進め、各ステージでの離脱を確認します。<p>**サンプルプロンプト：** 「チェックアウトfunnelの手順を説明」</p><p>詳しくは、[ スキルと制限](#skills-and-limitations)を参照してください。</p> |
+| [&#x200B; ファネルの分析](#skills-and-limitations) | マルチステップのコンバージョンファネルを進め、各ステージでの離脱を確認します。<p>**サンプルプロンプト：** 「チェックアウトfunnelの手順を説明」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
 
 ### オーディエンスとセグメント分析
 
@@ -66,8 +66,8 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 
 | ユースケース | 関数 |
 | --- | --- |
-| [ パフォーマンスを比較](#skills-and-limitations) | チャネル、期間、セグメントをまたいで指標を並べて比較できます。<p>**プロンプトの例：** 「月々のチャネル別の収益の比較」</p><p>詳しくは、[ スキルと制限](#skills-and-limitations)を参照してください。</p> |
-| [運用上の傾向と原因を分析](/help/chat/use-cases/overview.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>詳しくは、「Coworker Chat ユースケースの[ データインサイト ](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
+| [&#x200B; パフォーマンスを比較](#skills-and-limitations) | チャネル、期間、セグメントをまたいで指標を並べて比較できます。<p>**プロンプトの例：** 「月々のチャネル別の収益の比較」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
+| [運用上の傾向と原因を分析](/help/chat/use-cases/overview.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
 
 ### 業績
 
@@ -75,10 +75,10 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 
 | ユースケース | 関数 |
 | --- | --- |
-| [ トレンドと根本原因を探る](/help/chat/use-cases/data-insights/root-cause-analysis.md)<p>![ トレンドと根本原因を探る](../../assets/data-validation-aa-cja/trend-line-card.png)</p> | Customer Journey AnalyticsとAdobe Analyticsのデータの傾向と、パフォーマンスの変化を促す要因を手動でのクエリなしで特定します。<p>**サンプルプロンプト：** 「コンバージョンが先週ドロップした理由は何ですか？」</p><p>詳しくは、[Customer Journey Analyticsと共同作業者](/help/chat/use-cases/data-insights/root-cause-analysis.md)を参照してください。</p> |
-| [予測指標](#skills-and-limitations) | 売上目標を達成するための進捗状況など、過去のCustomer Journey AnalyticsやAdobe Analyticsのデータから得られた将来の指標値をプロジェクトします。<p>**プロンプトのサンプル：** 「今後30日間のセッションを予測」</p><p>詳しくは、[ スキルと制限](#skills-and-limitations)を参照してください。</p> |
-| [ エグゼクティブの概要とKPI ダイジェストの作成](#skills-and-limitations) | 関係者に提供可能なパフォーマンスの概要、レコメンデーション、スライドデッキの概要を作成します。<p>**サンプルプロンプト：** 「先月のエグゼクティブサマリーを教えてください」</p><p>詳しくは、[ スキルと制限](#skills-and-limitations)を参照してください。</p> |
-| [ カスタム Customer Journey Analytics スキルの作成](#skills-and-limitations) | 繰り返し利用できる分析を、セッション全体で永続的な再利用可能なスキルに変換します。<p>**サンプルプロンプト：** 「この週次売上分析を再利用可能なスキルに変換する」</p><p>詳しくは、[ スキルと制限](#skills-and-limitations)を参照してください。</p> |
+| [&#x200B; トレンドと根本原因を探る](/help/chat/use-cases/data-insights/root-cause-analysis.md)<p>![&#x200B; トレンドと根本原因を探る](../../assets/data-validation-aa-cja/trend-line-card.png)</p> | Customer Journey AnalyticsとAdobe Analyticsのデータの傾向と、パフォーマンスの変化を促す要因を手動でのクエリなしで特定します。<p>**サンプルプロンプト：** 「コンバージョンが先週ドロップした理由は何ですか？」</p><p>詳しくは、[Customer Journey Analyticsと共同作業者](/help/chat/use-cases/data-insights/root-cause-analysis.md)を参照してください。</p> |
+| [予測指標](#skills-and-limitations) | 売上目標を達成するための進捗状況など、過去のCustomer Journey AnalyticsやAdobe Analyticsのデータから得られた将来の指標値をプロジェクトします。<p>**プロンプトのサンプル：** 「今後30日間のセッションを予測」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
+| [&#x200B; エグゼクティブの概要とKPI ダイジェストの作成](#skills-and-limitations) | 関係者に提供可能なパフォーマンスの概要、レコメンデーション、スライドデッキの概要を作成します。<p>**サンプルプロンプト：** 「先月のエグゼクティブサマリーを教えてください」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
+| [&#x200B; カスタム Customer Journey Analytics スキルの作成](#skills-and-limitations) | 繰り返し利用できる分析を、セッション全体で永続的な再利用可能なスキルに変換します。<p>**サンプルプロンプト：** 「この週次売上分析を再利用可能なスキルに変換する」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
 
 ### マーケティングの測定とアトリビューション
 
@@ -86,9 +86,9 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 
 | ユースケース | 関数 |
 | --- | --- |
-| [施策のパフォーマンスを測定](/help/chat/use-cases/overview.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[ データインサイト ](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
+| [施策のパフォーマンスを測定](/help/chat/use-cases/overview.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
 
-使用するスキルやサンプルプロンプトなど、これらのユースケースについて詳しくは、[ データインサイトのユースケース ](/help/chat/use-cases/overview.md#data-insights)を参照してください。
+使用するスキルやサンプルプロンプトなど、これらのユースケースについて詳しくは、[&#x200B; データインサイトのユースケース &#x200B;](/help/chat/use-cases/overview.md#data-insights)を参照してください。
 
 ## スキルと制限
 
@@ -118,7 +118,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
 
 * プランモードを使用します。
 
-  このモードは、複雑なタスクに特に役立ちますが、単純なタスクにも優れた結果をもたらします。同僚は、アクションを起こす前にフォローアップで質問することができるからです。 詳しくは、[ プランモード ](/help/chat/ui-guide.md#plan-mode)を参照してください。
+  このモードは、複雑なタスクに特に役立ちますが、単純なタスクにも優れた結果をもたらします。同僚は、アクションを起こす前にフォローアップで質問することができるからです。 詳しくは、[&#x200B; プランモード &#x200B;](/help/chat/ui-guide.md#plan-mode)を参照してください。
 
 * プロンプトを作成する際には、できるだけ具体的に次のように記述します。
 
@@ -134,7 +134,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
   * データの検証時に比較する特定のレポートスイートとデータビューに名前を付けます。
   * まず分析を完了し、次にCoworker Chatにスキルとして保存してもらいます。その際、わかりやすい名前を付け、どのくらいの頻度で再利用する予定かを書き留めます。
 
-* Coworker Chat メモリに標準的な方向を追加します。 例えば、同じデータビューまたはレポートスイートのデータを常に使用する場合は、それをメモリに追加します。 詳しくは、「共同作業チャットを使用したデータ分析の開始」の「[ メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
+* Coworker Chat メモリに標準的な方向を追加します。 例えば、同じデータビューまたはレポートスイートのデータを常に使用する場合は、それをメモリに追加します。 詳しくは、「共同作業チャットを使用したデータ分析の開始」の「[&#x200B; メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
 
 ## 次の手順
 
