@@ -5,10 +5,10 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 19%
+source-wordcount: '227'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -21,7 +21,6 @@ ht-degree: 19%
   - ユースケース {#use-cases}
     - [Adobe Workfrontのユースケース](./chat/use-cases/overview.md)
     - データインサイト {#data-insights}
-      - {hide-from-toc}[概要](./chat/use-cases/data-insights/analytics-overview-v2.md)
       - {hide-from-toc}[概要](./chat/use-cases/data-insights/analytics-overview.md)
       - [基本を学ぶ](./chat/use-cases/data-insights/analytics-chat.md)
       - [トレンドと根本原因を探る](./chat/use-cases/data-insights/root-cause-analysis.md)

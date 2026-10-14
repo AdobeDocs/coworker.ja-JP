@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 5%
 ---
 # 同僚とのチャットによるデータ分析を始める
 
-Adobe Adobe CX Enterprise Coworker Chatを設定して、Customer Journey Analytics データビューやAdobe Analytics レポートスイートを分析し、次に実際の例を示します。 ユースケース、スキル、ベストプラクティスなど、Coworker Chatで実行できる操作の概要については、[Coworker Chatを使用したデータ分析](/help/chat/use-cases/data-insights/analytics-overview-v2.md)を参照してください。
+Adobe Adobe CX Enterprise Coworker Chatを設定して、Customer Journey Analytics データビューやAdobe Analytics レポートスイートを分析し、次に実際の例を示します。 ユースケース、スキル、ベストプラクティスなど、Coworker Chatで実行できる操作の概要については、[Coworker Chatを使用したデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
 
 開始する前に、Coworker Chat インターフェイスと設定オプションについて説明し、CoworkerがCustomer Journey AnalyticsまたはAdobe Analyticsと関連するデータビューまたはレポートスイートに接続されていることを確認します。
 
@@ -331,4 +331,4 @@ Workfrontでビジュアライゼーションを作成した後、Analysis Works
 
 ## 次の手順
 
-その他のユースケース、データの分析に使用するスキル、およびプロンプトの作成に関するベストプラクティスについては、[Coworker Chatを使用したデータの分析](/help/chat/use-cases/data-insights/analytics-overview-v2.md)を参照してください。
+その他のユースケース、データの分析に使用するスキル、およびプロンプトの作成に関するベストプラクティスについては、[Coworker Chatを使用したデータの分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
