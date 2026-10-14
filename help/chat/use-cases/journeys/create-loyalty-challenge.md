@@ -25,7 +25,7 @@ ht-degree: 1%
  
 動画では、ロイヤルティプラグインとそのチャレンジ管理スキルが紹介されています。これは、マーケターがユーザーインターフェイスのあらゆる設定を手動で設定するのではなく、自然言語を使用してロイヤルティの課題を作成、編集、管理するのに役立つAIを活用した機能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496539/?captions=jpn&learn=on&enablevpops)
 
 ## 関連トピック
 

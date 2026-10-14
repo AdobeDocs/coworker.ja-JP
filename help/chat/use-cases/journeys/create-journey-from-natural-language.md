@@ -26,7 +26,7 @@ ht-degree: 1%
  
 最初の設定プロセスを自動化することで、ゼロからジャーニーを構築する時間を減らし、顧客体験とビジネス成果を改善する時間を増やすことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496877/?captions=jpn&learn=on&enablevpops)
 
 ## 関連トピック
 
