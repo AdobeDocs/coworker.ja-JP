@@ -5,10 +5,10 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 19%
+source-wordcount: '229'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -17,7 +17,7 @@ ht-degree: 19%
 - チャット {#chat}
   - [概要](./chat/overview.md)
   - [UI ガイド](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -27,8 +27,9 @@ ht-degree: 19%
       - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
+      - [データインサイトの獲得](./chat/use-cases/data-insights/accelerate-data-insights.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -66,7 +67,7 @@ ht-degree: 19%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - キャンペーン {#campaigns}
-  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./campaigns/new-teams-experience.md)
+  - {hide-from-toc}[新しいチーム エクスペリエンス ](./campaigns/new-teams-experience.md)
   - [概要](./campaigns/overview.md)
   - [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./campaigns/launch-manage-campaign.md)
