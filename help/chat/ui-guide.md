@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して、必要なものを平易な言葉で求めることができます。 このページを使用して、同僚チャットを開き、最初のメッセージを送信し、作業方法を設定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
 
 ## 対象
 
