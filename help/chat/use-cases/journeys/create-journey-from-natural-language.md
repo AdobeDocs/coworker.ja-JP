@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '128'
 ht-degree: 1%
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 1%
 ## 関連トピック
 
 - [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
-- [その他の同僚チャットのユースケース](../overview.md#journeys)
+- [その他の同僚チャットワークフロー](../workflows.md#journeys)

@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 | ユースケース | 関数 |
 | --- | --- |
 | [&#x200B; パフォーマンスを比較](#skills-and-limitations) | チャネル、期間、セグメントをまたいで指標を並べて比較できます。<p>**プロンプトの例：** 「月々のチャネル別の収益の比較」</p><p>詳しくは、[&#x200B; スキルと制限](#skills-and-limitations)を参照してください。</p> |
-| [運用上の傾向と原因を分析](/help/chat/use-cases/overview.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
+| [運用上の傾向と原因を分析](/help/chat/use-cases/workflows.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
 
 ### 業績
 
@@ -86,9 +86,9 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 
 | ユースケース | 関数 |
 | --- | --- |
-| [施策のパフォーマンスを測定](/help/chat/use-cases/overview.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/overview.md#data-insights)」を参照してください。</p> |
+| [施策のパフォーマンスを測定](/help/chat/use-cases/workflows.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
 
-使用するスキルやサンプルプロンプトなど、これらのユースケースについて詳しくは、[&#x200B; データインサイトのユースケース &#x200B;](/help/chat/use-cases/overview.md#data-insights)を参照してください。
+使用するスキルやサンプルプロンプトなど、これらのユースケースについて詳しくは、[&#x200B; データインサイトのユースケース &#x200B;](/help/chat/use-cases/workflows.md#data-insights)を参照してください。
 
 ## スキルと制限
 

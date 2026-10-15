@@ -7,24 +7,40 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f0ca8fc373cae1697ac28a4f555e8c096ff6fbca
+source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 14%
+source-wordcount: '936'
+ht-degree: 18%
 ---
-# CX Enterprise Coworkerの概要 {#overview}
+# CX Enterprise Coworker ガイド {#overview}
 
-Coworkerは、組織、チーム、個人の作業内容を再構築するAIを活用したチームメイトです。 CXM （顧客体験管理）とマーケティングワークフローを洗練させ、タスクを調整するのではなく、ビジネス目標の達成と成果の変革に集中できるようにします。 エージェンティックエンジンとして、同社はビジネスプロセスの自動化に新たな革新的アプローチを取り入れました。 データ、インテリジェンス、コラボレーション、エージェンティックスキルの実行を、企業のコンテキスト、ガバナンス、人間による監視を組み込むことで、AI モデルのパフォーマンスと精度を向上させます。
+[!DNL Coworker]は、カスタマーエクスペリエンスとマーケティングの作業を担当するAdobeのAgentic AIのチームメイトです。 Adobe Marketo Engageは、単に質問に答えたり、アクションを推奨するだけのものではありません。Adobe Adobeなどの他のシステムをまたいで、マルチステップのマーケティングワークフローを実行し、承認とガバナンスを管理することで、常に状況を把握できます。 [Adobe for Business](https://business.adobe.com/jp/products/cx-enterprise-coworker.html)の詳細をご覧ください。
 
-チームメンバーは、次の3つの体験を通じて提供されます。
+## [!DNL Coworker]の使用方法
 
-* **[同僚[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):** Adobe アプリケーション全体で、複雑なリクエスト、インサイト、コンテンツ生成、アクションに自然言語を使用します。
-* **[同僚[!UICONTROL &#x200B; キャンペーン &#x200B;]](./campaigns/overview.md):**&#x200B;俊敏性の高いマーケティングチームを、キャンペーン目標から協調的なキャンペーン実行に導くように設計されています。
-* **同僚[!UICONTROL &#x200B; プロジェクト &#x200B;] （近日リリース予定）:** チームがプロセス、承認、同僚の自律性レベルを定義する、より長期的で部門横断的なエンタープライズワークフロー向けに設計されています。
+共同作業者は、AIを&#x200B;_支援_&#x200B;から&#x200B;_対応_&#x200B;に移行します。 アプリケーションを切り替え、すべてのステップを自分で調整する代わりに、目標を定義し、[!DNL Coworker]が実行します。 これは、オーディエンス、ジャーニー、コンテンツ、インサイト、診断、マーケティング業務をまたいで機能します。
 
-## [!DNL Coworker] [!UICONTROL &#x200B; チャット &#x200B;]の基本
+[!DNL Coworker]は3つのエクスペリエンスを通じて配信されます：
 
-まだ始めたばかりでも、専門知識を深めようとしている場合でも、これらのプレイリストでは、[!DNL Coworker]の[!UICONTROL &#x200B; チャット &#x200B;]機能の使用に関するガイド付きの概要を提供します。 主要な機能を操作する方法、効果的なプロンプトを作成する方法、Adobe Experience Cloud製品全体でより効率的に作業するためのCoworkerの実践的な例をご覧ください。
+* **[共同作業者[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。
+* **[同僚[!UICONTROL &#x200B; キャンペーン &#x200B;]](./campaigns/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。
+* **共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] （近日リリース予定）:** チームがプロセス、承認、共同作業者の自律性レベルを設定する、長期的な部門横断的なエンタープライズワークフロー。
+
+## 同僚を有効にする方法
+
+共同作業者（共同作業者チャットを含む）を有効にするには、組織でAdobe CX Enterprise Coworkerにアクセスする必要があります。 イネーブルメントには、通常、次のことが含まれます。
+
+* **ライセンス：** Adobeのアカウント担当者または営業担当者に連絡して、適切なライセンスと使用権限があることを確認してください。
+
+* **オンボーディング：** Adobeのエンタープライズサポートまたはプロフェッショナルサービスチームは、お客様の環境に合わせてCoworkerを設定し、Adobe アプリケーションとの統合を設定し、ガバナンスおよび承認ワークフローを定義します。
+
+* **アクセス：** Adobe [Admin Console](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/admin-console)で、チームの役割を割り当てて、共同作業者機能にアクセスできるようにします。
+
+* **基本を学ぶ：** Coworkerが有効になったら、[UI ガイド &#x200B;](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴、スキル、MCP サーバー、メモリ設定など、Coworker Chat インターフェイスの使用方法を確認します。
+
+## 同僚とのチャットの使用に関するビデオ
+
+これらのビデオプレイリストでは、[!UICONTROL &#x200B; チャット &#x200B;]の主な機能と、効果的なプロンプトの作成方法について説明し、[!DNL Coworker]が[!DNL CX Enterprise]製品をまたいでより効率的に作業する方法の実用的な例を紹介します。
 
 <!--
 CARDS
@@ -90,9 +106,24 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+## 共同作業者キャンペーン
+
+Coworker Campaignsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためのテンプレート化された機能です。
+
+* [概要](./campaigns/overview.md)
+* [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
+* [ユースケース](./campaigns/use-cases.md)
+* [プロンプトのベストプラクティス](./campaigns/prompting-best-practices.md)
+* [Marketo Engageに接続](./campaigns/connectors/marketo.md)
+* [Hubspotへの接続](./campaigns/connectors/hubspot.md)
+
+## プロジェクト（近日リリース予定）
+
+Coworker Projectsは、戦略から納品に至るまでの顧客体験ワークフローを自動化するための共有ワークスペースです。 チームは、タスク、承認、実行を調整するために利用します。
+
 ## Experience League LIVE: Coworker Unlocked シリーズ
 
-CX Enterprise Coworker Unlocked シリーズでは、企業がAIを活用したアシスタントを活用して、顧客体験作業をどのように合理化しているのかをご紹介します。 各セッションでは、Adobe Experience Cloud アプリケーションをまたいでワークフローを加速し、インサイトを獲得して、タスクを自動化するのに役立つ、実用的なユースケース、ライブデモ、エキスパートガイダンスについて解説します。 以前のエピソードを閲覧するか、今後のイベントに登録することで、生産性を高め、顧客体験の成果を促進するための新しい方法を学ぶことができます。
+CX Enterprise Coworker Unlocked シリーズでは、企業がAIを活用してカスタマーエクスペリエンス業務を合理化する方法を解説しています。 各セッションでは、Adobe Experience Cloud アプリケーションをまたいだワークフローの高速化、インサイトの獲得、タスクの自動化に関する、実践的なユースケース、ライブデモ、専門家によるガイダンスを提供します。 過去のエピソードを閲覧したり、今後のイベントに登録したりできます。
 
 <!--
 CARDS
@@ -103,7 +134,7 @@ CARDS
 *  https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26
   {title = Audience and Journey B2C capabilities in Coworker}
   {description = See how Coworker can execute end-to-end workflows for customer experience orchestration, increasing productivity and simplifying otherwise technical or complex tasks.}
-  {cta = Register}
+  {cta = Watch}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -148,26 +179,10 @@ CARDS
                     <p class="is-size-6">Coworkerが、顧客体験のオーケストレーションのためにエンドツーエンドのワークフローを実行する方法を紹介します。これにより、生産性を向上させ、技術的または複雑なタスクを簡素化できます。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">登録</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-## 共同作業者キャンペーン
-
-Coworker Campaignsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためのテンプレート化された機能です。
-
-* [概要](./campaigns/overview.md)
-* [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
-* [ユースケース](./campaigns/use-cases.md)
-* [プロンプトのベストプラクティス](./campaigns/prompting-best-practices.md)
-* [Marketo Engageに接続](./campaigns/connectors/marketo.md)
-* [Hubspotへの接続](./campaigns/connectors/hubspot.md)
-
-## プロジェクト（近日リリース予定）
-
-Coworker Projectsは、エンドツーエンドの顧客体験オーケストレーションワークフローを自動化するための統合ワークスペースで、戦略から納品までの成果の促進のために、タスク、承認、実行の調整を支援します。

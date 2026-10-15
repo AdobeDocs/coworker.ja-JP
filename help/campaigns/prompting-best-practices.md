@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 23%
@@ -18,7 +18,7 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->現在、Coworker Campaignsでサポートされている統合にのみ接続できます。 オーディエンスの保存やジャーニーの構築を行う既存のAdobe Enterprise アプリケーションがある場合は、代わりに[CX Enterprise Coworker](/help/chat/use-cases/overview.md)を使用することをお勧めします。
+>現在、Coworker Campaignsでサポートされている統合にのみ接続できます。 オーディエンスの保存やジャーニーの構築を行う既存のAdobe Enterprise アプリケーションがある場合は、代わりに[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)を使用することをお勧めします。
 
 ## CO-STAR フレームワークの使用
 

@@ -1,30 +1,30 @@
 ---
-description: Coworker Chatのユースケースとサンプルプロンプトを、データインサイト、オーディエンス、ジャーニー、プラットフォーム運用をまたいで、エリアごとに整理して参照できます。
-title: 同僚チャットのユースケース
+description: データインサイト、オーディエンス、ジャーニー、プラットフォーム運用をまたいで、エリア別に整理された同僚チャットのワークフローとサンプルプロンプトを参照できます。
+title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '7646'
+source-wordcount: '7618'
 ht-degree: 6%
 ---
-# Adobe Workfrontのユースケース {#use-cases}
+# 共同作業者チャットワークフロー {#use-cases}
 
-共同作業チャットを使用すると、複数のUIを移動したり、手動でクエリを記述したりするのではなく、自然言語を使用して[!DNL Experience Platform] データをクエリ、分析、アクションできます。 このページでは、実務担当者が最も重視しているユースケースを、データインサイト、オーディエンス、ジャーニー、ロイヤルティ、基本要素、サンドボックスツールなどの作業領域ごとに分類して説明します。 各エントリには、呼び出すスキル、使用するアプリケーション、コピーできるプロンプトのサンプル、独自のデータへの適応、会話による絞り込みなどがあります。
+共同作業チャットを使用すると、複数のUIを移動したり、手動でクエリを記述したりするのではなく、自然言語を使用して[!DNL Experience Platform] データをクエリ、分析、アクションできます。 このページでは、実務担当者が最も利用しているワークフローを、データインサイト、オーディエンス、ジャーニー、ロイヤルティ、基本要素、サンドボックスツールなどの作業領域ごとに分類して示します。 各エントリには、呼び出すスキル、使用するアプリケーション、コピーできるプロンプトのサンプル、独自のデータへの適応、会話による絞り込みなどがあります。
 
 ## ブランド体験
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [AEM ページの更新](brand-visibility/author-web-pages.md) | コンテンツ要素の更新、削除、置き換え、追加などのアクションを実行し、エクスペリエンスを正確かつ最新の状態に保ちます。 入力には、自然言語またはPDFやスクリーンショットなどの視覚的な注釈を使用できます。 | `aem-sites-pages-update` | Adobe Experience Manager（AEM） - AEM Sites | &lt;URL>の見出しを「Hello World<br><br>」に更新し、&lt;URL>の「コーヒークイズを取る」ボタンをより魅力的なバージョンに変更します<br><br>添付された<br><br>に基づいて&lt;URL>を更新します。8月に実施しているコーヒーマシンを購入し、コーヒーフリーの2袋を入手するプロモーションについて、ページの下部に新しいティーザーセクションを追加したいと思います。 また、コーヒーを飲む友人の画像を見つけて、ティーザーでそれを使用することもできます |
 | AEMの一括更新 | コンテンツ要素の削除、置き換え、追加など、複数のページをまたいで同時に一括アクションを実行し、エクスペリエンスを正確かつ最新の状態に保ちます。 | `aem-sites-pages-bulkreplace` | Adobe Experience Manager（AEM） - AEM Sites | &lt;aem path>で、コピー「MyBarista\」を含むすべてのページを「BrewPass」に更新します |
 | Figmaからビジュアルコンテンツフラグメントへ | 自然言語を使用して、FigmaからAdobe Experience Managerにデザインを直接読み込みます。 このスキルにより、必要なコンテンツモデル、コンテンツフラグメント、アセット、ビジュアライゼーションテンプレートが自動的に作成されるため、ビジネスユーザーは手作業で設定しなくても、デザインからwebに対応したコンテンツを数分で作成することができます。 | `aem-sites-visualcontentfragments-create` | Adobe Experience Manager（AEM） - AEM Sites | &lt;Figma_URL>からインポート |
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | フォームを作成 | 新しいアダプティブフォームを、平易な説明、添付された概要、画像、またはPDFから生成します | `aem-forms-adaptiveform-create` | Adobe Experience Manager（AEM） - AEM Forms | 「従業員オンボーディングフォームの作成」 <br><br> 「添付された概要（画像またはpdf）を使用してフォームを作成」 <br><br> 「Create a &lt;form type> adaptive form」 |
 | フォームの編集/更新 | 既存のフォームの変更 – フィールドの追加/編集、シンプルなレイアウトの調整、送信アクションの設定、添付されたガイドラインドキュメントからの変更の適用を行います | `aem-forms-adaptiveform-edit` | Adobe Experience Manager（AEM） - AEM Forms | 「姓フィールドの下にミドルネーム フィールドを追加」 <br><br> 「名フィールドと姓フィールドを2列のレイアウトに入れる」, 50/50&quot;<br><br> 「REST エンドポイントにデータを送信するフォームを設定」 <br><br> 「添付されたガイドライン ドキュメントに一致するようにこのフォームを更新」 <br><br> 「次に&lt; フィールド > フィールドを追加」 |
@@ -33,13 +33,13 @@ ht-degree: 6%
 
 **関連情報**
 
-* [AEMのAgentic Capabilities: Brand Experience - Experience Production - Sites](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/brand-experience/experience-production/use-cases#use-cases-sites)
+* [AEMのAgentic Capabilities: Brand Experience - Experience Production - Sites](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/brand-experience/experience-production/use-cases#use-cases-sites)
 
 * [AEMのエージェント機能：ブランドエクスペリエンス – エクスペリエンス制作 – Forms](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/brand-experience/experience-production/use-cases#use-cases-forms)
 
 ### 開発
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | Cloud Manager パイプラインの管理 | ログ、アーティファクト、変数、設定など、AEM Cloud Manager パイプラインを作成、実行、モニタリングします | `cloud-manager-pipeline-management` | Adobe Experience Manager（AEM） | 「プログラム 12345のパイプラインのリスト」 <br><br> 「最新のパイプラインのステータスは？」 |
 | Cloud Manager環境の管理 | RDE、環境変数、ログ、バックアップなどのAEM Cloud Manager環境を作成、設定、管理します | `cloud-manager-environment-management` | Adobe Experience Manager（AEM） | &quot;プログラム 12345の環境を一覧表示&quot;<br><br>&quot;RDEをリセット&quot; |
@@ -52,7 +52,7 @@ ht-degree: 6%
 
 ### オンボーディング
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | ガイド付きのエンドツーエンドのオンボーディング | 必要な特定のオンボーディングタスクがわからない場合は、オンボーディングライフサイクル全体、リポジトリ選択、フォルダーへの委任、タグ、メタデータ、インポート、検索サブスキルを調整します。 | `aem-onboarding-workflow` | Adobe Experience Manager（AEM） - AEM Assets | 「AEM Assetsへのオンボーディング」 <br><br> 「AEM DAM オンボーディングの手順」 |
 | フォルダー階層の設計と作成 | ビジネスニーズやCSV入力に基づいて、AEM Assets（`/content/dam`以下）でスケーラブルなフォルダー構造を推奨および作成します。 | `aem-folder-management` | Adobe Experience Manager（AEM） - AEM Assets | 「ライフスタイルマーケティングアセットのフォルダー構造を推奨」 <br><br> 「このCSV ファイルに基づいてフォルダーを作成」 |
@@ -67,7 +67,7 @@ ht-degree: 6%
 
 ### コンテンツ発見
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | セマンティックテーマで検索 | AIを活用したセマンティックマッチングにより、コンセプト、ムード、ビジュアルテーマごとにアセットを検索できます。 | `aem-assets-discovery` | Adobe Experience Manager（AEM） - AEM Assets | &quot;Find me morning coffee lifestyle images&quot; |
 | カスタムメタデータで検索 | カスタムメタデータフィールド（コーヒーブレンド、ブランド、ローストレベルなど）でアセットをフィルタリングします。 | `aem-assets-discovery` | Adobe Experience Manager（AEM） - AEM Assets | 「`Coffee Blend`が`Morning Muse`のアセットを検索する」 <br><br> 「ライセンスの有効期限が切れていないアセットを取得する」 <br><br> 「キャンペーン名が設定されていないアセットを検索する（適切な結果を得るには、プロパティにインデックスを付ける必要があります）」 |
@@ -80,7 +80,7 @@ ht-degree: 6%
 
 ### コンテンツの最適化
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | 高解像度レンディションの作成とチャネルに最適化されたレンディション | 指定された解像度と品質レベルでアセットの新しいレンディションを生成するので、手作業での編集なしでチャネルに対応したバリエーションを簡単に準備できます。 また、Instagram ストーリーなどのプラットフォーム固有の要件に合わせてレンディションを制作し、アセットが形式、比率、品質のガイドラインを自動的に満たすようにすることもできます。 | `aem-assets-content-optimisation` | Adobe Experience Manager（AEM） - AEM Assets | 「Create a `2000px` rendition as `JPEG` with `80% quality`」 <br><br> 「Create a rendition for an Instagram story」 |
 | ブランドオーバーレイと複合生成 | 正確な配置で既存のアセットにプロモーショングラフィック、オーバーレイ、バッジを適用し、キャンペーンに対応したコンポジットの迅速な作成をサポートします。 | `aem-assets-content-optimisation` | Adobe Experience Manager（AEM） - AEM Assets | 「プロモーションバナーの上に`30%`個の割引グラフィックを配置し、中央から`100px`配置した画像をオーバーレイする」 |
@@ -92,7 +92,7 @@ ht-degree: 6%
 
 ## ブランドガバナンス
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | ガイドラインとセグメントの検索 | セグメント、市場、カテゴリーごとに分類された詳細なブランドガイドラインを取得します | enterprise-context | Adobe Experience Manager（AEM） | 「このブランドのトーンオブボイスのガイドラインは何ですか？」 <br> 「ヘルスの垂直方向で使用される請求項カテゴリのリスト」 |
 | ブランドガイドラインに照らし合わせたコンテンツの評価 | 設定されたブランドチェックに照らし合わせて、公開/編集されたページ、テキストブロック、画像を評価します | aem-governance | Adobe Experience Manager（AEM） | 「このランディングページをSecurBank ガイドラインに照らして評価する」 <br> 「このキャッチフレーズはトーンオブボイスのチェックに合格しますか？」 |
@@ -104,7 +104,7 @@ ht-degree: 6%
 
 ## 顧客理解とデータ活用
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [CJAおよびAA レポートと指標を取得](data-insights/analytics-chat.md) | CJAやAAにリアルタイムでクエリを実行し、指標、ディメンション、セグメント、データビュー、レポートスイートなどを取得できます | `cja`, `aa` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「過去30日間のページビューを表示」 <br> 「マスターデータビューの上位セグメントを一覧表示」 |
 | 比較分析 | チャネル、期間、セグメントをまたいで指標を並べて比較できます | `cja-root-cause-analysis`, `cja`, `aa-root-cause-analysis`, `aa`, `dx-api`, `knowledge-graph` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「チャネル別の収益を月々比較」 <br> 「モバイルとデスクトップのコンバージョンは今四半期でどのように見えますか？」 |
@@ -120,7 +120,7 @@ ht-degree: 6%
 
 ## オーディエンス
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [自然言語からオーディエンスを作成](audiences/create-audience-from-natural-language.md) | 各段階で利用者の承認を得て、ステップバイステップのオーディエンス作成を連携できます | `audience-creation-flow` | Real-Time CDP（RTCDP） | 「過去30日間に購入したユーザーのオーディエンスを作成」 <br> 「カリフォルニア州の価値の高いロイヤルティメンバー向けのセグメントを作成」 |
 | PQL定義の作成 | XDMのプロパティ、行動イベント、既存のオーディエンスからオーディエンス定義を組み立て、集計と時間ウィンドウをサポート | `segment-definition-assembly` | Real-Time CDP（RTCDP） | 「3つ以上の商品を閲覧したが購入しなかったユーザー向けにPQLを作成する」 <br> 「イベント条件に7日間の時間枠を追加する」 |
@@ -132,7 +132,7 @@ ht-degree: 6%
 
 ## ジャーニー
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [自然言語からジャーニーを作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} | テキストプロンプトやアップロードされた画像/フローチャートから、AJOでジャーニー作成を調整できます | `journey-create` | Adobe Journey Optimizer（AJO） | 「登録後にメールを送信し、3日間待ってからフォローアップを送信するウェルカムジャーニーを作成する」 <br> 「アップロードされたこのフローチャート画像からジャーニーを作成する」 |
 | [&#x200B; ジャーニーの競合を分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | オーディエンスの重複、スケジュールの競合、アクティブなジャーニー間の重複排除の問題を検出します | `journey-analyze-conflict` | Adobe Journey Optimizer（AJO） | 「カート放棄ジャーニーは他のジャーニーと競合しますか？」 <br> 「アクティブなジャーニー間のオーディエンスの重複をチェック」 |
@@ -149,7 +149,7 @@ ht-degree: 6%
 ## Journey Optimizer コンテンツ管理
 
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [&#x200B; ブランドガイダンスの適用](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | キャンペーンの声、ライティング、画像、用語、法的ガイダンス用の承認済みブランドガイドラインを検索、選択、適用できます。 | `brand-lookup` | Adobe Journey Optimizer（AJO） | 「Acme ブランドのライティングとビジュアルガイドラインを作成します。」 |
 | [&#x200B; コンテンツの準備状況を確認](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | キャンペーンのコンテンツを見直して、ブランドボイス、編集品質、エンゲージメント、明瞭性、準備状況を確認します。 | `check-content-readiness` | Adobe Journey Optimizer（AJO） | 「このメールのコピーは送信準備ができていますか？」 ブランドボイス、明瞭性、アクセシビリティ、コンプライアンスを確認する。」 |
@@ -169,7 +169,7 @@ ht-degree: 6%
 
 ## マーケティングプログラム
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | プログラムの作成 | 既存のプログラムテンプレートを新しいプログラムに適応し、平易な言語の説明やアップロードされた概要から生成されたスマートキャンペーン、スケジューリング、プレースホルダーメールを活用します | `build-programs` | Adobe Marketo Engage | 「8月の製品デモ用にウェビナー登録プログラムを作成する」 <br><br> 「リードが50点に達したときにトリガーするプログラムを作成する」 <br><br> 「非アクティブな90日間のリードの3通のメール再エンゲージメントシリーズを作成する」 |
 | ブリーフからプログラムを立ち上げる | 平易な言葉で作成した概要やアップロードしたキャンペーンドキュメントを、作業中のプログラムに変換できます。最も近いテンプレートを複製し、スマートキャンペーンやトークンを引き継ぎ、イベントの詳細を更新します。 新しいスマートキャンペーンはレビュー用に非アクティブのままになります | `build-programs` | Adobe Marketo Engage | 「9月10日にシカゴでウェビナーを開催します。 プログラムを自分で設定する&quot;<br><br>&quot;この概要から来月のロードショープログラムを設定し、イベント トークンを更新する&quot; |
@@ -178,7 +178,7 @@ ht-degree: 6%
 
 ## ロイヤルティ
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [&#x200B; ロイヤルティに関する課題の作成、編集、管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | ロイヤルティプログラム管理を簡素化し、迅速化したい | `loyalty` | Adobe Journey Optimizer（AJO） | 「会員に新しい季節の飲み物を試すように促すチャレンジを作成する」 <br> 「最も高い会員の脱落レートでロイヤルティのチャレンジを表示する」 |
 | [&#x200B; ロイヤルティプログラムのパフォーマンスを分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | 自然言語を使用して、ロイヤルティポイント、メンバー層、引き換え、収益指標をクエリし、分析します | `loyalty-insights` | Adobe Journey Optimizer（AJO） | 「2026年8月に付与されたロイヤルティポイント数はいくつですか？」 <br> 「2026年8月の期間中のロイヤルティプログラムの総収益を日別に示してください。」 |
@@ -193,7 +193,7 @@ Adobe Workfront Chatを使用して、キャンペーンメッセージのコピ
 
 ### メッセージのコピー
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [&#x200B; マーケティング概要のキャプチャ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | キャンペーン戦略をキャプチャし、クリエイティブ概要をシードします。 | `capture-marketing-brief` | Adobe Journey Optimizer（AJO） | 「季節ごとの製品発売のためのマーケティング概要を作成する」 <br> 「このキャンペーン戦略をマーケティング概要に変換する」 |
 | [&#x200B; クリエイティブの概要をキャプチャ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | コピー実行仕様を構造化し、コンテンツプランマトリックスを構築します。 | `capture-creative-brief` | Adobe Journey Optimizer（AJO） | 「この承認済みマーケティング概要からクリエイティブ概要を作成する」 <br> 「メールとSMS キャンペーンのコンテンツ プラン マトリックスを作成する」 |
@@ -208,7 +208,7 @@ Adobe Workfront Chatを使用して、キャンペーンメッセージのコピ
 
 ### メールデザイン
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [電子メールを作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | マーケティング目標やブランド入力に基づいて、ブロック構造とスタイルを設定できます。 | `compose-email` | Adobe Journey Optimizer（AJO） | 「ブランドガイドラインに従って、製品リリース用のメールレイアウトを計画する」 <br> 「ヒーローセクション、製品ハイライト、call to actionを含むウェルカムメールを作成する」 |
 | [電子メールを作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | レイアウトプラン、スクリーンショット、Figma デザインリンクからメールHTMLを作成、適応、編集、改良します。 | `build-email` | Adobe Journey Optimizer（AJO） | 「この承認済みレイアウトプランからメール HTMLを作成」 <br> 「このFigma デザインリンクからメールを作成」 |
@@ -226,7 +226,7 @@ Adobe Workfront Chatを使用して、キャンペーンメッセージのコピ
 
 共同作業チャットを使用すると、Adobe Campaign v8での配信の検索と更新、アセットの管理、データモデルの調査、ワークフローの検査、検証、トラブルシューティングを行うことができます。
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | 配信の検索と検査 | 名前、フォルダー、チャネル、ステータスで配信を検索し、チャネルコンテンツやSMTP設定を含む配信の詳細を取得し、再利用可能なメールコンテンツテンプレートを参照し、組み込みの配信レポートを確認します | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | 「名前に「ニュースレター」が含まれるメールコンテンツテンプレートを検索します。」 ・ 「下書きメール配信を表示する」 ・ 「今月失敗した配信の数は？」 ・ 「この配信で使用する件名と送信者は何か？」 |
 | 配信の作成と更新 | チャネルテンプレートと名前付きコンテンツから配信またはテンプレートを作成し、既存の配信のラベルとチャネルごとのメッセージコンテンツを編集します | `create_delivery`, `update_delivery` | Adobe Campaign v8 | 「ニュースレターのコンテンツテンプレートを使用してメールを作成する」 ・ “ Change the subject of the Summer Launch email.” ・ “ Replace the HTML content of this delivery.” |
@@ -249,7 +249,7 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ### 実験の分析と戦略
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | 実験を参照および探索 | 実験の概要、リスト、カウント、生の結果、インサイト、機会などを検索できます | `experiment-explorer` | Adobe Target/Adobe Journey Optimizer | 「自分の実験を表示」 ・ 「アクティブなテストのリスト」 ・ 「実行している実験の数」 |
 | 実験パフォーマンスを分析 | CJAのデータを拡充することで、ポートフォリオのランダウン、1回限りの実験によるヘルスチェック、エグゼクティブブリーフ、各実験間のレポートを指標とともに取得できます | `experiment-analysis` | Adobe Target/Adobe Journey Optimizer | 「A/B テストのパフォーマンスはどうか？」 ・ 「CJA指標を使用して、自分のアクティビティに関するレポートを生成する」 ・「このテストは正常ですか？」 |
@@ -258,7 +258,7 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ### ターゲットアクティビティとオーディエンス
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | ターゲットエンティティを参照 | アクティビティ、オファー、オーディエンス、mbox、プロパティ、ワークスペース、AT.js設定、応答トークン、リビジョン履歴を検索、検査、カウントします。 また、アクティビティが強制したエクスペリエンスのスクリーンショットをキャプチャすることもできます | `target-browse` | Adobe Target | 「自分のA/B テストのリスト」 ・ 「今月のアクティビティの数は？」 ・ 「アクティビティ 12345の詳細を表示」 |
 | アクティビティパフォーマンスの分析 | 1つのアクティビティのコンバージョン率、上昇率、信頼区間、売上、露出の数を取得します。 事実だけを述べ、決して勝者を宣言しない | `target-analyze` | Adobe Target | 「アクティビティ Xのパフォーマンスはどうですか？」 ・ 「コンバージョンリフトを表示する」 ・ 「チェックアウトテストのAOVは何ですか？」 |
@@ -274,7 +274,7 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ### レコメンデーション
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | Recommendations エンティティを参照 | Recommendationsの基準、コレクション、デザイン、プロモーション、除外、カタログ、フィードを参照および検査し、さらにクリーンアップのアドバイスとカタログ属性のガイダンスを取得します | `target-recs` | Adobe Target | 「推奨事項の基準を一覧表示」 ・ 「どのようなデザインを持っていますか？」 ・ 「どの領域をクリーンアップできるか？」 |
 | Recommendationsの問題の診断 | アクティビティ、基準、フィード、コレクション、デザインチェーンをトレースして、レコメンデーションが空であるか、古いか、表示されない理由を説明します | `target-recs-diagnose` | Adobe Target | 「なんで僕の推薦状は空っぽなんだい？」 ・ “ Why has my recs activity been ‘results not ready’ for 48 hours?” 「なぜ私のレック活動は48時間も“結果が出ない”のですか？」 |
@@ -282,7 +282,7 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ## 基本要素
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | 製品情報とドキュメント | Adobeの公式ドキュメントで、ハウツー、概念、トラブルシューティング、ベストプラクティスに関する質問に回答します | `product-knowledge` | すべての対象アプリケーション | 「ストリーミング宛先を設定するにはどうすればよいですか？」 <br> 「バッチセグメントとストリーミングセグメントの違いは何ですか？」 |
 | Experience Platform / Journey Optimizer エンティティのクエリ | プラットフォームエンティティに関する質問の主要なエントリポイントとして機能し、必要に応じてKG、フィールドディスカバリー、またはAPIにルーティングできます | `operational-insights` | すべての対象アプリケーション | 「データセットはいくつありますか？」 <br> 「アクティブなすべてのジャーニーを表示」 <br> 「宛先を一覧表示」 |
@@ -296,20 +296,20 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ## データ管理
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [最適化またはクリーンアップに値するデータを見つける](./data-management/manage-data-lake-retention.md#find-data-worth-optimizing) | 最大のデータセット、使用頻度の低いデータセット、忘れられたデータセットを、クリーンアップやデータレイクの保持ポリシーの候補として表面化することで、エクスペリエンスイベントのデータを最適化できるかどうかを把握できます | `List datasets` | Adobe Experience Platform | 「データを最適化できる気がする」 <br> 「データの値の理解を支援」 <br> 「サンドボックスデータの最適化」 <br> 「サンドボックスデータセットのクリーンアップ」 |
 | [&#x200B; データセットの使用状況を調査し、保持を管理](./data-management/manage-data-lake-retention.md#check-how-actively-a-dataset-is-used) | データセットを詳細に分析し、そのデータセットがどのように使用されているかを確認したら、データレイクの潜在的な保持ポリシーの影響をモデル化し、何か変更する前にレビューと承認を行いながら、そのポリシーを設定、変更、削除します | `Analyze dataset usage`, `Analyze dataset retention`, `Manage dataset retention` | Adobe Experience Platform | 「Web イベントデータセットはどの程度積極的に使用されていますか？」 <br> 「このデータセットに60日間の保持期間を設定した場合、どのような影響があるでしょうか？」 |
 
 ## サンドボックスツール
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | [&#x200B; サンドボックス間でオブジェクトを移動](/help/chat/use-cases/sandbox-tooling/sandbox-tooling.md) | 依存関係を自動解決し、スキーマ、オーディエンス、その他のオブジェクト設定をサンドボックス間でシームレスに移行できます | `sandbox-tooling-workflow` | Adobe Experience Platform | 「スキーマ Luma Loyalty Members Platinumを現在のサンドボックスから実稼動サンドボックスに移動」 <br> 「米国ゴールドロイヤルティメンバーのオーディエンスをステージに昇格させる」 |
 
 ## 顧客アラート
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | アラート購読の管理 | 自然言語の会話を通じて、アラート購読を表示および管理します。 | `alerts-subscribe` | Adobe Experience Platform | 「どのアラートを購読していますか？」 <br><br> 「このアラートを購読してください」 <br><br> 「このアラートの購読を解除してください」 |
 | アラートアクティビティのレビュー | 指定した期間の現在のアラートステータスと過去のアラートアクティビティを確認します。 | `alerts-list` | Adobe Experience Platform | 「過去24時間に何が発生しましたか？」 <br><br> 「過去24時間にトリガーされたアラートは何ですか？」 <br><br> 「過去7日間のアクティブなアラートを表示します。」 |
@@ -321,7 +321,7 @@ Adobe Workfront Chatを使用すれば、エクスペリエンスの閲覧、分
 
 ## ワークフローとプランニング
 
-| 使用例 | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
 | プランニングワークスペースの管理 | Workfront Planningのワークスペース、セクション、レコードタイプ、フィールドを構築および進化させて、プログラムを整理し、作業を追跡できます | `manage-workfront-planning`, `wf-planning-solution-architect` | Workfront Planning | 「MKG Hubというワークスペースを作成し、地域ごとにプログラムを追跡するためのレコードタイプを設定する」 <br> 「チャネルと地域をまたいでMKG プログラムを追跡するために必要なレコードタイプと関係を設定する」 |
 | プランニングレコードの管理 | ワークスペース内でプランニングレコード（キャンペーン、ブリーフ）とそのフィールド値を作成および更新します | `manage-workfront-planning` | Workfront Planning | 「目標、ターゲットオーディエンス、およびキーメッセージを使用して、秋のブランド立ち上げキャンペーンの概要を作成する」 <br> 「予算とプライマリチャネルを使用して秋のブランド立ち上げ概要を更新する」 |
