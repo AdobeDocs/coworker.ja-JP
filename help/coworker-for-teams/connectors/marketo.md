@@ -22,7 +22,7 @@ Adobe Workfront for teamsを利用すれば、Marketo Engageアカウントを�
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
+>* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
 
 ## つながる方法
 
