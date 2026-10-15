@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Coworker for teamsは、コンテンツの生成、ジャーニーの構築、分析を単一のツールで必要とする、より俊敏性の高いマーケティングチームを抱える小規模な組織向けに設計されています。
 
-現時点では、AIに関するあらゆるやり取りが、[ キャンペーン生成](/help/coworker-for-teams/create-an-email-campaign.md)に向けて送信されます。 近日中に追加機能を予定しています。
+現時点では、AIに関するあらゆるやり取りが、[&#x200B; キャンペーン生成](/help/coworker-for-teams/create-an-email-campaign.md)に向けて送信されます。 近日中に追加機能を予定しています。
 
 ## アクセス方法
 
@@ -38,7 +38,7 @@ Coworker for teamsは、コンテンツの生成、ジャーニーの構築、�
 
 1. （オプション） コンテンツを生成する際にデザインを適用する共同作業者用の&#x200B;**電子メールテンプレート**&#x200B;の下にHTML電子メールテンプレートをアップロードします。
 
-   ![ チーム向け共同作業者の体験版のウェルカムスクリーン ](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![&#x200B; チーム向け共同作業者の体験版のウェルカムスクリーン &#x200B;](./assets/overview-1.png){width="800" zoomable="yes"}
 
 最初のキャンペーンを生成する準備が整いました。
 
@@ -46,7 +46,7 @@ Coworker for teamsは、コンテンツの生成、ジャーニーの構築、�
 
 Coworker for teamsのインターフェイスは、左側のナビゲーションに配置されています。
 
-![ ホーム画面](./assets/overview-2.gif)
+![&#x200B; ホーム画面](./assets/overview-2.gif)
 
 | 左ナビゲーションメニュー | 目的 |
 |---|---|
