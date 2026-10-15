@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '750'
 ht-degree: 4%
 ---
 # Adobe CX Enterprise Coworker チャットの概要 {#overview}
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 その価値：以前は複数のスクリーン、チーム、日にまたがっていた作業が、今では1回の会話で数分で完了するようになりました。 結果を委任し、レビューと承認を通じて管理を維持します。同僚のチャットは手順を実行し、その過程でのエラーから回復し、チームの作業を学習するにつれてシャープになります。
 
-[同僚チャットを始める](ui-guide.md)を参照してください。
+開始するには、[同僚チャットの開始](ui-guide.md)を参照してください。
 
 >[!AVAILABILITY]
 >
@@ -72,4 +72,4 @@ Coworker ChatはCoworkerのビルディングブロックを活用していま�
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
