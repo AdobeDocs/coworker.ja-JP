@@ -5,7 +5,7 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 17%
@@ -17,13 +17,13 @@ ht-degree: 17%
 - チャット {#chat}
   - [概要](./chat/overview.md)
   - [チャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
       - [概要](./chat/use-cases/data-insights/analytics-overview.md)
       - [基本を学ぶ](./chat/use-cases/data-insights/analytics-chat.md)
-      - データガバナンスと検証 {#data-governance-and-validation}
+      - インテリジェントな実装と管理 {#intelligent-implementation-and-administration}
         - [概要](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Adobe Experience Manager Sites導入計画](./chat/use-cases/data-insights/implementation-guide.md)
         - [実装チェックリストの生成](./chat/use-cases/data-insights/intelligent-checklist.md)
@@ -44,7 +44,7 @@ ht-degree: 17%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -83,7 +83,7 @@ ht-degree: 17%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - チームで共同作業 {#coworker-for-teams}
-  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./coworker-for-teams/new-teams-experience.md)
+  - {hide-from-toc}[新しいチーム エクスペリエンス ](./coworker-for-teams/new-teams-experience.md)
   - [概要](./coworker-for-teams/overview.md)
   - [メールキャンペーンの作成](./coworker-for-teams/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./coworker-for-teams/launch-manage-campaign.md)
