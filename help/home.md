@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 18%
@@ -23,7 +23,7 @@ ht-degree: 18%
 [!DNL Coworker]は3つのエクスペリエンスを通じて配信されます：
 
 * **[共同作業者[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。
-* **[同僚[!UICONTROL &#x200B; キャンペーン &#x200B;]](./campaigns/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。
+* **[チームの同僚[!UICONTROL 様]](./coworker-for-teams/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。
 * **共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] （近日リリース予定）:** チームがプロセス、承認、共同作業者の自律性レベルを設定する、長期的な部門横断的なエンタープライズワークフロー。
 
 ## 同僚を有効にする方法
@@ -36,7 +36,7 @@ ht-degree: 18%
 
 * **アクセス：** Adobe [Admin Console](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/admin-console)で、チームの役割を割り当てて、共同作業者機能にアクセスできるようにします。
 
-* **基本を学ぶ：** Coworkerが有効になったら、[UI ガイド &#x200B;](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴、スキル、MCP サーバー、メモリ設定など、Coworker Chat インターフェイスの使用方法を確認します。
+* **開始：**&#x200B;同僚が有効になったら、[同僚チャットを開始](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴、スキル、MCP サーバー、メモリ設定など、同僚チャット インターフェイスに関する使用方法を確認します。
 
 ## 同僚とのチャットの使用に関するビデオ
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 共同作業者キャンペーン
-
-Coworker Campaignsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためのテンプレート化された機能です。
-
-* [概要](./campaigns/overview.md)
-* [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
-* [ユースケース](./campaigns/use-cases.md)
-* [プロンプトのベストプラクティス](./campaigns/prompting-best-practices.md)
-* [Marketo Engageに接続](./campaigns/connectors/marketo.md)
-* [Hubspotへの接続](./campaigns/connectors/hubspot.md)
-
 ## プロジェクト（近日リリース予定）
 
 Coworker Projectsは、戦略から納品に至るまでの顧客体験ワークフローを自動化するための共有ワークスペースです。 チームは、タスク、承認、実行を調整するために利用します。
+
+## チームで共同作業
+
+Coworker for teamsは、小規模なアジャイルチームが立ち上がり、キャンペーンを実行するためにテンプレート化された機能です。
+
+**人気の記事**
+
+* [概要](./coworker-for-teams/overview.md)
+* [メールキャンペーンの作成](./coworker-for-teams/create-an-email-campaign.md)
+* [ユースケース](./coworker-for-teams/use-cases.md)
+* [プロンプトのベストプラクティス](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: Coworker Unlocked シリーズ
 

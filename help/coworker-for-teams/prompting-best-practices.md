@@ -1,5 +1,5 @@
 ---
-description: 共同作業者向けキャンペーンのプロンプト作成のベストプラクティス（CO-STAR フレームワーク、すべきこと、してはいけないこと、サポートされていないコンテンツ、プロンプトの質の高いチェックリスト）について説明します。
+description: 共同作業によるベストプラクティス - CO-STAR フレームワーク、Do'sとDon't、サポートされていないコンテンツ、プロンプトの質の高いチェックリストなど、共同作業に関するベストプラクティスについて説明します。
 title: プロンプト作成のベストプラクティス
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 23%
 ---
 # プロンプトのベストプラクティス {#best-practices}
 
-「同僚キャンペーンを最大限に活用するには」は、プロンプトの作成から始まります。 最良の結果を生み出すベストプラクティスについて説明します。プロンプトを構造化するCO-STAR フレームワーク、含めるべき事項と回避すべき事項、AIに関連性の高いターゲットに即したコンテンツを生成するために必要なコンテキストを提供するシナリオベースの例です。
+チームがCoworkerを最大限に活用するには、まず、プロンプトを作成する方法から始めます。 最良の結果を生み出すベストプラクティスについて説明します。プロンプトを構造化するCO-STAR フレームワーク、含めるべき事項と回避すべき事項、AIに関連性の高いターゲットに即したコンテンツを生成するために必要なコンテキストを提供するシナリオベースの例です。
 
 >[!NOTE]
 >
->現在、Coworker Campaignsでサポートされている統合にのみ接続できます。 オーディエンスの保存やジャーニーの構築を行う既存のAdobe Enterprise アプリケーションがある場合は、代わりに[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)を使用することをお勧めします。
+>現在、Coworkerに接続できるのは、チームがサポートする統合のみです。 オーディエンスの保存やジャーニーの構築を行う既存のAdobe Enterprise アプリケーションがある場合は、代わりに[CX Enterprise Coworker](/help/chat/use-cases/workflows.md)を使用することをお勧めします。
 
 ## CO-STAR フレームワークの使用
 
@@ -179,4 +179,4 @@ AIが関連性の高いコンテンツを生成できるように、コンテキ
 
 >[!MORELIKETHIS]
 >
->同僚キャンペーンの[&#x200B; プロンプトパターン &#x200B;](use-cases.md)を参照します。
+>グループ版Coworkerの[&#x200B; プロンプトパターン &#x200B;](use-cases.md)を参照します。

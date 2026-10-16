@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '224'
 ht-degree: 1%
 ---
 # Salesforceに接続 {#salesforce}
 
-Adobe Coworker Campaignsを使用すると、Salesforce アカウントを接続して、リードと連絡先にアクセスできます。
+Adobe Workfront グループ版では、Salesforce アカウントを接続して、リードと連絡先にアクセスできます。
 
 >[!PREREQUISITES]
 >
@@ -26,9 +26,9 @@ Adobe Coworker Campaignsを使用すると、Salesforce アカウントを接続
 
 ## つながる方法
 
-1. [同僚キャンペーンのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
-   ![同僚キャンペーンがナビゲーションを残し、展開をカスタマイズおよびコネクタがハイライト表示される](./assets/salesforce-1.png)
+   カスタマイズが展開され、コネクタがハイライト表示された状態でナビゲーションを残した![&#x200B; チームの同僚](./assets/salesforce-1.png)
 
 1. 「**統合を追加**」をクリックします。
 

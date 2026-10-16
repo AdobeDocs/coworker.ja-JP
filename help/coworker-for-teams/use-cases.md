@@ -1,24 +1,24 @@
 ---
-description: Adobe CX Enterprise Coworkerキャンペーンのプロンプトパターンを確認できます。このパターンは、獲得、エンゲージメント、イベント、コンバージョン、リテンションキャンペーンをまたいで、ユースケースごとに整理されています。
-title: 共同作業キャンペーンのユースケース
+description: 顧客獲得、エンゲージメント、イベント、コンバージョン、リテンションの施策をまたいで、ユースケースごとに整理された、Adobe Adobe CX Enterprise Coworkerのチーム向けプロンプトパターンを確認できます。
+title: チーム向け共同作業のユースケース
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # ユースケース {#use-cases}
 
-以下に、ライフサイクルマーケターやグロースマーケターがAdobe CX Enterprise Coworker Campaignsで使用している実際のプロンプトパターンを示します。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
+以下に、ライフサイクルマーケターやグロースマーケターがAdobe CX Enterprise Coworker for teamsで使用している実際のプロンプトパターンを示します。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
 
 ## 使用方法
 
-目標に合ったユースケースを選択し、サンプルプロンプトをコピーしてCoworker Campaignsに貼り付け、プレースホルダーを詳細に置き換え、チャットを通じて出力を調整します。 ステップバイステップの詳細については、キャンペーンの構築と生成に進みます。
+目標に合ったユースケースを選択し、サンプルプロンプトをコピーしてCoworker for teamsに貼り付け、プレースホルダーを詳細に置き換え、チャットを通じて出力を調整します。 ステップバイステップの詳細については、キャンペーンの構築と生成に進みます。
 
 ## 顧客獲得とオンボーディング
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 最適な用途：季節限定のプッシュ、コレクションのドロップ、モーメントの更新。
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## イベントとモーメント主導
 

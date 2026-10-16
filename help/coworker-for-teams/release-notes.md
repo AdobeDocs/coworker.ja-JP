@@ -1,20 +1,20 @@
 ---
-description: Adobe CX Enterprise Coworker Campaigns リリースノートで、機能の機能強化と修正について説明します。
-title: CX Enterprise Coworker Campaigns リリースノート
+description: Adobe CX Enterprise Coworker グループ版リリースノートで、機能の機能強化と修正について説明します。
+title: CX Enterprise Coworker グループ版リリースノート
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Adobe CX Enterprise Coworker Campaigns リリースノート {#release-notes}
+# Adobe CX Enterprise Coworker グループ版リリースノート {#release-notes}
 
-Coworker Campaignsのリリースは、継続的な配信モデルにもとづいて運用されるため、機能のデプロイメントに対してよりスケーラブルで段階的なアプローチが可能になります。
+Coworker for teamsのリリースは、継続的な配信モデルにもとづいて運用されるため、機能のデプロイメントに対するよりスケーラブルで段階的なアプローチが可能になります。
 
 ## 2026年9月 {#sep-2026}
 
@@ -173,7 +173,7 @@ Coworker Campaignsのリリースは、継続的な配信モデルにもとづ�
 * キャンペーンのインサイトは、各指標を強化するデータソースを示します
 * ブランドエディターがオンボーディングに組み込まれ、よりスムーズな初回設定が可能になりました
 * キャンペーンにコミットする前に、サンプルオーディエンスをプレビューします
-* 共同作業キャンペーンは、統合されたExperience Cloud ナビゲーションシェル内に存在するようになりました
+* 現在、チームメンバーは統合されたExperience Cloud ナビゲーションシェルの中に存在します
 * クリーナーキャンペーンボードのフローティングフィードバックチップバーを削除しました
 * 全体を通して様々なパフォーマンスと信頼性の向上
 
@@ -276,7 +276,7 @@ Coworker Campaignsのリリースは、継続的な配信モデルにもとづ�
 
 **リリース日：2026年6月10日**
 
-* アプリはCoworker Campaignsに移行されました。このキャンペーンの命名規則は
+* アプリは現在、チームの共同作業を行い、全体に名前が更新されています
 * 初回のオンボーディングツアーでは、デモブランドの構築について説明します
 * プランの準備が整ったら、専用ダイアログからキャンペーンを開始します
 * 統合カタログのAPI キーでHubSpotを接続します
@@ -370,7 +370,7 @@ Coworker Campaignsのリリースは、継続的な配信モデルにもとづ�
 
 * キャンペーンボードとリストは、作業中も最新の情報と整合します
 * 明確な生成AIの免責事項がキャンペーンチャットとエージェントビルダーに表示される
-* サポートの連絡先の詳細では、専用のCX Coworker Campaigns メールアドレスを使用するようになりました
+* サポートの連絡先の詳細では、専用のCX Coworker グループ版の電子メールアドレスを使用するようになりました
 * マーケティングホームページでは、キャンセル待ちのセクションが削除され、ヒーロービデオがより明確に表示されます
 * 言語とローカルの日付形式を自動的に尊重する画面が増えています
 * 全体を通して様々なパフォーマンスと信頼性の向上

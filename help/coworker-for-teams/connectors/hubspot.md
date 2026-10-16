@@ -1,5 +1,5 @@
 ---
-description: HubSpot アカウントをCoworker Campaignsにサービスキーを使用して連絡先リストを同期し、いつでも統合を管理または切断できます。
+description: HubSpot アカウントをCoworker for teamsに接続し、サービスキーを使用して連絡先リストを同期し、いつでも統合を管理または切断できます。
 title: HubSpotへの接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 0%
 ---
 # HubSpotへの接続 {#hubspot}
 
-Adobe Coworker Campaignsを使用すると、HubSpot アカウントを接続して連絡先リストを取得できます。
+Adobe Coworker for teamsを使用すると、HubSpot アカウントを接続して連絡先リストを取得できます。
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Adobe Coworker Campaignsを使用すると、HubSpot アカウントを接続し
 
 ## つながる方法
 
-1. [同僚キャンペーンのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
    ![&#x200B; コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
 

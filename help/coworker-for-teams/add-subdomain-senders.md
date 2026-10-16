@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 5%
+source-wordcount: '383'
+ht-degree: 4%
 ---
 # サブドメインと送信者の追加 {#subdomain-senders}
 
@@ -54,19 +54,19 @@ ht-degree: 5%
    >
    >DNS プロバイダーでフィールドを一括アップロードできる場合は、**CSVを書き出し**&#x200B;をクリックしてすべてのフィールドを書き出すことができます。
 
-1. DNS プロバイダーに情報を入力したら、**Coworker Campaignsでこれらのレコードを追加しました**&#x200B;をクリックして続行します。
+1. DNS プロバイダーに情報を入力したら、**Coworkerでこれらのレコードを追加しました**&#x200B;をクリックして、続行します。
 
    SCREENSHOT
 
    >[!NOTE]
    >
-   >DNSの変更が反映されるまでに最大30分かかる場合があります。 いずれかの行に緑色のチェックではなく赤いXが表示された場合、Coworker Campaignsは完了するまで2分ごとにチェックを行います。
+   >DNSの変更が反映されるまでに最大30分かかる場合があります。 いずれかの行に緑色のチェックではなく赤いXが表示された場合、Coworker for teamsは、完了するまで2分ごとにチェックを行います。
 
 1. すべてのレコードが検証されると、_検証レコード_ テーブルがウィンドウの下部に表示されます。 下にスクロールして、リストされたすべての値をコピーし、DNS プロバイダーに追加します。
 
    SCREENSHOT
 
-1. 完了したら、「**このレコードを追加しました**」（複数の場合は&#x200B;**これらのレコード**）をクリックして続行します。
+1. 完了したら、「**このレコードを追加しました**」（複数の場合は&#x200B;**これらのレコード**）をクリックして、続行します。
 
    SCREENSHOT
 
@@ -85,4 +85,3 @@ ht-degree: 5%
 ## 送信者の追加方法
 
 テキスト
-

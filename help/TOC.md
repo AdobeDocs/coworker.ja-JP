@@ -5,10 +5,10 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 18%
+source-wordcount: '233'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -16,7 +16,7 @@ ht-degree: 18%
 - [同僚の概要](home.md)
 - チャット {#chat}
   - [概要](./chat/overview.md)
-  - [UI ガイド](./chat/ui-guide.md)
+  - [チャットを始める](./chat/ui-guide.md)
   - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
   - ユースケース {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
@@ -66,15 +66,15 @@ ht-degree: 18%
     - [組織のプラグインの管理](./customizations/plugins/manage-plugins-for-your-org.md)
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
-- キャンペーン {#campaigns}
-  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./campaigns/new-teams-experience.md)
-  - [概要](./campaigns/overview.md)
-  - [メールキャンペーンの作成](./campaigns/create-an-email-campaign.md)
-  - [キャンペーンの立ち上げと管理](./campaigns/launch-manage-campaign.md)
-  - [ユースケース](./campaigns/use-cases.md)
-  - [プロンプトのベストプラクティス](./campaigns/prompting-best-practices.md)
-  - [C2PA メタデータ](./campaigns/c2pa-metadata.md)
+- チームで共同作業 {#coworker-for-teams}
+  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./coworker-for-teams/new-teams-experience.md)
+  - [概要](./coworker-for-teams/overview.md)
+  - [メールキャンペーンの作成](./coworker-for-teams/create-an-email-campaign.md)
+  - [キャンペーンの立ち上げと管理](./coworker-for-teams/launch-manage-campaign.md)
+  - [ユースケース](./coworker-for-teams/use-cases.md)
+  - [プロンプトのベストプラクティス](./coworker-for-teams/prompting-best-practices.md)
+  - [C2PA メタデータ](./coworker-for-teams/c2pa-metadata.md)
   - コネクタ {#connectors}
-    - [Marketo Engage](./campaigns/connectors/marketo.md)
-    - [Hubspot](./campaigns/connectors/hubspot.md)
-  - [リリースノート](./campaigns/release-notes.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+  - [リリースノート](./coworker-for-teams/release-notes.md)

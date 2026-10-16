@@ -1,5 +1,5 @@
 ---
-description: Marketo スマートリストと静的リストを同期できるように、Marketo Engage アカウントをCoworker Campaignsに接続する方法について説明します。
+description: Marketoのスマートリストと静的リストを同期できるように、Marketo Engage アカウントをCoworker for teamsに接続する方法について説明します。
 title: Marketo Engageに接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '316'
 ht-degree: 0%
 ---
 # Marketo Engageに接続 {#marketo}
 
-Adobe Workfront Campaignsを利用すれば、Marketo Engageアカウントを接続して、スマートリストと静的リストを取得できます。
+Adobe Workfront for teamsを利用すれば、Marketo Engageアカウントを接続して、スマートリストと静的リストを取得できます。
 
 >[!PREREQUISITES]
 >
@@ -22,13 +22,13 @@ Adobe Workfront Campaignsを利用すれば、Marketo Engageアカウントを�
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* MarketoのCoworker Campaigns用に[&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)が作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
+>* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
 
 ## つながる方法
 
-1. [同僚キャンペーンのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
-   ![同僚キャンペーンがナビゲーションを残し、展開をカスタマイズおよびコネクタがハイライト表示される](./assets/marketo-1.png)
+   カスタマイズが展開され、コネクタがハイライト表示された状態でナビゲーションを残した![&#x200B; チームの同僚](./assets/marketo-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
