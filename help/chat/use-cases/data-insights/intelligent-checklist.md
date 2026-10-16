@@ -1,8 +1,7 @@
 ---
 title: Coworker プロジェクトでの実装チェックリストの生成
 description: Coworker Projectsが、実装ガイド計画から事前入力された実装チェックリストを生成する方法と、割り当てて追跡できる手順について説明します。
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%

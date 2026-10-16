@@ -1,8 +1,7 @@
 ---
 title: Adobe Customer Journey AnalyticsまたはStreaming Mediaの実装計画を共同作業で行う
 description: Coworkerの実装ガイドスキルが、エクスポート可能なチェックリストを使用して、ディスカバリーディスカバリーの会話を、パーソナライズされた順序付きの実装計画に変える方法を説明します。
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
