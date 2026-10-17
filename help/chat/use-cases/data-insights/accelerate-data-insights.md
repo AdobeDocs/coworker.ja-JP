@@ -19,5 +19,5 @@ ht-degree: 0%
 Adobe CX Enterprise Coworkerが、Adobe Experience Manager（AEM）、Adobe Experience Platform（AEP）、Web SDK、Customer Journey Analytics（CJA）をまたいで、データインサイトの目標を、連続性のある導入ワークフローに変えるのにどのように役立つのかをご覧ください。 WKND web サイトのエンゲージメントデータがCJAで分析可能になるまで、Coworkerがどのように実装計画を立て、サポートされるアクションを実行し、製品と開発の手順をガイドし、ワークフロー全体のコンテキストを維持するかを説明します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3504567/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504568/?captions=jpn&learn=on&enablevpops)
 
