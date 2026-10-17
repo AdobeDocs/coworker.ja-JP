@@ -5,9 +5,9 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '275'
 ht-degree: 17%
 ---
 
@@ -21,13 +21,28 @@ ht-degree: 17%
   - ユースケース {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
-      - {hide-from-toc}[概要](./chat/use-cases/data-insights/analytics-overview.md)
+      - [概要](./chat/use-cases/data-insights/analytics-overview.md)
       - [基本を学ぶ](./chat/use-cases/data-insights/analytics-chat.md)
-      - [トレンドと根本原因を探る](./chat/use-cases/data-insights/root-cause-analysis.md)
-      - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
-      - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
-      - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
-      - [データインサイトの獲得](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - インテリジェントな実装と管理 {#intelligent-implementation-and-administration}
+        - [概要](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Adobe Experience Manager Sites導入計画](./chat/use-cases/data-insights/implementation-guide.md)
+        - [実装チェックリストの生成](./chat/use-cases/data-insights/intelligent-checklist.md)
+        - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [ストリーミングメディア実装の検証](./chat/use-cases/data-insights/streaming-media-validation.md)
+        - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
+        - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [データインサイトの獲得](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - ジャーニー分析 {#journey-analysis}
+        - [概要](./chat/use-cases/data-insights/journey-analysis.md)
+      - オーディエンスとセグメント分析 {#audience-and-segment-analysis}
+        - [概要](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+      - 業績 {#business-performance}
+        - [概要](./chat/use-cases/data-insights/business-performance.md)
+        - [トレンドと根本原因を探る](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - コンテンツパフォーマンス {#content-performance}
+        - [概要](./chat/use-cases/data-insights/content-performance.md)
+      - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
+        - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
       - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
@@ -36,6 +51,7 @@ ht-degree: 17%
       - [プラットフォームの健全性を評価し、オーディエンスを構築する](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [クロスチャネルジャーニーの作成、シミュレーション、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - ロイヤルティ {#loyalty}
       - [ロイヤルティに関する課題を作成し、インサイトを獲得](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - 最適化 {#optimization}

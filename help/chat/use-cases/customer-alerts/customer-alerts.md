@@ -1,7 +1,27 @@
 ---
 title: 顧客アラートスキル
 description: CX Coworkerの顧客アラートスキルを使用して、自然言語の会話を通じてアラートアクティビティをレビュー、分析、優先順位付けする方法を説明します。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+jira: KT-22913
+last-substantial-update: '2026-10-16T00:00:00.000Z'
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+feature_v2:
+  - id: a7150a74-b8a9-4042-b066-147c5f0ca505
+    internal-label: Alerts
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 0a9cfeaf54221e004e0422766f8bd1bb4d078dea
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -18,6 +38,8 @@ ht-degree: 4%
 CX Coworkerの顧客アラートスキルを活用して、アラート活動をパーソナライズされた運用上のブリーフィングに変換します。 最近のアラートを確認し、優先度の高い問題を特定して、影響を受けるリソースを把握し、自然言語の会話を通じて調査の取り組みを注力できます。
 
 顧客アラートスキルは、アラートビューを手動で確認したり、複数のインターフェイス間で情報を関連付けたりすることなく、アラートシグナルから実用的なインサイトに移行するのに役立ちます。 最近のアラート活動に関する大まかな質問から始め、フォローアップ質問を使用して繰り返し発生するアラートパターンを特定し、影響を受けるオブジェクトを分析して、自分が所有するアラートに焦点を当てます。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 顧客アラートについて詳しくは、[顧客アラートの概要](https://experienceleague.adobe.com/ja/docs/experience-platform/observability/alerts/overview)を参照してください。
 
