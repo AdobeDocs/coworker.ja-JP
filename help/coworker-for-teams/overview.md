@@ -7,16 +7,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 68132acaa3dfbefa1e9cda9fad724f17c7e5f065
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '983'
 ht-degree: 0%
 ---
-# Adobe CX Enterprise Coworker グループ版の概要 {#overview}
+# チームでの共同作業の概要 {#overview}
 
 Coworker for teamsは、コンテンツの生成、ジャーニーの構築、分析を単一のツールで必要とする、より俊敏性の高いマーケティングチームを抱える小規模な組織向けに設計されています。
 
-現時点では、AIに関するあらゆるやり取りが、[&#x200B; キャンペーン生成](/help/coworker-for-teams/create-an-email-campaign.md)に向けて送信されます。 近日中に追加機能を予定しています。
+現時点では、AIに関するあらゆるやり取りが、[ キャンペーン生成](/help/coworker-for-teams/create-an-email-campaign.md)に向けて送信されます。 近日中に追加機能を予定しています。
 
 ## アクセス方法
 
@@ -38,7 +38,7 @@ Coworker for teamsは、コンテンツの生成、ジャーニーの構築、�
 
 1. （オプション） コンテンツを生成する際にデザインを適用する共同作業者用の&#x200B;**電子メールテンプレート**&#x200B;の下にHTML電子メールテンプレートをアップロードします。
 
-   ![&#x200B; チーム向け共同作業者の体験版のウェルカムスクリーン &#x200B;](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![ チーム向け共同作業者の体験版のウェルカムスクリーン ](./assets/overview-1.png){width="800" zoomable="yes"}
 
 最初のキャンペーンを生成する準備が整いました。
 
@@ -46,7 +46,7 @@ Coworker for teamsは、コンテンツの生成、ジャーニーの構築、�
 
 Coworker for teamsのインターフェイスは、左側のナビゲーションに配置されています。
 
-![&#x200B; ホーム画面](./assets/overview-2.gif)
+![ ホーム画面](./assets/overview-2.gif)
 
 | 左ナビゲーションメニュー | 目的 |
 |---|---|
@@ -114,7 +114,7 @@ Coworker for teamsは、アクティブな開発における製品です。 次�
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3492808?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 新しい機能は、体験版中に出荷されます。 フィードバックは、次のステップを決定するのに役立ちます。 ヘッダーの製品内フィードバックアイコンを介してフィードバックを送信します。
