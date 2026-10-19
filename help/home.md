@@ -22,9 +22,9 @@ ht-degree: 17%
 
 [!DNL Coworker]は3つのエクスペリエンスを通じて配信されます：
 
-* **[共同作業者[!UICONTROL  チャット ]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。 チャットは、アカウントチームを通じてライセンスされ、有効になっています。
+* **[共同作業者[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。 チャットは、アカウントチームを通じてライセンスされ、有効になっています。
 * **[チームの同僚[!UICONTROL 様]](./coworker-for-teams/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。 Coworker for teamsは、2026年12月31日に終了する独自のURLでセルフサービスの無料トライアルであり、北米のみです。
-* **共同作業者[!UICONTROL  プロジェクト ] （近日リリース予定）:** チームがプロセス、承認、共同作業者の自律性レベルを設定する、長期的な部門横断的なエンタープライズワークフロー。
+* **共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] （近日リリース予定）:** チームがプロセス、承認、共同作業者の自律性レベルを設定する、長期的な部門横断的なエンタープライズワークフロー。
 
 ## 共同作業者チャットを有効にする方法
 
@@ -38,11 +38,11 @@ ht-degree: 17%
 
 * **基本を学ぶ：** Coworkerを有効にしたら、[Coworker Chatの基本を学ぶ](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴など、Coworker Chat インターフェイスに関する使用方法を確認します。
 
-チームに合わせてCoworker チャットをカスタマイズするには、[ スキル ](./customizations/skills/what-are-skills.md)、[統合](./customizations/integrations/understanding-integrations-in-coworker.md)、[ プラグイン ](./customizations/plugins/what-are-plugins.md)、[ メモリ ](./customizations/memory/what-is-memory.md)を参照するか、[ カスタマイズの概要](./customizations/overview.md)から始めます。
+チームに合わせてCoworker チャットをカスタマイズするには、[&#x200B; スキル &#x200B;](./customizations/skills/what-are-skills.md)、[統合](./customizations/integrations/understanding-integrations-in-coworker.md)、[&#x200B; プラグイン &#x200B;](./customizations/plugins/what-are-plugins.md)、[&#x200B; メモリ &#x200B;](./customizations/memory/what-is-memory.md)を参照するか、[&#x200B; カスタマイズの概要](./customizations/overview.md)から始めます。
 
 ## 同僚とのチャットの使用に関するビデオ
 
-これらのビデオプレイリストでは、[!UICONTROL  チャット ]の主な機能と、効果的なプロンプトの作成方法について説明し、[!DNL Coworker]が[!DNL CX Enterprise]製品をまたいでより効率的に作業する方法の実用的な例を紹介します。
+これらのビデオプレイリストでは、[!UICONTROL &#x200B; チャット &#x200B;]の主な機能と、効果的なプロンプトの作成方法について説明し、[!DNL Coworker]が[!DNL CX Enterprise]製品をまたいでより効率的に作業する方法の実用的な例を紹介します。
 
 <!--
 CARDS
