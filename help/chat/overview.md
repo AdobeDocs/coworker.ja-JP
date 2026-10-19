@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
 workflow-type: tm+mt
-source-wordcount: '751'
-ht-degree: 4%
+source-wordcount: '719'
+ht-degree: 6%
 ---
-# Adobe CX Enterprise Coworker チャットの概要 {#overview}
+# さらに詳しく {#overview}
 
 同僚とのチャットは、顧客体験を実現するための会話型インターフェイスです。 目標を平易な言葉で説明し（例：「春のヨガプロモーションのオーディエンスを作成する」、または「このオーディエンスが先週縮小した理由を教えてください」）、Coworker Chatが作業を計画し、Adobeと接続されたシステムをまたいで実行し、結果を検証し、完成した作業を承認のために返します。
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている機能について、利用可能なスキルとコネクタの節を確認してください。
+>Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[ スキル ](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ ht-degree: 4%
 
 ## AI アシスタントによる進化
 
-AI アシスタントとAdobe Experience Platform Agent Orchestratorをすでに使用している場合は、次の段階としてCoworker Chatが挙げられます。 AI アシスタントは同僚とのチャットへと進化しています。 Adobeの専用エージェント（製品情報、運用とデータのインサイト、会話型エクスペリエンス）を呼び出すことで、今日のAI アシスタントで実行できるあらゆる作業が引き続き利用可能です。 Coworker Chatは、Coworkerのビルディングブロック（企業のハーネス、スキル、ガバナンス、メモリ）に支えられており、同じ会話を単なる回答の枠を超えて、エンドツーエンドで作業を完了することができます。
+共同作業者チャットは、[AI アシスタント ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットは、会話が質問に答えるだけでなく、作業を完了できるようにする[構成要素](#building-blocks)を追加します。
 
 ## チャット体験
 
@@ -40,10 +40,6 @@ AI アシスタントとAdobe Experience Platform Agent Orchestratorをすでに
 * **提案およびフォローアッププロンプト：**&#x200B;同僚チャットは次のステップを提案するので、何を求めるべきかを推測する必要はありません。
 * **会話履歴：**&#x200B;過去の会話は保存されるので、以前の作業に戻り、中断した場所から再開し、共同作業者チャットで生成した内容を再利用できます。
 * **組み込みのフィードバック：**&#x200B;何が効果的で何が効果的でなかったかをCoworker Chatに伝えるために、親指を上げたり下げたりして任意の応答を評価します。フィードバックは、時間の経過とともにエクスペリエンスを改善するのに役立ちます。
-
->[!NOTE]
->
->エクスペリエンスが完成したら、インターフェイスのスクリーンショットが追加されます。
 
 ## 互換性のあるCX Enterprise アプリケーション
 
@@ -72,4 +68,4 @@ Coworker ChatはCoworkerのビルディングブロックを活用していま�
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
