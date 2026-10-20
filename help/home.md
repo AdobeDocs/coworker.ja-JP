@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
+source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 18%
+source-wordcount: '979'
+ht-degree: 17%
 ---
 # CX Enterprise Coworker ガイド {#overview}
 
@@ -22,13 +22,13 @@ ht-degree: 18%
 
 [!DNL Coworker]は3つのエクスペリエンスを通じて配信されます：
 
-* **[共同作業者[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。
-* **[チームの同僚[!UICONTROL 様]](./coworker-for-teams/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。
+* **[共同作業者[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md):**&#x200B;自然言語でAdobe アプリケーション全体のインサイト、コンテンツ、アクションを求めます。 チャットは、アカウントチームを通じてライセンスされ、有効になっています。
+* **[チームの同僚[!UICONTROL 様]](./coworker-for-teams/overview.md):**&#x200B;は、アジャイルマーケティングチームがキャンペーン目標から調整された実行に移行するのを支援します。 Coworker for teamsは、2026年12月31日に終了する独自のURLでセルフサービスの無料トライアルであり、北米のみです。
 * **共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] （近日リリース予定）:** チームがプロセス、承認、共同作業者の自律性レベルを設定する、長期的な部門横断的なエンタープライズワークフロー。
 
-## 同僚を有効にする方法
+## 共同作業者チャットを有効にする方法
 
-共同作業者（共同作業者チャットを含む）を有効にするには、組織でAdobe CX Enterprise Coworkerにアクセスする必要があります。 イネーブルメントには、通常、次のことが含まれます。
+共同作業者チャットを有効にするには、組織でAdobe CX Enterprise Coworkerにアクセスする必要があります。 イネーブルメントには、通常、次のことが含まれます。
 
 * **ライセンス：** Adobeのアカウント担当者または営業担当者に連絡して、適切なライセンスと使用権限があることを確認してください。
 
@@ -36,7 +36,9 @@ ht-degree: 18%
 
 * **アクセス：** Adobe [Admin Console](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/admin-console)で、チームの役割を割り当てて、共同作業者機能にアクセスできるようにします。
 
-* **開始：**&#x200B;同僚が有効になったら、[同僚チャットを開始](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴、スキル、MCP サーバー、メモリ設定など、同僚チャット インターフェイスに関する使用方法を確認します。
+* **基本を学ぶ：** Coworkerを有効にしたら、[Coworker Chatの基本を学ぶ](./chat/ui-guide.md)を参照して、入力ボックス、応答、チャット履歴など、Coworker Chat インターフェイスに関する使用方法を確認します。
+
+チームに合わせてCoworker チャットをカスタマイズするには、[&#x200B; スキル &#x200B;](./customizations/skills/what-are-skills.md)、[統合](./customizations/integrations/understanding-integrations-in-coworker.md)、[&#x200B; プラグイン &#x200B;](./customizations/plugins/what-are-plugins.md)、[&#x200B; メモリ &#x200B;](./customizations/memory/what-is-memory.md)を参照するか、[&#x200B; カスタマイズの概要](./customizations/overview.md)から始めます。
 
 ## 同僚とのチャットの使用に関するビデオ
 

@@ -5,24 +5,24 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 17%
+source-wordcount: '282'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [同僚の概要](home.md)
+- [同僚ガイド](home.md)
 - チャット {#chat}
-  - [概要](./chat/overview.md)
-  - [チャットを始める](./chat/ui-guide.md)
+  - [さらに詳しく](./chat/overview.md)
+  - [同僚とのチャットを始める](./chat/ui-guide.md)
   - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
-  - ユースケース {#use-cases}
+  - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
-      - [概要](./chat/use-cases/data-insights/analytics-overview.md)
-      - [基本を学ぶ](./chat/use-cases/data-insights/analytics-chat.md)
+      - [データ分析について](./chat/use-cases/data-insights/analytics-overview.md)
+      - [データ分析に取り組む](./chat/use-cases/data-insights/analytics-chat.md)
       - インテリジェントな実装と管理 {#intelligent-implementation-and-administration}
         - [概要](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Adobe Experience Manager Sites導入計画](./chat/use-cases/data-insights/implementation-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 17%
     - ワークフロー/プランニング {#workflow-and-planning}
       - [デジタルキャンペーンの立ち上げ計画](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - カスタマイズ {#customizations}
-  - [概要](./customizations/overview.md)
+  - [カスタマイズの概要](./customizations/overview.md)
   - スキル {#skills}
     - [スキルとは？](./customizations/skills/what-are-skills.md)
     - [最初のスキルを作成](./customizations/skills/create-your-first-skill.md)
