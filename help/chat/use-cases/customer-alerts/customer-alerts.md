@@ -39,7 +39,7 @@ CX Coworkerの顧客アラートスキルを活用して、アラート活動を
 
 顧客アラートスキルは、アラートビューを手動で確認したり、複数のインターフェイス間で情報を関連付けたりすることなく、アラートシグナルから実用的なインサイトに移行するのに役立ちます。 最近のアラート活動に関する大まかな質問から始め、フォローアップ質問を使用して繰り返し発生するアラートパターンを特定し、影響を受けるオブジェクトを分析して、自分が所有するアラートに焦点を当てます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504717?captions=jpn&learn=on)
 
 顧客アラートについて詳しくは、[顧客アラートの概要](https://experienceleague.adobe.com/ja/docs/experience-platform/observability/alerts/overview)を参照してください。
 
