@@ -7,24 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 54ce8ccc61cf4c2eaa6a59ac68b6e75eeba2f772
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '964'
 ht-degree: 0%
 ---
 # メールキャンペーンの作成 {#create-an-email-campaign}
 
 包括的なメールキャンペーンを数分で作成およびレビューする方法について説明します。
 
->[!IMPORTANT]
->
->現時点では、キャンペーンのみを生成でき、まだ送信（起動）することはできません。 ローンチ機能は近日提供開始予定です。
-
 ## 事前準備
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**自分のもの** > **ブランド**&#x200B;の下に追加されました。
 
