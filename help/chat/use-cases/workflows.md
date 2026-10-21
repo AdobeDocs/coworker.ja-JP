@@ -4,12 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: ee4016ae71de6eadc7b38d434a6aeefde74b124b
+source-git-commit: 3194d97a10b97403b6a1103e49d833fabf016548
 workflow-type: tm+mt
-source-wordcount: '7768'
+source-wordcount: '7843'
 ht-degree: 9%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -146,6 +143,7 @@ ht-degree: 9%
 | [&#x200B; カスタムアクションエラーの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | カスタムアクションが失敗しているか、ジャーニー内でエラー率が急増しているかを特定し、失敗がより大きな混乱に連鎖する前に根本原因を診断できます | `journey-analyze-custom-action` | Adobe Journey Optimizer（AJO） | 「ロイヤルティ登録ジャーニーでカスタムアクションが失敗するのはなぜですか？」 <br> 「ウェルカムジャーニーのカスタムアクション ExternalPushのエラー率を表示する」 |
 | [&#x200B; ジャーニーの異常値の検出](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーの開始、終了、過去のベースラインに対する送信カウントにおける予期しない急増、急減、フラットラインを検出して確認し、可能性の高い根本原因を明らかにします | `journey-analyze-anomaly` | Adobe Journey Optimizer（AJO） | 「昨日のウェルカムジャーニーのエントリが低下した理由は何ですか？」 <br> 「今週の買い物かごの放棄ジャーニーで、離脱が急増しましたか？」 |
 | [ビジネスパフォーマンス分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのパフォーマンスを分析し、パフォーマンスの低いジャーニーに対して具体的な最適化の機会を特定します。 エンゲージメントとコンバージョンを向上させるために、結果が低い背景にあるトレンド、ボトルネック、考えられる原因を明らかにします。 ビジネスパフォーマンスのインサイトに基づいて、ジャーニーのデザイン、ターゲティング、メッセージ戦略を調整するための、実用的なレコメンデーションを取得します。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「ジャーニー[ジャーニー名]のパフォーマンスを分析し、最適化を推奨します。」 <br> 「ジャーニー[ジャーニー名]が先月と比較してパフォーマンスが低いのはなぜですか？」 <br> 「ジャーニー[ジャーニー名]のパフォーマンスを向上させるにはどうすればよいですか？」 <br> 「ジャーニーの[ジャーニー名]のどの部分が、コンバージョンまたはエンゲージメントを制限している可能性がありますか？」 |
+| [&#x200B; ジャーニーの健全性の分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのインベントリを監査して、不明または汎用的な名前、古いドラフトまたはライブのジャーニー、大きすぎるジャーニー、既存のクローズドジャーニー、類似のアクションやイベント名を含むジャーニーを見つけ、設定をクリーンアップして安定させるための推奨事項を確認します | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「自分のジャーニー設定を監査します。」 <br> 「どのジャーニーが古くなっているか、またはクリーンアップが必要か？」 |
 | [&#x200B; ジャーニーのバージョンを比較](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 2つのジャーニーバージョンを比較し、ノード、接続、ジャーニーレベルのプロパティ変更の構造化された差分を確認します | `journey-analyze-version-comparison` | Adobe Journey Optimizer（AJO） | 「ウェルカムジャーニーのバージョン 2と3を比較」 <br> 「これら2つのジャーニーバージョン間で何が変更されたか？」 |
 
 **関連情報**

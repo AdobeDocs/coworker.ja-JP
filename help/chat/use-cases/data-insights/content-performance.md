@@ -4,10 +4,7 @@ description: 同僚とのチャットを利用して、共通の優れたコン�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: e3d485f7cd1c45bf3fd1217ffcceeccfd4242c7b
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 1%

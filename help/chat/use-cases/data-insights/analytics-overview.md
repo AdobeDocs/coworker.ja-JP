@@ -2,10 +2,9 @@
 title: Adobe Customer Journey Analyticsのデータを分析する（チャット）
 description: Adobe CX Enterprise Coworker Chatを使用してAdobe Customer Journey Analyticsのデータを分析し、ファネルを構築して、カスタマージャーニーのどの段階で顧客が脱落しているのかを把握する方法を紹介します。
 product_v2:
-  internal-label: CX Enterprise Coworker
-feature_v2:
-  internal-label: CX Enterprise Coworker
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '1281'
 ht-degree: 2%

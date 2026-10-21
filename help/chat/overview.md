@@ -4,10 +4,7 @@ title: Adobe CX Enterprise Coworker チャットの概要
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 6%

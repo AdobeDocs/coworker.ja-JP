@@ -12,10 +12,7 @@ nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

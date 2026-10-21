@@ -4,13 +4,10 @@ description: スキル、統合、プラグイン、メモリなど、Adobe CX E
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 28%
+ht-degree: 37%
 ---
 # 同僚のカスタマイズの概要 {#overview}
 
@@ -54,7 +51,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="スキルとは？"> スキルとは何ですか？</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="スキルとは？">スキルとは何ですか？</a>
                     </p>
                     <p class="is-size-6">Adobe CX Coworkerのスキルについて学び、ワークフローを標準化し、会話やユーザー間で一貫性のある結果を提供する再利用可能なプレイブックを活用しましょう。</p>
                 </div>
