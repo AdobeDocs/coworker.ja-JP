@@ -4,10 +4,7 @@ title: メールキャンペーンの作成
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 54ce8ccc61cf4c2eaa6a59ac68b6e75eeba2f772
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -20,7 +17,7 @@ ht-degree: 0%
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**自分のもの** > **ブランド**&#x200B;の下に追加されました。
 

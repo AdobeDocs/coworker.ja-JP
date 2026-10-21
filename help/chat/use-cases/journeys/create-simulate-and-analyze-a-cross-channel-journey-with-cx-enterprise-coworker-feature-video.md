@@ -5,15 +5,12 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 405
-last-substantial-update: 2026-10-16
+last-substantial-update: 2026-10-16T00:00:00.000Z
 jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 97a57e9609598c2645e0736b95d6a859dae9a523
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -25,4 +22,4 @@ CX Enterprise Coworkerが、自然言語によるプロンプトからクロス�
 
 このビデオでは、ジャーニーの分岐パスをシミュレートし、診断を分析して設定の問題を特定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504707?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
