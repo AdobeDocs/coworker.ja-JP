@@ -1,17 +1,19 @@
 ---
-title: Adobe CX Enterprise Coworker ガイド
+title: Adobe CX Enterprise Coworkerの概要
 description: Adobe CX Enterprise Coworkerについて学びましょう。組織全体の顧客体験とマーケティングのワークフローを自動化する、AIを活用したチームメイトです。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1181'
 ht-degree: 17%
 ---
-# CX Enterprise Coworker ガイド {#overview}
+# CX Enterprise Coworkerの概要 {#overview}
 
-[!DNL Coworker]は、カスタマーエクスペリエンスとマーケティングの作業を担当するAdobeのAgentic AIのチームメイトです。 単に質問に答えたり、行動を推奨するだけではありません。 Adobeなどのビジネスシステムをまたいで、マルチステップのマーケティングワークフローを実行できます。また、承認とガバナンスを管理することも可能です。 [Adobe for Business](https://business.adobe.com/jp/products/cx-enterprise-coworker.html)の詳細をご覧ください。
+[!DNL Coworker]は、組織、チーム、個人の作業の性質を再構築するAIを活用したチームメイトです。 顧客体験とマーケティングのワークフローを自動化することで、組織はタスクを調整するのではなく、ビジネス目標の達成と成果の向上に集中できます。 エージェンティックエンジンとして、同社はビジネスプロセスの自動化に革新的なアプローチを取ります。 企業のコンテキスト、データ、インテリジェンス、コラボレーション、エージェンティックスキルの実行を統合し、ガバナンスと人間による管理を組み込むことで、AI モデルのパフォーマンスと精度を向上させます。
+
+Adobe Workfrontは、複雑で部門横断的な顧客体験ワークフローを運用する企業向けに設計されています。 Coworker ChatとCoworker Projectsが統合されているため、実務担当者は単一のタスクから、Coworker エクスペリエンス内の包括的なマルチチームワークフローに移行できます。 ガバナンス、承認、人間による監視は最初から統合されています。 [Adobe for Business](https://business.adobe.com/products/cx-enterprise-coworker.html)の詳細をご覧ください。
 
 ## エクスペリエンスの選択
 
@@ -19,9 +21,9 @@ ht-degree: 17%
 
 | エクスペリエンス | これを使用すると、次の操作を実行できます。 | 対象 |
 | --- | --- | --- |
-| [同僚[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md) | Adobeのさまざまなアプリケーションをまたいで、自然言語でインサイト、コンテンツ、アクションを獲得できます。 | Adobeアカウントチームのライセンスを取得。 [利用状況の確認](#chat-availability)を参照してください。 |
-| [&#x200B; チームの同僚](./coworker-for-teams/overview.md) | 小規模なアジャイルなマーケティングチームとして、キャンペーンの目標から実行を調整する。 | 2026年12月31日（PT）までの無料トライアル。 北米のみ。 |
-| 共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] | チームがプロセス、承認、従業員の自律性のレベルを設定する、長期的な部門横断的なワークフローを実行します。 | 近日リリース予定 |
+| [同僚[!UICONTROL  チャット ]](./chat/overview.md) | Adobeのさまざまなアプリケーションをまたいで、自然言語でインサイト、コンテンツ、アクションを獲得できます。 | Adobeアカウントチームのライセンスを取得。 [利用状況の確認](#chat-availability)を参照してください。 |
+| [ チームの同僚](./coworker-for-teams/overview.md) | 小規模なアジャイルなマーケティングチームとして、キャンペーンの目標から実行を調整する。 | 2026年12月31日（PT）までの無料トライアル。 北米のみ。 |
+| 共同作業者[!UICONTROL  プロジェクト ] | チームがプロセス、承認、従業員の自律性のレベルを設定する、長期的な部門横断的なワークフローを実行します。 | 近日リリース予定 |
 
 ## 共同作業者チャット
 
@@ -41,7 +43,7 @@ Coworker Chatは、次のアプリケーションで利用できるようにな�
 
 B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Journey Analyticsは近日リリース予定です。
 
-アプリケーション別の没入型エクスペリエンスと製品内エクスペリエンスについては、[同僚チャットの基本を学ぶ](./chat/ui-guide.md#availability)を参照してください。 互換性のあるアプリケーションの一覧については、[互換性のあるCX Enterprise アプリケーション &#x200B;](./chat/overview.md#compatible-cx-enterprise-applications)を参照してください。
+アプリケーション別の没入型エクスペリエンスと製品内エクスペリエンスについては、[同僚チャットの基本を学ぶ](./chat/ui-guide.md#availability)を参照してください。 互換性のあるアプリケーションの一覧については、[互換性のあるCX Enterprise アプリケーション ](./chat/overview.md#compatible-cx-enterprise-applications)を参照してください。
 
 ### 共同作業者チャットの有効化
 
@@ -55,7 +57,7 @@ B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Jour
 
 ### 同僚とのチャットのカスタマイズ
 
-チームの作業方法に合わせて同僚とのチャットをカスタマイズできます。 [&#x200B; カスタマイズの概要](./customizations/overview.md)から始めるか、次のいずれかのトピックに直接移動します。
+チームの作業方法に合わせて同僚とのチャットをカスタマイズできます。 [ カスタマイズの概要](./customizations/overview.md)から始めるか、次のいずれかのトピックに直接移動します。
 
 * [スキル](./customizations/skills/what-are-skills.md)
 * [統合](./customizations/integrations/understanding-integrations-in-coworker.md)
@@ -64,7 +66,7 @@ B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Jour
 
 ## チームで共同作業
 
-Coworker for teamsは、迅速に施策を立ち上げて実行したい、小規模かつアジャイルなマーケティングチーム向けのスタンドアロンアプリケーションです。 別のCX Enterprise アプリケーションの一部ではありません。 2026年12月31日（PT）までの無料体験版は、北米でのみ利用できます。 アクセス手順については、[&#x200B; アクセス方法](./coworker-for-teams/overview.md#how-to-access)を参照してください。
+Coworker for teamsは、迅速に施策を立ち上げて実行したい、小規模かつアジャイルなマーケティングチーム向けのスタンドアロンアプリケーションです。 別のCX Enterprise アプリケーションの一部ではありません。 2026年12月31日（PT）までの無料体験版は、北米でのみ利用できます。 アクセス手順については、[ アクセス方法](./coworker-for-teams/overview.md#how-to-access)を参照してください。
 
 グループ版の共同作業者には、[Marketo Engage](./coworker-for-teams/connectors/marketo.md)および[HubSpot](./coworker-for-teams/connectors/hubspot.md)のコネクタが含まれます。
 
@@ -85,16 +87,16 @@ Coworker for teamsは、迅速に施策を立ち上げて実行したい、小�
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
    {title = Get started with CX Enterprise Coworker Chat}
    {description = Learn the value of CX Enterprise Coworker Chat and start executing use cases.}
    {cta = Watch}
-   {image = https://video.tv.adobe.com/v/3498568?captions=jpn&format=jpeg}    
-*  https://experienceleague.adobe.com/ja/playlists/coworker-customize-chat
+   {image = https://video.tv.adobe.com/v/3498558?format=jpeg}    
+*  https://experienceleague.adobe.com/en/playlists/coworker-customize-chat
     {title = Customize CX Enterprise Coworker Chat}
     {description = Learn how Coworker can be customized with reusable skills, enterprise integrations, plugins, and memory to deliver context-aware, personalized, and business-specific AI experiences that fits how your team works.}
     {cta = Watch}
-    {image = https://video.tv.adobe.com/v/3502333?captions=jpn&format=jpeg}
+    {image = https://video.tv.adobe.com/v/3502323?format=jpeg}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -102,8 +104,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" title="CX Enterprise Coworker Chatの基本を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498568?captions=jpn&format=jpeg" alt="CX Enterprise Coworker Chatの基本を学ぶ"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="CX Enterprise Coworker Chatの基本を学ぶ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498558?format=jpeg" alt="CX Enterprise Coworker Chatの基本を学ぶ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,11 +113,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="CX Enterprise Coworker Chatの基本を学ぶ">CX Enterprise Coworker チャットの基本を学ぶ</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="CX Enterprise Coworker Chatの基本を学ぶ">CX Enterprise Coworker チャットの基本を学ぶ</a>
                     </p>
                     <p class="is-size-6">CX Enterprise Coworker Chatの価値を学び、ユースケースを始めましょう。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -125,8 +127,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/playlists/coworker-customize-chat" title="CX Enterprise Coworker チャットのカスタマイズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502333?captions=jpn&format=jpeg" alt="CX Enterprise Coworker チャットのカスタマイズ"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" title="CX Enterprise Coworker チャットのカスタマイズ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502323?format=jpeg" alt="CX Enterprise Coworker チャットのカスタマイズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,11 +136,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="CX Enterprise Coworker チャットのカスタマイズ">CX Enterprise Coworker チャットのカスタマイズ </a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="CX Enterprise Coworker チャットのカスタマイズ">CX Enterprise Coworker チャットのカスタマイズ </a>
                     </p>
                     <p class="is-size-6">再利用可能なスキル、エンタープライズ統合、プラグイン、メモリなどを使用して、チームの作業方法に合わせて同僚をカスタマイズし、コンテキストに応じてパーソナライズされたビジネスに特化したAI体験を提供する方法をご確認ください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
