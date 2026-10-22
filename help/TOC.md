@@ -5,16 +5,16 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
+source-git-commit: 30f95a7fac5ee0c507c0b1858a322165abb5fcbb
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 15%
+source-wordcount: '283'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [同僚ガイド](home.md)
-- チャット {#chat}
+- 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
   - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)

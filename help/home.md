@@ -1,17 +1,19 @@
 ---
-title: Adobe CX Enterprise Coworker ガイド
+title: Adobe CX Enterprise Coworkerの概要
 description: Adobe CX Enterprise Coworkerについて学びましょう。組織全体の顧客体験とマーケティングのワークフローを自動化する、AIを活用したチームメイトです。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1181'
 ht-degree: 17%
 ---
-# CX Enterprise Coworker ガイド {#overview}
+# CX Enterprise Coworkerの概要 {#overview}
 
-[!DNL Coworker]は、カスタマーエクスペリエンスとマーケティングの作業を担当するAdobeのAgentic AIのチームメイトです。 単に質問に答えたり、行動を推奨するだけではありません。 Adobeなどのビジネスシステムをまたいで、マルチステップのマーケティングワークフローを実行できます。また、承認とガバナンスを管理することも可能です。 [Adobe for Business](https://business.adobe.com/jp/products/cx-enterprise-coworker.html)の詳細をご覧ください。
+[!DNL Coworker]は、組織、チーム、個人の作業の性質を再構築するAIを活用したチームメイトです。 顧客体験とマーケティングのワークフローを自動化することで、組織はタスクを調整するのではなく、ビジネス目標の達成と成果の向上に集中できます。 エージェンティックエンジンとして、同社はビジネスプロセスの自動化に革新的なアプローチを取ります。 企業のコンテキスト、データ、インテリジェンス、コラボレーション、エージェンティックスキルの実行を統合し、ガバナンスと人間による管理を組み込むことで、AI モデルのパフォーマンスと精度を向上させます。
+
+Adobe Workfrontは、複雑で部門横断的な顧客体験ワークフローを運用する企業向けに設計されています。 Coworker ChatとCoworker Projectsが統合されているため、実務担当者は単一のタスクから、Coworker エクスペリエンス内の包括的なマルチチームワークフローに移行できます。 ガバナンス、承認、人間による監視は最初から統合されています。 [Adobe for Business](https://business.adobe.com/jp/products/cx-enterprise-coworker.html)の詳細をご覧ください。
 
 ## エクスペリエンスの選択
 
