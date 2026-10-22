@@ -43,7 +43,7 @@ CX Enterprise アプリケーションセレクターの![同僚](./assets/ui-gu
 
 ## ビデオ - [!DNL Coworker] チャットインターフェイスの基本
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
 
 ## 組織の選択
 
