@@ -1,7 +1,7 @@
 ---
 title: Coworkerによるストリーミングメディア実装の検証
 description: Coworkerのストリーミングメディア検証スキルが、設定、セッション、ログをチェックして、実装が正しく追跡されていることを確認する方法について説明します。
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 2%
@@ -65,7 +65,7 @@ Adobe CX Enterprise Coworkerには、Edge Network上のAdobe Streaming Media （
 
 1. Coworkerにログインします。
 
-1. [!UICONTROL **新しいチャット**]&#x200B;を選択します。
+1. **[!UICONTROL 新しいチャット]**&#x200B;を選択します。
 
 1. テキストフィールドに、検証する内容を記述します。 次に例を示します。
 

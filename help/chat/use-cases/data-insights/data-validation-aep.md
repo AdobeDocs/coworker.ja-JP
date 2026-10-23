@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Coworkerでデータを検証するには、次のものが必要です。
 
 1. Coworkerにログインします。
 
-1. [!UICONTROL **新規チャット**]&#x200B;を選択します。
+1. **[!UICONTROL 新しいチャット]**&#x200B;を選択します。
 
 1. テキストフィールドで、エージェントにフィールドまたはデータセットを検証するようにプロンプトを表示します。 次に例を示します。
 
@@ -99,9 +99,9 @@ Coworkerでデータを検証するには、次のものが必要です。
 
 | 列 | 説明 |
 | --- | --- |
-| [!UICONTROL &#x200B; フィールド名] | フィールドの名前。 |
-| [!UICONTROL &#x200B; フィールドパス &#x200B;] | スキーマ内のフィールドのフルパス。 |
-| [!UICONTROL &#x200B; フィールドタイプ &#x200B;] | フィールドのデータタイプ。 |
+| [!UICONTROL  フィールド名] | フィールドの名前。 |
+| [!UICONTROL  フィールドパス ] | スキーマ内のフィールドのフルパス。 |
+| [!UICONTROL  フィールドタイプ ] | フィールドのデータタイプ。 |
 | [!UICONTROL 有効な値] | 検証に合格したサンプル値の割合。 |
 | [!UICONTROL 個別の値] | サンプリングされた値のうち、異なる値の割合。 |
 | [!UICONTROL Null値] | サンプルされた値のうち、nullの割合です。 |
@@ -119,7 +119,7 @@ Coworkerでデータを検証するには、次のものが必要です。
 
 データセットを検証すると、1つのフィールドに1行のテーブルに結果が表示されます。 自分の名前を付けたフィールドは、指定したフィールドと同じように表示されます。
 
-![&#x200B; ユーザーがプロンプトで指定したカテゴリ、ブランド、価格フィールドの検証結果を示す「Electronics Sample 1000 Field Validation」というタイトルの共同作業者のチャットテーブル。](../../assets/data-validation-aep/field-validation.png)
+![ ユーザーがプロンプトで指定したカテゴリ、ブランド、価格フィールドの検証結果を示す「Electronics Sample 1000 Field Validation」というタイトルの共同作業者のチャットテーブル。](../../assets/data-validation-aep/field-validation.png)
 
 スキルが選択したフィールドは、自動的に同じように表示されます。
 
@@ -156,5 +156,5 @@ Electronics Sample 1000 データセットで自動的に選択された5つの�
 
 * [アップグレード時のAdobe AnalyticsからCustomer Journey Analytics データへの検証](./data-validation-aa-cja.md)
 * [Coworkerのデータ検証スキルを使用したCustomer Journey Analytics データの検証](./validate-dataset-quality-for-cja.md)
-* [データの検証（AI アシスタント）](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
-* [Customer Journey Analytics レポートを信頼する：Adobe CX Enterprise Coworkerでのデータ検証スキル &#x200B;](https://www.youtube.com/watch?v=gCSm_QYSYhk) （ビデオ）
+* [データの検証（AI アシスタント）](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Customer Journey Analytics レポートを信頼する：Adobe CX Enterprise Coworkerでのデータ検証スキル ](https://www.youtube.com/watch?v=gCSm_QYSYhk) （ビデオ）
