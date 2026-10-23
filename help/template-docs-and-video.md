@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION (shared)
-# Title: title case, 60 characters or fewer, no product name.
+# Title: title case, 60 characters or fewer.
 # Description: one or two sentences, about 150-160 characters. Start with "Learn how to..." for tasks or "Learn about..." for concepts.
 title: タイトルケース内のページのタイトル
 description: Adobe CX Enterprise Coworkerを活用して、[ タスクを]実行する方法をご確認ください。 [行動を促す2番目の文]
@@ -21,7 +21,7 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1c6c045a70d7b6d00a88a32c39216c05478d8029
+source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 2%
