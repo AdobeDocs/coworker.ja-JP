@@ -18,7 +18,7 @@ Adobe Adobe CX Enterprise Coworker Chatを使用すれば、Adobe Content Analyt
 
 Adobe Content Analyticsのデータがどのように構造化されているかを理解し、経験豊富なアナリストならではのレポートルールを適用します。そのため、Content Analyticsの専門知識がなくても、マーケターやビジネスユーザーは信頼性の高い結果を得ることができます。
 
-その他のコンテンツ パフォーマンスの使用例については、[ コンテンツ パフォーマンスの概要](/help/chat/use-cases/data-insights/content-performance.md)を参照してください。
+その他のコンテンツ パフォーマンスの使用例については、[&#x200B; コンテンツ パフォーマンスの概要](/help/chat/use-cases/data-insights/content-performance.md)を参照してください。
 
 **最適：** ビジネスユーザー、アナリスト
 
@@ -28,7 +28,7 @@ Adobe Content Analyticsのデータがどのように構造化されているか
 
 コンテンツについて質問する場合は、次のことが必要です。
 
-* Customer Journey Analyticsのデータビューに接続された共同作業チャット。 [同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Customer Journey Analyticsのデータビューに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析したいデータビューへのアクセスを表示します。 共同作業者チャットは、Customer Journey Analyticsから権限を継承します。
 * Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
 
@@ -93,11 +93,11 @@ Content Analyticsでは、アセットとエクスペリエンスの2種類の�
 * **エクスペリエンス ID:**&#x200B;特定のページについて質問すると、そのページを識別するコンテンツ エクスペリエンス IDによってスキルがフィルタリングされます。
 * **AIが生成した属性：**&#x200B;各アセットとエクスペリエンスは、写真のスタイル、色、トーン、説得戦略などの属性で表されます。 スキルでは、これらの属性を利用して、どのコンテンツが効果的に機能するのかだけでなく、コンテンツが効果的に機能する理由を説明できます。
 
-コンポーネントの完全なリストについては、Customer Journey Analytics ガイドの[Content Analytics コンポーネント ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components)を参照してください。
+コンポーネントの完全なリストについては、Customer Journey Analytics ガイドの[Content Analytics コンポーネント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components)を参照してください。
 
 ### 帰属
 
-スキルは、質問に合わせてアトリビューションモデルを選択します。 例えば、画像のクリック数に関する質問と、その画像がどれだけ売上に貢献したかという質問では、異なる回答が返されます。 詳しくは、Customer Journey Analytics ガイドの[ アトリビューションモデル ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)を参照してください。
+スキルは、質問に合わせてアトリビューションモデルを選択します。 例えば、画像のクリック数に関する質問と、その画像がどれだけ売上に貢献したかという質問では、異なる回答が返されます。 詳しくは、Customer Journey Analytics ガイドの[&#x200B; アトリビューションモデル &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)を参照してください。
 
 ### 一般的な分析とワークフロー
 
@@ -120,10 +120,10 @@ Content Analyticsでは、アセットとエクスペリエンスの2種類の�
 * 分析する指標と日付範囲（収益の前四半期など）に名前を付けます。
 * 比較するセグメント、オーディエンス、チャネルを指定します。
 * コンテンツが効果的に機能する理由を把握するには、個々のファイルではなく、画像、テーマ、メッセージなどのコンテンツ属性について確認します。
-* 同じデータビューを分析する場合は、Coworker Chat メモリに好みのデータビューを追加します。 「[ メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
+* 同じデータビューを分析する場合は、Coworker Chat メモリに好みのデータビューを追加します。 「[&#x200B; メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
 
 ## 次の手順
 
-* コンテンツパフォーマンスの使用例について詳しくは、[ コンテンツパフォーマンスの概要](/help/chat/use-cases/data-insights/content-performance.md)を参照してください。
+* コンテンツパフォーマンスの使用例について詳しくは、[&#x200B; コンテンツパフォーマンスの概要](/help/chat/use-cases/data-insights/content-performance.md)を参照してください。
 * Content Analyticsについて詳しくは、Customer Journey Analytics ガイドの[Content Analyticsの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/content-analytics)を参照してください。
 * ベストプラクティスを含む、同僚チャットによるデータ分析の概要については、[同僚チャットによるデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。

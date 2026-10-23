@@ -39,12 +39,12 @@ Coworker Chatは、必要な分析に応じて、次の2つの方法で使用で
 
 | ドメイン | 実行できること | 最適な用途 |
 | --- | --- | --- |
-| [ インテリジェントな実装と管理](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | 実装を設定、移行、管理し、あらゆる回答の背後にあるデータを信頼できるようにします。 | 管理者 |
+| [&#x200B; インテリジェントな実装と管理](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | 実装を設定、移行、管理し、あらゆる回答の背後にあるデータを信頼できるようにします。 | 管理者 |
 | [ジャーニー分析](/help/chat/use-cases/data-insights/journey-analysis.md) | チャネル、デバイス、セグメントをまたいで、顧客がコンバージョンに至らなかった箇所とその理由を確認できます。 | アナリスト、ビジネスユーザー |
-| [ オーディエンスとセグメント分析](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | どの顧客グループが異なる行動をとっているかを把握することで、最も重要なグループに集中することができます。 | アナリスト、ビジネスユーザー |
+| [&#x200B; オーディエンスとセグメント分析](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | どの顧客グループが異なる行動をとっているかを把握することで、最も重要なグループに集中することができます。 | アナリスト、ビジネスユーザー |
 | [業績](/help/chat/use-cases/data-insights/business-performance.md) | ビジネスがどのように機能しているのか、指標が移動した理由、どこに向かっているのか、次に何をすべきかなどを把握できます。 | アナリスト、ビジネスユーザー |
-| [ コンテンツのパフォーマンス ](/help/chat/use-cases/data-insights/content-performance.md) | 各アセットの属性にもとづいて、優れたコンテンツとその理由を把握し、優れた成果を上げている施策に投資できます。 | ビジネスユーザー |
-| [ マーケティングの測定とアトリビューション ](/help/chat/use-cases/data-insights/marketing-measurement-and-attribution.md) | あらゆるマーケティングチャネルとキャンペーンの増分効果を把握することで、ROIを最適化するために予算を割り当てることができます。 | アナリスト、ビジネスユーザー |
+| [&#x200B; コンテンツのパフォーマンス &#x200B;](/help/chat/use-cases/data-insights/content-performance.md) | 各アセットの属性にもとづいて、優れたコンテンツとその理由を把握し、優れた成果を上げている施策に投資できます。 | ビジネスユーザー |
+| [&#x200B; マーケティングの測定とアトリビューション &#x200B;](/help/chat/use-cases/data-insights/marketing-measurement-and-attribution.md) | あらゆるマーケティングチャネルとキャンペーンの増分効果を把握することで、ROIを最適化するために予算を割り当てることができます。 | アナリスト、ビジネスユーザー |
 
 ## スキルと制限
 
@@ -55,7 +55,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
 | `cja`, `aa` | Customer Journey Analytics データビュー（`cja`）またはAdobe Analytics レポートスイート（`aa`）をリアルタイムでクエリします。<ul><li>指標、ディメンション、セグメント、データビュー、レポートスイートを取得し</li><li>チャネル、期間、セグメントを並べて比較できます</li><li>マルチステップのfunnelとフォールアウト分析の実行</li><li>過去のトレンドにもとづいて指標を予測する</li></ul> | クエリするデータビューまたはレポートスイートへのアクセスを表示します | <ul><li>データビューまたはレポートスイートコンポーネントの作成または編集</li><li>アクセスできるデータビューまたはレポートスイート以外のデータ</li><li>指標予測を超えた予測モデリング</li></ul> |
 | `cja-root-cause-analysis`, `aa-root-cause-analysis` | 指標が変化したと報告するだけでなく、変化した理由を探ります。<ul><li>既知の期間における既知の指標の変化を調査する</li><li>変更に貢献したディメンションとセグメントを表示</li></ul> | 分析中のデータビューまたはレポートスイートへのアクセスを表示します | <ul><li>質問していない異常の検出（自動化されたアラートやリアルタイムのアラートはない）</li><li>アクセス権のあるデータビューまたはレポートスイート以外の指標の根本原因分析</li></ul> |
 | `cja-executive-summary` | 関係者に配慮したデータ要約の作成：<ul><li>指定した期間のパフォーマンスを要約します</li><li>データに基づいた規範的な推奨事項の生成</li><li>スライドデッキや関係者が読み上げるコンテンツの概要</li></ul> | 概要で説明されているデータビューまたはレポートスイートへのアクセスを表示する | <ul><li>最後のスライド デッキまたはプレゼンテーション ファイルの作成</li><li>アクセス権のないデータビューまたはレポートスイートにまたがる要約</li></ul> |
-| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | Customer Journey AnalyticsのContent Analytics データを使用して、コンテンツに関する一般的な質問や具体的な質問に回答します。<ul><li>優れたパフォーマンスを発揮するアセットとエクスペリエンスに共通する点を把握しましょう</li><li>コンテンツの露出をコンバージョンや売上に結びつける</li><li>チャネルとオーディエンスをまたいだコンテンツ比較</li></ul>詳しくは、[ コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。 | Content Analytics用に設定されたデータビューへのアクセスを表示します | <ul><li>Content Analyticsの設定と設定</li><li>Content Analyticsで収集されないコンテンツ</li></ul> |
+| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | Customer Journey AnalyticsのContent Analytics データを使用して、コンテンツに関する一般的な質問や具体的な質問に回答します。<ul><li>優れたパフォーマンスを発揮するアセットとエクスペリエンスに共通する点を把握しましょう</li><li>コンテンツの露出をコンバージョンや売上に結びつける</li><li>チャネルとオーディエンスをまたいだコンテンツ比較</li></ul>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。 | Content Analytics用に設定されたデータビューへのアクセスを表示します | <ul><li>Content Analyticsの設定と設定</li><li>Content Analyticsで収集されないコンテンツ</li></ul> |
 | `aa-cja-validation` | [!DNL Adobe Analytics]とCustomer Journey Analytics間のデータの比較、監査、調整：<ul><li>レポートスイートとデータビュー間の指標値の比較</li><li>2つのデータソース間の不一致のフラグを立てる</li></ul> | [!DNL Adobe Analytics] レポートスイートと比較されるCustomer Journey Analytics データビューへのアクセスを表示します | <ul><li>データの不整合の根本的な原因を解決する</li><li>[!DNL Adobe Analytics]およびCustomer Journey Analytics以外のデータソースを検証しています</li></ul> |
 | `cja-skill-creator` | 再利用可能なスキルが見つかったら、次のステップに進みます。<ul><li>完了した分析を、名前付きの再利用可能なスキルに変換する</li><li>今後のチャットセッションで、保存したスキルを利用できるようにします</li></ul> | スキルの管理 | <ul><li>保存したスキルを他のユーザーと自動的に共有する（組織レベルのスキルライブラリには管理者の設定が必要）</li><li>スキル参照でのデータビューまたはレポートスイートコンポーネントの編集</li></ul> |
 
@@ -75,7 +75,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
 
 * プランモードを使用します。
 
-  このモードは、複雑なタスクに特に役立ちますが、単純なタスクにも優れた結果をもたらします。同僚は、アクションを起こす前にフォローアップで質問することができるからです。 詳しくは、[ プランモード ](/help/chat/ui-guide.md#plan-mode)を参照してください。
+  このモードは、複雑なタスクに特に役立ちますが、単純なタスクにも優れた結果をもたらします。同僚は、アクションを起こす前にフォローアップで質問することができるからです。 詳しくは、[&#x200B; プランモード &#x200B;](/help/chat/ui-guide.md#plan-mode)を参照してください。
 
 * プロンプトを作成する際には、できるだけ具体的に次のように記述します。
 
@@ -91,7 +91,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
   * データの検証時に比較する特定のレポートスイートとデータビューに名前を付けます。
   * まず分析を完了し、次にCoworker Chatにスキルとして保存してもらいます。その際、わかりやすい名前を付け、どのくらいの頻度で再利用する予定かを書き留めます。
 
-* Coworker Chat メモリに標準的な方向を追加します。 例えば、同じデータビューまたはレポートスイートのデータを常に使用する場合は、それをメモリに追加します。 詳しくは、「共同作業チャットを使用したデータ分析の開始」の「[ メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
+* Coworker Chat メモリに標準的な方向を追加します。 例えば、同じデータビューまたはレポートスイートのデータを常に使用する場合は、それをメモリに追加します。 詳しくは、「共同作業チャットを使用したデータ分析の開始」の「[&#x200B; メモリでのデータビューまたはレポートスイートの環境設定の追加](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory)」を参照してください。
 
 ## 次の手順
 
