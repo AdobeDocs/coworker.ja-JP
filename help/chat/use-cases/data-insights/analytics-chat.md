@@ -4,10 +4,10 @@ description: Adobe CX Enterprise Coworker Chatを使用してAdobe Customer Jour
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '2094'
-ht-degree: 5%
+source-wordcount: '2160'
+ht-degree: 4%
 ---
 # 同僚とのチャットによるデータ分析を始める
 
@@ -34,7 +34,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データでCoworker Chatを�
 * スキル
 * その他
 
-詳しくは、[同僚チャット UI ガイド &#x200B;](/help/chat/ui-guide.md)を参照してください。
+詳しくは、[同僚チャット UI ガイド ](/help/chat/ui-guide.md)を参照してください。
 
 ## Workfront ChatがCustomer Journey Analyticsに接続されていることを確認します
 
@@ -42,7 +42,7 @@ Coworker Chatで、CoworkerがCustomer Journey Analyticsに接続されている
 
 1. 左側のパネルで「MCP」アイコンを選択し、接続されているMCP サーバーのリストで&#x200B;[!UICONTROL **cja-mcp**]&#x200B;が使用可能であることを確認します。
 
-   ![同僚の左側のパネルで強調表示されたMCP アイコン &#x200B;](../../assets/coworker-mcp-cja.png)
+   ![同僚の左側のパネルで強調表示されたMCP アイコン ](../../assets/coworker-mcp-cja.png)
 
 1. （条件付き） [!UICONTROL **cja-mcp**]&#x200B;がまだ接続されていない場合は、[!UICONTROL **MCP Server**]&#x200B;を追加を選択し、[!UICONTROL **サーバー名**] フィールドにcjaを指定して、表示されたら選択し、[!UICONTROL **サーバー**]&#x200B;を追加を選択します。
 
@@ -54,7 +54,7 @@ Customer Journey Analyticsの様々なデータビューやAdobe Analyticsのレ
 
 ### 使用するデータビューまたはレポートスイートを決定する
 
-同僚に回答したい質問の種類を伝え、その情報を提供するためにどのデータビューやレポートスイートにアクセスできるかを尋ねます。 また、[&#x200B; データビューまたはレポートスイートをメモリの環境設定として設定することもできます](#add-a-data-view-or-report-suite-preference-in-memory)。
+同僚に回答したい質問の種類を伝え、その情報を提供するためにどのデータビューやレポートスイートにアクセスできるかを尋ねます。 また、[ データビューまたはレポートスイートをメモリの環境設定として設定することもできます](#add-a-data-view-or-report-suite-preference-in-memory)。
 
 **あなた：**
 
@@ -96,7 +96,7 @@ Coworker Chatには、すべてのチャットにまたがる情報へのアク�
 
 1. メモリーページの&#x200B;[!UICONTROL **保存された環境設定**] セクションで、Coworker Chatでチャットで使用する1つ以上のデータビューまたはレポートスイートを指定します。
 
-   ![左側のパネルのメモリ セクション &#x200B;](../../assets/coworker-memory.png)
+   ![左側のパネルのメモリ セクション ](../../assets/coworker-memory.png)
 
 ## 例：顧客の脱落する箇所の特定
 
@@ -136,7 +136,7 @@ Coworker Chatには、すべてのチャットにまたがる情報へのアク�
 
 >[!BEGINSHADEBOX]
 
-![&#x200B; セッション数、コンバージョン率、およびセッションから購入までの各ステップでの脱落を示すFunnel テーブル &#x200B;](../../assets/coworker-funnel-response.png)
+![ セッション数、コンバージョン率、およびセッションから購入までの各ステップでの脱落を示すFunnel テーブル ](../../assets/coworker-funnel-response.png)
 
 これはfunnelの質問です。funnelでコンバージョンを実行し、購入に至るまでの過程で離脱がどこで発生するかを確認します。
 
@@ -185,7 +185,7 @@ Coworker Chatには、すべてのチャットにまたがる情報へのアク�
 
 >[!BEGINSHADEBOX]
 
-マーケティングチャネル別にコンバージョン率とドロップオフを示す![Funnel テーブル &#x200B;](../../assets/coworker-funnel-response2.png)
+マーケティングチャネル別にコンバージョン率とドロップオフを示す![Funnel テーブル ](../../assets/coworker-funnel-response2.png)
 
 カスタム **マーケティングチャネル** ディメンションがあります。 ここでfunnelを引き出して、チャネルごとのコンバージョン率を計算し、各チャネルがリークする場所を特定します。
 
@@ -236,7 +236,7 @@ Coworker Chatには、すべてのチャットにまたがる情報へのアク�
 
 >[!BEGINSHADEBOX]
 
-デバイスの種類![&#128279;](../../assets/coworker-funnel-response3.png)別にコンバージョン率とドロップオフを示すFunnel テーブル
+デバイスの種類](../../assets/coworker-funnel-response3.png)別にコンバージョン率とドロップオフを示す![Funnel テーブル
 
 **見つかりました：モバイル チェックアウトが壊れています**
 
@@ -305,7 +305,7 @@ Funnelは、決済プロセスが完了するまで端末をまたいで同じ�
 
 >[!ENDSHADEBOX]
 
-### 何が起こったのか
+### 発生した内容
 
 平易な言葉で言える4つの質問があり、Coworkerがサポートしてくれました。
 
@@ -314,17 +314,22 @@ Funnelは、決済プロセスが完了するまで端末をまたいで同じ�
 * 実際の問題をモバイルでのチェックアウトに分離し、その解決方法を購入額の35%向上で定量化します
 * モバイル決済やフォームでのつまずきなど、特定の修正を優先しましょう。 これは、デスクトップのコンバージョン率が23.2%であることを基準としています
 
-## Customer Journey Analytics での分析
+## Analysis Workspaceでビジュアライゼーションを開く
 
-Workfrontでビジュアライゼーションを作成した後、Analysis Workspaceで開くと、より詳細な分析と詳細な制御を行うことができます。 Customer Journey Analyticsの新しいAnalysis Workspace プロジェクトでビジュアライゼーションが開きます。
+Workfrontでビジュアライゼーションを作成した後、Analysis Workspaceで開くと、より詳細な分析と詳細な制御を行うことができます。 ビジュアライゼーションは、データのソースに応じて、Customer Journey AnalyticsまたはAdobe Analyticsの新しいAnalysis Workspace プロジェクトで開きます。
 
 新しいAnalysis Workspace プロジェクトでビジュアライゼーションを開くには：
 
-1. Coworkerで作成されたビジュアライゼーションの横にある「[!UICONTROL **CJAで分析**]」を選択します。
+1. Coworkerで作成されたビジュアライゼーションの横に、次のいずれかを選択します。
 
-1. Customer Journey Analyticsでビジュアライゼーションを開くと、Analysis Workspaceのドラッグ&amp;ドロップ操作のブラウザーインターフェイスを使用して変更を加えたり、分析をさらに細分化したり、オーディエンスを作成したりできます。 Workspaceプロジェクトは、誰とでも共有できます。
+   * [!UICONTROL **Customer Journey Analytics データビューに基づくビジュアライゼーション用のCJA**]&#x200B;での分析
+   * [!UICONTROL **Adobe Analytics レポートスイートに基づくビジュアライゼーション用のAnalysis Workspaceでの分析**]
 
-   Analysis Workspaceについて詳しくは、[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)を参照してください。
+1. Analysis Workspaceでビジュアライゼーションを開くと、ドラッグ&amp;ドロップ操作のブラウザーインターフェイスを使用して変更を加えたり、分析をさらに作成したりできます。 Customer Journey Analyticsでは、オーディエンスも作成できます。
+
+1. （オプション）任意のユーザーとWorkspace プロジェクトを共有します。
+
+   Analysis Workspaceについて詳しくは、Customer Journey Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)またはAdobe Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home)を参照してください。
 
 ## 次の手順
 
