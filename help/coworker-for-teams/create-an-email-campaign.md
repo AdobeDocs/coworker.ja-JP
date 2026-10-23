@@ -17,7 +17,7 @@ ht-degree: 0%
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**コンテキスト** > **ブランド**&#x200B;の下に追加されました。
 
