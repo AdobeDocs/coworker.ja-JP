@@ -21,9 +21,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '262'
 ht-degree: 2%
 ---
 <!--
@@ -86,7 +86,7 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 <!-- Owner: Documentation -->
 
-[使用許可、ライセンス、アプリケーションまたはサンドボックスへのアクセス、または最初に読み取る関連ページなど、読み取りを開始する前に必要な情報をリストします。]
+[使用許可、ライセンス、アプリケーションまたはサンドボックスへのアクセス、最初に読み取る関連ページなど、読み取りを開始する前に必要な情報をリストします。 前提条件が適用されない場合は、このセクションを削除します。]
 
 * [前提条件1.]
 * [前提条件2.]
