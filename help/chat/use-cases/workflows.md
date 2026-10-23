@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 3194d97a10b97403b6a1103e49d833fabf016548
+source-git-commit: 711501d78742498b070a9554fc3c95121acd57df
 workflow-type: tm+mt
-source-wordcount: '7843'
+source-wordcount: '8084'
 ht-degree: 9%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -145,6 +145,7 @@ ht-degree: 9%
 | [ビジネスパフォーマンス分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのパフォーマンスを分析し、パフォーマンスの低いジャーニーに対して具体的な最適化の機会を特定します。 エンゲージメントとコンバージョンを向上させるために、結果が低い背景にあるトレンド、ボトルネック、考えられる原因を明らかにします。 ビジネスパフォーマンスのインサイトに基づいて、ジャーニーのデザイン、ターゲティング、メッセージ戦略を調整するための、実用的なレコメンデーションを取得します。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「ジャーニー[ジャーニー名]のパフォーマンスを分析し、最適化を推奨します。」 <br> 「ジャーニー[ジャーニー名]が先月と比較してパフォーマンスが低いのはなぜですか？」 <br> 「ジャーニー[ジャーニー名]のパフォーマンスを向上させるにはどうすればよいですか？」 <br> 「ジャーニーの[ジャーニー名]のどの部分が、コンバージョンまたはエンゲージメントを制限している可能性がありますか？」 |
 | [&#x200B; ジャーニーの健全性の分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのインベントリを監査して、不明または汎用的な名前、古いドラフトまたはライブのジャーニー、大きすぎるジャーニー、既存のクローズドジャーニー、類似のアクションやイベント名を含むジャーニーを見つけ、設定をクリーンアップして安定させるための推奨事項を確認します | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「自分のジャーニー設定を監査します。」 <br> 「どのジャーニーが古くなっているか、またはクリーンアップが必要か？」 |
 | [&#x200B; ジャーニーのバージョンを比較](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 2つのジャーニーバージョンを比較し、ノード、接続、ジャーニーレベルのプロパティ変更の構造化された差分を確認します | `journey-analyze-version-comparison` | Adobe Journey Optimizer（AJO） | 「ウェルカムジャーニーのバージョン 2と3を比較」 <br> 「これら2つのジャーニーバージョン間で何が変更されたか？」 |
+| [&#x200B; ジャーニーを通じてプロファイルを追跡](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | 公開されたジャーニーに対する読み取り専用のプロファイルレベルの実行データを取得します。各ノードに入力されたプロファイルの数と分岐の分割方法を確認したり、エラーが発生したプロファイルとその理由を見つけたり、ジャーニー内の単一のプロファイルのノードごとのパスに従ったりできます | トレースジャーニープロファイル | Adobe Journey Optimizer（AJO） | 「[ジャーニー名]を通じてプロファイルをトレースします。」 <br> 「過去7日間に[ジャーニー名]でエラーが発生したプロファイル、その理由は何ですか？」 <br> 「プロファイル [IDまたは電子メール ]の[ジャーニー名]経由のパスを表示する」 |
 
 **関連情報**
 
@@ -191,6 +192,16 @@ ht-degree: 9%
 **関連情報**
 
 * [AIの操作](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}では、Adobe Journey Optimizerの共同作業者と利用可能なスキルの概要を提供します。
+
+## 決定
+
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| --- | --- | --- | --- | --- |
+| [決定ルールの生成、説明、シミュレーション、最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | PQLの構文を手作業で記述することなく、自然言語を使用して適格性ルールやランキング式を作成し、平易な英語の説明を取得し、最大3つのプロファイルに対してテストし、PQLのサイズ制限に合わせて書き換えます | 決定ルールワークフロー | Adobe Journey Optimizer（AJO） | 「ティア 2以上のロイヤルティメンバーを対象とした実施要件ルールを作成します。」 <br><br> 「このルールを自然言語で説明します。」 <br><br> 「テストプロファイルでこのルールをシミュレートします。」 <br><br> 「このPQL ルールを自分に合わせて最適化します。」 |
+
+**関連情報**
+
+* [Coworker for Decisioning](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}は、Adobe Journey Optimizerの意思決定スキルに関する詳細なガイダンス、ユースケース、プロンプトのベストプラクティスを提供します。
 
 ## Journey Optimizerでのコンテンツ制作
 
