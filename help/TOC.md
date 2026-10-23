@@ -5,10 +5,10 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f4682967f0bed2f9a538c41903a32555fe2abbb1
+source-git-commit: ab3fd688f3a83afb0a4d058cc86d5ac8ec5f5977
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 14%
+source-wordcount: '305'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -17,7 +17,7 @@ ht-degree: 14%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -46,7 +46,7 @@ ht-degree: 14%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -65,6 +65,7 @@ ht-degree: 14%
     - アラート {#alerts}
       - [顧客アラートのスキル](./chat/use-cases/customer-alerts/customer-alerts.md)
     - ブランドの可視性 {#brand-visibility}
+      - [AEMランディングページの制作と調整](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [ブランドコンプライアンスのチェック](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [AEM Sites ページの作成](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assetsのオンボーディング](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
@@ -86,7 +87,7 @@ ht-degree: 14%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - チームで共同作業 {#coworker-for-teams}
-  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./coworker-for-teams/new-teams-experience.md)
+  - {hide-from-toc}[新しいチーム エクスペリエンス ](./coworker-for-teams/new-teams-experience.md)
   - [概要](./coworker-for-teams/overview.md)
   - [メールキャンペーンの作成](./coworker-for-teams/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./coworker-for-teams/launch-manage-campaign.md)
