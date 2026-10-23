@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 3%
 ---
 # 同僚とのチャットを始める {#ui-guide}
@@ -25,7 +25,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 | Real-Time CDP | 今すぐ利用可能 | 近日リリース予定 |
 | Adobe Journey Optimizer | 今すぐ利用可能 | 近日リリース予定 |
 | Customer Journey Analytics | 今すぐ利用可能 | 近日リリース予定 |
-| Workfront | 今すぐ利用可能 | 近日リリース予定：<br><br>*一部の対象となるWorkfront system administratorsのプレビューインスタンスで2026年9月上旬<br><br>*対象となるファストリリースの実稼動インスタンスで2026年9月中旬<br><br>*対象となる四半期リリースのWorkfrontのお客様の実稼動インスタンスで2026年10月中旬 |
+| Workfront | 今すぐ利用可能 | 今すぐ利用可能 |
 | ターゲット | 今すぐ利用可能 | 今すぐ利用可能 |
 | AEM | 今すぐ利用可能 | 今すぐ利用可能 |
 | Marketo Engage | 今すぐ利用可能 | 近日リリース予定 |

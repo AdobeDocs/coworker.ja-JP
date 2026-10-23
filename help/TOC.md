@@ -5,9 +5,9 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 30f95a7fac5ee0c507c0b1858a322165abb5fcbb
+source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '287'
 ht-degree: 14%
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 14%
         - [ストリーミングメディア実装の検証](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [Experience Platformの異常値の検出](./chat/use-cases/data-insights/anomaly-detection.md)
         - [データインサイトの獲得](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - ジャーニー分析 {#journey-analysis}
         - [概要](./chat/use-cases/data-insights/journey-analysis.md)
