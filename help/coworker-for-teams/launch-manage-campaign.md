@@ -4,7 +4,7 @@ title: キャンペーンの立ち上げと管理
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 2%
@@ -77,7 +77,7 @@ ht-degree: 2%
 | 頻度 | 日単位、週単位、月単位（定期モード） | はい、繰り返し |
 | 開始時間 | 定期的なキャンペーンが送信される時間帯 | はい、繰り返し |
 | 曜日 | キャンペーンが繰り返される日 | はい、週単位で |
-| ある月の日付 | キャンペーンが繰り返される月の曜日 | はい、月間頻度で |
+| 日付 | キャンペーンが繰り返される月の曜日 | はい、月間頻度で |
 | キャンペーンを終了 | なし、または特定の終了日 | はい、繰り返し |
 
 ### 注意事項
@@ -92,14 +92,6 @@ ht-degree: 2%
 >[!CAUTION]
 >
 >キャンペーンの停止は永続的です。 受信者は、キャンペーンの進行をすぐに停止し、キャンペーンを再開したり、後で再開したりすることはできません。 もう一度送信するには、新しいキャンペーンを作成し、そのキャンペーンを起動する必要があります。
-
-<!--
-
-### Prerequisites
-
-- [NEEDS INPUT - to confirm with engineer: does stopping a campaign require a specific role or permission, or can any user with campaign access do this?]
-
--->
 
 ### キャンペーンを停止する方法
 

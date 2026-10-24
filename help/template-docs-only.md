@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer, no product name.
+# Title: title case, 60 characters or fewer.
 # Description: one or two sentences, about 150-160 characters. Start with "Learn about..." for concepts or "Learn how to..." for tasks.
 title: タイトルケース内のページのタイトル
 description: Adobe CX Enterprise Coworkerを活用して、[ タスクを]実行する方法をご確認ください。 [行動を促す2番目の文]
@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1c6c045a70d7b6d00a88a32c39216c05478d8029
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 1%
 ---
 <!--
@@ -58,7 +58,7 @@ WRITING RULES THAT MATTER MOST HERE
 
 ## 始める前に {#before-you-begin}
 
-[使用許可、ライセンス、アプリケーションまたはサンドボックスへのアクセス、最初に読み取る関連ページなど、読み取りを開始する前に必要な情報をリストします。 コンセプトページのこのセクションを削除します。]
+[使用許可、ライセンス、アプリケーションまたはサンドボックスへのアクセス、最初に読み取る関連ページなど、読み取りを開始する前に必要な情報をリストします。 前提条件が適用されない場合は、このセクションを削除します。]
 
 * [前提条件1.]
 * [前提条件2.]

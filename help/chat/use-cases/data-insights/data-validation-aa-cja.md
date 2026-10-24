@@ -11,9 +11,9 @@ jira: KT-22083
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1528'
 ht-degree: 0%
 ---
 # Adobe AnalyticsからCustomer Journey Analyticsにアップグレードする際に、Coworkerでデータを検証する
@@ -32,7 +32,7 @@ Adobe CX Enterprise Coworkerには、Adobe AnalyticsからCustomer Journey Analy
 
 これらの比較を行った後、AI主導のインサイトとレコメンデーションを生成し、Customer Journey Analyticsへのアップグレードを促進します。
 
-## 始める前に
+## 前提条件
 
 アップグレードの一環としてデータを検証するには、次のものが必要です。
 
@@ -48,7 +48,7 @@ Adobe CX Enterprise Coworkerには、Adobe AnalyticsからCustomer Journey Analy
 
 1. Coworkerにログインします。
 
-1. [!UICONTROL **新規チャット**]&#x200B;を選択します。
+1. **[!UICONTROL 新しいチャット]**&#x200B;を選択します。
 
 1. テキストフィールドで、Adobe AnalyticsからCustomer Journey Analyticsへのアップグレードを検証するようにエージェントに求めます。
 

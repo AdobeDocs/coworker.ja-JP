@@ -5,10 +5,11 @@ user-guide-description: Adobe CX Enterprise Coworkerについて学びましょ�
 description: CX EnterpriseのAI ツールについてご確認ください。 CX EnterpriseのAIを利用して、製品知識を向上させ、運用上のインサイトを得ることができます。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
+nudge: true
+source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 14%
+source-wordcount: '305'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -42,6 +43,7 @@ ht-degree: 14%
         - [トレンドと根本原因を探る](./chat/use-cases/data-insights/root-cause-analysis.md)
       - コンテンツパフォーマンス {#content-performance}
         - [概要](./chat/use-cases/data-insights/content-performance.md)
+        - [コンテンツに関する質問](./chat/use-cases/data-insights/ask-content-questions.md)
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
@@ -52,6 +54,7 @@ ht-degree: 14%
       - [プラットフォームの健全性を評価し、オーディエンスを構築する](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [画像からのジャーニーの作成](./chat/use-cases/journeys/create-journey-from-image.md)
       - [クロスチャネルジャーニーの作成、シミュレーション、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - ロイヤルティ {#loyalty}
       - [ロイヤルティに関する課題を作成し、インサイトを獲得](./chat/use-cases/journeys/create-loyalty-challenge.md)
@@ -63,6 +66,7 @@ ht-degree: 14%
     - アラート {#alerts}
       - [顧客アラートのスキル](./chat/use-cases/customer-alerts/customer-alerts.md)
     - ブランドの可視性 {#brand-visibility}
+      - [AEMランディングページの制作と調整](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [ブランドコンプライアンスのチェック](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [AEM Sites ページの作成](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assetsのオンボーディング](./chat/use-cases/brand-visibility/onboard-aem-assets.md)

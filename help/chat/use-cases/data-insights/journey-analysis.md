@@ -4,9 +4,9 @@ description: Adobe Customer Journey Analyticsの共同作業チャット機能�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ Adobe CX Enterprise Coworkerのチャット機能を利用して、チャネル�
 * 含める、除外または比較するセグメント、チャネル、デバイスを指定します。
 * 最近のサイト変更など、既存の仮説をすべて記載することで、Coworker Chatで検証したり、除外したりできます。
 * 同僚チャットでフォローアップの質問を提案する場合は、次のステップの推奨を尋ねます。
-* 手動制御を必要とする場合は、Analysis Workspaceで任意のビジュアライゼーションを開きます。
+* 手動制御を必要とする場合は、Analysis Workspaceで任意のビジュアライゼーションを開きます。 [Analysis Workspaceでビジュアライゼーションを開く](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace)を参照してください。
 
 ## 次の手順
 

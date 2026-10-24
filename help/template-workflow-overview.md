@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer, no product name. Start with a verb that names the work, for example "Analyze Customer Journeys with Coworker Chat".
+# Title: title case, 60 characters or fewer. Start with a verb that names the work, for example "Analyze Customer Journeys with Coworker Chat".
 # Description: one or two sentences, about 150-160 characters. Start with "Use Coworker Chat to..." and name two or three things the reader can do.
 title: 同僚とのチャットで行う作業の動詞
 description: '[最初のもの]、[2番目のもの]、[3番目のもの]に共同作業チャットを使用します。 [ アクションを促すオプションの2番目の文。]'
@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 14c937d61b7cd41ed1455e72a211ea1f8c0b158a
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '337'
 ht-degree: 4%
 ---
 <!--
@@ -72,6 +72,8 @@ Adobe CX Enterprise Coworker チャットを使用して[このグループで�
 **最適：** [役割1、役割2]
 
 ## 前提条件 {#prerequisites}
+
+[前提条件がない場合は、このセクションを削除します。]
 
 このグループのユースケースを使用するには、次のものが必要です。
 

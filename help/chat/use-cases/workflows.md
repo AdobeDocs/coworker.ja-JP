@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 711501d78742498b070a9554fc3c95121acd57df
+source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
 workflow-type: tm+mt
-source-wordcount: '8084'
+source-wordcount: '8358'
 ht-degree: 9%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -116,6 +116,7 @@ ht-degree: 9%
 | 予測 | 過去のCJAまたはAA データに基づく将来の指標値のプロジェクト | `cja`, `aa` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「今後30日間のセッションを予測」 <br> 「売上目標を達成する予定ですか？」 |
 | [根本原因分析](data-insights/root-cause-analysis.md) | 指標が変化した理由：低下、急上昇、異常を診断します | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先週、コンバージョンが低下した理由は何ですか？」 <br> 「1月15日の売上の急増の原因は何ですか？」 |
 | エグゼクティブサマリーとKPI ダイジェスト | 関係者に提供可能なパフォーマンスの要約、処方レコメンデーション、スライドデッキの概要を作成します | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先月のエグゼクティブサマリーを教えてください」 <br> 「今四半期のデータからスライドデッキの概要を作成してください」 |
+| [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
 | [AA ↔ CJA データ検証](data-insights/data-validation-aa-cja.md) | 特にAdobe AnalyticsからCustomer Journey Analyticsにアップグレードする場合は、Adobe AnalyticsとCustomer Journey Analytics間でデータを比較、監査、調整できます | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | 「AA レポートスイートとCJA データビューの比較」 <br> 「AAとCJA間のページビューの検証」 |
 | [&#x200B; データセットとフィールドの品質を検証](data-insights/data-validation-aep.md) | Experience Platform データセットとフィールドに対して統計的およびセマンティック検証を実行し、実装後または継続的にデータ品質の問題を検出します<!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | 「データセット Electronics サンプル 1000の検証」 <br> 「Customers_2024 データセットの電子メールフィールドの検証」 |
 | 運用時系列と因果関係分析 | オーディエンス、データセット、ジャーニーに関する過去の時系列データを、因果関係アトリビューションでクエリ、分析します | `operational-stats-causal-analysis` | すべての対象アプリケーション | 「過去90日間のオーディエンスサイズの傾向を表示」 <br> 「データセットの行数が3月3日に急増した理由を教えてください。」 |
@@ -202,6 +203,17 @@ ht-degree: 9%
 **関連情報**
 
 * [Coworker for Decisioning](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}は、Adobe Journey Optimizerの意思決定スキルに関する詳細なガイダンス、ユースケース、プロンプトのベストプラクティスを提供します。
+
+## チャネル
+
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| --- | --- | --- | --- | --- |
+| [&#x200B; チャネル設定の調査](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 電子メール、SMS、プッシュ、ダイレクトメール、アプリ内、webなどの標準チャネルのチャネル設定（プリセット）と資格情報を表示、一覧表示、検索、検査します。これには、プッシュ資格情報、電子メールサブドメイン、SMSおよびWhatsApp資格情報、ファイルのルーティング、LINE チャネル設定、ライブアクティビティレジストリなどの関連リソースが含まれます。 読み取り専用 | チャネル操作 | Adobe Journey Optimizer（AJO） | 「サンドボックスで使用できるチャネルプリセットは何ですか？」 <br> 「メールチャネルの設定をすべて表示する」 <br> 「マーケティングメール設定に設定されている送信者アドレスと返信先は何ですか？」 |
+| [&#x200B; カスタムチャネルの作成と管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | カスタムのアウトバウンドチャネルを手動セットアップ、curl コマンド、またはAPI ドキュメントリンクから作成、テスト、更新、リスト化、取得、削除します。 チャネルの設定、認証、スロットリング、ペイロードの定義について解説します | チャネルビルダー | Adobe Journey Optimizer（AJO） | 「SMS プロバイダーの新しいカスタム チャネルの作成を支援してください。」 <br> 「このAPI リファレンスからカスタムチャネルを作成：[link]。」 <br> 「カスタムチャネルをリストアップする」 |
+
+**関連情報**
+
+* [Coworker for channels](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"}は、Adobe Journey OptimizerのChannel OperationおよびChannel Builder スキルに関する詳細なガイダンス、ユースケース、サンプルプロンプトを提供します。
 
 ## Journey Optimizerでのコンテンツ制作
 

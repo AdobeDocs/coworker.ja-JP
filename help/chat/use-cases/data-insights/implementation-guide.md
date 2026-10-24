@@ -1,7 +1,7 @@
 ---
 title: Adobe Customer Journey AnalyticsまたはStreaming Mediaの実装計画を共同作業で行う
 description: Coworkerの実装ガイドスキルが、エクスポート可能なチェックリストを使用して、ディスカバリーディスカバリーの会話を、パーソナライズされた順序付きの実装計画に変える方法を説明します。
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Adobe CX Enterprise Coworkerには、Customer Journey Analytics、Adobe Analytic
 
 1. Coworkerにログインします。
 
-1. [!UICONTROL **新しいチャット**]&#x200B;を選択します。
+1. **[!UICONTROL 新しいチャット]**&#x200B;を選択します。
 
 1. テキストフィールドに、計画する実装または移行を記述します。 次に例を示します。
 
