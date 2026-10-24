@@ -208,12 +208,12 @@ ht-degree: 9%
 
 | ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
-| [&#x200B; チャネル設定の調査](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 電子メール、SMS、プッシュ、ダイレクトメール、アプリ内、webなどの標準チャネルのチャネル設定（プリセット）と資格情報を表示、一覧表示、検索、検査します。これには、プッシュ資格情報、電子メールサブドメイン、SMSおよびWhatsApp資格情報、ファイルのルーティング、LINE チャネル設定、ライブアクティビティレジストリなどの関連リソースが含まれます。 読み取り専用 | チャネル操作 | Adobe Journey Optimizer（AJO） | 「サンドボックスで使用できるチャネルプリセットは何ですか？」 <br> 「メールチャネルの設定をすべて表示する」 <br> 「マーケティングメール設定に設定されている送信者アドレスと返信先は何ですか？」 |
-| [&#x200B; カスタムチャネルの作成と管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | カスタムのアウトバウンドチャネルを手動セットアップ、curl コマンド、またはAPI ドキュメントリンクから作成、テスト、更新、リスト化、取得、削除します。 チャネルの設定、認証、スロットリング、ペイロードの定義について解説します | チャネルビルダー | Adobe Journey Optimizer（AJO） | 「SMS プロバイダーの新しいカスタム チャネルの作成を支援してください。」 <br> 「このAPI リファレンスからカスタムチャネルを作成：[link]。」 <br> 「カスタムチャネルをリストアップする」 |
+| [&#x200B; チャネル設定の調査](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 電子メール、SMS、プッシュ、ダイレクトメール、アプリ内、webなどの標準チャネルのチャネル設定（プリセット）と資格情報を表示、一覧表示、検索、検査します。これには、プッシュ資格情報、電子メールサブドメイン、SMSおよびWhatsApp資格情報、ファイルのルーティング、LINE チャネル設定、ライブアクティビティレジストリなどの関連リソースが含まれます。 読み取り専用 | チャネル操作 | Adobe Journey Optimizer（AJO） | 「サンドボックスで使用できるチャネルプリセットは何ですか？」 <br> 「メールチャネルの設定をすべて表示する」 <br> 「マーケティングメール設定に設定されている送信者アドレスと返信先は何ですか？」 |
+| [&#x200B; カスタムチャネルの作成と管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | カスタムのアウトバウンドチャネルを手動セットアップ、curl コマンド、またはAPI ドキュメントリンクから作成、テスト、更新、リスト化、取得、削除します。 チャネルの設定、認証、スロットリング、ペイロードの定義について解説します | チャネルビルダー | Adobe Journey Optimizer（AJO） | 「SMS プロバイダーの新しいカスタム チャネルの作成を支援してください。」 <br> 「このAPI リファレンスからカスタムチャネルを作成：[link]。」 <br> 「カスタムチャネルをリストアップする」 |
 
 **関連情報**
 
-* [Coworker for channels](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"}は、Adobe Journey OptimizerのChannel OperationおよびChannel Builder スキルに関する詳細なガイダンス、ユースケース、サンプルプロンプトを提供します。
+* [Coworker for channels](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"}は、Adobe Journey OptimizerのChannel OperationおよびChannel Builder スキルに関する詳細なガイダンス、ユースケース、サンプルプロンプトを提供します。
 
 ## Journey Optimizerでのコンテンツ制作
 
