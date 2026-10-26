@@ -1,13 +1,13 @@
 ---
-description: 説明
+description: Coworker for teamsをSalesforce アカウントに接続して、リードと連絡先にアクセスする方法を説明します。
 title: Salesforceに接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 ---
 # Salesforceに接続 {#salesforce}
 
@@ -19,17 +19,17 @@ Adobe Workfront グループ版では、Salesforce アカウントを接続し�
 >
 >* アクティブなSalesforce アカウント
 >* Salesforceの次の権限：`api`、`sobjects.Contact.read`、`sobjects.Campaign.read`、`sobjects.CampaignMember.read`
->* Salesforce インスタンス URL、[&#x200B; クライアント ID、およびクライアント シークレット &#x200B;](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key)を便利に使用できます
+>* Salesforce インスタンス URL、[ クライアント ID、およびクライアント シークレット ](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key)を便利に使用できます
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
-   カスタマイズが展開され、コネクタがハイライト表示された状態でナビゲーションを残した![&#x200B; チームの同僚](./assets/salesforce-1.png)
+   カスタマイズが展開され、コネクタがハイライト表示された状態でナビゲーションを残した![ チームの同僚](./assets/salesforce-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/salesforce-2.png)
+   ![ コネクタ画面に統合ボタンを追加](./assets/salesforce-2.png)
 
    >[!NOTE]
    >
