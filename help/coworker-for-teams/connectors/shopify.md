@@ -19,7 +19,7 @@ Adobe Coworker for teamsを使用すると、次のようにしてShopifyを接�
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
 
    SCREENSHOT
 
