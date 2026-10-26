@@ -4,9 +4,9 @@ title: メールキャンペーンの作成
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # メールキャンペーンの作成 {#create-an-email-campaign}
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**コンテキスト** > **ブランド**&#x200B;の下に追加されました。
 
@@ -80,15 +80,13 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 オーディエンスはCSVでアップロードされます。 すべてのオーディエンスは、それぞれのキャンペーンに固有です（現時点では、環境内の他の場所には保存されていません）。
 
-1. プロンプトを送信したら、Coworkerが実行するタスクを確認し、**ビルド**&#x200B;をクリックします。
+1. プロンプトを送信すると、Coworker for teams （通常）がサンプルオーディエンスを生成します。 そうでない場合は、オーディエンスの読み込みを求めるメッセージが表示されます。
 
-1. 左側の&#x200B;_キャンペーン変換_ ペインで、**CSV**&#x200B;をアップロードをクリックします。
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. CSV ファイルをアップロードするか、使用可能なコネクタからデータを取り込むことで、独自のオーディエンスを読み込みます。
 
    >[!NOTE]
    >
-   >* メールアドレスは、必須フィールド、名、最終購入日など、パーソナライゼーションに使用できるフィールドです。
+   >Coworker for teamsでは、サンプルオーディエンスを使用してキャンペーンの構築を進めることができますが、キャンペーンを開始するには、実際のオーディエンスを追加する必要があります。
 
 1. CSV ファイルを読み込みます。
 
@@ -132,9 +130,9 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## ステップ 6：次のステップ
+## ステップ 6：キャンペーンの開始
 
-ローンチ機能（メールキャンペーンの送信）は近日公開予定です。 それまでは、コンテンツをチームでレビューし、次のキャンペーンを開始できます。
+これで、[ キャンペーンを開始する準備が整いました](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
 
 ## よくある質問
 
