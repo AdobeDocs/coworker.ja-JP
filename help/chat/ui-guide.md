@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '2061'
 ht-degree: 3%
 ---
 # 同僚とのチャットを始める {#ui-guide}
@@ -16,7 +16,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 
 ## 対象
 
-[!DNL Coworker] [!UICONTROL &#x200B; チャット &#x200B;]は、一部[!DNL CX Enterprise]個のアプリケーションで、没入型エクスペリエンス、ページ全体ワークスペース、製品内エクスペリエンスとして利用できます。
+[!DNL Coworker] [!UICONTROL  チャット ]は、一部[!DNL CX Enterprise]個のアプリケーションで、没入型エクスペリエンス、ページ全体ワークスペース、製品内エクスペリエンスとして利用できます。
 
 次の表に、各エクスペリエンスの利用場所を示します。
 
@@ -30,75 +30,80 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 | AEM | 今すぐ利用可能 | 今すぐ利用可能 |
 | Marketo Engage | 今すぐ利用可能 | 近日リリース予定 |
 
-## [!DNL Coworker] チャットを開く {#immersive}
+## [!DNL Coworker]にログイン {#sign-in}
 
-没入型エクスペリエンスを使用するには、Adobeの資格情報でログインします。 直接リンクから、またはCX Enterprise内から開くことができます。
+Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
-1. [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker)に移動します。
-1. Adobe ID を使用してログインします。
-1. [!DNL CX Enterprise]で、アプリケーションセレクターメニュー![製品メニューアイコン &#x200B;](./assets/apps-icon.png)をクリックし、**[!DNL Coworker]**&#x200B;をクリックします。
-1. チャット（製品内エクスペリエンス）を開くには、**[!UICONTROL チャット]** ![同僚アイコン &#x200B;](./assets/icon-coworker.png)をクリックします。
+1. [Adobe IDを使用して](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
 
-CX Enterprise アプリケーションセレクターの![同僚](./assets/ui-guide-1.png)
+   ログイン後、[!DNL CX Enterprise] アプリケーションメニューから、または直接リンクを使用して[!DNL Coworker]を開くことができます。
 
-## ビデオ - [!DNL Coworker] チャットインターフェイスの基本
+   * [!DNL CX Enterprise]内から、アプリケーションセレクターメニュー![製品メニューアイコン ](./assets/apps-icon.png)をクリックし、**[!DNL Coworker]**&#x200B;をクリックします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
+   * 直接リンクを使用するには、[https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker)に移動します。
 
-## 組織の選択
+1. チャットを開始するには、ナビゲーションパネルの「**[!UICONTROL 新しいチャット]**」をクリックします。
 
-[組織](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/organizations)とサンドボックスは、会話がアクセスできるデータ、スキル、接続されたツールを決定します。 始める前にそれらを確認してください。 現在のコンテキストは、左側のナビゲーションパネルの下部に自分の名前の下に表示されます。
+## 同僚とのチャットの基本を学ぶ
 
-コンテキストを変更するには：
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
-1. ナビゲーションパネルの下部にある自分の名前をクリックして、アカウントメニューを開きます。
-1. **[!UICONTROL 組織]**&#x200B;をクリックし、作業するIMS組織を選択します。
+## 同僚の環境設定の指定 {#preferences}
 
-   ![組織ピッカーが開いているアカウントメニュー](./assets/ui-guide-2.png)
+インターフェイスの左下では、チャットでやり取りするデータ、スキル、接続されたツールを決定するオプションや環境設定を指定できます。
 
-1. **[!UICONTROL サンドボックス]**&#x200B;をクリックし、作業するAEP サンドボックスを選択します。
+![組織](./assets/get-started-organizations.png)
 
-   ![&#x200B; サンドボックスピッカーが開いているアカウントメニュー](./assets/ui-guide-3.png)
-
-アカウントメニューには、次のオプションも含まれます。
-
-| オプション | これを使用すると、次の操作を実行できます。 |
+| 設定/ オプション | これを使用すると、次の操作を実行できます。 |
 | --- | --- |
+| アカウント名とメールアドレス | ログインしているAdobe アカウントを確認します。 |
+| **[!UICONTROL 通知]** （ベル アイコン） | [通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)を表示します。 |
 | **[!UICONTROL テーマ]** | 明るいテーマと暗いテーマを切り替えます。 |
-| **[!UICONTROL 設定]** | アカウントの詳細とワークスペースの設定を表示します。 |
+| **[!UICONTROL アプリ設定]** | アカウントの詳細とワークスペースの設定を表示します。 |
+| **[!UICONTROL 環境設定]** | アカウント [環境設定](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences)を開きます。 矢印は、ページが同僚の外で開くことを示します。 |
+| **[!UICONTROL 組織]** | 作業するIMS [組織](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/organizations)を選択します。 メニューには現在の組織が表示され、チェックマークはリスト内で選択した組織を識別します。 |
+| **[!UICONTROL サンドボックス]** | 作業するExperience Platform [ サンドボックス ](https://experienceleague.adobe.com/ja/docs/experience-platform/sandbox/home)を選択します。 メニューには、現在のサンドボックスとそのタイプ（例：**Prod**）が表示されます。 |
 | **[!UICONTROL CX アプリケーション]** | アカウントに接続されている別のCX Enterprise アプリケーションに移動します。 |
 | **[!UICONTROL ログアウト]** | Adobe アカウントからログアウトします。 |
 
-## あなたの周りの道を見つける
+## Workfrontの機能の詳細 {#interface-features}
 
-ワークスペースには、左側のナビゲーションパネルと、残りのウィンドウを埋める会話キャンバスの2つの領域があります。
+Coworkerには、左側のナビゲーションパネルと、画面の残りの部分を埋めるチャットウィンドウの2つの主要な領域があります。 ナビゲーションパネルを折りたたんでアイコンのみを表示するには、製品名の横にある折りたたみアイコンをクリックします。
 
-![&#x200B; ホーム画面](./assets/ui-guide-4.png)
+* ナビゲーションレール：
 
-ナビゲーションパネルを使用して、製品の各部分の間を移動し、最近の作業に戻ります。
+  ![同僚の左ナビゲーション ](./assets/get-started-left-navigation.png)
+
+* チャットウィンドウ（**[!UICONTROL Chats]** ページを開いたときに表示）:
+
+  ![同僚チャット ](./assets/get-started-canvas.png)
+
+ナビゲーションパネルから、次の機能を使用して同僚とチャットし、最近の作業に戻ることができます。
 
 | オプション | これを使用すると、次の操作を実行できます。 |
 | --- | --- |
-| **[!UICONTROL 新しいチャット]** | 会話を始める。 Coworker Chatは、現在のチャットを履歴に保存します。 |
+| **[!UICONTROL 新しいチャット]** | 会話を始める。 [!UICONTROL 同僚チャット ]は、現在のチャットを履歴に保存します。 |
 | **[!UICONTROL ホーム]** | 挨拶、入力ボックス、および提案されたプロンプトに戻ります。 |
 | **[!UICONTROL チャット]** | 過去の会話を検索、ピン留め、アーカイブ、削除できます。 |
+| **[!UICONTROL アーティファクト]** | 会話でCoworker Chatが作成したアーティファクトを開きます。 |
+| **[!UICONTROL エクスペリエンスコンテキスト]** | <!-- TODO: describe Experience Context --> |
 | **[!UICONTROL カスタマイズ]** | スキル、統合、マーケットプレイス、プラグイン、メモリを管理します。 |
-| **[!UICONTROL ピン留め]** | スターにした会話を開きます。 「**[!UICONTROL すべて表示]**」をクリックして、チャットページに表示します。 |
 | **[!UICONTROL 最近]** | 最新の会話を開きます。 「**[!UICONTROL すべて表示]**」をクリックして、チャットページを開きます。 |
+| **[!UICONTROL ピン留め]** | スターにした会話を開きます。 「**[!UICONTROL すべて表示]**」をクリックして、チャットページに表示します。 |
 
-## 最初のメッセージを送信
+## Coworker に何でも尋ねる {#message}
 
-ホーム画面には、挨拶、入力（[!UICONTROL &#x200B; チャット &#x200B;]） ボックス、およびサンドボックスでCoworker Chatが実行できる操作に基づいた提案プロンプトが表示されます。 提案から始めることも、独自のメッセージを書くこともできます。
+Coworkerのホームページでは、Coworker Chatがサンドボックスで実行できることに基づいて、質問を入力したり、提案されたプロンプトを選択したりできます。
 
-メッセージを送信するには：
+同僚に質問するには：
 
-1. ナビゲーションパネルで「**[!UICONTROL ホーム]**」をクリックします。
+1. [同僚](#sign-in)を開きます。
 1. 次のいずれかを実行します。
 
    * **[!UICONTROL 自分に対して提案]**&#x200B;の下にあるプロンプトを選択します。 Coworker Chatは入力ボックスに入力ボックスを追加し、編集できるようにします。
    * 自分のリクエストを「**[!UICONTROL 同僚に質問]**」ボックスに入力します。
 
-1. （オプション）コンテキストを追加したり、同僚のチャットがどのように応答するかを選択したり、メッセージを指示したりします。 「[&#x200B; コンテキストを追加して応答スタイルを選択](#input-options)」を参照してください。
+1. （オプション）コンテキストを追加したり、同僚のチャットがどのように応答するかを選択したり、メッセージを指示したりします。 「[ コンテキストを追加して応答スタイルを選択](#input-options)」を参照してください。
 1. 「**[!UICONTROL 送信]**」をクリックします。
 
 >[!TIP]
@@ -115,9 +120,9 @@ Coworker Chatをサンドボックス内の特定のオブジェクトに向け�
 | --- | --- |
 | **[!UICONTROL +]** （添付） | メッセージにファイルまたはサンドボックスオブジェクトを追加します。 |
 | **[!UICONTROL プラン モード]** | Adobe Workfrontを利用する前に、ステップバイステップ計画を策定しましょう。 |
-| **[!UICONTROL 文字起こしビュー]** | Coworker Chatのアクティビティを選択します。 |
+| **[!UICONTROL 文字起こしビュー]** （**[!UICONTROL 標準]**&#x200B;など、現在のビューでラベル付き） | Coworker Chatのアクティビティを選択します。 |
 | **[!UICONTROL マイク]** | メッセージを決定。 もう一度クリックして、録画を停止します。 |
-| **[!UICONTROL 送信]** | メッセージを送信。 共同作業者チャットが応答している間、この制御は&#x200B;**[!UICONTROL 停止]**&#x200B;になり、応答が中断されます。 |
+| **[!UICONTROL 送信]** （矢印アイコン） | メッセージを送信。 メッセージを入力するまで、コントロールは使用できません。 共同作業者チャットが応答している間、この制御は&#x200B;**[!UICONTROL 停止]**&#x200B;になり、応答が中断されます。 |
 
 ### ファイルまたはオブジェクトの添付
 
@@ -129,8 +134,6 @@ Coworker Chatをサンドボックス内の特定のオブジェクトに向け�
    * **[!UICONTROL ファイルを添付]**：同僚チャットで読み取りおよび参照するためのファイルをアップロードします。
    * **[!UICONTROL データまたはオブジェクトを追加]**: データセットやスキーマなど、サンドボックス内のオブジェクトを参照するので、Coworker Chatはライブデータに対して動作します。
 
-![添付メニュー](./assets/ui-guide-5.png)
-
 ### 共同作業者チャットの実行前に計画を確認する {#plan-mode}
 
 複雑なタスクやデータを変更するタスクには、計画モードを使用します。 プランモードがオンの場合、Coworker Chatはプランを提案し、承認を待ってから実行します。 プランモードがオフになっている場合、同僚チャットはすぐに作業を開始します。
@@ -139,13 +142,11 @@ Coworker Chatをサンドボックス内の特定のオブジェクトに向け�
 1. メッセージを送信。
 1. 計画を確認し、承認して続行します。
 
-![入力ツールバーでプラン モードがオンになっている](./assets/ui-guide-6.png)
-
 ### 文字起こしビューの選択
 
 文字起こしビューは、会話にCoworker Chatの推論とツールのアクティビティがどれくらい表示されるかを制御します。
 
-1. 入力ツールバーの「**[!UICONTROL 文字起こしビュー]**」をクリックします。
+1. 入力ツールバーで、文字起こしビューコントロールをクリックします。 現在のビュー（**[!UICONTROL 標準]**&#x200B;など）が表示されます。
 1. ビューをクリックします。
 
    | 表示 | 表示される内容 |
@@ -154,17 +155,17 @@ Coworker Chatをサンドボックス内の特定のオブジェクトに向け�
    | **[!UICONTROL フォーカス]** | ほとんど答えです。 同僚チャットでは、ほとんどの中間ステップが非表示になります。 |
    | **[!UICONTROL 詳細]** | あらゆる思考ステップ、スキルの読み込み、ファイルの読み込み、クエリ。 |
 
-![文字起こし表示オプション &#x200B;](./assets/ui-guide-7.png)
-
 ## 回答をレビュー
 
 Coworker Chatは進行状況を確認し、回答を返します。 レスポンスには、理由、使用したツールの記録、アーティファクト、概要などが含まれます。
 
-![処理中の応答](./assets/ui-guide-8.png)
+![応答と入力ボックスを含む会話](./assets/get-started-message.png)
+
+応答が長い場合は、応答の上に表示される矢印をクリックして、最後までジャンプします。 Coworker Chatでは、入力ボックスの下に次の通知が表示されます。「応答はAIを使用して生成され、不正確になる可能性があります。 使用する前に確認してください。」 アクションを起こす前に、回答を確認します。
 
 ### アクティビティをフォロー
 
-Coworker Chatは機能しますが、その仕組みを追跡し、検証することもできます。 任意のエントリを展開して詳細を表示します。
+Coworker Chatは機能しますが、その仕組みを追跡し、検証することもできます。 **[!UICONTROL 標準]** ビューでは、そのアクティビティの1行の概要が回答の上に表示されます。例えば、「3つのスキルを読み込み、1つのファイルを読み込み、さらに2つの手順」などです。 概要をクリックして展開し、任意のエントリを展開して詳細を表示します。 エントリは次のとおりです。
 
 * **考え**：同僚のチャットの推論と時間を含む折りたたみ可能なブロック。
 * **読み込まれたスキル**: タスクに使用される特殊機能Coworker Chat。
@@ -182,8 +183,6 @@ Coworker Chatは機能しますが、その仕組みを追跡し、検証する�
 
 アーティファクトの下では、同僚のチャットが結果の意味を説明し、注目すべき結果を強調表示し、フォローアップのアクションを提案します。 これらの提案を使用して、会話を続行します。
 
-![&#x200B; アーティファクトテーブルと概要](./assets/ui-guide-9.png)を含む完全な応答
-
 ### 回答の評価とコピー
 
 各応答には、フィードバックの提供やコンテンツの再利用に利用できる制御が含まれています。
@@ -191,13 +190,9 @@ Coworker Chatは機能しますが、その仕組みを追跡し、検証する�
 * **[!UICONTROL 親指を上げる]**&#x200B;または&#x200B;**[!UICONTROL 親指を下げる]**&#x200B;をクリックして、応答を評価します。 あなたの評価は、将来の回答を改善するのに役立ちます。
 * 「**[!UICONTROL コピー]**」をクリックし、「**[!UICONTROL マークダウンとしてコピー]**」を選択して書式を維持するか、「**[!UICONTROL プレーンテキストとしてコピー]**」を選択して削除します。
 
-![&#x200B; コピーメニュー](./assets/ui-guide-10.png)
-
 ## チャットの管理
 
 チャット履歴は過去の会話を保存しているので、以前の会話に戻すことができます。 ナビゲーションパネルの&#x200B;**[!UICONTROL チャット]**&#x200B;をクリックして開きます。 会話は日付ごとにグループ化され、各行にはタイトルとターン数が表示されます。
-
-![&#x200B; チャットページ &#x200B;](./assets/ui-guide-11.png)
 
 チャットページでは、次のことができます。
 
@@ -210,32 +205,28 @@ Coworker Chatは機能しますが、その仕組みを追跡し、検証する�
 
 ## 同僚とのチャットのカスタマイズ
 
-[!UICONTROL &#x200B; カスタマイズ &#x200B;]は、[!UICONTROL 同僚チャット &#x200B;]の機能を制御する場所です。 ナビゲーションパネルで「**[!UICONTROL カスタマイズ]**」をクリックし、タブを選択します：**[!UICONTROL スキル]**、**[!UICONTROL 統合]**、**[!UICONTROL マーケットプレイス]**、**[!UICONTROL プラグイン]**、または&#x200B;**[!UICONTROL メモリ]**。
+[!UICONTROL  カスタマイズ ]は、[!UICONTROL 同僚チャット ]の機能を制御する場所です。 ナビゲーションパネルで「**[!UICONTROL カスタマイズ]**」をクリックし、タブを選択します：**[!UICONTROL スキル]**、**[!UICONTROL 統合]**、**[!UICONTROL マーケットプレイス]**、**[!UICONTROL プラグイン]**、または&#x200B;**[!UICONTROL メモリ]**。
 
 ### スキルの追加と表示
 
 スキルとは、Coworker Chatが該当する場合に自動的に使用する特殊な機能です。 チャットで&#x200B;**/**&#x200B;と入力して、自分でスキルを開始することもできます。 「**[!UICONTROL スキル]**」タブには、インストールされているすべてのスキルが一覧表示されます。
 
-![&#x200B; スキル タブ &#x200B;](./assets/ui-guide-12.png)
-
 1. 「**[!UICONTROL スキル]**」タブで、「**[!UICONTROL スキルを追加]**」をクリックして、新しいソースからスキルをインストールします。
-1. **[!UICONTROL 検索]**&#x200B;に名前を入力して、スキルを見つけます。
+1. **[!UICONTROL 検索]**に名前を入力して、スキルを見つけます。
 表示トグルを使用して、グリッド レイアウトとリスト レイアウトを切り替えます。
 1. スキルを選択すると、それが属するプラグイン、Coworker Chatが使用するプラグイン、およびそれが含まれるファイルが表示されます。
 
-   ![&#x200B; サポート ファイルを表示するスキルの詳細ビュー](./assets/ui-guide-13.png)
-
 1. （オプション）「**[!UICONTROL View SKILL.md]**」をクリックして完全なスキル定義を読み取るか、「**[!UICONTROL Source]**&#x200B;を削除」をクリックしてスキルをアンインストールします。
-
-   ![SKILL.md ビューア &#x200B;](./assets/ui-guide-14.png)
 
 ### サーバーへの接続 {#server}
 
-Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time CDP、Target、Workfrontなどの外部ツールやサービスに接続します。 「**[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**」タブには、接続されているサーバーとアクティブな接続数が一覧表示されます。 各カードには、サーバー名、そのエンドポイント、およびそれが提供するものを説明するタグが表示されます。
+Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time CDP、Target、Workfrontなどの外部ツールやサービスに接続します。
 
 1. **[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**&#x200B;に移動します
 
-   ![&#x200B; サーバーのタブ &#x200B;](./assets/get-started-customizations.png)
+   ![ サーバーのタブ ](./assets/get-started-customizations.png)
+
+   「**[!UICONTROL 統合]**」タブには、接続されているサーバーとアクティブな接続数が一覧表示されます。 各カードには、サーバー名、そのエンドポイント、およびそれが提供するものを説明するタグが表示されます。
 
 1. カスタマイズで、**[!UICONTROL サーバーを追加]**&#x200B;をクリックします。
 
@@ -256,8 +247,6 @@ Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time
 
 マーケットプレイスとは、参照してインストールできるプラグインのレジストリのことです。 「**[!UICONTROL マーケットプレイス]**」タブで、「**[!UICONTROL マーケットプレイスを追加]**」をクリックして、新しいマーケットプレイスを登録します。 **[!UICONTROL 検索]**&#x200B;を使用するか、グループで絞り込んでリストを絞り込みます。 **Ready** ステータスのマーケットプレイスをインストールできます。
 
-![&#x200B; マーケットプレイス タブ &#x200B;](./assets/ui-guide-16.png)
-
 ### プラグインを管理
 
 プラグインは、スキルとサーバーをバンドルして、それらを一緒にインストールして管理できるようにします。 「**[!UICONTROL プラグイン]**」タブに、インストール済みのプラグインが表示されます。
@@ -265,8 +254,6 @@ Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time
 * 「**[!UICONTROL マーケットプレイスを参照]**」をクリックして、新しいプラグインを探します。
 * マーケットプレイスでフィルタリングして、各プラグインのソースを確認できます。
 * 「**[!UICONTROL アンインストール]**」をクリックして、プラグインとそのバンドルを削除します。
-
-![&#x200B; プラグイン タブ &#x200B;](./assets/ui-guide-17.png)
 
 ### メモリを管理
 
@@ -277,4 +264,3 @@ Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time
 1. **[!UICONTROL 保存された環境設定]**&#x200B;で、共同作業者チャットが保存した内容を確認します。 各エントリを編集、削除または検査したり、カテゴリ別にエントリをフィルタリングしたりできます。
 1. **[!UICONTROL 保存済みメモリ履歴]**&#x200B;を使用して、メモリの変更のタイムラインを表示します。
 
-![&#x200B; メモリ タブ &#x200B;](./assets/ui-guide-18.png)
