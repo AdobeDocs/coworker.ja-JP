@@ -19,7 +19,7 @@ Adobe Coworker グループ版を使用すると、Databricks ワークスペー
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
    SCREENSHOT
 

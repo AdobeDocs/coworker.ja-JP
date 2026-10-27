@@ -19,11 +19,11 @@ Adobe Coworker for teamsを使用すると、Shopify アカウントを接続し
 >
 >* アクティブなShopify アカウント
 >* Shopifyの次の権限：`read_customers`
->* Shopify ストアのURLと[管理者API アクセストークン ](https://shopify.dev/docs/apps/build/authentication-authorization)便利
+>* Shopify ストアのURLと[管理者API アクセストークン &#x200B;](https://shopify.dev/docs/apps/build/authentication-authorization)便利
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
    SCREENSHOT
 
