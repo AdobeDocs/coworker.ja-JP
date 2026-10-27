@@ -53,7 +53,7 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 ## 同僚の設定 {#set-up-coworker}
 
-設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[ サンプルプロンプト ](#example-prompts)を試してください。
+設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[&#x200B; サンプルプロンプト &#x200B;](#example-prompts)を試してください。
 
 >[!BEGINTABS]
 
@@ -75,13 +75,13 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 >
 >[!DNL Microsoft]が新しい権限を必要とするCoworkerへの更新をリリースした場合、管理者はユーザーにロールアウトする前に[!DNL Agent Registry]で更新を承認する必要があります。
 
-[!DNL Copilot]**の**&#x200B;同僚へのアクセス
+[!DNL Copilot]&#x200B;**の**&#x200B;同僚へのアクセス
 
 管理者がCoworkerを有効にすると、[!DNL Teams]、[!DNL Word]、[!DNL Excel]、[!DNL PowerPoint]、およびweb チャットを含む[!DNL Microsoft 365 Copilot]個のサーフェスでアクセスできます。
 
 [!DNL Microsoft 365 Copilot]で、**[!UICONTROL エージェント]**&#x200B;を選択してから、**[!UICONTROL その他のエージェント]**&#x200B;を選択します。
 
-![ エージェント メニューを開き、その他のエージェントがハイライト表示されたMicrosoft 365 コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
+![&#x200B; エージェント メニューを開き、その他のエージェントがハイライト表示されたMicrosoft 365 コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
 
 次に、エージェントカタログで「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択します。
 
@@ -101,7 +101,7 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 * [!DNL ChatGPT]管理者に、選択したユーザーまたは組織全体に対して&#x200B;**[!UICONTROL Adobe CX Enterprise Coworker]**&#x200B;を承認するように依頼します。
 
-[!DNL ChatGPT]**の**&#x200B;同僚へのアクセス
+[!DNL ChatGPT]&#x200B;**の**&#x200B;同僚へのアクセス
 
 [!DNL ChatGPT]で、「**[!UICONTROL プラグイン]**」を選択します。
 
@@ -125,15 +125,15 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 * [!DNL Claude]管理者に、選択したユーザーまたは組織全体に対して&#x200B;**[!UICONTROL Adobe CX Enterprise Coworker]**&#x200B;を承認するように依頼します。
 
-[!DNL Claude]**の**&#x200B;同僚へのアクセス
+[!DNL Claude]&#x200B;**の**&#x200B;同僚へのアクセス
 
 1. [!DNL Claude]で、**[!UICONTROL カスタマイズ]**&#x200B;を選択します。
 
-   カスタマイズがハイライト表示された![ クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
+   カスタマイズがハイライト表示された![&#x200B; クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
 
 1. **[!UICONTROL Connectors]**、**[!UICONTROL Discover]**&#x200B;を選択し、**[!UICONTROL Search]**&#x200B;を使用してAdobe CX Enterprise Coworkerを検索します。
 
-   ![ 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
+   ![&#x200B; 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
 
 1. 「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択し、「**[!UICONTROL クロードに接続]**」を選択します。
 
