@@ -6,10 +6,10 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [エージェント型スキルのサンドボックスツール](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - アラート {#alerts}
       - [顧客アラートのスキル](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - 通知 {#notifications}
+      - [通知スキル](./chat/use-cases/notifications/notification-skills.md)
     - ブランドの可視性 {#brand-visibility}
       - [AEMランディングページの制作と調整](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [ブランドコンプライアンスのチェック](./chat/use-cases/brand-visibility/brand-compliance.md)
@@ -88,7 +90,6 @@ ht-degree: 13%
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - チームで共同作業 {#coworker-for-teams}
-  - {hide-from-toc}[新しいチーム エクスペリエンス &#x200B;](./coworker-for-teams/new-teams-experience.md)
   - [概要](./coworker-for-teams/overview.md)
   - [メールキャンペーンの作成](./coworker-for-teams/create-an-email-campaign.md)
   - [キャンペーンの立ち上げと管理](./coworker-for-teams/launch-manage-campaign.md)
@@ -98,4 +99,8 @@ ht-degree: 13%
   - コネクタ {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [リリースノート](./coworker-for-teams/release-notes.md)
+- その他のリソース {#more-resources}
+  - [ドキュメントの更新](./more-resources/documentation-updates.md)
+  - [リリースノート](./more-resources/release-notes.md)

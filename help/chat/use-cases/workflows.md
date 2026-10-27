@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 9%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -147,6 +147,7 @@ ht-degree: 9%
 | [&#x200B; ジャーニーの健全性の分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのインベントリを監査して、不明または汎用的な名前、古いドラフトまたはライブのジャーニー、大きすぎるジャーニー、既存のクローズドジャーニー、類似のアクションやイベント名を含むジャーニーを見つけ、設定をクリーンアップして安定させるための推奨事項を確認します | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「自分のジャーニー設定を監査します。」 <br> 「どのジャーニーが古くなっているか、またはクリーンアップが必要か？」 |
 | [&#x200B; ジャーニーのバージョンを比較](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 2つのジャーニーバージョンを比較し、ノード、接続、ジャーニーレベルのプロパティ変更の構造化された差分を確認します | `journey-analyze-version-comparison` | Adobe Journey Optimizer（AJO） | 「ウェルカムジャーニーのバージョン 2と3を比較」 <br> 「これら2つのジャーニーバージョン間で何が変更されたか？」 |
 | [&#x200B; ジャーニーを通じてプロファイルを追跡](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | 公開されたジャーニーに対する読み取り専用のプロファイルレベルの実行データを取得します。各ノードに入力されたプロファイルの数と分岐の分割方法を確認したり、エラーが発生したプロファイルとその理由を見つけたり、ジャーニー内の単一のプロファイルのノードごとのパスに従ったりできます | トレースジャーニープロファイル | Adobe Journey Optimizer（AJO） | 「[ジャーニー名]を通じてプロファイルをトレースします。」 <br> 「過去7日間に[ジャーニー名]でエラーが発生したプロファイル、その理由は何ですか？」 <br> 「プロファイル [IDまたは電子メール ]の[ジャーニー名]経由のパスを表示する」 |
+| [&#x200B; ジャーニー実行タイムラインの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | オーディエンスジャーニー読み込みバッチのエンドツーエンドのタイムラインを確認します。オーディエンスの書き出し、ジャーニーの実行、配信が開始および終了した時間、および入力、終了、または実行時間のプロファイルレベル P95およびP99を確認します | ジャーニーの実行タイムライン | Adobe Journey Optimizer（AJO） | 「オーディエンスの読み取りジャーニー[ジャーニー名]が実行されるまでにどのくらいの時間がかかりましたか？」 <br> 「[ジャーニー名]のオーディエンスのエクスポート、ジャーニーの実行、配信のタイムラインをバッチで表示します。」 <br> 「どの[ジャーニー名]のバッチが最も時間がかかり、どの段階で遅延が発生しましたか？」 |
 
 **関連情報**
 

@@ -4,10 +4,10 @@ description: Adobe CX Enterprise Coworkerについて学びましょう。組織
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1181'
-ht-degree: 17%
+source-wordcount: '1213'
+ht-degree: 16%
 ---
 # CX Enterprise Coworkerの概要 {#overview}
 
@@ -63,6 +63,8 @@ B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Jour
 * [統合](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [プラグイン](./customizations/plugins/what-are-plugins.md)
 * [メモリ](./customizations/memory/what-is-memory.md)
+
+Coworker Chatを外部ツールまたはサービスに接続するには、**[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**&#x200B;の下にサーバーとして追加します。 各フィールドの手順と説明については、[&#x200B; サーバーの接続](./chat/ui-guide.md#server)を参照してください。
 
 ## チームで共同作業
 

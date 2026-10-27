@@ -19,10 +19,10 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 ---
 <!--
 TEMPLATE GUIDANCE. Delete this comment block before you commit a new page.
@@ -80,18 +80,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 [オプション。 ビデオを設定する必要がない場合は、このセクションを削除します。 表示されているインターフェイスのバージョン、使用されているアプリケーションまたはサンドボックス、または最初に視聴する以前のビデオについて説明します。]
 
-## 章 {#chapters}
-
-[オプション。 このセクションを削除して、短いビデオを作成します。 タイムスタンプを使用してトピックの変更を一覧表示します。]
-
-* 0:00 [はじめに]
-* 1:30 [ トピック 1]
-* 3:00 [ トピック 2]
-
-## このトピックの詳細ヘルプ {#more-help}
-
-[手順書が記載されているドキュメント ページにリンクします。 このセクションは必須です。 記述的なリンク テキストを使用し、アイテムを平行に保ちます。]
-
-* [文書ページのタイトル、手順用]
-* [関連ページを説明するテキストをリンク ]
-* [関連ビデオを説明するテキストをリンク ]

@@ -4,16 +4,16 @@ description: Adobe Adobe CX Enterprise Coworker Chatを設定してCustomer Jour
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # 同僚とのチャットによるデータ分析を始める
 
 Adobe Adobe CX Enterprise Coworker Chatを設定して、Customer Journey Analytics データビューやAdobe Analytics レポートスイートを分析し、次に実際の例を示します。 ユースケース、スキル、ベストプラクティスなど、Coworker Chatで実行できる操作の概要については、[Coworker Chatを使用したデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
 
-開始する前に、Coworker Chat インターフェイスと設定オプションについて説明し、CoworkerがCustomer Journey AnalyticsまたはAdobe Analyticsと関連するデータビューまたはレポートスイートに接続されていることを確認します。
+開始する前に、Coworker Chatのインターフェイスとカスタマイズオプションについて説明し、CoworkerがCustomer Journey AnalyticsまたはAdobe Analyticsと関連するデータビューまたはレポートスイートに接続されていることを確認します。
 
 ## 始める前に
 
@@ -28,7 +28,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データでCoworker Chatを�
 * チャット入力
 * 会話
 * マーケットプレイス
-* MCP サーバー
+* 統合サーバー
 * メモリ
 * プラグイン
 * スキル
@@ -42,11 +42,15 @@ Workfrontは、統合によりCustomer Journey AnalyticsとAdobe Analyticsに接
 
 1. 共同作業で、左側のパネルで「[!UICONTROL **カスタマイズ**]」を選択します。
 
-1. 「[!UICONTROL **統合**]」タブを選択し、[!UICONTROL **cja-mcp**]&#x200B;および&#x200B;[!UICONTROL **aa-mcp**]&#x200B;が接続されているMCP サーバーのリストで使用可能であることを確認します。 検索フィールドを使用して、使用可能な統合のリストをすばやくフィルタリングします。
+1. 「[!UICONTROL **統合**]」タブを選択し、[!UICONTROL **cja-mcp**]&#x200B;および&#x200B;[!UICONTROL **aa-mcp**]&#x200B;が接続サーバーのリストで使用可能であることを確認します。
+
+   検索フィールドを使用して、使用可能な統合のリストをすばやくフィルタリングします。
 
    ![&#x200B; カスタマイズ ページの「統合」タブ。a-mcpを表示するためにフィルタリングされます](assets/coworker-mcp-aa.png)
 
-1. （条件付き）統合がリストにない場合は、[!UICONTROL **サーバーを追加**]&#x200B;を選択して追加します。 詳しくは、『 Coworker Chat UI ガイド』の「[MCP サーバーを接続](/help/chat/ui-guide.md#connect-mcp-servers)」を参照してください。
+1. （条件付き）統合がリストにない場合は、[!UICONTROL **サーバーを追加**]&#x200B;を選択して追加します。
+
+   詳しくは、入門ガイドの「[&#x200B; サーバーを接続](/help/chat/ui-guide.md#server)」を参照してください。
 
 ## 適切なデータビューやレポートスイートに接続する
 

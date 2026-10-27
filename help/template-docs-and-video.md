@@ -21,9 +21,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '243'
 ht-degree: 2%
 ---
 <!--
@@ -123,10 +123,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 <!-- Owner: Documentation. Delete this section if it does not apply. -->
 
 [読者に表示される可能性のある問題を説明し、その解決方法を説明します。]
-
-## このトピックの詳細ヘルプ {#more-help}
-
-<!-- Owner: Documentation -->
-
-* [対象ページを説明するテキストをリンク ]
-* [別のターゲットページを説明するテキストをリンク ]
