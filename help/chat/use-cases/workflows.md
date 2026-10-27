@@ -4,10 +4,10 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
+source-git-commit: aa38c5009d3c61996406a73447f901d109314458
 workflow-type: tm+mt
 source-wordcount: '8465'
-ht-degree: 9%
+ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
 
@@ -141,13 +141,13 @@ ht-degree: 9%
 | [自然言語からジャーニーを作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} | テキストプロンプトやアップロードされた画像/フローチャートから、AJOでジャーニー作成を調整できます | `journey-create` | Adobe Journey Optimizer（AJO） | 「登録後にメールを送信し、3日間待ってからフォローアップを送信するウェルカムジャーニーを作成する」 <br> 「アップロードされたこのフローチャート画像からジャーニーを作成する」 |
 | [&#x200B; ジャーニーの競合を分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | オーディエンスの重複、スケジュールの競合、アクティブなジャーニー間の重複排除の問題を検出します | `journey-analyze-conflict` | Adobe Journey Optimizer（AJO） | 「カート放棄ジャーニーは他のジャーニーと競合しますか？」 <br> 「アクティブなジャーニー間のオーディエンスの重複をチェック」 |
 | [&#x200B; ジャーニーのフォールアウトを分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーの途中で顧客が離脱する場所や理由を特定し、離脱につながる行動パターンを検出します | `journey-analyze-fallout` | Adobe Journey Optimizer（AJO） | 「リエンゲージメントの過程で離脱したユーザーはどこにいますか？」 <br> 「ジャーニーXのどのノードのフォールアウトが最も高いか？」 |
-| [&#x200B; カスタムアクションエラーの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | カスタムアクションが失敗しているか、ジャーニー内でエラー率が急増しているかを特定し、失敗がより大きな混乱に連鎖する前に根本原因を診断できます | `journey-analyze-custom-action` | Adobe Journey Optimizer（AJO） | 「ロイヤルティ登録ジャーニーでカスタムアクションが失敗するのはなぜですか？」 <br> 「ウェルカムジャーニーのカスタムアクション ExternalPushのエラー率を表示する」 |
-| [&#x200B; ジャーニーの異常値の検出](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーの開始、終了、過去のベースラインに対する送信カウントにおける予期しない急増、急減、フラットラインを検出して確認し、可能性の高い根本原因を明らかにします | `journey-analyze-anomaly` | Adobe Journey Optimizer（AJO） | 「昨日のウェルカムジャーニーのエントリが低下した理由は何ですか？」 <br> 「今週の買い物かごの放棄ジャーニーで、離脱が急増しましたか？」 |
-| [ビジネスパフォーマンス分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのパフォーマンスを分析し、パフォーマンスの低いジャーニーに対して具体的な最適化の機会を特定します。 エンゲージメントとコンバージョンを向上させるために、結果が低い背景にあるトレンド、ボトルネック、考えられる原因を明らかにします。 ビジネスパフォーマンスのインサイトに基づいて、ジャーニーのデザイン、ターゲティング、メッセージ戦略を調整するための、実用的なレコメンデーションを取得します。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「ジャーニー[ジャーニー名]のパフォーマンスを分析し、最適化を推奨します。」 <br> 「ジャーニー[ジャーニー名]が先月と比較してパフォーマンスが低いのはなぜですか？」 <br> 「ジャーニー[ジャーニー名]のパフォーマンスを向上させるにはどうすればよいですか？」 <br> 「ジャーニーの[ジャーニー名]のどの部分が、コンバージョンまたはエンゲージメントを制限している可能性がありますか？」 |
-| [&#x200B; ジャーニーの健全性の分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのインベントリを監査して、不明または汎用的な名前、古いドラフトまたはライブのジャーニー、大きすぎるジャーニー、既存のクローズドジャーニー、類似のアクションやイベント名を含むジャーニーを見つけ、設定をクリーンアップして安定させるための推奨事項を確認します | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「自分のジャーニー設定を監査します。」 <br> 「どのジャーニーが古くなっているか、またはクリーンアップが必要か？」 |
+| [&#x200B; カスタムアクションエラーの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | カスタムアクションが失敗しているか、ジャーニー内でエラー率が急増しているかを特定できます。<br> 障害が大規模な障害につながる前に、根本原因を診断します。 | `journey-analyze-custom-action` | Adobe Journey Optimizer（AJO） | 「ロイヤルティ登録ジャーニーでカスタムアクションが失敗するのはなぜですか？」 <br> 「ウェルカムジャーニーのカスタムアクション ExternalPushのエラー率を表示する」 |
+| [&#x200B; ジャーニーの異常値の検出](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのエントリ、終了、過去のベースラインに対するカウントの送信において、予期しない急増、急減、フラットラインを検出して確認します。<br> 可能性の高い根本原因の特定： | `journey-analyze-anomaly` | Adobe Journey Optimizer（AJO） | 「昨日のウェルカムジャーニーのエントリが低下した理由は何ですか？」 <br> 「今週の買い物かごの放棄ジャーニーで、離脱が急増しましたか？」 |
+| [ビジネスパフォーマンス分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | ジャーニーのパフォーマンスを分析し、パフォーマンスの低いジャーニーを最適化するための具体的な機会を特定します。<br> トレンド、ボトルネック、期待できる要因などを明らかにし、エンゲージメントとコンバージョンを向上させます。<br> ビジネスパフォーマンスのインサイトに基づいて、ジャーニーのデザイン、ターゲティング、メッセージ戦略を調整するための、実用的なレコメンデーションを取得します。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「ジャーニー[ジャーニー名]のパフォーマンスを分析し、最適化を推奨します。」 <br> 「ジャーニー[ジャーニー名]が先月と比較してパフォーマンスが低いのはなぜですか？」 <br> 「ジャーニー[ジャーニー名]のパフォーマンスを向上させるにはどうすればよいですか？」 <br> 「ジャーニーの[ジャーニー名]のどの部分が、コンバージョンまたはエンゲージメントを制限している可能性がありますか？」 |
+| [&#x200B; ジャーニーの健全性の分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 設定の健全性の問題について、ジャーニーのインベントリを監査します。<br> 欠けている一般的な名前、古いドラフトまたはライブジャーニー、大規模なジャーニー、既存のクローズドジャーニー、類似のアクション名やイベント名などを検索できます。<br> 設定のクリーンアップとスタビライズに関する推奨事項を取得します。 | ジャーニー分析 | Adobe Journey Optimizer（AJO） | 「自分のジャーニー設定を監査します。」 <br> 「どのジャーニーが古くなっているか、またはクリーンアップが必要か？」 |
 | [&#x200B; ジャーニーのバージョンを比較](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | 2つのジャーニーバージョンを比較し、ノード、接続、ジャーニーレベルのプロパティ変更の構造化された差分を確認します | `journey-analyze-version-comparison` | Adobe Journey Optimizer（AJO） | 「ウェルカムジャーニーのバージョン 2と3を比較」 <br> 「これら2つのジャーニーバージョン間で何が変更されたか？」 |
-| [&#x200B; ジャーニーを通じてプロファイルを追跡](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | 公開されたジャーニーに対する読み取り専用のプロファイルレベルの実行データを取得します。各ノードに入力されたプロファイルの数と分岐の分割方法を確認したり、エラーが発生したプロファイルとその理由を見つけたり、ジャーニー内の単一のプロファイルのノードごとのパスに従ったりできます | トレースジャーニープロファイル | Adobe Journey Optimizer（AJO） | 「[ジャーニー名]を通じてプロファイルをトレースします。」 <br> 「過去7日間に[ジャーニー名]でエラーが発生したプロファイル、その理由は何ですか？」 <br> 「プロファイル [IDまたは電子メール ]の[ジャーニー名]経由のパスを表示する」 |
-| [&#x200B; ジャーニー実行タイムラインの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | オーディエンスジャーニー読み込みバッチのエンドツーエンドのタイムラインを確認します。オーディエンスの書き出し、ジャーニーの実行、配信が開始および終了した時間、および入力、終了、または実行時間のプロファイルレベル P95およびP99を確認します | ジャーニーの実行タイムライン | Adobe Journey Optimizer（AJO） | 「オーディエンスの読み取りジャーニー[ジャーニー名]が実行されるまでにどのくらいの時間がかかりましたか？」 <br> 「[ジャーニー名]のオーディエンスのエクスポート、ジャーニーの実行、配信のタイムラインをバッチで表示します。」 <br> 「どの[ジャーニー名]のバッチが最も時間がかかり、どの段階で遅延が発生しましたか？」 |
+| [&#x200B; ジャーニーを通じてプロファイルを追跡](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | 公開されたジャーニーの読み取り専用プロファイルレベルの実行データを取得します。<br> 各ノードに入ったプロファイルの数と、分岐の分割方法を確認できます。<br> エラーが発生したプロファイルとその理由を検索するか、単一のプロファイルのノードごとのパスに従います。 | トレースジャーニープロファイル | Adobe Journey Optimizer（AJO） | 「[ジャーニー名]を通じてプロファイルをトレースします。」 <br> 「過去7日間に[ジャーニー名]でエラーが発生したプロファイル、その理由は何ですか？」 <br> 「プロファイル [IDまたは電子メール ]の[ジャーニー名]経由のパスを表示する」 |
+| [&#x200B; ジャーニー実行タイムラインの分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | オーディエンス読み込みジャーニーのバッチのエンドツーエンドのタイムラインを取得します。<br> オーディエンスの書き出し、ジャーニーの実行、配信の開始と終了にかかる時間を確認できます。<br> 入力、終了、または実行時間について、プロファイルレベルのP95およびP99を取得します。 | ジャーニーの実行タイムライン | Adobe Journey Optimizer（AJO） | 「オーディエンスの読み取りジャーニー[ジャーニー名]が実行されるまでにどのくらいの時間がかかりましたか？」 <br> 「[ジャーニー名]のオーディエンスのエクスポート、ジャーニーの実行、配信のタイムラインをバッチで表示します。」 <br> 「どの[ジャーニー名]のバッチが最も時間がかかり、どの段階で遅延が発生しましたか？」 |
 
 **関連情報**
 
@@ -189,7 +189,7 @@ ht-degree: 9%
 | --- | --- | --- | --- | --- |
 | [&#x200B; ロイヤルティに関する課題の作成、編集、管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | ロイヤルティプログラム管理を簡素化し、迅速化したい | `loyalty` | Adobe Journey Optimizer（AJO） | 「会員に新しい季節の飲み物を試すように促すチャレンジを作成する」 <br> 「最も高い会員の脱落レートでロイヤルティのチャレンジを表示する」 |
 | [&#x200B; ロイヤルティプログラムのパフォーマンスを分析](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | 自然言語を使用して、ロイヤルティポイント、メンバー層、引き換え、収益指標をクエリし、分析します | `loyalty-insights` | Adobe Journey Optimizer（AJO） | 「2026年8月に付与されたロイヤルティポイント数はいくつですか？」 <br> 「2026年8月の期間中のロイヤルティプログラムの総収益を日別に示してください。」 |
-| [&#x200B; ロイヤルティの機会の検索](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | ロイヤルティプログラムのトレンドやパフォーマンスデータにもとづいて特定のチャレンジの機会をリクエストし、それを実際のチャレンジに変えます | 未定 | Adobe Journey Optimizer（AJO） | 「会員の支出額を増やす可能性があるロイヤルティの機会は何ですか？」 <br> 「非アクティブなメンバーを取り戻す機会を表示する」 |
+| [&#x200B; ロイヤルティの機会の検索](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | ロイヤルティプログラムのトレンドやパフォーマンスデータにもとづいて特定のチャレンジの機会をリクエストし、それを実際のチャレンジに変えます | ロイヤルティの機会 | Adobe Journey Optimizer（AJO） | 「会員の支出額を増やす可能性があるロイヤルティの機会は何ですか？」 <br> 「非アクティブなメンバーを取り戻す機会を表示する」 |
 
 **関連情報**
 
@@ -199,7 +199,7 @@ ht-degree: 9%
 
 | ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
-| [決定ルールの生成、説明、シミュレーション、最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | PQLの構文を手作業で記述することなく、自然言語を使用して適格性ルールやランキング式を作成し、平易な英語の説明を取得し、最大3つのプロファイルに対してテストし、PQLのサイズ制限に合わせて書き換えます | 決定ルールワークフロー | Adobe Journey Optimizer（AJO） | 「ティア 2以上のロイヤルティメンバーを対象とした実施要件ルールを作成します。」 <br><br> 「このルールを自然言語で説明します。」 <br><br> 「テストプロファイルでこのルールをシミュレートします。」 <br><br> 「このPQL ルールを自分に合わせて最適化します。」 |
+| [決定ルールの生成、説明、シミュレーション、最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | 自然言語を使って適格性ルールやランキング式を作成し、平易な英語の説明を得ることができます。<br> 最大3つのプロファイルに対してテストします。<br> PQLの構文を手作業で記述することなく、PQLのサイズ制限に合わせて書き換えます。 | 決定ルールワークフロー | Adobe Journey Optimizer（AJO） | 「ティア 2以上のロイヤルティメンバーを対象とした実施要件ルールを作成します。」 <br><br> 「このルールを自然言語で説明します。」 <br><br> 「テストプロファイルでこのルールをシミュレートします。」 <br><br> 「このPQL ルールを自分に合わせて最適化します。」 |
 
 **関連情報**
 
@@ -209,8 +209,8 @@ ht-degree: 9%
 
 | ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
-| [&#x200B; チャネル設定の調査](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | 電子メール、SMS、プッシュ、ダイレクトメール、アプリ内、webなどの標準チャネルのチャネル設定（プリセット）と資格情報を表示、一覧表示、検索、検査します。これには、プッシュ資格情報、電子メールサブドメイン、SMSおよびWhatsApp資格情報、ファイルのルーティング、LINE チャネル設定、ライブアクティビティレジストリなどの関連リソースが含まれます。 読み取り専用 | チャネル操作 | Adobe Journey Optimizer（AJO） | 「サンドボックスで使用できるチャネルプリセットは何ですか？」 <br> 「メールチャネルの設定をすべて表示する」 <br> 「マーケティングメール設定に設定されている送信者アドレスと返信先は何ですか？」 |
-| [&#x200B; カスタムチャネルの作成と管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | カスタムのアウトバウンドチャネルを手動セットアップ、curl コマンド、またはAPI ドキュメントリンクから作成、テスト、更新、リスト化、取得、削除します。 チャネルの設定、認証、スロットリング、ペイロードの定義について解説します | チャネルビルダー | Adobe Journey Optimizer（AJO） | 「SMS プロバイダーの新しいカスタム チャネルの作成を支援してください。」 <br> 「このAPI リファレンスからカスタムチャネルを作成：[link]。」 <br> 「カスタムチャネルをリストアップする」 |
+| [&#x200B; チャネル設定の調査](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | メール、SMS、プッシュ、ダイレクトメール、アプリ内、webなどの標準チャネルの読み取り専用チャネル設定（プリセット）と資格情報を表示、リスト化、検索、検査できます。<br> また、プッシュ資格情報、メールサブドメイン、SMSおよびWhatsApp資格情報、ファイルルーティング、LINE チャネル設定、ライブアクティビティレジストリなどの関連リソースも参照します。 | チャネル操作 | Adobe Journey Optimizer（AJO） | 「サンドボックスで使用できるチャネルプリセットは何ですか？」 <br> 「メールチャネルの設定をすべて表示する」 <br> 「マーケティングメール設定に設定されている送信者アドレスと返信先は何ですか？」 |
+| [&#x200B; カスタムチャネルの作成と管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | カスタムのアウトバウンドチャネルを手動セットアップ、curl コマンド、またはAPI ドキュメントリンクから作成、テスト、更新、リスト化、取得、削除します。<br> チャネルの設定、認証、スロットリング、ペイロードの定義について解説します | チャネルビルダー | Adobe Journey Optimizer（AJO） | 「SMS プロバイダーの新しいカスタム チャネルの作成を支援してください。」 <br> 「このAPI リファレンスからカスタムチャネルを作成：[link]。」 <br> 「カスタムチャネルをリストアップする」 |
 
 **関連情報**
 
