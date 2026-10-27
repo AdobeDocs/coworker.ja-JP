@@ -4,14 +4,14 @@ title: Databricksへの接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 2%
 ---
 # Databricksへの接続 {#databricks}
 
-Adobe Workfront for teamsでは、...........の目的でDatabricksを接続できます。
+Adobe Coworker グループ版を使用すると、Databricks ワークスペースでUnity カタログテーブルを接続してクエリし、キャンペーンオーディエンスを構築してアクティブ化できます。
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ Adobe Workfront for teamsでは、...........の目的でDatabricksを接続で�
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**カスタマイズ**&#x200B;をクリックし、**コネクタ**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
    SCREENSHOT
 
@@ -39,7 +39,7 @@ Adobe Workfront for teamsでは、...........の目的でDatabricksを接続で�
 
    SCREENSHOT
 
-接続後、DatabricksがConnectors リストに表示され…
+接続後、コネクターリストにDatabricksが表示されます。
 
 **切断するには：**
 
