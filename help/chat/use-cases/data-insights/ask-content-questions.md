@@ -34,7 +34,7 @@ Adobe Content Analyticsのデータがどのように構造化されているか
 
 * Customer Journey Analyticsのデータビューに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析したいデータビューへのアクセスを表示します。 共同作業者チャットは、Customer Journey Analyticsから権限を継承します。
-* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
+* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
 
 ## コンテンツに質問する
 
@@ -97,11 +97,11 @@ Content Analyticsでは、アセットとエクスペリエンスの2種類の�
 * **エクスペリエンス ID:**&#x200B;特定のページについて質問すると、そのページを識別するコンテンツ エクスペリエンス IDによってスキルがフィルタリングされます。
 * **AIが生成した属性：**&#x200B;各アセットとエクスペリエンスは、写真のスタイル、色、トーン、説得戦略などの属性で表されます。 スキルでは、これらの属性を利用して、どのコンテンツが効果的に機能するのかだけでなく、コンテンツが効果的に機能する理由を説明できます。
 
-コンポーネントの完全なリストについては、Customer Journey Analytics ガイドの[Content Analytics コンポーネント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components)を参照してください。
+コンポーネントの完全なリストについては、Customer Journey Analytics ガイドの[Content Analytics コンポーネント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/report/components)を参照してください。
 
 ### 帰属
 
-スキルは、質問に合わせてアトリビューションモデルを選択します。 例えば、画像のクリック数に関する質問と、その画像がどれだけ売上に貢献したかという質問では、異なる回答が返されます。 詳しくは、Customer Journey Analytics ガイドの[&#x200B; アトリビューションモデル &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)を参照してください。
+スキルは、質問に合わせてアトリビューションモデルを選択します。 例えば、画像のクリック数に関する質問と、その画像がどれだけ売上に貢献したかという質問では、異なる回答が返されます。 詳しくは、Customer Journey Analytics ガイドの[&#x200B; アトリビューションモデル &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models)を参照してください。
 
 ### 一般的な分析とワークフロー
 
