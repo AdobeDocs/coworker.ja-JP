@@ -3,8 +3,8 @@ title: Workfrontで顧客ジャーニーと離脱を分析
 description: Adobe Customer Journey Analyticsの共同作業チャット機能を利用すれば、セールスファネルの構築、顧客の離脱の原因の特定、コンバージョンの低下の診断、分析データを通じたジャーニーの比較などをおこなえます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Adobe CX Enterprise Coworkerのチャット機能を利用して、チャネル�
 
 このページのユースケースを使用するには、次のものが必要です。
 
-* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析するデータビューまたはレポートスイートへのアクセスを表示します。 共同作業者チャットは、Customer Journey AnalyticsまたはAdobe Analyticsから権限を継承します。
 
 ## ユースケース
@@ -32,7 +32,7 @@ Adobe CX Enterprise Coworkerのチャット機能を利用して、チャネル�
 | ユースケース | 関数 |
 | --- | --- |
 | [Customer Journey AnalyticsとAdobe Analytics データの分析](/help/chat/use-cases/data-insights/analytics-chat.md)<p>![Customer Journey AnalyticsとAdobe Analytics データの分析](../../assets/coworker-funnel-response-card.png)</p> | データビューやレポートスイートに関する自然言語の質問に答え、ファネルやその他のビジュアライゼーションを構築し、顧客が離脱する原因を見つけ出します。 Analysis Workspaceで任意のビジュアライゼーションを開いて、さらに詳しく分析できます。<p>**サンプルプロンプト：** 「過去30日間のページビューを表示する」</p><p>詳しくは、[同僚チャットによるデータ分析の基本を学ぶ](/help/chat/use-cases/data-insights/analytics-chat.md)を参照してください。</p> |
-| [顧客が脱落する場所を検索](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | 平易な質問からfunnelを構築し、最大のリークをランク付けし、次のステップを提案します。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「どこで買い物に行く途中で人々を失っているのか？」</li><li>&quot;チェックアウトfunnelを通して私を歩く&quot;</li></ul><p>詳しくは、[&#x200B; スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
+| [顧客が脱落する場所を検索](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | 平易な質問からfunnelを構築し、最大のリークをランク付けし、次のステップを提案します。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「どこで買い物に行く途中で人々を失っているのか？」</li><li>&quot;チェックアウトfunnelを通して私を歩く&quot;</li></ul><p>詳しくは、[ スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
 | コンバージョン率の低下の診断 | 顧客がどこで離脱したかを調査し、変化に貢献した要因を評価します。<p>**サンプルプロンプト：**</p><ul><li>「先週、コンバージョンが下がったのはなぜですか？」</li><li>「サイトの変更後、顧客はどこで離脱しましたか？」</li></ul> |
 | 脱落の原因の特定 | ルールアウトにより、問題の背後にあるチャネル、デバイス、またはセグメントが1つずつ分離されます。<p>**サンプルプロンプト：**</p><ul><li>「モバイルやデスクトップでのカート放棄の状況は悪化していますか？」</li><li>「買い物かごと購入の間に最もリークするチャネルはどれですか？」</li></ul> |
 | 期間をまたいだジャーニーの比較 | 発送した変更内容がfunnelに移動したかどうかをステップバイステップで表示します。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「今四半期のチェックアウトコンバージョンと最後のチェックアウトコンバージョンの比較」</li><li>「リニューアル後、私のfunnelはどのように変わりましたか？」</li></ul> |
@@ -45,7 +45,7 @@ Adobe CX Enterprise Coworkerのチャット機能を利用して、チャネル�
 
 <!-- FLAG: Confidence: High for `cja` and `aa` (the Skills and limitations table lists funnel and fallout analysis and side-by-side comparison of time periods). Medium for the root cause analysis skills: workflows.md maps the prompt "Why did conversions drop last week?" to them, but the mapping to the slide rows "Diagnose conversion declines" and "Isolate the cause of a drop-off" is inferred. Confirm with the PM. -->
 
-この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[&#x200B; スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
+この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[ スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
 
 | スキル | に使用 |
 | --- | --- |

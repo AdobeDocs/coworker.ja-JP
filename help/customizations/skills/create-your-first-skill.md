@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22378
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 これにより、必要に応じてシンプルな指示だけで実行できる、繰り返し可能なワークフローを実現できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502333/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
 
 ## 分析を再利用可能なスキルに変える
 

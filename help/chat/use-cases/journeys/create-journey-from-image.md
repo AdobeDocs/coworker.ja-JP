@@ -13,7 +13,7 @@ product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
     internal-label: Journeys
@@ -28,7 +28,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: cf1461b4261ae9f51c2a5f1cd3bedd5cb8f5fcff
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 CX Enterprise Coworkerを利用して、マーケティング部門が作成したPowerPoint スライドなどのフローチャート画像を、すぐに編集できるジャーニーに変換する方法を解説します。 Coworkerが画像からプロンプトを抽出し、レビューと調整を行い、トリガーイベントを要求し、結果を元のデザインと一致するドラフトとして保存する方法が表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504866/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)

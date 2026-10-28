@@ -3,8 +3,8 @@ description: ここに説明が来ます。
 title: サブドメイン
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 例えば、マーケティングコミュニケーションを送信するためにチームで使用される「mybrand.com」ドメインを使用してみましょう。 この場合、「marketing.mybrand.com」という特定のサブドメインを設定できます。
 
-この設定により、ドメインおよび他のサブドメインの評価を維持するのに役立ちます。 例えば、「marketing.mybrand.com」サブドメインが、配信品質の不手際によりインターネットサービスプロバイダーのブロックリストに追加された場合、これにより、「mybrand.com」ドメイン全体および作成したその他のサブドメインが追加されなくなります。
+この設定により、ドメインおよび他のサブドメインのレピュテーションを維持するのに役立ちます。 例えば、「marketing.mybrand.com」サブドメインが、配信品質の不手際によりインターネットサービスプロバイダーのブロックリストに追加された場合、これにより、「mybrand.com」ドメイン全体および作成したその他のサブドメインが追加されなくなります。
 
 >[!IMPORTANT]
 >

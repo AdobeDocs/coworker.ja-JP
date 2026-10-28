@@ -3,8 +3,8 @@ title: Adobe Experience Manager SitesでCreativeのパフォーマンスを分�
 description: 同僚とのチャットを利用して、共通の優れたコンテンツを見つけ、売上を顧客に表示する画像に結びつけ、チャネルやオーディエンスをまたいでクリエイティブを比較できます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%
@@ -26,9 +26,9 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 このページのユースケースを使用するには、次のものが必要です。
 
-* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析するデータビューまたはレポートスイートへのアクセスを表示します。 共同作業者チャットは、Customer Journey AnalyticsまたはAdobe Analyticsから権限を継承します。
-* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
+* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
 
 ## ユースケース
 
@@ -43,11 +43,11 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 <!-- FLAG: Confidence: Medium. The `analyze-content` skill is a foundational skill for content questions, so it's listed for every use case on this page. Confirm with the PM that it covers all four. -->
 
-この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[&#x200B; スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
+この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[ スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
 
 | スキル | に使用 |
 | --- | --- |
-| `cja`,`analyze-content` <br/> （利用制限あり） | 共通のコンテンツとは何かを見つける<br>売上は、顧客に表示されているコンテンツに帰属します<br>webとモバイルのクリエイティブを比較<br>それぞれのオーディエンスを動かすビジュアルを把握します<p>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。</p> |
+| `cja`,`analyze-content` <br/> （利用制限あり） | 共通のコンテンツとは何かを見つける<br>売上は、顧客に表示されているコンテンツに帰属します<br>webとモバイルのクリエイティブを比較<br>それぞれのオーディエンスを動かすビジュアルを把握します<p>詳しくは、[ コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。</p> |
 
 ## より良い結果を得るためのヒント
 
@@ -60,6 +60,6 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 ## 次の手順
 
-* Coworkerがコンテンツに関する質問に回答する方法については、「[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md) （限定提供）」を参照してください。
+* Coworkerがコンテンツに関する質問に回答する方法については、「[ コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md) （限定提供）」を参照してください。
 * 他の分析ドメインとベストプラクティスを含む、Coworker Chatによるデータ分析の概要については、[Coworker Chatによるデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
 * 共同作業者チャットを設定し、作業例について説明するには、[共同作業者チャットを使用したデータ分析の基本を学ぶ](/help/chat/use-cases/data-insights/analytics-chat.md)を参照してください。

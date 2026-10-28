@@ -3,15 +3,15 @@ description: 生成からメール配信まで、Coworker for teamsが画像にC
 title: Coworker for teamsのC2PA メタデータ
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 27%
 ---
 # Coworker for teamsのC2PA メタデータ {#overview}
 
-生成 AI の透明性に関する新しい法律が制定されつつあり、アドビでは管轄区域をまたいｄ適用される要件への対応に取り組んでいます。 [C2PA メタデータ &#x200B;](https://c2pa.org/)は、Adobeがこれらの法律の要件を満たすために使用する来歴ツールです。
+生成 AI の透明性に関する新しい法律が制定されつつあり、アドビでは管轄区域をまたいｄ適用される要件への対応に取り組んでいます。 [C2PA メタデータ ](https://c2pa.org/)は、Adobeがこれらの法律の要件を満たすために使用する来歴ツールです。
 
 C2PA メタデータは、コンテンツがどのように作成または編集されたかを記録する、耐久性のある目に見えないメタデータです。 Coworker for teamsの生成AI ツールを使用して画像を生成または編集すると、C2PA メタデータが自動的にその画像に添付されます。 お客様の側で操作は必要ありません。
 
@@ -40,4 +40,4 @@ Coworker for teamsは、サポートされている画像アセットに関連�
 
 * [生成 AI コンテンツの透明性](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
 * [Adobe Experience Cloud 生成 AI ユーザーガイドライン](https://www.adobe.com/jp/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
-* [ガードレールと制限](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
+* [ガードレールと制限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}

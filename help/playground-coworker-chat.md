@@ -16,7 +16,7 @@ product_v2:
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
 feature_v2:
   - id: 9c3a4e5f-6d7b-4c8a-8e9f-1b2c3d4e5f6a
     internal-label: Datasets
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
@@ -162,7 +162,7 @@ Coworkerは、次の2つの主要なビジネスデータセットと関連す�
 
 共同作業者は、**weBank: CRM** データセットのプライマリフィールドと関連フィールドを表示します。
 
-| フィールド | メモ |
+| フィールド | 備考 |
 | --- | --- |
 | `_aepgenai_va7.fsiBankAccountDetails.totalAccountValue` | プライマリフィールド。5つのアカウント値層オーディエンスすべてに使用 |
 | `numberOfAccounts` | 関連フィールド |
@@ -195,7 +195,7 @@ Coworkerは、次の2つの主要なビジネスデータセットと関連す�
 
 共同作業者は、**weBank: CRM** データセットの地理的フィールドを識別します。
 
-| フィールド | メモ |
+| フィールド | 備考 |
 | --- | --- |
 | `homeAddress.state` | 米国の州の略語。東海岸の生活に使用され、西海岸の生活に使用されます |
 | `homeAddress.stateProvince` | also found |

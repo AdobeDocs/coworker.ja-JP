@@ -10,8 +10,8 @@ last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 チームメンバーは、単に問題を特定するだけでなく、実行可能な提案を提示することで、 例えば、キャプションが画一的すぎたり、call to actionが欠けている場合、適切なタグを配置した、ブランド基準を満たす修正済みのキャプションを提供します。 このプロセスにより、コンテンツ制作を合理化し、最小限の労力でブランドコンプライアンスを確保できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502703/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)

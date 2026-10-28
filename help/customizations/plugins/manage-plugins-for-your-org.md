@@ -19,7 +19,7 @@ product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
 feature_v2:
@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Customer experience
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 管理者が、既存のAdobeの権限との整合性を維持しながら、承認済みプラグインでAdobe Workfront Chatを拡張し、マーケットプレイスを管理して、スキルや接続されたツールへのアクセスを管理する方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504183/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
 
 ## 学習すること
  

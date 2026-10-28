@@ -3,8 +3,8 @@ description: Coworker チャットで対話型インターフェイスを使用�
 title: Adobe CX Enterprise Coworker チャットの概要
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 >[!AVAILABILITY]
 >
->Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[&#x200B; スキル &#x200B;](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
+>Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[ スキル ](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 ## AI アシスタントによる進化
 
-共同作業者チャットは、[AI アシスタント &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットは、会話が質問に答えるだけでなく、作業を完了できるようにする[構成要素](#building-blocks)を追加します。
+共同作業者チャットは、[AI アシスタント ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットは、会話が質問に答えるだけでなく、作業を完了できるようにする[構成要素](#building-blocks)を追加します。
 
 ## チャット体験
 
@@ -66,4 +66,4 @@ Coworker ChatはCoworkerのビルディングブロックを活用していま�
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}

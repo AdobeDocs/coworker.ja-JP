@@ -3,8 +3,8 @@ description: 顧客獲得、エンゲージメント、イベント、コンバ�
 title: チーム向け共同作業のユースケース
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -159,4 +159,4 @@ ht-degree: 0%
 
 ## 構築準備が整ったら？
 
-上記のユースケースを選択し、完全な手順を説明する電子メールキャンペーン [&#128279;] (./)を作成して、試してみてください。
+上記のユースケースを選択し、完全な手順を説明する電子メールキャンペーン ](./)を[作成して、試してみてください。

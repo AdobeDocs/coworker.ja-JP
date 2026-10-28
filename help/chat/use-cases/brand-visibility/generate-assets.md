@@ -9,8 +9,8 @@ last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22502
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 また、さらにカスタマイズするための柔軟性も提供します。 アセットを変更したり、バリエーションを作成したり、Instagram ストーリーなど、様々な形式にコンテンツを適応させたりすることができます。 このアプローチにより、チームメンバーが技術的な詳細を管理しながら、目標に集中することができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502708/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)

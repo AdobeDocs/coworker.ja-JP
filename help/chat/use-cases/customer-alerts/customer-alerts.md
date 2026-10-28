@@ -5,7 +5,7 @@ jira: KT-22913
 last-substantial-update: '2026-10-16T00:00:00.000Z'
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
     internal-label: Experience Platform
 feature_v2:
@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 0a9cfeaf54221e004e0422766f8bd1bb4d078dea
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -39,7 +39,7 @@ CX Coworkerの顧客アラートスキルを活用して、アラート活動を
 
 顧客アラートスキルは、アラートビューを手動で確認したり、複数のインターフェイス間で情報を関連付けたりすることなく、アラートシグナルから実用的なインサイトに移行するのに役立ちます。 最近のアラート活動に関する大まかな質問から始め、フォローアップ質問を使用して繰り返し発生するアラートパターンを特定し、影響を受けるオブジェクトを分析して、自分が所有するアラートに焦点を当てます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504717?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 顧客アラートについて詳しくは、[顧客アラートの概要](https://experienceleague.adobe.com/ja/docs/experience-platform/observability/alerts/overview)を参照してください。
 
@@ -51,7 +51,7 @@ CX Coworkerの顧客アラートスキルを活用して、アラート活動を
 - 組織に関連するアラートを表示する権限。
 - CX CoworkerにインストールされたAdobe CXO プラグイン。
 
-プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](../../ui-guide.md)を参照してください。
+プラグインのインストール手順については、[Coworker UI ガイド ](../../ui-guide.md)を参照してください。
 
 ## 顧客アラートスキルの活用 {#use-customer-alert-skills}
 

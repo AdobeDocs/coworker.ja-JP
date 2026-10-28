@@ -3,8 +3,8 @@ description: HubSpot アカウントをCoworker for teamsに接続し、サー�
 title: HubSpotへの接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -18,17 +18,17 @@ Coworker for teamsを使用すると、HubSpot アカウントを接続して連
 >このコネクタを使用するには、まず次の要素が必要です。
 >
 >* アクティブなHubSpot アカウント
->* 次のスコープで作成された[&#x200B; サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
+>* 次のスコープで作成された[ サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
-   ![&#x200B; コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
+   ![ コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/hubspot-2.png)
+   ![ コネクタ画面に統合ボタンを追加](./assets/hubspot-2.png)
 
    >[!NOTE]
    >
@@ -36,13 +36,13 @@ Coworker for teamsを使用すると、HubSpot アカウントを接続して連
 
 1. HubSpot行で、**Connect**&#x200B;をクリックします。
 
-   ![接続ボタンがハイライト表示されたHubSpot タイル &#x200B;](./assets/hubspot-3.png)
+   ![接続ボタンがハイライト表示されたHubSpot タイル ](./assets/hubspot-3.png)
 
 1. 必要な権限を示すモーダルが表示されます（この記事の上部にある前提条件に記載されています）。 「**続行**」をクリックします。
 
 1. HubSpot **サービスキー**&#x200B;を入力し、**接続**&#x200B;をクリックします。
 
-   ![&#x200B; サービスキーフィールドと接続ボタンを使用してHubSpot ダイアログを接続](./assets/hubspot-4.png)
+   ![ サービスキーフィールドと接続ボタンを使用してHubSpot ダイアログを接続](./assets/hubspot-4.png)
 
 接続後、HubSpotはコネクターリストに表示され、連絡先リストをHubSpotから同期にリンクするときに選択できます。
 
@@ -54,8 +54,8 @@ Coworker for teamsを使用すると、HubSpot アカウントを接続して連
 
 1. 「**切断**」をクリックします（現時点ではサービスキーを再入力する必要はありません）。
 
-   ![切断ボタンがハイライト表示されたHubSpotの管理ダイアログ &#x200B;](./assets/hubspot-6.png)
+   ![切断ボタンがハイライト表示されたHubSpotの管理ダイアログ ](./assets/hubspot-6.png)
 
 1. 「**切断**」をもう一度クリックして確認します。
 
-   ![切断ボタンがハイライト表示された接続確認ダイアログ &#x200B;](./assets/hubspot-7.png)
+   ![切断ボタンがハイライト表示された接続確認ダイアログ ](./assets/hubspot-7.png)

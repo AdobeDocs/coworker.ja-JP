@@ -3,8 +3,8 @@ description: キャンペーンを開始する方法、キャンペーンが送�
 title: キャンペーンの立ち上げと管理
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%
@@ -27,7 +27,7 @@ ht-degree: 2%
 
 1. キャンペーンが準備状況チェックを通過すると、起動ダイアログが開き、メールとオーディエンスのプレビューが表示されます。
 
-1. ダイアログに表示されているスケジュールを確認します。 変更するには、[&#x200B; キャンペーンの開始時にスケジュールする](#schedule-when-a-campaign-launches)で説明されているスケジュール オプションを使用し、**保存**&#x200B;をクリックします。
+1. ダイアログに表示されているスケジュールを確認します。 変更するには、[ キャンペーンの開始時にスケジュールする](#schedule-when-a-campaign-launches)で説明されているスケジュール オプションを使用し、**保存**&#x200B;をクリックします。
 
 1. 完了したら、**キャンペーンを開始**&#x200B;をクリックします。
 
