@@ -1,5 +1,5 @@
 ---
-title: Playgroundでの同僚とのチャットの開始
+title: Playgroundでの同僚チャットの基本を学ぶ
 description: PlaygroundでCoworker Chatを使用して、自然言語のプロンプトがどのように作業の学習、調査、改良に役立つかをご紹介します。
 hide: true
 autotag-review: '2026-09-02T16:21:52.199Z'
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%

@@ -4,7 +4,7 @@ title: メールエディターについて
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%

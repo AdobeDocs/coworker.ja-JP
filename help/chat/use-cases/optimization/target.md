@@ -1,5 +1,5 @@
 ---
-title: Targetと共同作業者 – Adobe Target アクティビティを分析、診断、起動します
+title: Targetと共同作業者 – Adobe Target アクティビティの分析、診断、起動
 description: CoworkerがAgentic AIをAdobe Targetにもたらし、パフォーマンスの分析、問題の診断、最適化プログラムのローンチにどのように役立つかをご覧ください。
 feature: AI Tools
 role: User
@@ -12,7 +12,7 @@ nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

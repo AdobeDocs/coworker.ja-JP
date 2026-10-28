@@ -1,5 +1,5 @@
 ---
-title: クロスチャネルジャーニーの作成、シミュレーション、分析
+title: クロスチャネルジャーニーの構築、シミュレーション、分析
 description: CX Enterprise Coworkerが、クロスチャネルジャーニーの構築、メールおよびSMS コンテンツの作成、ブランチのシミュレーション、ジャーニー設定の問題の診断をどのように行うのかを説明します。
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -22,4 +22,4 @@ CX Enterprise Coworkerが、自然言語によるプロンプトからクロス�
 
 このビデオでは、ジャーニーの分岐パスをシミュレートし、診断を分析して設定の問題を特定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504707?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
