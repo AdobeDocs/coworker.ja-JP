@@ -19,17 +19,17 @@ Adobe Coworker for teamsを使用すると、Shopify アカウントを接続し
 >
 >* アクティブなShopify アカウント
 >* Shopifyの次の権限：`read_customers`
->* Shopify ストアのURLと[管理者API アクセストークン ](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"}便利
+>* Shopify ストアのURLと[管理者API アクセストークン &#x200B;](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"}便利
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
-   ![ チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/shopify-1.png)
+   ![&#x200B; チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/shopify-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![ コネクタ画面に統合ボタンを追加](./assets/shopify-2.png)
+   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/shopify-2.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ Adobe Coworker for teamsを使用すると、Shopify アカウントを接続し
 
 1. Shopify行で、**Connect**&#x200B;をクリックします。
 
-   ![接続ボタン付きのShopify コネクタタイル ](./assets/shopify-3.png)
+   ![接続ボタン付きのShopify コネクタタイル &#x200B;](./assets/shopify-3.png)
 
 1. 必要な権限を確認し、**続行**&#x200B;をクリックします。
 
@@ -49,7 +49,7 @@ Adobe Coworker for teamsを使用すると、Shopify アカウントを接続し
 >
 >Shopifyで、**Settings** › **Apps** › **Develop apps** › **従来のカスタムアプリを作成** › **Admin API設定** › **必要なスコープを追加**&#x200B;して、Admin API アクセストークンを取得します。
 
-![ ストア URLと管理者API アクセストークンのフィールドを含むShopify ダイアログを接続](./assets/shopify-5.png)
+![&#x200B; ストア URLと管理者API アクセストークンのフィールドを含むShopify ダイアログを接続](./assets/shopify-5.png)
 
 接続後、Shopifyがコネクターリストに表示されます。
 
