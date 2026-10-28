@@ -26,7 +26,7 @@ Adobe CX Enterprise Coworker Chatを使用して、あらゆるマーケティ�
 
 このページのユースケースを使用するには、次のものが必要です。
 
-* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析するデータビューまたはレポートスイートへのアクセスを表示します。 共同作業者チャットは、Customer Journey AnalyticsまたはAdobe Analyticsから権限を継承します。
 
 ## ユースケース
@@ -37,13 +37,13 @@ Adobe CX Enterprise Coworker Chatを使用して、あらゆるマーケティ�
 | 飽和状態を始める場所を特定する<p>![経費の飽和開始場所を検索](assets/marketing-measurement.png)</p> | 応答曲線を表示して、追加支出がどこで発生しないかを明らかにします。<p>**サンプルプロンプト：**</p><ul><li>「有料検索の支出はどこで飽和し始めますか？」</li><li>「各チャネルの応答曲線を表示」</li></ul><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、このユースケースでは、トレーニングされたマーケティング測定モデルも必要です。 *[製品と設定の要件を確認してください。]*</p> |
 | What-if予算シナリオの構築 | 配分オプションを並べて比較し、計画決定に役立てることができます。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「次の四半期の予算シナリオの作成」</li><li>「ディスプレイから検索に支出の10%をシフトしたらどうなるか？」</li></ul><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、このユースケースでは、トレーニングされたマーケティング測定モデルも必要です。 *[製品と設定の要件を確認してください。]*</p> |
 | モデルの品質と再トレーニングのタイミングを確認する | モデルの品質、トレーニングの詳細、スコアリング指標を調査し、回答を信頼する方法を把握できます。<p>**アナリスト：**&#x200B;に最適</p><p>**サンプルプロンプト：**</p><ul><li>「このモデルに必要な他の要素はありますか？」</li><li>「このモデルは再訓練する必要がありますか？」</li></ul><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、このユースケースでは、トレーニングされたマーケティング測定モデルも必要です。 *[製品と設定の要件を確認してください。]*</p> |
-| [施策のパフォーマンスを測定](/help/chat/use-cases/workflows.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[ データインサイト ](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
+| [施策のパフォーマンスを測定](/help/chat/use-cases/workflows.md#data-insights) | キャンペーン、チャネル、web プロパティの特定の期間におけるパフォーマンスを確認できます。<p>**サンプルプロンプト：** 「Acrobatのweb キャンペーンの先月のパフォーマンスは？」</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
 
 ## 使用するスキル
 
 <!-- FLAG: Confidence: High for Measure campaign performance (workflows.md lists `cja`, `aa`, `dx-api`, and `knowledge-graph` for "Campaign performance"). `dx-api` and `knowledge-graph` aren't in the Skills and limitations table on analytics-overview.md. Low for the other four use cases: no source names their skills. Get the skill IDs from the PM, replace the placeholder row, and add the skills to the Skills and limitations table. -->
 
-この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[ スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
+この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[&#x200B; スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
 
 | スキル | に使用 |
 | --- | --- |

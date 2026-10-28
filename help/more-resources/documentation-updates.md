@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 # ドキュメントの更新 {#documentation-updates}
 
-このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート ](../coworker-for-teams/release-notes.md)を参照してください。
+このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート &#x200B;](../coworker-for-teams/release-notes.md)を参照してください。
 
 ## 2026年10月 {#oct-2026}
 
@@ -35,13 +35,13 @@ ht-degree: 0%
 
 **2026年10月16日**
 
-* 新規：[ クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* 新規：[&#x200B; クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
 * 新規：[ジャーニー分析の概要](../chat/use-cases/data-insights/journey-analysis.md)
-* 新規：[ オーディエンスとセグメント分析の概要](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
-* 新規：[ ビジネスパフォーマンスの概要](../chat/use-cases/data-insights/business-performance.md)
-* 新規：[ コンテンツパフォーマンスの概要](../chat/use-cases/data-insights/content-performance.md)
-* 新規：[ マーケティング測定とアトリビューションの概要](../chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
-* 新規：[ インテリジェントな実装と管理の概要](../chat/use-cases/data-insights/data-governance-and-validation.md)
+* 新規：[&#x200B; オーディエンスとセグメント分析の概要](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
+* 新規：[&#x200B; ビジネスパフォーマンスの概要](../chat/use-cases/data-insights/business-performance.md)
+* 新規：[&#x200B; コンテンツパフォーマンスの概要](../chat/use-cases/data-insights/content-performance.md)
+* 新規：[&#x200B; マーケティング測定とアトリビューションの概要](../chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+* 新規：[&#x200B; インテリジェントな実装と管理の概要](../chat/use-cases/data-insights/data-governance-and-validation.md)
 
 **2026年10月14日**
 
@@ -53,5 +53,5 @@ ht-degree: 0%
 
 **2026年10月7日**
 
-* 新規：[AEM Assetsでのブランドのオンボーディング ](../chat/use-cases/brand-visibility/onboard-aem-assets.md)
-* 新規：[ プラグインとマーケットプレイスの管理](../customizations/plugins/manage-plugins-for-your-org.md)
+* 新規：[AEM Assetsでのブランドのオンボーディング &#x200B;](../chat/use-cases/brand-visibility/onboard-aem-assets.md)
+* 新規：[&#x200B; プラグインとマーケットプレイスの管理](../customizations/plugins/manage-plugins-for-your-org.md)

@@ -15,13 +15,13 @@ Adobe CX Enterprise Coworkerのリリースノートを参照してください�
 
 ## 同僚のリリースノート {#coworker-release-notes}
 
-* [CX Enterprise Coworker リリースノート ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker):Experience Platform リリースノートに記載されている、Coworker Chatの機能強化と修正。
-* [[!UICONTROL Coworker for teams] リリースノート ](../coworker-for-teams/release-notes.md):Coworker for teamsの機能強化と修正。 リリースは継続的に配信されます。
+* [CX Enterprise Coworker リリースノート &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker):Experience Platform リリースノートに記載されている、Coworker Chatの機能強化と修正。
+* [[!UICONTROL Coworker for teams] リリースノート &#x200B;](../coworker-for-teams/release-notes.md):Coworker for teamsの機能強化と修正。 リリースは継続的に配信されます。
 
 ## CX Enterprise の主要なリリースノート {#cx-enterprise-release-notes}
 
-* [CX Enterprise Central リリースノート ](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/current):Adobe CX Enterprise アプリケーションおよびサービスの最新のリリースノート。
+* [CX Enterprise Central リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/current):Adobe CX Enterprise アプリケーションおよびサービスの最新のリリースノート。
 
 ## このトピックの詳細ヘルプ {#more-help}
 
-* 新しい記事やビデオを見つけるには、[ ドキュメントの更新](./documentation-updates.md)を参照してください。
+* 新しい記事やビデオを見つけるには、[&#x200B; ドキュメントの更新](./documentation-updates.md)を参照してください。
