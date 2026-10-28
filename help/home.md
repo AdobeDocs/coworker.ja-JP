@@ -21,9 +21,9 @@ Adobe Workfrontは、複雑で部門横断的な顧客体験ワークフロー�
 
 | エクスペリエンス | これを使用すると、次の操作を実行できます。 | 対象 |
 | --- | --- | --- |
-| [同僚[!UICONTROL  チャット ]](./chat/overview.md) | Adobeのさまざまなアプリケーションをまたいで、自然言語でインサイト、コンテンツ、アクションを獲得できます。 | Adobeアカウントチームのライセンスを取得。 [利用状況の確認](#chat-availability)を参照してください。 |
-| [ チームの同僚](./coworker-for-teams/overview.md) | 小規模なアジャイルなマーケティングチームとして、キャンペーンの目標から実行を調整する。 | 2026年12月31日（PT）までの無料トライアル。 北米のみ。 |
-| 共同作業者[!UICONTROL  プロジェクト ] | チームがプロセス、承認、従業員の自律性のレベルを設定する、長期的な部門横断的なワークフローを実行します。 | 近日リリース予定 |
+| [同僚[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md) | Adobeのさまざまなアプリケーションをまたいで、自然言語でインサイト、コンテンツ、アクションを獲得できます。 | Adobeアカウントチームのライセンスを取得。 [利用状況の確認](#chat-availability)を参照してください。 |
+| [&#x200B; チームの同僚](./coworker-for-teams/overview.md) | 小規模なアジャイルなマーケティングチームとして、キャンペーンの目標から実行を調整する。 | 2026年12月31日（PT）までの無料トライアル。 北米のみ。 |
+| 共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] | チームがプロセス、承認、従業員の自律性のレベルを設定する、長期的な部門横断的なワークフローを実行します。 | 近日リリース予定 |
 
 ## 共同作業者チャット
 
@@ -43,7 +43,7 @@ Coworker Chatは、次のアプリケーションで利用できるようにな�
 
 B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Journey Analyticsは近日リリース予定です。
 
-アプリケーション別の没入型エクスペリエンスと製品内エクスペリエンスについては、[同僚チャットの基本を学ぶ](./chat/ui-guide.md#availability)を参照してください。 互換性のあるアプリケーションの一覧については、[互換性のあるCX Enterprise アプリケーション ](./chat/overview.md#compatible-cx-enterprise-applications)を参照してください。
+アプリケーション別の没入型エクスペリエンスと製品内エクスペリエンスについては、[同僚チャットの基本を学ぶ](./chat/ui-guide.md#availability)を参照してください。 互換性のあるアプリケーションの一覧については、[互換性のあるCX Enterprise アプリケーション &#x200B;](./chat/overview.md#compatible-cx-enterprise-applications)を参照してください。
 
 ### 共同作業者チャットの有効化
 
@@ -57,18 +57,18 @@ B2B エディションのReal-Time CDP、Adobe Journey Optimizer、Customer Jour
 
 ### 同僚とのチャットのカスタマイズ
 
-チームの作業方法に合わせて同僚とのチャットをカスタマイズできます。 [ カスタマイズの概要](./customizations/overview.md)から始めるか、次のいずれかのトピックに直接移動します。
+チームの作業方法に合わせて同僚とのチャットをカスタマイズできます。 [&#x200B; カスタマイズの概要](./customizations/overview.md)から始めるか、次のいずれかのトピックに直接移動します。
 
 * [スキル](./customizations/skills/what-are-skills.md)
 * [統合](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [プラグイン](./customizations/plugins/what-are-plugins.md)
 * [メモリ](./customizations/memory/what-is-memory.md)
 
-Coworker Chatを外部ツールまたはサービスに接続するには、**[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**&#x200B;の下にサーバーとして追加します。 各フィールドの手順と説明については、[ サーバーの接続](./chat/ui-guide.md#server)を参照してください。
+Coworker Chatを外部ツールまたはサービスに接続するには、**[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**&#x200B;の下にサーバーとして追加します。 各フィールドの手順と説明については、[&#x200B; サーバーの接続](./chat/ui-guide.md#server)を参照してください。
 
 ## チームで共同作業
 
-Coworker for teamsは、迅速に施策を立ち上げて実行したい、小規模かつアジャイルなマーケティングチーム向けのスタンドアロンアプリケーションです。 別のCX Enterprise アプリケーションの一部ではありません。 2026年12月31日（PT）までの無料体験版は、北米でのみ利用できます。 アクセス手順については、[ アクセス方法](./coworker-for-teams/overview.md#how-to-access)を参照してください。
+Coworker for teamsは、迅速に施策を立ち上げて実行したい、小規模かつアジャイルなマーケティングチーム向けのスタンドアロンアプリケーションです。 別のCX Enterprise アプリケーションの一部ではありません。 2026年12月31日（PT）までの無料体験版は、北米でのみ利用できます。 アクセス手順については、[&#x200B; アクセス方法](./coworker-for-teams/overview.md#how-to-access)を参照してください。
 
 グループ版の共同作業者には、[Marketo Engage](./coworker-for-teams/connectors/marketo.md)および[HubSpot](./coworker-for-teams/connectors/hubspot.md)のコネクタが含まれます。
 
