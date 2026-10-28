@@ -29,7 +29,7 @@ Coworkerは、プロジェクト内のディメンションと指標がCustomer 
 
 >[!IMPORTANT]
 >
->プロジェクトを移行する前に、Adobe Analytics ドキュメントの「[Adobe AnalyticsからCustomer Journey Analyticsへのコンポーネントとプロジェクトの移行の準備](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration)」を参照してください。 移行に備える方法、含まれる要素、エラーの原因、マッピングが組織全体にどのような影響を与えるかを説明します。 この情報は、Coworkerでの移行に適用されます。
+>プロジェクトを移行する前に、Adobe Analytics ドキュメントの「[Adobe AnalyticsからCustomer Journey Analyticsへのコンポーネントとプロジェクトの移行の準備](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration)」を参照してください。 移行に備える方法、含まれる要素、エラーの原因、マッピングが組織全体にどのような影響を与えるかを説明します。 この情報は、Coworkerでの移行に適用されます。
 
 ## Adobe Analytics ユーザーインターフェイスでの移行との違い
 
@@ -54,7 +54,7 @@ Coworkerでプロジェクトを移行するには、次のものが必要です
 
 * Adobe Analytics管理者権限、またはAdmin Consoleの&#x200B;[!UICONTROL **Component Migration**]&#x200B;権限。 管理者である必要はありません。
 
-* コンポーネントの移行に関する[前提条件](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites)については、Adobe Analytics ドキュメントを参照してください。
+* コンポーネントの移行に関する[前提条件](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites)については、Adobe Analytics ドキュメントを参照してください。
 
 * 基本レポートスイートを使用するプロジェクト。 仮想レポートスイートを移行できません。<!-- FLAG: Sourced from Coworker's response in the UI. The Adobe Analytics component migration docs don't mention virtual report suites. Confirm, and consider adding it to those docs. -->
 
@@ -62,7 +62,7 @@ Coworkerでプロジェクトを移行するには、次のものが必要です
 
 <!-- FLAG: Confidence: Medium. The recommendation to review mappings before the first migration from a report suite is inferred from the Adobe Analytics guidance to decide mappings as an organization; Coworker also validates mappings during each migration. Confirm with Scott. -->
 
-レポートスイートから最初に移行する前に、レポートスイートのディメンションと指標のマッピング方法を確認することを検討してください。 マッピングは、組織が移行するすべてのプロジェクトに適用されます。そのため、最初にマッピングを設定すると、後のプロジェクトが検証を通過するのに役立ちます。 マッピングの選択に関するガイダンスについては、Adobe Analytics ドキュメントの「[組織としてコンポーネントをどのようにマッピングするかを決定する](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components)」を参照してください。
+レポートスイートから最初に移行する前に、レポートスイートのディメンションと指標のマッピング方法を確認することを検討してください。 マッピングは、組織が移行するすべてのプロジェクトに適用されます。そのため、最初にマッピングを設定すると、後のプロジェクトが検証を通過するのに役立ちます。 マッピングの選択に関するガイダンスについては、Adobe Analytics ドキュメントの「[組織としてコンポーネントをどのようにマッピングするかを決定する](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components)」を参照してください。
 
 マッピングをレビューするには、[!UICONTROL **スコープ**] タブで「[!UICONTROL **マッピングのみをレビュー**]」を選択するか、同僚に直接依頼します。
 
@@ -157,13 +157,13 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
 * **指標：**&#x200B;件がイベントになります
 * **Dimension:**&#x200B;時間の滞在時間
 
-移行されるコンポーネントとプロジェクト要素については、[移行に含まれるものを理解する](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration)Adobe Analytics ドキュメントを参照してください。
+移行されるコンポーネントとプロジェクト要素については、[移行に含まれるものを理解する](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration)Adobe Analytics ドキュメントを参照してください。
 
 検証が合格しない場合：
 
 * **自動的にマッピングできないディメンションまたは指標：**&#x200B;同僚は、データビューでディメンションまたは指標を提案してマッピングし、マッピングを更新した後、プロジェクトを再度検証します。 また、「ページビューをweb.webPageDetails.pageViews.valueにマッピング」など、マッピングするディメンションや指標をCoworkerに指定することもできます。
 
-* **サポートされていない要素：** Adobe Analyticsのプロジェクトからサポートされていない要素を削除します。 例えば、すべてのパネルで、仮想レポートスイートではなく基本レポートスイートを使用するようにします。 次に、同僚にプロジェクトをもう一度確認するように依頼します。 サポートされていない要素の一覧については、Adobe Analytics ドキュメントの[&#x200B; エラーの原因となるサポートされていない要素について](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)を参照してください。
+* **サポートされていない要素：** Adobe Analyticsのプロジェクトからサポートされていない要素を削除します。 例えば、すべてのパネルで、仮想レポートスイートではなく基本レポートスイートを使用するようにします。 次に、同僚にプロジェクトをもう一度確認するように依頼します。 サポートされていない要素の一覧については、Adobe Analytics ドキュメントの[&#x200B; エラーの原因となるサポートされていない要素について](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)を参照してください。
 
 移行する前にレポートスイート全体のマッピングを確認するには、[移行する前にレポートスイートのマッピングを確認する](#review-report-suite-mappings-before-you-migrate)を参照してください。
 
@@ -196,11 +196,11 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
    | キューに追加中 | 移行は開始を待っています。 |
    | 開始済み | 移行は進行中です。 |
    | 完了 | 移行が完了しました。 Coworkerは、プロジェクト名とデータビューを含む、移行された内容の概要を提供します。 |
-   | 失敗 | 移行に失敗しました。 移行を再試行できます。 Adobe Analytics ドキュメントの「[失敗した移行を再試行する](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration)」を参照してください。 |
+   | 失敗 | 移行に失敗しました。 移行を再試行できます。 Adobe Analytics ドキュメントの「[失敗した移行を再試行する](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration)」を参照してください。 |
 
 1. 移行が完了したら、Customer Journey Analytics Workspaceのプロジェクトリストから新しいプロジェクトを開きます。
 
-1. （オプション）Customer Journey Analyticsの任意のユーザーにプロジェクトの所有権を転送します。 詳しくは、[&#x200B; アセットの転送](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)を参照してください。
+1. （オプション）Customer Journey Analyticsの任意のユーザーにプロジェクトの所有権を転送します。 詳しくは、[&#x200B; アセットの転送](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)を参照してください。
 
 移行が完了したら、次に移行する別のプロジェクトを同僚から提案できます。
 
@@ -211,5 +211,5 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
 
 ## 次の手順
 
-* 代わりにAdobe Analytics ユーザーインターフェイスでプロジェクトを移行するには、Adobe Analytics ドキュメントの「[Adobe AnalyticsからCustomer Journey Analyticsへのコンポーネントとプロジェクトの移行](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration)」を参照してください。
+* 代わりにAdobe Analytics ユーザーインターフェイスでプロジェクトを移行するには、Adobe Analytics ドキュメントの「[Adobe AnalyticsからCustomer Journey Analyticsへのコンポーネントとプロジェクトの移行](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/component-migration/component-migration)」を参照してください。
 * その他の実装と管理の使用例については、[&#x200B; インテリジェント実装と管理の概要](/help/chat/use-cases/data-insights/data-governance-and-validation.md)を参照してください。
