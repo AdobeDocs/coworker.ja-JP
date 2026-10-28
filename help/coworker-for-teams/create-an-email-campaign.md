@@ -4,9 +4,9 @@ title: メールキャンペーンの作成
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # メールキャンペーンの作成 {#create-an-email-campaign}
@@ -68,7 +68,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 ![独自のプロンプトを入力](./assets/create-an-email-campaign-2.png)
 
-プロンプトの準備ができたら、「**キャンペーンを生成**」をクリックします。 チームメンバーは、次の手順に従います。
+プロンプトの準備ができたら、上向き矢印アイコンをクリックします。 チームメンバーは、次の手順に従います。
 
 * 構造化されたキャンペーン戦略の生成。
 * ターゲットオーディエンスを尋ねます。これは、コンテンツのパーソナライゼーションにも使用されます。
@@ -88,8 +88,6 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
    >
    >Coworker for teamsでは、サンプルオーディエンスを使用してキャンペーンの構築を進めることができますが、キャンペーンを開始するには、実際のオーディエンスを追加する必要があります。
 
-1. CSV ファイルを読み込みます。
-
    >[!IMPORTANT]
    >
    >アップロードする前に、メールで送信しない連絡先（購読解除されたユーザー、内部アドレス、テストアカウント）を除外します。 体験版中に特定のユーザーを除外したり、属性を追加したりする機能を段階的に有効にしますが、発売日からすぐに使用することはできません。
@@ -98,7 +96,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 メールに変更を加えるには、右にスクロールします。 _Campaign Assets_&#x200B;で、**エディターを開く**&#x200B;をクリックします。
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 コンテンツを更新するには、2つの方法があります。
 
@@ -114,7 +112,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 また、AI ボタンを使用して、件名またはプリヘッダーを絞り込むこともできます。
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 >
 >現時点では、テストメールは自分にしか送信できず、一度にひとつしか送信できません。
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## ステップ 6：キャンペーンの開始
 

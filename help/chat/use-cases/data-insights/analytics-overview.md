@@ -4,9 +4,9 @@ description: Adobe CX Enterprise Coworker Chatを使用して、Customer Journey
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1363'
 ht-degree: 1%
 ---
 
@@ -55,7 +55,7 @@ Customer Journey AnalyticsまたはAdobe Analytics データの分析には、�
 | `cja`, `aa` | Customer Journey Analytics データビュー（`cja`）またはAdobe Analytics レポートスイート（`aa`）をリアルタイムでクエリします。<ul><li>指標、ディメンション、セグメント、データビュー、レポートスイートを取得し</li><li>チャネル、期間、セグメントを並べて比較できます</li><li>マルチステップのfunnelとフォールアウト分析の実行</li><li>過去のトレンドにもとづいて指標を予測する</li></ul> | クエリするデータビューまたはレポートスイートへのアクセスを表示します | <ul><li>データビューまたはレポートスイートコンポーネントの作成または編集</li><li>アクセスできるデータビューまたはレポートスイート以外のデータ</li><li>指標予測を超えた予測モデリング</li></ul> |
 | `cja-root-cause-analysis`, `aa-root-cause-analysis` | 指標が変化したと報告するだけでなく、変化した理由を探ります。<ul><li>既知の期間における既知の指標の変化を調査する</li><li>変更に貢献したディメンションとセグメントを表示</li></ul> | 分析中のデータビューまたはレポートスイートへのアクセスを表示します | <ul><li>質問していない異常の検出（自動化されたアラートやリアルタイムのアラートはない）</li><li>アクセス権のあるデータビューまたはレポートスイート以外の指標の根本原因分析</li></ul> |
 | `cja-executive-summary` | 関係者に配慮したデータ要約の作成：<ul><li>指定した期間のパフォーマンスを要約します</li><li>データに基づいた規範的な推奨事項の生成</li><li>スライドデッキや関係者が読み上げるコンテンツの概要</li></ul> | 概要で説明されているデータビューまたはレポートスイートへのアクセスを表示する | <ul><li>最後のスライド デッキまたはプレゼンテーション ファイルの作成</li><li>アクセス権のないデータビューまたはレポートスイートにまたがる要約</li></ul> |
-| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | Customer Journey AnalyticsのContent Analytics データを使用して、コンテンツに関する一般的な質問や具体的な質問に回答します。<ul><li>優れたパフォーマンスを発揮するアセットとエクスペリエンスに共通する点を把握しましょう</li><li>コンテンツの露出をコンバージョンや売上に結びつける</li><li>チャネルとオーディエンスをまたいだコンテンツ比較</li></ul>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。 | Content Analytics用に設定されたデータビューへのアクセスを表示します | <ul><li>Content Analyticsの設定と設定</li><li>Content Analyticsで収集されないコンテンツ</li></ul> |
+| `analyze-content`<br/> （限定提供） <!-- FLAG: Confirm the Out of scope items with the PM. --> | Customer Journey AnalyticsのContent Analytics データを使用して、コンテンツに関する一般的な質問や具体的な質問に回答します。<ul><li>優れたパフォーマンスを発揮するアセットとエクスペリエンスに共通する点を把握しましょう</li><li>コンテンツの露出をコンバージョンや売上に結びつける</li><li>チャネルとオーディエンスをまたいだコンテンツ比較</li></ul>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。 | Content Analytics用に設定されたデータビューへのアクセスを表示します | <ul><li>Content Analyticsの設定と設定</li><li>Content Analyticsで収集されないコンテンツ</li><li>有料メディアコンテンツ</li></ul> |
 | `aa-cja-validation` | [!DNL Adobe Analytics]とCustomer Journey Analytics間のデータの比較、監査、調整：<ul><li>レポートスイートとデータビュー間の指標値の比較</li><li>2つのデータソース間の不一致のフラグを立てる</li></ul> | [!DNL Adobe Analytics] レポートスイートと比較されるCustomer Journey Analytics データビューへのアクセスを表示します | <ul><li>データの不整合の根本的な原因を解決する</li><li>[!DNL Adobe Analytics]およびCustomer Journey Analytics以外のデータソースを検証しています</li></ul> |
 | `cja-skill-creator` | 再利用可能なスキルが見つかったら、次のステップに進みます。<ul><li>完了した分析を、名前付きの再利用可能なスキルに変換する</li><li>今後のチャットセッションで、保存したスキルを利用できるようにします</li></ul> | スキルの管理 | <ul><li>保存したスキルを他のユーザーと自動的に共有する（組織レベルのスキルライブラリには管理者の設定が必要）</li><li>スキル参照でのデータビューまたはレポートスイートコンポーネントの編集</li></ul> |
 

@@ -6,15 +6,16 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 16%
+source-wordcount: '319'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [同僚ガイド](home.md)
+- [Adobe CX Enterprise CoworkerのAI基盤](/help/ai-platforms.md)
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)

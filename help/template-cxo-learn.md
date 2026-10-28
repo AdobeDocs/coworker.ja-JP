@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: use the pattern "CX Enterprise Coworker in [Product]". Title case, 60 characters or fewer.
+# Title: use the pattern "CX Enterprise Coworker in [Product]". Title case, 60 characters or fewer. Product acronyms are accepted here to reduce length. Remember, the full product name is repeated after the pipe.
 # Description: one or two sentences, about 150-160 characters. Name two or three things the reader can do in the product.
 title: '[Product]のCX Enterprise Coworker'
 description: Coworkerの会話型AIが、[1つ目]、[2つ目]、[製品]でさらに多くのことを達成するのにどのように役立つのかをご確認ください。
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: 3973c523ef81e79fee31d9c9a2b36e397d1db153
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 22%

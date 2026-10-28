@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: aa38c5009d3c61996406a73447f901d109314458
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '8465'
+source-wordcount: '8510'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -100,6 +100,7 @@ ht-degree: 8%
 | ガイドラインとセグメントの検索 | セグメント、市場、カテゴリーごとに分類された詳細なブランドガイドラインを取得します | enterprise-context | Adobe Experience Manager（AEM） | 「このブランドのトーンオブボイスのガイドラインは何ですか？」 <br> 「ヘルスの垂直方向で使用される請求項カテゴリのリスト」 |
 | ブランドガイドラインに照らし合わせたコンテンツの評価 | 設定されたブランドチェックに照らし合わせて、公開/編集されたページ、テキストブロック、画像を評価します | aem-governance | Adobe Experience Manager（AEM） | 「このランディングページをSecurBank ガイドラインに照らして評価する」 <br> 「このキャッチフレーズはトーンオブボイスのチェックに合格しますか？」 |
 | AEM権限のデバッグ | 権限ポリシー、ACL、継承ルールをデバッグまたは理解します。 | aem-governance | Adobe Experience Manager（AEM） | 「プリンシパル管理者が`https://author/`に`/content/folder/us`を書き込むことができる理由？」 <br> 「なぜ`https://author`に`/content/dam`でサンプル オーサーを書き込むことができないのか」 |
+| インスタンス間の脆弱性のリスト | 1つ以上のAEM インスタンスの既知の脆弱性（重大度や影響を受けるコンポーネントなど）の一覧を取得します | aem-governance | Adobe Experience Manager（AEM） | 「オーサーインスタンスとパブリッシュインスタンスのすべての脆弱性を一覧表示します。」 <br> 「`https://author-xxx.adobeaemcloud.com`の重大な脆弱性と高い脆弱性を表示します。」 |
 
 **関連情報**
 
@@ -116,7 +117,7 @@ ht-degree: 8%
 | 予測 | 過去のCJAまたはAA データに基づく将来の指標値のプロジェクト | `cja`, `aa` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「今後30日間のセッションを予測」 <br> 「売上目標を達成する予定ですか？」 |
 | [根本原因分析](data-insights/root-cause-analysis.md) | 指標が変化した理由：低下、急上昇、異常を診断します | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先週、コンバージョンが低下した理由は何ですか？」 <br> 「1月15日の売上の急増の原因は何ですか？」 |
 | エグゼクティブサマリーとKPI ダイジェスト | 関係者に提供可能なパフォーマンスの要約、処方レコメンデーション、スライドデッキの概要を作成します | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先月のエグゼクティブサマリーを教えてください」 <br> 「今四半期のデータからスライドデッキの概要を作成してください」 |
-| [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
+| [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) （利用制限あり） | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
 | [AA ↔ CJA データ検証](data-insights/data-validation-aa-cja.md) | 特にAdobe AnalyticsからCustomer Journey Analyticsにアップグレードする場合は、Adobe AnalyticsとCustomer Journey Analytics間でデータを比較、監査、調整できます | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | 「AA レポートスイートとCJA データビューの比較」 <br> 「AAとCJA間のページビューの検証」 |
 | [&#x200B; データセットとフィールドの品質を検証](data-insights/data-validation-aep.md) | Experience Platform データセットとフィールドに対して統計的およびセマンティック検証を実行し、実装後または継続的にデータ品質の問題を検出します<!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | 「データセット Electronics サンプル 1000の検証」 <br> 「Customers_2024 データセットの電子メールフィールドの検証」 |
 | 運用時系列と因果関係分析 | オーディエンス、データセット、ジャーニーに関する過去の時系列データを、因果関係アトリビューションでクエリ、分析します | `operational-stats-causal-analysis` | すべての対象アプリケーション | 「過去90日間のオーディエンスサイズの傾向を表示」 <br> 「データセットの行数が3月3日に急増した理由を教えてください。」 |
