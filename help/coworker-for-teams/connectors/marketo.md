@@ -19,7 +19,7 @@ Coworker for teamsを使用すると、Marketo Engageアカウントを接続し
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}が手元にあります
+>* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}が手元にあります
 
 ## つながる方法
 
