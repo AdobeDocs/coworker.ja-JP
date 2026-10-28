@@ -335,7 +335,7 @@ Workfrontでビジュアライゼーションを作成した後、Analysis Works
 
 1. （オプション）任意のユーザーとWorkspace プロジェクトを共有します。
 
-   Analysis Workspaceについて詳しくは、Customer Journey Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)またはAdobe Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home)を参照してください。
+   Analysis Workspaceについて詳しくは、Customer Journey Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)またはAdobe Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/home)を参照してください。
 
 ## 次の手順
 

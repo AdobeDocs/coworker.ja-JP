@@ -156,5 +156,5 @@ Electronics Sample 1000 データセットで自動的に選択された5つの�
 
 * [アップグレード時のAdobe AnalyticsからCustomer Journey Analytics データへの検証](./data-validation-aa-cja.md)
 * [Coworkerのデータ検証スキルを使用したCustomer Journey Analytics データの検証](./validate-dataset-quality-for-cja.md)
-* [データの検証（AI アシスタント）](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [データの検証（AI アシスタント）](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Customer Journey Analytics レポートを信頼する：Adobe CX Enterprise Coworkerでのデータ検証スキル &#x200B;](https://www.youtube.com/watch?v=gCSm_QYSYhk) （ビデオ）
