@@ -10,13 +10,17 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '187'
 ht-degree: 1%
 ---
 
 # Adobe Journey OptimizerとCoworker：ロイヤルティに関する課題を特定し、インサイトを獲得
+
+>[!AVAILABILITY]
+>
+>ロイヤルティプラグインとそのチャレンジ管理スキルは、組織がAdobe Journey Optimizer Loyaltyの使用権限を持っている場合にのみ使用できます。 アクセスが必要な場合は、Adobe アカウントチームに連絡して、必要な使用権限をリクエストしてください。
 
 このデモでは、Adobe Journey Optimizer（AJO）ロイヤルティをCoworkerで活用し、ロイヤルティプログラム管理を簡素化および高速化する方法をご紹介します。
  
