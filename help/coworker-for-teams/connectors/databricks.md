@@ -18,17 +18,17 @@ Coworker for teamsを使用すると、Databricks ワークスペースでUnity 
 >このコネクタを使用するには、まず次の要素が必要です。
 >
 >* アクティブなDatabricks アカウント
->* Databricks Workspace ホスト、[SQL warehouse path](https://docs.databricks.com/aws/en/compute/sql-warehouse/create){target="_blank"}、[個人アクセストークン ](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat){target="_blank"}、[Unity カタログ ](https://learn.microsoft.com/en-us/azure/databricks/discover/database-objects){target="_blank"}を便利に利用できます。
+>* Databricks Workspace ホスト、[SQL warehouse path](https://docs.databricks.com/aws/en/compute/sql-warehouse/create){target="_blank"}、[個人アクセストークン &#x200B;](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat){target="_blank"}、[Unity カタログ &#x200B;](https://learn.microsoft.com/en-us/azure/databricks/discover/database-objects){target="_blank"}を便利に利用できます。
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
-   ![ チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/databricks-1.png)
+   ![&#x200B; チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/databricks-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![ コネクタ画面に統合ボタンを追加](./assets/databricks-2.png)
+   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/databricks-2.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ Coworker for teamsを使用すると、Databricks ワークスペースでUnity 
 
 1. Databricks行で、**Connect**&#x200B;をクリックします。
 
-   ![接続ボタン付きDatabricks コネクタタイル ](./assets/databricks-3.png)
+   ![接続ボタン付きDatabricks コネクタタイル &#x200B;](./assets/databricks-3.png)
 
 1. Databricks **Workspace host**、**SQL warehouse path**、**個人アクセストークン**、**Unity カタログ**&#x200B;を入力します。 「**接続**」をクリックします。
 
