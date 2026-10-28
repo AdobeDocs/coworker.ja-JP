@@ -26,17 +26,17 @@ Adobe CX Enterprise Coworker Chatを使用すれば、それぞれのカスタ�
 
 このページのユースケースを使用するには、次のものが必要です。
 
-* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析するデータビューまたはレポートスイートへのアクセスを表示します。 共同作業者チャットは、Customer Journey AnalyticsまたはAdobe Analyticsから権限を継承します。
 
 ## ユースケース
 
 | ユースケース | 関数 |
 | --- | --- |
-| [ パフォーマンスを比較](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | チャネル、期間、セグメントをまたいで指標を並べて比較できます。<p>**プロンプトの例：** 「月々のチャネル別の収益の比較」</p><p>詳しくは、[ スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
-| [顧客グループの比較](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | セグメントロジックを記述することなく、どのグループが異なる動作をするかを示します。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「有料のソーシャル訪問者は、メールとは異なるコンバージョンをおこないますか？」</li><li>「新規訪問者とリピート訪問者を収益で比較」</li></ul><p>詳しくは、[ スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
+| [&#x200B; パフォーマンスを比較](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | チャネル、期間、セグメントをまたいで指標を並べて比較できます。<p>**プロンプトの例：** 「月々のチャネル別の収益の比較」</p><p>詳しくは、[&#x200B; スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
+| [顧客グループの比較](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) | セグメントロジックを記述することなく、どのグループが異なる動作をするかを示します。<p>**最適：** ビジネスユーザー</p><p>**サンプルプロンプト：**</p><ul><li>「有料のソーシャル訪問者は、メールとは異なるコンバージョンをおこないますか？」</li><li>「新規訪問者とリピート訪問者を収益で比較」</li></ul><p>詳しくは、[&#x200B; スキルと制限](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。</p> |
 | 見落とされていた成長機会を発見 | オーディエンス、ジャーニー、チャネルを調査し、全体的なパフォーマンス指標で隠すことができる機会を特定します。<p>**サンプルプロンプト：**</p><ul><li>「平均以上のコンバージョン率を上げていても、トラフィックが少ないオーディエンスはどれか？」</li><li>「コンバージョン率が低いチャネルはどれか？」</li></ul> |
-| [運用上の傾向と原因を分析](/help/chat/use-cases/workflows.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**管理者、アナリスト：**&#x200B;に最適</p><p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、この使用例では、分析するオーディエンス、データセット、ジャーニーへのアクセスも必要です。</p><p>詳しくは、「Coworker Chat ユースケースの[ データインサイト ](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
+| [運用上の傾向と原因を分析](/help/chat/use-cases/workflows.md#data-insights) | オーディエンス、データセット、ジャーニーに関する過去の時系列データをクエリし、変更の原因を特定できます。<p>**管理者、アナリスト：**&#x200B;に最適</p><p>**サンプルプロンプト：** 「過去90日間のオーディエンスサイズの傾向を表示する」</p><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、この使用例では、分析するオーディエンス、データセット、ジャーニーへのアクセスも必要です。</p><p>詳しくは、「Coworker Chat ユースケースの[&#x200B; データインサイト &#x200B;](/help/chat/use-cases/workflows.md#data-insights)」を参照してください。</p> |
 | オーディエンスサイズの傾向を追跡 | 拡大しているオーディエンスや縮小しているオーディエンスを特定し、原因を調べます。<p>**管理者、アナリスト：**&#x200B;に最適</p><p>**サンプルプロンプト：** 「今四半期で最も成長したオーディエンスはどれですか？」</p><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、このユースケースでは、追跡するオーディエンスへのアクセスも必要です。</p> |
 | Insightをオーディエンスに取り込む | Insightから始めて、構築できるオーディエンスに移行します。<p>**サンプルプロンプト：**</p><ul><li>「この比較をAnalysis Workspaceで開く」</li><li>「このグループからオーディエンスを作成するのに役立つ」</li></ul><p>**追加の前提条件：** [一般的な前提条件](#prerequisites)に加えて、このユースケースでは、Real-Time Customer Data Platformへのアクセスとオーディエンスを作成するための権限も必要です。</p> |
 
@@ -44,7 +44,7 @@ Adobe CX Enterprise Coworker Chatを使用すれば、それぞれのカスタ�
 
 <!-- FLAG: Confidence: High for Compare performance and Analyze operational trends and causes (skills listed for "Comparative analysis" and "Operational time-series & causal analysis" in workflows.md). Medium for Compare customer groups and Track audience size trends, which are mapped to the same skills based on their descriptions. Low for `audience-creation-flow`: inferred from the Audiences section of workflows.md. No skill is listed for Find overlooked growth opportunities because no source names one. Only `cja`, `aa`, and the root cause analysis skills currently appear in the Skills and limitations table on analytics-overview.md. -->
 
-この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[ スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
+この記事で説明するユースケースでは、次のスキルを使用します。 必要な権限とカバーされていない内容を含む、すべての分析スキルの一覧については、「共同作業者チャットを使用したデータ分析」の[&#x200B; スキルと制限事項](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations)を参照してください。
 
 | スキル | に使用 |
 | --- | --- |
