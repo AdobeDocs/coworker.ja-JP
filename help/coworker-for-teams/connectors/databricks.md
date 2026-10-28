@@ -1,13 +1,13 @@
 ---
-description: 説明
+description: Adobe Coworker グループ版を使用すると、Databricks ワークスペースでUnity カタログテーブルを接続してクエリし、キャンペーンオーディエンスを構築してアクティブ化できます。
 title: Databricksへの接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 0%
 ---
 # Databricksへの接続 {#databricks}
 
@@ -16,16 +16,19 @@ Adobe Coworker グループ版を使用すると、Databricks ワークスペー
 >[!PREREQUISITES]
 >
 >このコネクタを使用するには、まず次の要素が必要です。
+>
+>* アクティブなDatabricks アカウント
+>* Databricks Workspace ホスト、[SQL warehouse path](https://docs.databricks.com/aws/en/compute/sql-warehouse/create){target="_blank"}、[個人アクセストークン ](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat){target="_blank"}、[Unity カタログ ](https://learn.microsoft.com/en-us/azure/databricks/discover/database-objects){target="_blank"}を便利に利用できます。
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
-   SCREENSHOT
+   ![ チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/databricks-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   SCREENSHOT
+   ![ コネクタ画面に統合ボタンを追加](./assets/databricks-2.png)
 
    >[!NOTE]
    >
@@ -33,11 +36,15 @@ Adobe Coworker グループ版を使用すると、Databricks ワークスペー
 
 1. Databricks行で、**Connect**&#x200B;をクリックします。
 
-   SCREENSHOT
+   ![接続ボタン付きDatabricks コネクタタイル ](./assets/databricks-3.png)
 
 1. Databricks **Workspace host**、**SQL warehouse path**、**個人アクセストークン**、**Unity カタログ**&#x200B;を入力します。 「**接続**」をクリックします。
 
-   SCREENSHOT
+   >[!NOTE]
+   >
+   >Databricksのホームページでは、ブラウザーのアドレスバーにWorkspace ホストが直接表示されます。 その他のすべての資格情報を見つけるには、この記事の上部にある&#x200B;**前提条件**&#x200B;のリンクを参照してください。
+
+   ![Databricks ダイアログに、Workspace ホスト、SQL ウェアハウス パス、個人アクセストークン、およびUnity カタログのフィールドを接続](./assets/databricks-4.png)
 
 接続後、コネクターリストにDatabricksが表示されます。
 
@@ -45,12 +52,6 @@ Adobe Coworker グループ版を使用すると、Databricks ワークスペー
 
 1. コネクタ画面で、Databricks タイルを見つけて、**管理**&#x200B;をクリックします。
 
-   SCREENSHOT
-
 1. 「**切断**」をクリックします（現時点では、個人アクセストークンを再入力する必要はありません）。
 
-   SCREENSHOT
-
 1. 「**切断**」をもう一度クリックして確認します。
-
-   SCREENSHOT
