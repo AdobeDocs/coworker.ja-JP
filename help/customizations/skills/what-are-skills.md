@@ -22,7 +22,7 @@ ht-degree: 0%
  
 この動画では、スキルがどのように機能するのか、いつ使用するのか、チームが繰り返し可能な顧客体験の慣行を拡大するのにどのように役立つのかを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502324/?captions=jpn&learn=on&enablevpops)
 
 スキルは次の機能を提供します。
 

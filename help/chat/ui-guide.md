@@ -46,7 +46,7 @@ Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
 ## 同僚とのチャットの基本を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
 
 ## 同僚の環境設定の指定 {#preferences}
 
