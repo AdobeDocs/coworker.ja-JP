@@ -16,7 +16,7 @@ ht-degree: 1%
 
 CX Coworkerを使用して、サンドボックス内のエクスペリエンスイベント データの価値を把握し、最適化から恩恵を受ける可能性のあるデータを特定します。 サンドボックスのデータの最適化やデータセットのクリーンアップをCoworkerに依頼するなど、幅広いリクエストから始めることができます。 Coworkerは、Data Management Agentを使用して、調査する価値のあるデータセットを抽出し、データセットがどの程度積極的に使用されたかを分析し、保持期間の影響をモデル化し、必要に応じてデータレイクの保持ポリシーの管理を支援します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504097?captions=jpn&learn=on)
 
 ## 始める前に {#before-you-begin}
 

@@ -38,4 +38,4 @@ ht-degree: 0%
 
 CX Enterprise Coworkerを利用して、マーケティング部門が作成したPowerPoint スライドなどのフローチャート画像を、すぐに編集できるジャーニーに変換する方法を解説します。 Coworkerが画像からプロンプトを抽出し、レビューと調整を行い、トリガーイベントを要求し、結果を元のデザインと一致するドラフトとして保存する方法が表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504866/?captions=jpn&learn=on&enablevpops)

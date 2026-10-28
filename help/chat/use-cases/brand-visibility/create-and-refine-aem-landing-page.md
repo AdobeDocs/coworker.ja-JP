@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Adobe CX Enterprise Coworkerを利用して、キャンペーン概要をドラフトのランディングページに変換する方法を説明します。 次のワークフローに従って、既存のAdobe Experience Manager ページをテンプレートとして使用し、リンク先を確認して、キャンペーンコンテンツとSEO メタデータを適用し、ユニバーサルエディターで画像とコピーを調整します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504683/?captions=jpn&learn=on)
 
