@@ -11,7 +11,7 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%
@@ -23,9 +23,9 @@ ht-degree: 1%
  
 最初の設定プロセスを自動化することで、ゼロからジャーニーを構築する時間を減らし、顧客体験とビジネス成果を改善する時間を増やすことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496877/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## 関連トピック
 
-- [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)

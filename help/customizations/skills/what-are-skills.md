@@ -10,7 +10,7 @@ jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
  
 この動画では、スキルがどのように機能するのか、いつ使用するのか、チームが繰り返し可能な顧客体験の慣行を拡大するのにどのように役立つのかを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502324/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 スキルは次の機能を提供します。
 
@@ -45,7 +45,6 @@ ht-degree: 0%
 
 これにより、チームはプロセスを毎回手動で説明しなくても、ベストプラクティスを取り込み、再利用できます。
  
-
 ## スキルとデータガバナンス
 
 スキルでは顧客データは保存されません。

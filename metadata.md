@@ -4,7 +4,7 @@ solution: CX Enterprise
 type: Documentation
 mini-toc-levels: 2
 usetq: true
-git-repo: https://github.com/AdobeDocs/coworker.ja-JP
+git-repo: https://github.com/AdobeDocs/coworker.en
 index: true
 nudge: true
 product_v2:
@@ -12,7 +12,7 @@ product_v2:
     internal-label: CX Enterprise
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: f2821f9f8db35b6786ce95782abf4f9f524c7f88
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%

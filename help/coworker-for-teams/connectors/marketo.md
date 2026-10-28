@@ -4,7 +4,7 @@ title: Marketo Engageに接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -19,17 +19,17 @@ Coworker for teamsを使用すると、Marketo Engageアカウントを接続し
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}が手元にあります
+>* [ カスタムサービス ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}がMarketoのチーム用に作成され、その[ クライアント IDとクライアントシークレット ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}が手元にあります
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
-   ![&#x200B; チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/marketo-1.png)
+   ![ チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/marketo-1.png)
 
 1. 「**統合を追加**」をクリックします。
 
-   ![&#x200B; コネクタ画面に統合ボタンを追加](./assets/marketo-2.png)
+   ![ コネクタ画面に統合ボタンを追加](./assets/marketo-2.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ Coworker for teamsを使用すると、Marketo Engageアカウントを接続し
 
 1. Marketo行で、**Connect**&#x200B;をクリックします。
 
-   ![Connect ボタン付きのMarketo コネクタタイル &#x200B;](./assets/marketo-3.png)
+   ![Connect ボタン付きのMarketo コネクタタイル ](./assets/marketo-3.png)
 
 1. Marketo **インスタンス URL**、**クライアント ID**、**クライアントシークレット**&#x200B;を入力します。 「**接続**」をクリックします。
 
@@ -45,7 +45,7 @@ Coworker for teamsを使用すると、Marketo Engageアカウントを接続し
    >
    >My Marketo ページを表示すると、ブラウザーのアドレスバーにMarketo インスタンスのURLが表示されます。
 
-   ![&#x200B; インスタンス URL、クライアント ID、およびクライアント秘密鍵のフィールドを含むMarketo ダイアログの接続](./assets/marketo-4.png)
+   ![ インスタンス URL、クライアント ID、およびクライアント秘密鍵のフィールドを含むMarketo ダイアログの接続](./assets/marketo-4.png)
 
 接続後、Marketoがコネクターリストに表示され、連絡先リストをMarketoから同期にリンクするときに選択できます。
 
@@ -57,7 +57,7 @@ Coworker for teamsを使用すると、Marketo Engageアカウントを接続し
 
 1. 「**切断**」をクリックします（現時点ではクライアント秘密鍵を再入力する必要はありません）。
 
-   ![&#x200B; インスタンス URLおよびクライアント ID フィールドと切断ボタンを含むMarketoの管理ダイアログ &#x200B;](./assets/marketo-6.png)
+   ![ インスタンス URLおよびクライアント ID フィールドと切断ボタンを含むMarketoの管理ダイアログ ](./assets/marketo-6.png)
 
    >[!NOTE]
    >

@@ -11,9 +11,6 @@ nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-  - id:
-      - host product ID
-    internal-label: ''
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
@@ -29,7 +26,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: c09dfe88658fddb1e0ebc371c1d22f13662aebce
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 22%
@@ -39,7 +36,7 @@ ht-degree: 22%
 
 共同作業者はAdobeの会話型AIで、[Product]などのCX Enterprise アプリケーションと深く統合されています。 この機能は、Adobeのベストプラクティスを使用してトレーニングされており、複数の画面やツールをクリックする代わりに、「[example prompt one]」や「[example prompt two]」などの平易な言葉で作業を記述し、Coworkerが作業を計画し、接続されているAdobe アプリケーション全体で実行し、レビュー用の結果を表示します。
 
-[製品]の場合、製品&rbrack;の手作業に&lbrack;費やす時間が減り、共同作業者が作成するものをレビューおよび承認するために費やす時間が増えることを意味します。 Adobe Workfrontでは、プランニング、実行、フォロースルーを担当者が担当しますが、あらゆるステップで顧客自身が管理することができます。
+[製品]の場合、製品]の手作業に[費やす時間が減り、共同作業者が作成するものをレビューおよび承認するために費やす時間が増えることを意味します。 Adobe Workfrontでは、プランニング、実行、フォロースルーを担当者が担当しますが、あらゆるステップで顧客自身が管理することができます。
 
 ## 共同作業を始める
 
@@ -48,13 +45,13 @@ Adobe Workfrontを初めて利用する場合は、 ここでは、[Product]や�
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/ja/docs/coworker/content/home
+* https://experienceleague.adobe.com/en/docs/coworker/content/home
   {title = CX Enterprise Coworker guide}
   {description = A full introduction to Coworker, its capabilities, and supported applications.}
   {image = ./assets/coworker/coworker-card.png}
   {cta = Get Started}
 
-* https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
   {title = What can Coworker Chat do?}
   {description = Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.}
   {cta = Watch}
@@ -88,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" title="Coworker チャットでは何ができますか？" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Coworker チャットでは何ができますか？"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Coworker チャットでは何ができますか？" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Coworker チャットでは何ができますか？"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker チャットでは何ができますか？">Coworker Chatで何ができますか？</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Coworker チャットでは何ができますか？">Coworker Chatで何ができますか？</a>
                     </p>
                     <p class="is-size-6">Coworker チャットで対話型インターフェイスを使用して、アドビと接続されたシステムをまたいでカスタマーエクスペリエンスの作業を数分で計画、実行、完了する方法について説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
