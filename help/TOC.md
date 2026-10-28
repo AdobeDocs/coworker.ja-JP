@@ -6,7 +6,7 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 15%
@@ -19,7 +19,7 @@ ht-degree: 15%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -49,7 +49,7 @@ ht-degree: 15%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -99,11 +99,11 @@ ht-degree: 15%
   - [プロンプトのベストプラクティス](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA メタデータ](./coworker-for-teams/c2pa-metadata.md)
   - コネクタ {#connectors}
-    - {hide-from-toc}[Databricks](./coworker-for-teams/connectors/databricks.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
-    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [リリースノート](./coworker-for-teams/release-notes.md)
 - その他のリソース {#more-resources}
   - [ドキュメントの更新](./more-resources/documentation-updates.md)
