@@ -50,7 +50,7 @@ Coworkerを使用したプロジェクトの移行は、Adobe Analytics ユー�
 
 Coworkerでプロジェクトを移行するには、次のものが必要です。
 
-* Adobe Analytics MCPへのアクセス。 コンポーネント移行ツールは、Adobe Analytics MCP アクセス権を持つお客様に対して自動的に有効になります。 [!UICONTROL **aa-mcp**]&#x200B;が接続されていることを確認するには、[同僚チャット ](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
+* Adobe Analytics MCPへのアクセス。 コンポーネント移行ツールは、Adobe Analytics MCP アクセス権を持つお客様に対して自動的に有効になります。 [!UICONTROL **aa-mcp**]&#x200B;が接続されていることを確認するには、[同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 
 * Adobe Analytics管理者権限、またはAdmin Consoleの&#x200B;[!UICONTROL **Component Migration**]&#x200B;権限。 管理者である必要はありません。
 
@@ -83,7 +83,7 @@ Workfrontでは、プロジェクトとその関連コンポーネントが常�
 
 Customer Journey Analyticsにすでに存在するコンポーネントは再作成されないので、両方の方法を使用できます。 例えば、最初に最も重要なプロジェクトを移行し、残りのコンポーネントをすべて移行します。 Customer Journey Analyticsの内容に基づいて開始する場所を選択します。
 
-* Customer Journey Analyticsでプロジェクトのパネルとビジュアライゼーションを保持する場合は、**プロジェクトを移行**&#x200B;します。 [ プロジェクトから開始](#start-from-a-project)を参照してください。
+* Customer Journey Analyticsでプロジェクトのパネルとビジュアライゼーションを保持する場合は、**プロジェクトを移行**&#x200B;します。 [&#x200B; プロジェクトから開始](#start-from-a-project)を参照してください。
 * **Customer Journey Analyticsでセグメント、計算指標、日付範囲などのコンポーネントを必要としているが、それらを使用するプロジェクトを必要としない場合は、特定のコンポーネント**&#x200B;を移行します。 たとえば、Customer Journey Analyticsで、新しいプロジェクトを構築する場合に、そのプロジェクトを含めることを計画します。 [特定のコンポーネントから開始](#start-from-specific-components)を参照してください。
 
 ### プロジェクトから開始
@@ -109,7 +109,7 @@ Customer Journey Analyticsにすでに存在するコンポーネントは再作
    | オプション | 説明 |
    | --- | --- |
    | [!UICONTROL **特定のAA プロジェクト**] | 名前を付けたプロジェクトを移行します。 このセクションの残りの手順に従います。 |
-   | [!UICONTROL **マッピングのレビューのみ**] | レポートスイートの指標とディメンションが、何も移行することなく、データビューにどのようにマッピングされるかを確認します。 移行する前に、[ レポートスイートのマッピングを確認する](#review-report-suite-mappings-before-you-migrate)を参照してください。 |
+   | [!UICONTROL **マッピングのレビューのみ**] | レポートスイートの指標とディメンションが、何も移行することなく、データビューにどのようにマッピングされるかを確認します。 移行する前に、[&#x200B; レポートスイートのマッピングを確認する](#review-report-suite-mappings-before-you-migrate)を参照してください。 |
    | [!UICONTROL **完全なアップグレードの計画**] | Adobe Adobe AnalyticsからCustomer Journey Analyticsへの移行プランをエンドツーエンドでご確認ください。 [同僚との実装計画](/help/chat/use-cases/data-insights/implementation-guide.md)を参照してください。 |
 
 1. （オプション）「[!UICONTROL **Sourceとターゲット**]」タブの質問に答え、「[!UICONTROL **次へ**]」を選択します。
@@ -163,7 +163,7 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
 
 * **自動的にマッピングできないディメンションまたは指標：**&#x200B;同僚は、データビューでディメンションまたは指標を提案してマッピングし、マッピングを更新した後、プロジェクトを再度検証します。 また、「ページビューをweb.webPageDetails.pageViews.valueにマッピング」など、マッピングするディメンションや指標をCoworkerに指定することもできます。
 
-* **サポートされていない要素：** Adobe Analyticsのプロジェクトからサポートされていない要素を削除します。 例えば、すべてのパネルで、仮想レポートスイートではなく基本レポートスイートを使用するようにします。 次に、同僚にプロジェクトをもう一度確認するように依頼します。 サポートされていない要素の一覧については、Adobe Analytics ドキュメントの[ エラーの原因となるサポートされていない要素について](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)を参照してください。
+* **サポートされていない要素：** Adobe Analyticsのプロジェクトからサポートされていない要素を削除します。 例えば、すべてのパネルで、仮想レポートスイートではなく基本レポートスイートを使用するようにします。 次に、同僚にプロジェクトをもう一度確認するように依頼します。 サポートされていない要素の一覧については、Adobe Analytics ドキュメントの[&#x200B; エラーの原因となるサポートされていない要素について](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors)を参照してください。
 
 移行する前にレポートスイート全体のマッピングを確認するには、[移行する前にレポートスイートのマッピングを確認する](#review-report-suite-mappings-before-you-migrate)を参照してください。
 
@@ -200,7 +200,7 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
 
 1. 移行が完了したら、Customer Journey Analytics Workspaceのプロジェクトリストから新しいプロジェクトを開きます。
 
-1. （オプション）Customer Journey Analyticsの任意のユーザーにプロジェクトの所有権を転送します。 詳しくは、[ アセットの転送](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)を参照してください。
+1. （オプション）Customer Journey Analyticsの任意のユーザーにプロジェクトの所有権を転送します。 詳しくは、[&#x200B; アセットの転送](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets)を参照してください。
 
 移行が完了したら、次に移行する別のプロジェクトを同僚から提案できます。
 
@@ -212,4 +212,4 @@ Coworkerは、選択したデータビューに対してプロジェクトを検
 ## 次の手順
 
 * 代わりにAdobe Analytics ユーザーインターフェイスでプロジェクトを移行するには、Adobe Analytics ドキュメントの「[Adobe AnalyticsからCustomer Journey Analyticsへのコンポーネントとプロジェクトの移行](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration)」を参照してください。
-* その他の実装と管理の使用例については、[ インテリジェント実装と管理の概要](/help/chat/use-cases/data-insights/data-governance-and-validation.md)を参照してください。
+* その他の実装と管理の使用例については、[&#x200B; インテリジェント実装と管理の概要](/help/chat/use-cases/data-insights/data-governance-and-validation.md)を参照してください。
