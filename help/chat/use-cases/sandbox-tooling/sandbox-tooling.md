@@ -19,7 +19,7 @@ ht-degree: 5%
 
 サンドボックスツール エージェンティックスキルを使用して、自然言語で達成したい目標を記述することで、Adobe Experience Platform環境全体でサポートされているオブジェクトタイプを移動します。 Coworkerを使用すると、必要なメタデータの検索、依存関係の自動特定、移行パッケージの作成、オブジェクトの移行を会話型エクスペリエンスで行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496709?captions=jpn&learn=on)
 
 ## 前提条件 {#prerequisites}
 
