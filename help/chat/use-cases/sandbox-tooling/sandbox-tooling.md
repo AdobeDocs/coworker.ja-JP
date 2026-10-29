@@ -1,10 +1,10 @@
 ---
 title: サンドボックスツールのエージェント型スキル
 description: サンドボックスツールのエージェント型スキルを使用して、サンドボックス環境全体でオブジェクトメタデータをレプリケートする方法を説明します。
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 8e60434a3ede23f916aa57667d1cec9186386e61
 workflow-type: tm+mt
-source-wordcount: '719'
-ht-degree: 1%
+source-wordcount: '776'
+ht-degree: 5%
 ---
 
 # エージェント型スキルのサンドボックスツール
@@ -17,13 +17,9 @@ ht-degree: 1%
 >
 >**Manage-package**：この権限を使用すると、サンドボックスツールのエージェント型スキルを使用して、Coworkerで直接パッケージを作成できます。
 
->[!NOTE]
->
->現在、Sandbox Tooling Agentic Skillsを使用して、スキーマとオーディエンスオブジェクトを検索、パッケージ化、移行することができます。 追加のオブジェクトタイプのサポートは、今後のリリースで追加される予定です。
+サンドボックスツール エージェンティックスキルを使用して、自然言語で達成したい目標を記述することで、Adobe Experience Platform環境全体でサポートされているオブジェクトタイプを移動します。 Coworkerを使用すると、必要なメタデータの検索、依存関係の自動特定、移行パッケージの作成、オブジェクトの移行を会話型エクスペリエンスで行うことができます。
 
-サンドボックスツール エージェンティックスキルを使用して、Adobe Experience Platform環境全体でオブジェクトのメタデータ（スキーマやオーディエンスを含む）を移動し、自然言語で達成したい目標を記述します。 CX Coworkerを使用すれば、必要なメタデータの検索、依存関係の自動特定、移行パッケージの作成、オブジェクトの移行を会話型のエクスペリエンスを通じて行うことができます。
-
->[!VIDEO](https://video.tv.adobe.com/v/3496709?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
 
 ## 前提条件 {#prerequisites}
 
@@ -31,13 +27,13 @@ ht-degree: 1%
 
 - 適切な組織やサンドボックスにAdobe Experience Platformからアクセスできます。
 - 検出または移行するオブジェクトへのアクセス。
-- CX CoworkerにインストールされたAdobe CXO プラグイン。
+- CoworkerにインストールされたAdobe CXO プラグイン。
 
-プラグインのインストール手順については、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+プラグインのインストール手順については、[Coworker UI ガイド ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## エージェント型スキルのサンドボックスツールの使用 {#use-sandbox-tooling-agentic-skills}
 
-CX Coworkerを通じて、自然言語を使用してサンドボックスツールのエージェント型スキルを操作します。 目標をできるだけ明確に記述する： 特定のリクエストは最も優れた結果を生み出します。一方、プロンプトが曖昧であったり過剰に短かったりすると、質の低い結果が返されたり、エージェントが呼び出されないことがあります。
+自然言語を使用して、Coworkerを通じてサンドボックスツールのエージェント型スキルを操作します。 目標をできるだけ明確に記述する： 特定のリクエストは最も優れた結果を生み出します。一方、プロンプトが曖昧であったり過剰に短かったりすると、質の低い結果が返されたり、エージェントが呼び出されないことがあります。
 
 サンドボックスツールのエージェント型スキルを使用するには：
 
@@ -52,7 +48,7 @@ CX Coworkerを通じて、自然言語を使用してサンドボックスツー
 
 1. 移行する1つ以上のオブジェクトを選択し、**[!UICONTROL 送信]**&#x200B;を選択します。
 
-   送信を強調表示する![&#x200B; オブジェクト選択ページ。](./assets/sandbox-tooling/object-selection.png)
+   送信を強調表示する![ オブジェクト選択ページ。](./assets/sandbox-tooling/object-selection.png)
 
 1. エージェントが操作アクションを識別するオブジェクトと依存関係を確認し、*新規作成*&#x200B;または&#x200B;*既存の*&#x200B;を使用します。 移行を開始する準備ができたら、**[!UICONTROL 続行]**&#x200B;を選択し、**[!UICONTROL 送信]**&#x200B;を選択して確認します。 移行が完了するまでに数分かかる場合があります。
 
@@ -60,9 +56,9 @@ CX Coworkerを通じて、自然言語を使用してサンドボックスツー
 
 1. 移行が完了すると、選択したオブジェクトがターゲットサンドボックスで使用できるようになります。
 
-   ![&#x200B; リクエストの状態を示す転送の完了ページ。](./assets/sandbox-tooling/transfer-complete.png)
+   ![ リクエストの状態を示す転送の完了ページ。](./assets/sandbox-tooling/transfer-complete.png)
 
-CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
+Coworkerの使用について詳しくは、[Coworker UI ガイド ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide)を参照してください。
 
 ## サポートされるユースケース {#supported-use-cases}
 
@@ -72,11 +68,23 @@ CX Coworkerの使用について詳しくは、[Coworker UI ガイド &#x200B;](
 
 複数のAdobe Experience Platform サンドボックスを管理するサンドボックス管理者は、ユーザーインターフェイスを手動で移動する代わりに、自然言語リクエストを使用してオブジェクトメタデータを移行できます。
 
-CX Coworkerを使用すると、自然言語で移行を記述することで、スキーマ、オーディエンス、関連する設定アセットなどのオブジェクトメタデータをサンドボックス間で移行できます。 サンドボックスツール エージェンティックスキルは、必要な依存関係を自動的に特定してパッケージ化し、信頼性の高い移行を実現するのに役立ちます。
+Coworkerを使用すると、サポートされているAdobe Experience Platform オブジェクトと関連するメタデータを、あるサンドボックスから別のサンドボックスに自然言語で移行できます。 サンドボックスツール エージェンティックスキルは、依存関係を自動的に識別し、必要なオブジェクトをパッケージ化し、環境間で信頼性の高い移行を確実に行うのに役立ちます。
 
 次に例を示します。
 
 - 「スキーマ Luma Loyalty Members Platinumを現在のサンドボックスから実稼動サンドボックスに移動します。」
+
+### 複数のサンドボックスへのオブジェクトの昇格（Beta）
+
+>[!NOTE]
+>
+>マルチサンドボックス管理は現在Betaにあり、スキーマとデータセットのみをサポートしています。
+
+サンドボックス管理者は、1つのワークフローで、ソースサンドボックスから複数のターゲットサンドボックスにサポート対象オブジェクトを昇格できます。 各サンドボックスにパッケージを個別に読み込むのではなく、Coworkerを使用してターゲットサンドボックスを選択し、提案された変更を確認し、環境全体で一貫性のある設定をデプロイします。 マルチサンドボックス管理では、依存関係を自動的に解決し、変更のプレビューをプロモーションの開始前に表示します。
+
+次に例を示します。
+
+- 「地域のすべてのサンドボックスにロイヤルティメンバースキーマを宣伝する」
 
 ### サンドボックス間でのオーディエンスのプロモーション
 
@@ -108,5 +116,5 @@ CX Coworkerを使用すると、自然言語で移行を記述することで、
 
 このガイドでは、サンドボックスツールのエージェント型スキルを使用して、サポートされているオブジェクトをサンドボックス間で検索、パッケージ化、移行する方法を説明します。
 
-サンドボックスツールについて詳しくは、[&#x200B; サンドボックスツールガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/sandbox/ui/sandbox-tooling)を参照してください。
+サンドボックスツールについて詳しくは、[ サンドボックスツールガイド ](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling)を参照してください。
 
