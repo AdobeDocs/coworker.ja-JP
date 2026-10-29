@@ -178,4 +178,4 @@ AIが関連性の高いコンテンツを生成できるように、コンテキ
 
 >[!MORELIKETHIS]
 >
->グループ版Coworkerの[ プロンプトパターン ](use-cases.md)を参照します。
+>グループ版Coworkerの[&#x200B; プロンプトパターン &#x200B;](use-cases.md)を参照します。
