@@ -11,7 +11,7 @@ ht-degree: 4%
 ---
 # 同僚とのチャットによるデータ分析を始める
 
-Adobe Adobe CX Enterprise Coworker Chatを設定して、Customer Journey Analytics データビューやAdobe Analytics レポートスイートを分析し、次に実際の例を示します。 ユースケース、スキル、ベストプラクティスなど、Coworker Chatで実行できる操作の概要については、[Coworker Chatを使用したデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。 代わりにCustomer Journey Analytics Analysis WorkspaceのチャットパネルでCoworkerを使用するには、Customer Journey Analytics ガイドの[Coworkerの製品内エクスペリエンスの使用](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker)を参照してください。
+Adobe Adobe CX Enterprise Coworker Chatを設定して、Customer Journey Analytics データビューやAdobe Analytics レポートスイートを分析し、次に実際の例を示します。 ユースケース、スキル、ベストプラクティスなど、Coworker Chatで実行できる操作の概要については、[Coworker Chatを使用したデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。 代わりにCustomer Journey Analytics Analysis WorkspaceのチャットパネルでCoworkerを使用するには、Customer Journey Analytics ガイドの[Coworkerの製品内エクスペリエンスの使用](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/coworker)を参照してください。
 
 開始する前に、Coworker Chatのインターフェイスとカスタマイズオプションについて説明し、CoworkerがCustomer Journey AnalyticsまたはAdobe Analyticsと関連するデータビューまたはレポートスイートに接続されていることを確認します。
 
@@ -335,7 +335,7 @@ Workfrontでビジュアライゼーションを作成した後、Analysis Works
 
 1. （オプション）任意のユーザーとWorkspace プロジェクトを共有します。
 
-   Analysis Workspaceについて詳しくは、Customer Journey Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)またはAdobe Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home)を参照してください。
+   Analysis Workspaceについて詳しくは、Customer Journey Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/home)またはAdobe Analytics ドキュメントの[Analysis Workspaceの概要](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/home)を参照してください。
 
 ## 次の手順
 
