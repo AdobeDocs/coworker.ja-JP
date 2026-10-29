@@ -10,10 +10,7 @@ description: '[最初のもの]、[2番目のもの]、[3番目のもの]に共�
 
 role: User
 level: Beginner
-product_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
+source-git-commit: c09dfe88658fddb1e0ebc371c1d22f13662aebce
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 4%

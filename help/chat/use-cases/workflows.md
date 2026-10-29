@@ -3,10 +3,10 @@ description: データインサイト、オーディエンス、ジャーニー�
 title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
-source-wordcount: '8510'
+source-wordcount: '8566'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -119,6 +119,7 @@ ht-degree: 8%
 | エグゼクティブサマリーとKPI ダイジェスト | 関係者に提供可能なパフォーマンスの要約、処方レコメンデーション、スライドデッキの概要を作成します | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先月のエグゼクティブサマリーを教えてください」 <br> 「今四半期のデータからスライドデッキの概要を作成してください」 |
 | [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) （利用制限あり） | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
 | [AA ↔ CJA データ検証](data-insights/data-validation-aa-cja.md) | 特にAdobe AnalyticsからCustomer Journey Analyticsにアップグレードする場合は、Adobe AnalyticsとCustomer Journey Analytics間でデータを比較、監査、調整できます | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | 「AA レポートスイートとCJA データビューの比較」 <br> 「AAとCJA間のページビューの検証」 |
+| [AA プロジェクトをCJAに移行](data-insights/migrate-projects-aa-cja.md) （利用制限あり） | Adobe Analytics プロジェクトとその関連コンポーネントをCustomer Journey Analyticsに検証、マッピング、および移行し、移行ステータス <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. -->を確認します | なし<br/> （`aa-mcp`統合を使用） | ADOBE ANALYTICS + CJA | 「コンポーネントをAAからCJAに移行したい」 <br> 「レポートスイートのどのディメンションと指標がデータビューにマッピングされていないか？」 |
 | [&#x200B; データセットとフィールドの品質を検証](data-insights/data-validation-aep.md) | Experience Platform データセットとフィールドに対して統計的およびセマンティック検証を実行し、実装後または継続的にデータ品質の問題を検出します<!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | 「データセット Electronics サンプル 1000の検証」 <br> 「Customers_2024 データセットの電子メールフィールドの検証」 |
 | 運用時系列と因果関係分析 | オーディエンス、データセット、ジャーニーに関する過去の時系列データを、因果関係アトリビューションでクエリ、分析します | `operational-stats-causal-analysis` | すべての対象アプリケーション | 「過去90日間のオーディエンスサイズの傾向を表示」 <br> 「データセットの行数が3月3日に急増した理由を教えてください。」 |
 | CJAのカスタムスキルの作成 | 分析パターンを、セッションをまたいで保持される、再利用可能で反復可能なスキルに変換します | `cja-skill-creator` | Customer Journey Analytics（CJA） | 「この週次売上分析を再利用可能なスキルに変換」 <br> 「これを月次funnel レポートのスキルとして保存」 |

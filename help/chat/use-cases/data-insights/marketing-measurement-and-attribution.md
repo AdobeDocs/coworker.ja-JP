@@ -3,8 +3,8 @@ title: Adobe Workfrontでマーケティングの影響とアトリビューシ�
 description: Adobe Workfront Chatを使用して、各チャネルの増分効果の測定、支出が飽和状態になる場所の特定、What-if予算シナリオの構築、マーケティングモデルの品質のチェックを行います。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 2%

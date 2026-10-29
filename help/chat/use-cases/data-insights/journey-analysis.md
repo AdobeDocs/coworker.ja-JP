@@ -3,8 +3,8 @@ title: Workfrontで顧客ジャーニーと離脱を分析
 description: Adobe Customer Journey Analyticsの共同作業チャット機能を利用すれば、セールスファネルの構築、顧客の離脱の原因の特定、コンバージョンの低下の診断、分析データを通じたジャーニーの比較などをおこなえます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%

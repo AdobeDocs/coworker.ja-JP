@@ -3,8 +3,8 @@ title: CX Enterprise Coworker リリースノート
 description: Coworker for teamsやExperience Cloudのリリースノートなど、Adobe CX Enterprise Coworkerのリリースノートをご確認ください。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%

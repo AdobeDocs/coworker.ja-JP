@@ -5,7 +5,7 @@ jira: KT-22913
 last-substantial-update: '2026-10-16T00:00:00.000Z'
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
   - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
     internal-label: Experience Platform
 feature_v2:
@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 0a9cfeaf54221e004e0422766f8bd1bb4d078dea
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%

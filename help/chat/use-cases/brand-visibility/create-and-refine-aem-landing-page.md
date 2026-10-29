@@ -1,5 +1,5 @@
 ---
-title: Adobe AEMのランディングページを制作、改善する方法
+title: Adobe AEMのランディングページを共同作業者で作成、調整する
 description: Adobe CX Enterprise Coworkerを利用して、キャンペーン概要をドラフトのランディングページに変換する方法を説明します。
 version: Experience Manager as a Cloud Service
 role: Leader, User, Developer
@@ -9,7 +9,7 @@ duration: 360
 last-substantial-update: 2026-10-23
 jira: KT-22900
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

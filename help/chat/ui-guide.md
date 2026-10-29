@@ -4,8 +4,8 @@ title: 同僚とのチャットを始める
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%

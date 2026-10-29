@@ -3,11 +3,8 @@ title: Adobe CX Enterprise CoworkerのAI基盤
 description: Adobe CX Enterprise CoworkerのAI基盤について詳しく見る。 サポートされているプラットフォーム、設定の手順、プロンプトの例などを確認し、マーケティングインサイトを入手できます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: cc2d5256952ce20cda57f7274a5dc1d879d4a6a0
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1011'
 ht-degree: 2%

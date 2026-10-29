@@ -3,8 +3,8 @@ title: 同僚とのチャットによるコンテンツに関する質問
 description: 一般的なコンテンツから具体的なコンテンツまで、平易な言葉でCoworker Chatにコンテンツについて質問すると、アナリストの専門知識がなくても正確なContent Analyticsの回答を得ることができます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 3%

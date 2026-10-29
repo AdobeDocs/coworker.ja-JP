@@ -3,8 +3,8 @@ description: Adobe CX Enterprise Coworker グループ版リリースノート�
 title: CX Enterprise Coworker グループ版リリースノート
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '4474'
 ht-degree: 0%

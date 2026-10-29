@@ -3,10 +3,10 @@ title: CX Enterprise Coworker ドキュメントの更新
 description: CX Enterprise Coworker ドキュメントの新しい更新された記事とビデオを参照してください。 最新の追加機能を見つけるには、もう一度確認してください。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # ドキュメントの更新 {#documentation-updates}
@@ -14,6 +14,12 @@ ht-degree: 0%
 このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート &#x200B;](../coworker-for-teams/release-notes.md)を参照してください。
 
 ## 2026年10月 {#oct-2026}
+
+<!-- FLAG: Update the date to the publish date of the migration article. Rollout and GA dates are TBD. -->
+
+**2026年10月28日**
+
+* 新規：[Adobe Analytics プロジェクトをCustomer Journey Analyticsに移行](../chat/use-cases/data-insights/migrate-projects-aa-cja.md)
 
 **2026年10月26日**
 

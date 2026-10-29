@@ -3,8 +3,8 @@ description: プロンプトの作成からキャンペーンのレビューや�
 title: メールキャンペーンの作成
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 0%

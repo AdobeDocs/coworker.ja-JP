@@ -3,15 +3,15 @@ description: Marketoのスマートリストと静的リストを同期できる
 title: Marketo Engageに接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '315'
 ht-degree: 0%
 ---
 # Marketo Engageに接続 {#marketo}
 
-Adobe Workfront for teamsを利用すれば、Marketo Engageアカウントを接続して、スマートリストと静的リストを取得できます。
+Coworker for teamsを使用すると、Marketo Engageアカウントを接続して、スマートリストと静的リストを取得できます。
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ Adobe Workfront for teamsを利用すれば、Marketo Engageアカウントを�
 >
 >* アクティブなMarketo Engage アカウント
 >* Marketo **インスタンス URL**
->* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1)がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)が手元にあります
+>* [&#x200B; カスタムサービス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"}がMarketoのチーム用に作成され、その[&#x200B; クライアント IDとクライアントシークレット &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}が手元にあります
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
    ![&#x200B; チームの同僚は、コンテキストが展開され、コネクタが強調表示されたナビゲーションを残しました](./assets/marketo-1.png)
 

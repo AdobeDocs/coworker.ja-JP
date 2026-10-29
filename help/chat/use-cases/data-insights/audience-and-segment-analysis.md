@@ -3,8 +3,8 @@ title: Adobe Workfrontの共同作業チャットによる、オーディエン�
 description: Adobe Customer Journey Analyticsのコラボレーションチャット機能を利用すれば、顧客グループの比較、見落とされていた成長機会の発見、オーディエンスの傾向の追跡、インサイトの活用が可能なオーディエンスに変わります。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 2%

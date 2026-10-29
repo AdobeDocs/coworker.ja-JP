@@ -3,26 +3,26 @@ description: HubSpot アカウントをCoworker for teamsに接続し、サー�
 title: HubSpotへの接続
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # HubSpotへの接続 {#hubspot}
 
-Adobe Coworker for teamsを使用すると、HubSpot アカウントを接続して連絡先リストを取得できます。
+Coworker for teamsを使用すると、HubSpot アカウントを接続して連絡先リストを取得できます。
 
 >[!PREREQUISITES]
 >
 >このコネクタを使用するには、まず次の要素が必要です。
 >
 >* アクティブなHubSpot アカウント
->* 次のスコープで作成された[&#x200B; サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key)が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
+>* 次のスコープで作成された[&#x200B; サービスキー](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"}が追加されました：`crm.objects.contacts.read`、`crm.objects.leads.read`、`crm.schemas.contacts.read`、`crm.lists.read`、`crm.export`
 
 ## つながる方法
 
-1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/)で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
+1. [Coworker for teamsのホームページ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}で、**Context**&#x200B;をクリックし、**Connectors**&#x200B;を選択します。
 
    ![&#x200B; コネクタを選択した状態でサイドバーに展開されたカスタマイズメニュー](./assets/hubspot-1.png)
 

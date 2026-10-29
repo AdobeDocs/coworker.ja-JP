@@ -5,8 +5,8 @@ role: Admin,User,Developer,Leader
 level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5010d5a705f7a42552961be80bdea758d21dc8ff
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 1%

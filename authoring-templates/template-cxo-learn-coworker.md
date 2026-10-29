@@ -1,32 +1,16 @@
 ---
-# TEMPLATE ONLY. Delete this line and the "hide" line below when you copy this file.
 hide: true
-
-# TITLE AND DESCRIPTION
-# Title: use the pattern "CX Enterprise Coworker in [Product]". Title case, 60 characters or fewer. Product acronyms are accepted here to reduce length. Remember, the full product name is repeated after the pipe.
-# Description: one or two sentences, about 150-160 characters. Name two or three things the reader can do in the product.
 title: '[Product]のCX Enterprise Coworker'
 description: Coworkerの会話型AIが、[1つ目]、[2つ目]、[製品]でさらに多くのことを達成するのにどのように役立つのかをご確認ください。
-
-# Optional. Add the product version if the product has one, for example "Experience Manager as a Cloud Service". Otherwise delete this line.
-# version: [Product version]
-
-# LANDING PAGE FIELDS
 role: Leader, User, Developer, Admin
 level: Beginner
 doc-type: Catalog
 duration: 0
-last-substantial-update: 2026-01-01
+last-substantial-update: '2026-01-01T00:00:00.000Z'
 nudge: true
-
-# Do not add a TQID line. The publishing system adds it.
-
-# PRODUCT AND TAGGING FIELDS
-# Keep the Coworker entry. Add an entry for the host product (for example Experience Manager, Analytics, or Journey Optimizer) using its product ID and label.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-# Keep role_v2 in sync with role, and level_v2 in sync with level. Remove the roles and levels that do not apply.
+    internal-label: Coworker
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
@@ -42,7 +26,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 3973c523ef81e79fee31d9c9a2b36e397d1db153
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 22%

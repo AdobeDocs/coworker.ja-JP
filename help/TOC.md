@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '326'
 ht-degree: 15%
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 15%
         - [Adobe Experience Manager Sites導入計画](./chat/use-cases/data-insights/implementation-guide.md)
         - [実装チェックリストの生成](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [AA プロジェクトのCJAへの移行](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [ストリーミングメディア実装の検証](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -98,9 +99,11 @@ ht-degree: 15%
   - [プロンプトのベストプラクティス](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA メタデータ](./coworker-for-teams/c2pa-metadata.md)
   - コネクタ {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [リリースノート](./coworker-for-teams/release-notes.md)
 - その他のリソース {#more-resources}
   - [ドキュメントの更新](./more-resources/documentation-updates.md)

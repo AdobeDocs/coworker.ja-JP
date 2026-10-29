@@ -3,8 +3,8 @@ title: Coworker ChatでビジネスパフォーマンスとKPIを分析
 description: Adobe Customer Journey Analyticsなら、同僚とのチャットを通じて指標の変化を把握し、今後の展望を予測できます。また、パフォーマンスレビューを実施し、リピート分析を優れたスキルに転換することができます。
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%
