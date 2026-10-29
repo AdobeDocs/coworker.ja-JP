@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
 workflow-type: tm+mt
-source-wordcount: '8566'
+source-wordcount: '8673'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -48,6 +48,8 @@ ht-degree: 8%
 | Cloud Manager環境の管理 | RDE、環境変数、ログ、バックアップなどのAEM Cloud Manager環境を作成、設定、管理します | `cloud-manager-environment-management` | Adobe Experience Manager（AEM） | &quot;プログラム 12345の環境を一覧表示&quot;<br><br>&quot;RDEをリセット&quot; |
 | Cloud Manager プログラムの管理 | パイプラインと環境を含むAEM Cloud Manager プログラムの一覧表示、検査、削除 | `cloud-manager-program-management` | Adobe Experience Manager（AEM） | 「自分のCloud Manager プログラムを一覧表示」 <br><br> 「プログラム 12345の詳細を表示」 |
 | AEM リリースアップデートスケジュールの管理 | 自動メンテナンス用に毎日のサイレントアワーとアップデート不要の期間を設定し、Adobeのグローバルコードフリーズウィンドウを表示します | `cloud-manager-release-management` | Adobe Experience Manager（AEM） | 「現在の休眠時間枠は何ですか？」 <br><br> 「12月20日から1月2日までの更新料無料の期間をスケジュールする」 |
+| AEM ワークフローの調査 | ワークフローのアクティビティで、実行中、中断、失敗を確認します。 ワークフローの受信トレイを確認し、利用可能なワークフローモデルを参照します。 | `cloud-manager-release-management` | Adobe Experience Manager（AEM） | 「現在実行中のワークフローはどれですか？」 <br><br> 「実行中または中断されているワークフローでエラーが表示されていますか？」 <br><br> 「ワークフローの受信トレイに何が入っていますか？」 |
+| Dispatcherのインサイトについて詳しく見る | ログファイルを手動で検索することなく、キャッシュのパフォーマンスを分析し、トラフィックと配信の問題を調査し、Dispatcherのセキュリティ設定を確認します。 | `aem-edge-dispatcher-operations` | Adobe Experience Manager（AEM） | 「本番環境のDispatcher キャッシュのパフォーマンスを今日まとめて、昨日と比較する」 <br><br> 「本番環境の10:00 ～ 11:00 UTCの間の断続的な502および503の応答を調査する」 <br><br> 「セキュリティの脆弱性について共有したDispatcherの設定を確認する」 |
 
 **関連情報**
 
