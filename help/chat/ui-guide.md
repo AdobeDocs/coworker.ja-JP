@@ -5,7 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 
 ## 対象
 
-[!DNL Coworker] [!UICONTROL &#x200B; チャット &#x200B;]は、一部[!DNL CX Enterprise]個のアプリケーションで、没入型エクスペリエンス、ページ全体ワークスペース、製品内エクスペリエンスとして利用できます。
+[!DNL Coworker] [!UICONTROL  チャット ]は、一部[!DNL CX Enterprise]個のアプリケーションで、没入型エクスペリエンス、ページ全体ワークスペース、製品内エクスペリエンスとして利用できます。
 
 次の表に、各エクスペリエンスの利用場所を示します。
 
@@ -24,7 +24,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 |---|---|---|
 | Real-Time CDP | 今すぐ利用可能 | 近日リリース予定 |
 | Adobe Journey Optimizer | 今すぐ利用可能 | 近日リリース予定 |
-| Customer Journey Analytics | 今すぐ利用可能 | 近日リリース予定 |
+| Customer Journey Analytics | 今すぐ利用可能 | 今すぐ利用可能 |
 | Workfront | 今すぐ利用可能 | 今すぐ利用可能 |
 | Target | 今すぐ利用可能 | 今すぐ利用可能 |
 | AEM | 今すぐ利用可能 | 今すぐ利用可能 |
@@ -34,11 +34,11 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 
 Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
-1. [Adobe IDを使用して](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
+1. [Adobe IDを使用して](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
 
    ログイン後、[!DNL CX Enterprise] アプリケーションメニューから、または直接リンクを使用して[!DNL Coworker]を開くことができます。
 
-   * [!DNL CX Enterprise]内から、アプリケーションセレクターメニュー![製品メニューアイコン &#x200B;](./assets/apps-icon.png)をクリックし、**[!DNL Coworker]**&#x200B;をクリックします。
+   * [!DNL CX Enterprise]内から、アプリケーションセレクターメニュー![製品メニューアイコン ](./assets/apps-icon.png)をクリックし、**[!DNL Coworker]**&#x200B;をクリックします。
 
    * 直接リンクを使用するには、[https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker)に移動します。
 
@@ -46,7 +46,7 @@ Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
 ## 同僚とのチャットの基本を学ぶ
 
->[!VIDEO](https://video.tv.adobe.com/v/3498568?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## 同僚の環境設定の指定 {#preferences}
 
@@ -57,12 +57,12 @@ Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 | 設定/ オプション | これを使用すると、次の操作を実行できます。 |
 | --- | --- |
 | アカウント名とメールアドレス | ログインしているAdobe アカウントを確認します。 |
-| **[!UICONTROL 通知]** （ベル アイコン） | [通知](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)を表示します。 |
+| **[!UICONTROL 通知]** （ベル アイコン） | [通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)を表示します。 |
 | **[!UICONTROL テーマ]** | 明るいテーマと暗いテーマを切り替えます。 |
 | **[!UICONTROL アプリ設定]** | アカウントの詳細とワークスペースの設定を表示します。 |
 | **[!UICONTROL 環境設定]** | アカウント [環境設定](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences)を開きます。 矢印は、ページが同僚の外で開くことを示します。 |
 | **[!UICONTROL 組織]** | 作業するIMS [組織](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/organizations)を選択します。 メニューには現在の組織が表示され、チェックマークはリスト内で選択した組織を識別します。 |
-| **[!UICONTROL サンドボックス]** | 作業するExperience Platform [&#x200B; サンドボックス &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/sandbox/home)を選択します。 メニューには、現在のサンドボックスとそのタイプ（例：**Prod**）が表示されます。 |
+| **[!UICONTROL サンドボックス]** | 作業するExperience Platform [ サンドボックス ](https://experienceleague.adobe.com/ja/docs/experience-platform/sandbox/home)を選択します。 メニューには、現在のサンドボックスとそのタイプ（例：**Prod**）が表示されます。 |
 | **[!UICONTROL CX アプリケーション]** | アカウントに接続されている別のCX Enterprise アプリケーションに移動します。 |
 | **[!UICONTROL ログアウト]** | Adobe アカウントからログアウトします。 |
 
@@ -72,17 +72,17 @@ Coworkerには、左側のナビゲーションパネルと、画面の残りの
 
 * ナビゲーションレール：
 
-  ![同僚の左ナビゲーション &#x200B;](./assets/get-started-left-navigation.png)
+  ![同僚の左ナビゲーション ](./assets/get-started-left-navigation.png)
 
 * チャットウィンドウ（**[!UICONTROL Chats]** ページを開いたときに表示）:
 
-  ![同僚チャット &#x200B;](./assets/get-started-canvas.png)
+  ![同僚チャット ](./assets/get-started-canvas.png)
 
 ナビゲーションパネルから、次の機能を使用して同僚とチャットし、最近の作業に戻ることができます。
 
 | オプション | これを使用すると、次の操作を実行できます。 |
 | --- | --- |
-| **[!UICONTROL 新しいチャット]** | 会話を始める。 [!UICONTROL 同僚チャット &#x200B;]は、現在のチャットを履歴に保存します。 |
+| **[!UICONTROL 新しいチャット]** | 会話を始める。 [!UICONTROL 同僚チャット ]は、現在のチャットを履歴に保存します。 |
 | **[!UICONTROL ホーム]** | 挨拶、入力ボックス、および提案されたプロンプトに戻ります。 |
 | **[!UICONTROL チャット]** | 過去の会話を検索、ピン留め、アーカイブ、削除できます。 |
 | **[!UICONTROL アーティファクト]** | 会話でCoworker Chatが作成したアーティファクトを開きます。 |
@@ -103,7 +103,7 @@ Coworkerのホームページでは、Coworker Chatがサンドボックスで�
    * **[!UICONTROL 自分に対して提案]**&#x200B;の下にあるプロンプトを選択します。 Coworker Chatは入力ボックスに入力ボックスを追加し、編集できるようにします。
    * 自分のリクエストを「**[!UICONTROL 同僚に質問]**」ボックスに入力します。
 
-1. （オプション）コンテキストを追加したり、同僚のチャットがどのように応答するかを選択したり、メッセージを指示したりします。 「[&#x200B; コンテキストを追加して応答スタイルを選択](#input-options)」を参照してください。
+1. （オプション）コンテキストを追加したり、同僚のチャットがどのように応答するかを選択したり、メッセージを指示したりします。 「[ コンテキストを追加して応答スタイルを選択](#input-options)」を参照してください。
 1. 「**[!UICONTROL 送信]**」をクリックします。
 
 >[!TIP]
@@ -205,14 +205,14 @@ Coworker Chatは機能しますが、その仕組みを追跡し、検証する�
 
 ## 同僚とのチャットのカスタマイズ
 
-[!UICONTROL &#x200B; カスタマイズ &#x200B;]は、[!UICONTROL 同僚チャット &#x200B;]の機能を制御する場所です。 ナビゲーションパネルで「**[!UICONTROL カスタマイズ]**」をクリックし、タブを選択します：**[!UICONTROL スキル]**、**[!UICONTROL 統合]**、**[!UICONTROL マーケットプレイス]**、**[!UICONTROL プラグイン]**、または&#x200B;**[!UICONTROL メモリ]**。
+[!UICONTROL  カスタマイズ ]は、[!UICONTROL 同僚チャット ]の機能を制御する場所です。 ナビゲーションパネルで「**[!UICONTROL カスタマイズ]**」をクリックし、タブを選択します：**[!UICONTROL スキル]**、**[!UICONTROL 統合]**、**[!UICONTROL マーケットプレイス]**、**[!UICONTROL プラグイン]**、または&#x200B;**[!UICONTROL メモリ]**。
 
 ### スキルの追加と表示
 
 スキルとは、Coworker Chatが該当する場合に自動的に使用する特殊な機能です。 チャットで&#x200B;**/**&#x200B;と入力して、自分でスキルを開始することもできます。 「**[!UICONTROL スキル]**」タブには、インストールされているすべてのスキルが一覧表示されます。
 
 1. 「**[!UICONTROL スキル]**」タブで、「**[!UICONTROL スキルを追加]**」をクリックして、新しいソースからスキルをインストールします。
-1. **[!UICONTROL 検索]**&#x200B;に名前を入力して、スキルを見つけます。
+1. **[!UICONTROL 検索]**に名前を入力して、スキルを見つけます。
 表示トグルを使用して、グリッド レイアウトとリスト レイアウトを切り替えます。
 1. スキルを選択すると、それが属するプラグイン、Coworker Chatが使用するプラグイン、およびそれが含まれるファイルが表示されます。
 
@@ -224,7 +224,7 @@ Server a integrationは、Coworker Chatを、Adobe Journey Optimizer、Real-Time
 
 1. **[!UICONTROL カスタマイズ]** > **[!UICONTROL ユーザー]** > **[!UICONTROL 統合]**&#x200B;に移動します
 
-   ![&#x200B; サーバーのタブ &#x200B;](./assets/get-started-customizations.png)
+   ![ サーバーのタブ ](./assets/get-started-customizations.png)
 
    「**[!UICONTROL 統合]**」タブには、接続されているサーバーとアクティブな接続数が一覧表示されます。 各カードには、サーバー名、そのエンドポイント、およびそれが提供するものを説明するタグが表示されます。
 
