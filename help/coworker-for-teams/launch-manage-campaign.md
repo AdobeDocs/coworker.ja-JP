@@ -4,7 +4,9 @@ title: キャンペーンの起動と管理
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
+    internal-label: Coworker for teams
+source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%
