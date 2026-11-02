@@ -25,4 +25,4 @@ ht-degree: 0%
 
 このビデオでは、Customer Journey Analytics データを使用しますが、Adobe Analytics レポートスイートのトレンドと根本原因も同じように調べることができます。 共同作業者は、データビューに`cja-root-cause-analysis` スキルを、レポートスイートに`aa-root-cause-analysis` スキルを使用します。 詳しくは、[同僚チャットによるデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496852/?captions=jpn&learn=on&enablevpops)
