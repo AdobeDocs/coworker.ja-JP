@@ -4,9 +4,9 @@ description: Adobe CX Enterprise Coworkerについて学びましょう。組織
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '1231'
+source-wordcount: '1233'
 ht-degree: 16%
 ---
 # CX Enterprise Coworkerの概要 {#overview}
@@ -36,6 +36,7 @@ Coworker Chatは、次のアプリケーションで利用できるようにな�
 * Real-Time CDP
 * Adobe Journey Optimizer
 * Customer Journey Analytics
+* Adobe Analytics
 * Adobe Target
 * AEM
 * Workfront

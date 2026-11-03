@@ -11,14 +11,14 @@ jira: KT-22080
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: e8af933a3be8a5a2a6a007c0bba8a0b2bc36bcb2
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 ---
 
 # CoworkerによるExperience Platformの健全性を評価し、自然言語からオーディエンスを構築
 
-通常、オーディエンス、ジャーニー、データセット、宛先がどのように接続しているかを監査することは、手作業による時間のかかる作業です。 このビデオでは、CoworkerがAdobe Experience Platform（AEP）環境の全体像を生成し、業界のベストプラクティスに照らしてベンチマークテストを実施し、その結果を活用して新しいオーディエンスを構築する方法を紹介します。
+通常、オーディエンス、ジャーニー、データセット、宛先がどのように接続しているかを監査することは、手作業による時間のかかる作業です。 このビデオでは、CoworkerがAdobe Experience Platform環境の全体像を生成し、業界のベストプラクティスに照らしてベンチマークテストを実施し、その結果を活用して新しいオーディエンスを構築する方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496868/?captions=jpn&learn=on&enablevpops)

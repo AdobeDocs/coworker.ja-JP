@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
+source-git-commit: 4d788223a7746bda4bb2913f19712c6fc6ab6be7
 workflow-type: tm+mt
-source-wordcount: '8673'
+source-wordcount: '8822'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -130,13 +130,17 @@ ht-degree: 8%
 
 | ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
-| [自然言語からオーディエンスを作成](audiences/create-audience-from-natural-language.md) | 各段階で利用者の承認を得て、ステップバイステップのオーディエンス作成を連携できます | `audience-creation-flow` | Real-Time CDP（RTCDP） | 「過去30日間に購入したユーザーのオーディエンスを作成」 <br> 「カリフォルニア州の価値の高いロイヤルティメンバー向けのセグメントを作成」 |
-| PQL定義の作成 | XDMのプロパティ、行動イベント、既存のオーディエンスからオーディエンス定義を組み立て、集計と時間ウィンドウをサポート | `segment-definition-assembly` | Real-Time CDP（RTCDP） | 「3つ以上の商品を閲覧したが購入しなかったユーザー向けにPQLを作成する」 <br> 「イベント条件に7日間の時間枠を追加する」 |
-| オーディエンスの検索と発見 | ID、名前、セマンティック検索でオーディエンスを検索し、重複を検出して重複を分析 | `audience-search` | Real-Time CDP（RTCDP） | 「すべてのロイヤルティオーディエンスを検索」 <br> 「ホリデーショッパーのセグメントが重複していますか？」 |
-| オーディエンスサイズの推定 | ポーリングを使用したAdobe Experience Platform Preview APIを使用して、PQL式のプロファイルリーチを推定します | `audience-size-estimate` | Real-Time CDP（RTCDP） | 「このオーディエンスの規模はどの程度ですか？」 <br> 「このPQL式のリーチを見積もる」 |
-| オーディエンスサイズのウォーターフォール | PQLをサブ述語に分解し、各条件が最終的なオーディエンスサイズにどのように影響するかを示します | `audience-size-waterfall` | Real-Time CDP（RTCDP） | 「このPQLのウォーターフォールを表示する」 <br> 「各条件でオーディエンスが減少する方法を分類する」 |
-| ターゲティング用のXDM フィールドの検索 | 名前、説明、データ値でフィールドを検索します。フィールドが存在する場所と、すでに使用されている場所を確認します | `field-discovery` | Real-Time CDP（RTCDP） | 「ロイヤルティ顧客のターゲティングに使用できるフィールドはどれですか？」 <br> 「購入履歴に関連するフィールドの検索」 |
-| オーディエンスの公開/保存 | 命名規則とコンプライアンスチェックを使用して、Experience Platform Segmentation Serviceにオーディエンス定義を保持します | `audience-publish` | Real-Time CDP（RTCDP） | 「これを下書きとして保存」 <br> 「名前が「Spring Sale Buyers」のオーディエンスを公開」 |
+| [自然言語からオーディエンスを作成](audiences/create-audience-from-natural-language.md) | 各段階で利用者の承認を得て、ステップバイステップのオーディエンス作成を連携できます。 これには、B2CとB2Bの両方のオーディエンスが含まれます。 | `audience-creation-flow` | Real-Time CDP | 「過去30日間に購入したユーザーのオーディエンスを作成」 <br> 「カリフォルニア州の価値の高いロイヤルティメンバー向けのセグメントを作成」 |
+| PQL定義の作成 | XDMのプロパティ、行動イベント、既存のオーディエンスからオーディエンス定義を組み立て、集計と時間ウィンドウをサポート | `segment-definition-assembly` | Real-Time CDP | 「3つ以上の商品を閲覧したが購入しなかったユーザー向けにPQLを作成する」 <br> 「イベント条件に7日間の時間枠を追加する」 |
+| オーディエンスの検索と発見 | ID、名前、セマンティック検索によるオーディエンスの検索、重複の検出および重複の分析、セグメント定義にもとづいたオーディエンスの検索 | `audience-search` | Real-Time CDP | 「すべてのロイヤルティオーディエンスを検索」 <br> 「ホリデーショッパーのオーディエンスが重複していますか？」 |
+| オーディエンスサイズの推定 | ポーリングを使用したAdobe Experience Platform Preview APIを使用して、PQL式のプロファイルリーチを推定します | `audience-size-estimate` | Real-Time CDP | 「このオーディエンスの規模はどの程度ですか？」 <br> 「このPQL式のリーチを見積もる」 |
+| オーディエンスサイズのウォーターフォール | PQLをサブ述語に分解し、各条件が最終的なオーディエンスサイズにどのように影響するかを示します | `audience-size-waterfall` | Real-Time CDP | 「このPQLのウォーターフォールを表示する」 <br> 「各条件でオーディエンスが減少する方法を分類する」 |
+| ターゲティング用のXDM フィールドの検索 | 名前、説明、データ値でフィールドを検索します。フィールドが存在する場所と、すでに使用されている場所を確認します | `field-discovery` | Real-Time CDP | 「ロイヤルティ顧客のターゲティングに使用できるフィールドはどれですか？」 <br> 「購入履歴に関連するフィールドの検索」 |
+| オーディエンスの公開/保存 | 命名規則とコンプライアンスチェックを使用して、Experience Platform Segmentation Serviceにオーディエンス定義を保持します | `audience-publish` | Real-Time CDP | 「これを下書きとして保存」 <br> 「名前が「Spring Sale Buyers」のオーディエンスを公開」 |
+| オーディエンスのインベントリ分布 | 現在のサンドボックスのオーディエンスインベントリに関する情報をダッシュボードとして取得します。これには、オーディエンスの合計数、オーディエンスのライフサイクル、オーディエンスの評価方法、作成傾向などの詳細が含まれます。 | `audience-inventory-distribution` | Real-Time CDP | 「オーディエンスの概要を教えてください」 <br> 「最も多くのオーディエンスを作成するのは誰ですか？」 |
+| オーディエンスインベントリの健全性 | アクティブ化率、古いオーディエンス、重複オーディエンス、クリーンアップ候補など、現在のサンドボックスのオーディエンスインベントリの正常性を確認します。 | `audience-inventory-health` | Real-Time CDP | 「オーディエンスのインベントリはどの程度健全ですか？」 <br> 「どのオーディエンスが古いのか？」 |
+| オーディエンス系列 | オーディエンスのリネージュを表示し、オーディエンスの上流と下流の両方の使用を表示します。 | `audience-lineage` | Real-Time CDP | 「ダウンストリームオーディエンスで使用されるオーディエンスを検索し、そのオーディエンスのリネージュ全体を確認できます。」 |
+| 重複オーディエンスの検出 | 組織内の重複したオーディエンスを発見。 | `detect-duplicate-audience` | Real-Time CDP | 「組織内の重複オーディエンスを見つける」 |
 
 ## ジャーニー
 

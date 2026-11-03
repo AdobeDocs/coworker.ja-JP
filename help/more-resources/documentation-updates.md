@@ -4,14 +4,20 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 1%
 ---
 # ドキュメントの更新 {#documentation-updates}
 
 このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート &#x200B;](../coworker-for-teams/release-notes.md)を参照してください。
+
+## 2026年11月 {#nov-2026}
+
+**2026年11月2日**
+
+* 更新：[CX Enterprise Coworkerの概要](../home.md)および[同僚チャットの基本を学ぶ](../chat/ui-guide.md)。 Adobe Analyticsは、Coworker Chatを利用できるアプリケーションとしてリストされるようになりました。
 
 ## 2026年10月 {#oct-2026}
 

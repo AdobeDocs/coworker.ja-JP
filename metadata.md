@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: CX Enterprise
+solution: Coworker
 type: Documentation
 mini-toc-levels: 2
 usetq: true
@@ -8,11 +8,9 @@ git-repo: https://github.com/AdobeDocs/coworker.ja-JP
 index: true
 nudge: true
 product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 49dc3831305c8a1898214a5ad2599707a12c097c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
