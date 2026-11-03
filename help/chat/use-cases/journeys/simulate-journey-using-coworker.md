@@ -1,6 +1,6 @@
 ---
 title: Coworkerを使用したAdobe Journey Optimizer ジャーニーのシミュレーション
-description: Coworkerを使用してAdobe Journey Optimizer ジャーニーをシミュレートし、パスをテストし、プルーフメッセージを受け取り、公開前にパスカバレッジをレビューする方法を説明します。
+description: Coworkerを使用してAdobe Journey Optimizer ジャーニーをシミュレートし、公開前に結果を確認する方法を説明します。
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
@@ -20,16 +20,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f3401377d82e09d194d5130458c7b86866899c11
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Coworkerを使用したAdobe Journey Optimizer ジャーニーのシミュレーション
 
-Coworkerを使用して、自動生成されたテストプロファイルとイベントでAdobe Journey Optimizer ジャーニーをシミュレートする方法を説明します。
-
-このビデオでは、公開前にジャーニーパスをテストし、プルーフメッセージを受け取り、パスカバレッジとシミュレーション結果を確認する方法を説明します。
+Adobe WorkfrontのCoworkerを使用して、自動生成されたテストプロファイルとイベントでAdobe Journey Optimizerジャーニーをシミュレートできます。 このビデオでは、公開前にジャーニーパスをテストし、プルーフメッセージを受け取り、パスカバレッジとシミュレーション結果を確認する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
