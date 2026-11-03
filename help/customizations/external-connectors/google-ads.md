@@ -44,7 +44,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL 組織]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。 **[!UICONTROL Google Ads]** カードで、**[!UICONTROL Configure]**&#x200B;を選択します。
 
-1. 組織の&#x200B;**[!UICONTROL Google Adsの設定]** ダイアログで、**[!UICONTROL OAuth アプリケーション]**&#x200B;が&#x200B;**[!UICONTROL Adobeで管理されているOAuth アプリケーション]**&#x200B;であることを確認します。 Adobeは[!DNL Google Ads] アプリを提供しているので、アプリの資格情報を入力する必要はありません。 ユーザーが利用できる&#x200B;**[!UICONTROL ツール]**&#x200B;で、組織が必要とするツールを選択します。 詳しくは、[使用可能なツール ](#available-tools)を参照してください。 **[!UICONTROL 各人が個別にサインインする]**&#x200B;通知を確認し、**[!UICONTROL 接続を保存]**&#x200B;を選択します。
+1. 組織の&#x200B;**[!UICONTROL Google Adsの設定]** ダイアログで、**[!UICONTROL OAuth アプリケーション]**&#x200B;が&#x200B;**[!UICONTROL Adobeで管理されているOAuth アプリケーション]**&#x200B;であることを確認します。 Adobeは[!DNL Google Ads] アプリを提供しているので、アプリの資格情報を入力する必要はありません。 ユーザーが利用できる&#x200B;**[!UICONTROL ツール]**&#x200B;で、組織が必要とするツールを選択します。 詳しくは、[使用可能なツール &#x200B;](#available-tools)を参照してください。 **[!UICONTROL 各人が個別にサインインする]**&#x200B;通知を確認し、**[!UICONTROL 接続を保存]**&#x200B;を選択します。
 
    ![Adobeが管理するOAuth アプリケーションを使用して、Google Ads for your organization ダイアログを構成します。3つのツールをすべて選択し、各担当者が個別にサインインします。](./assets/google-ads/org-configure.png){width="500" zoomable="yes"}
 
@@ -57,9 +57,9 @@ ht-degree: 1%
    | **[!UICONTROL ツールポリシー]** | 許可されるツール名またはパターン。 |
    | **[!UICONTROL 接続]** | 自分のサインインステータス。 |
 
-   ![ ソース、認証方法、3つの許可されたツールを含むツールポリシー、ログアウトおよび更新ボタンに関連する「署名済み」を示すGoogle-ads コネクタの詳細を保存しました。](./assets/google-ads/org-details.png){width="700" zoomable="yes"}
+   ![&#x200B; ソース、認証方法、3つの許可されたツールを含むツールポリシー、ログアウトおよび更新ボタンに関連する「署名済み」を示すGoogle-ads コネクタの詳細を保存しました。](./assets/google-ads/org-details.png){width="700" zoomable="yes"}
 
-コネクタの詳細の&#x200B;**[!UICONTROL 接続]** ステータスは、組織ではなく、自分の接続を参照します。 すべてのメンバーは、引き続き自分のアカウントでログインする必要があります。 メンバーがログインしたら、**[!UICONTROL テスト]**&#x200B;を選択してツールの検出をテストできます。 自分でコネクタを使用するには、[ メンバーとしてログイン ](#sign-in-as-a-member)の手順に従います。
+コネクタの詳細の&#x200B;**[!UICONTROL 接続]** ステータスは、組織ではなく、自分の接続を参照します。 すべてのメンバーは、引き続き自分のアカウントでログインする必要があります。 メンバーがログインしたら、**[!UICONTROL テスト]**&#x200B;を選択してツールの検出をテストできます。 自分でコネクタを使用するには、[&#x200B; メンバーとしてログイン &#x200B;](#sign-in-as-a-member)の手順に従います。
 
 組織へのコネクタの提供を停止するには、コネクタの詳細ページで「**[!UICONTROL 削除]**」を選択します。
 
@@ -79,7 +79,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL ユーザー]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。 **[!UICONTROL Google Ads]** カードで、**[!UICONTROL ログイン]**&#x200B;を選択します。
 
-   カードに「**[!UICONTROL 設定されていません]**」と表示されている場合、またはコネクタが使用できない場合は、管理者に[ コネクタの設定](#configure-organization)を依頼してください。
+   カードに「**[!UICONTROL 設定されていません]**」と表示されている場合、またはコネクタが使用できない場合は、管理者に[&#x200B; コネクタの設定](#configure-organization)を依頼してください。
 
 1. [!DNL Google] **[!UICONTROL アカウントを選択]**&#x200B;画面で、[!DNL Google Ads] アカウントにアクセスできるアカウントを選択するか、**[!UICONTROL 別のアカウントを使用]**&#x200B;を選択します。 次に、シングルサインオン（SSO）、多要素認証（MFA）、ID検証など、組織が必要とするサインインステップを完了します。
 
@@ -95,7 +95,7 @@ ht-degree: 1%
 
 1. アクセス要求を確認し、**[!UICONTROL 続行]**&#x200B;を選択します。
 
-   ![Googleの画面で、Adobe Experience PlatformがGoogle アカウントへのアクセスを希望しており、アカウントが墨消しされている場合、アプリに既に一部のアクセス権が付与されているという通知、および「キャンセル」ボタンと「続行」ボタン ](./assets/google-ads/member-consent.png){width="500" zoomable="yes"}
+   ![Googleの画面で、Adobe Experience PlatformがGoogle アカウントへのアクセスを希望しており、アカウントが墨消しされている場合、アプリに既に一部のアクセス権が付与されているという通知、および「キャンセル」ボタンと「続行」ボタン &#x200B;](./assets/google-ads/member-consent.png){width="500" zoomable="yes"}
 
    >[!IMPORTANT]
    >
@@ -105,9 +105,9 @@ ht-degree: 1%
 
    管理者が別の方法で指示しない限り、**[!UICONTROL リソース ID]**&#x200B;をデフォルト値のままにします。 このフィールドは、ログイン時に送信されるトークンオーディエンスを設定します。 デフォルトに戻すには、フィールドをクリアし、**[!UICONTROL リソース IDを保存]**&#x200B;を選択します。
 
-   ![google-ads コネクタの詳細（接続済みステータス、ログアウトおよび更新ボタンを使用した署名済み接続、およびリソース ID フィールド） ](./assets/google-ads/member-connected.png){width="700" zoomable="yes"}
+   ![google-ads コネクタの詳細（接続済みステータス、ログアウトおよび更新ボタンを使用した署名済み接続、およびリソース ID フィールド） &#x200B;](./assets/google-ads/member-connected.png){width="700" zoomable="yes"}
 
-1. 「**[!UICONTROL テスト]**」を選択して、共同作業者がコネクタツールを検出できることを確認します。 次に、管理者&#x200B;]**によって有効になっている**[!UICONTROL  ツールを確認して、使用できるツールを表示します。
+1. 「**[!UICONTROL テスト]**」を選択して、共同作業者がコネクタツールを検出できることを確認します。 次に、管理者&#x200B;**によって有効になっている** ツールを確認して、使用できるツールを表示します。
 
    **[!UICONTROL テスト]**&#x200B;は、ログイン後に使用できます。
 
