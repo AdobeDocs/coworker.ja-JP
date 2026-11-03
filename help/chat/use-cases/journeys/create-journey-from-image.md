@@ -38,4 +38,4 @@ ht-degree: 0%
 
 PowerPoint スライドなどのフローチャート画像をCX Enterprise Coworkerにアップロードします。 このビデオでは、画像から抽出したプロンプトを確認し、トリガーイベントを指定し、編集可能なジャーニードラフトをAdobe Journey Optimizerに保存する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504866/?captions=jpn&learn=on&enablevpops)
