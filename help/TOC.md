@@ -6,10 +6,10 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
+source-git-commit: ee1ca012668a5800e6a653d64700f7a732a111b0
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 15%
+source-wordcount: '335'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -19,7 +19,7 @@ ht-degree: 15%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -49,7 +49,7 @@ ht-degree: 15%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -89,6 +89,10 @@ ht-degree: 15%
   - プラグイン {#plugins}
     - [プラグインとは何ですか？](./customizations/plugins/what-are-plugins.md)
     - [組織のプラグインの管理](./customizations/plugins/manage-plugins-for-your-org.md)
+  - 外部コネクタ {#external-connectors}
+    - {hide-from-toc}[Databricks Genie](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Google 広告](./customizations/external-connectors/google-ads.md)
+    - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - メモリ {#memory}
     - [メモリとは何ですか？](./customizations/memory/what-is-memory.md)
 - チームで共同作業 {#coworker-for-teams}
