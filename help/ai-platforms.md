@@ -4,9 +4,9 @@ description: Adobe CX Enterprise CoworkerのAI基盤について詳しく見る�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 386b8d2ef4c6f36577300b4bcfbf4c82a40292b3
+source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
 workflow-type: tm+mt
-source-wordcount: '2028'
+source-wordcount: '2104'
 ht-degree: 1%
 ---
 
@@ -349,9 +349,10 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 
 ## 既知の制限事項 {#known-limitations}
 
-AI プラットフォームの同僚は、あらゆる統合パターンをサポートしているわけではありません。
+AI プラットフォームのCoworkerは、Coworker インターフェイスで使用できるすべての機能をサポートしているわけではありません。
 
-* CoworkerをMCPを使用して独自のエージェンティックハーネスに接続することはできません。
+* このドキュメントに記載されているサポートされているAI プラットフォーム以外のカスタムエージェンティックハーネスにCoworkerを接続することはできません。 MCPを通じて、その他のAI プラットフォームやエージェンティックハーネスに関するサポートをリクエストする場合は、Adobeの担当者にお問い合わせください。
+* Claudeを使用してCoworkerにアクセスする場合、Firefly Image Generation スキルは使用できません。 このスキルは、このドキュメントに記載されているCoworker インターフェイスおよびその他のサポートされているAI プラットフォームで引き続き使用できます。 Firefly Image Generation スキルを使用するには、Coworker インターフェイスまたはサポートされている他のAI プラットフォームからCoworkerにアクセスします。
 
 ## AI プラットフォームでの同僚のトラブルシューティング {#troubleshoot}
 

@@ -5,12 +5,14 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 405
-last-substantial-update: 2026-10-16T00:00:00.000Z
+last-substantial-update: '2026-10-16T00:00:00.000Z'
 jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

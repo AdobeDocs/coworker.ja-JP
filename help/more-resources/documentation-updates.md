@@ -4,9 +4,9 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '363'
 ht-degree: 1%
 ---
 # ドキュメントの更新 {#documentation-updates}
@@ -14,6 +14,10 @@ ht-degree: 1%
 このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート &#x200B;](../coworker-for-teams/release-notes.md)を参照してください。
 
 ## 2026年11月 {#nov-2026}
+
+**2026年11月4日**
+
+* 更新：[&#x200B; コンテンツに関する質問](../chat/use-cases/data-insights/ask-content-questions.md)です。 `analyze-content` スキルを使用したコンテンツ分析が一般公開されました。
 
 **2026年11月3日**
 
@@ -48,7 +52,7 @@ ht-degree: 1%
 
 **2026年10月16日**
 
-* 新規：[&#x200B; クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* 新規：[&#x200B; クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * 新規：[ジャーニー分析の概要](../chat/use-cases/data-insights/journey-analysis.md)
 * 新規：[&#x200B; オーディエンスとセグメント分析の概要](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * 新規：[&#x200B; ビジネスパフォーマンスの概要](../chat/use-cases/data-insights/business-performance.md)
