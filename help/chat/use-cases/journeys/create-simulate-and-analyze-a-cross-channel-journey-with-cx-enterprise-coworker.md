@@ -22,4 +22,4 @@ ht-degree: 0%
 
 CX Enterprise Coworkerを使用して、平易な言葉でクロスチャネルジャーニーを構築し、メールやSMS コンテンツを生成できます。 このビデオでは、分岐パスをシミュレートし、診断を確認して設定の問題を特定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504707?captions=jpn&learn=on)
