@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: d0099a2e082b15db77876039604d4d37e77255e2
+source-git-commit: 4f03df081c098fb1dc1044cb022663ce4d9b3d86
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1557'
 ht-degree: 1%
 ---
 
@@ -66,8 +66,6 @@ ht-degree: 1%
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL 組織]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。 **[!UICONTROL Databricks Genie]** カードで、**[!UICONTROL Configure]**&#x200B;を選択します。
 
-   ![組織の外部コネクターのページで、Databricks Genie カードのステータスが「未設定」と表示されています。](./assets/databricks-genie/org-connectors.png){width="700" zoomable="yes"}
-
 1. **[!UICONTROL Connect Databricks Genie]** ダイアログで、ワークスペース URLまたは[!DNL Genie One] MCP URLを&#x200B;**[!UICONTROL サーバーURL]**&#x200B;に入力します。 Coworkerは、次の形式でソースを保存します。
 
    ```text
@@ -118,8 +116,6 @@ ht-degree: 1%
 
 1. **[!UICONTROL アクセスと権限]**&#x200B;を確認し、**[!UICONTROL 接続を保存]**&#x200B;を選択します。 **[!UICONTROL Databricks Genie]** カードに&#x200B;**[!UICONTROL 設定が保存されました]**。
 
-   ![組織外部コネクターのページ。設定が保存された状態と「設定を表示」ボタンが表示されているDatabricks Genie カードが表示されています。](./assets/databricks-genie/org-saved.png){width="700" zoomable="yes"}
-
    ワークスペース、認証、有効なツール、およびツールのタイムアウトを確認するには、**[!UICONTROL 設定を表示]**&#x200B;を選択します。 次に、**[!UICONTROL テスト]**&#x200B;を選択して、接続を確認します。
 
    ![保存されたdatabricks コネクタの詳細で、ソース、認証、ツール ポリシーと4つの許可されたツール、ツール タイムアウト、およびツールのリストが表示されています。](./assets/databricks-genie/org-details.png){width="700" zoomable="yes"}
@@ -134,11 +130,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL Databricks Genie]** カードを検索します。 組織がコネクタを設定していない場合、カードに「**[!UICONTROL 未設定]**」と「**[!UICONTROL まだ利用できません」と表示されます。 管理者がこの設定を行う必要があります。]** メンバーに&#x200B;**[!UICONTROL Configure]** ボタンはないので、管理者に[&#x200B; コネクタの設定](#configure-organization)を依頼してください。
 
-   ![&#x200B; ユーザー外部コネクターのページで、Databricks Genie カードのステータスが「未設定」で、管理者が設定する必要があるというメッセージが表示されている。](./assets/databricks-genie/member-not-configured.png){width="700" zoomable="yes"}
-
 1. 組織でサービス プリンシパルを使用している場合、カードには&#x200B;**[!UICONTROL 組織を通じて使用可能]**&#x200B;と表示されます。 ログインする必要はありません。 接続を確認するには、コネクタの詳細を開き、**[!UICONTROL 接続をテスト]**&#x200B;を選択します。
-
-   ![組織のステータスと「テスト」ボタンで利用可能なDatabricks Genie カードが表示されているユーザー外部コネクターページ。](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}
 
    テストが成功すると、**[!UICONTROL 接続が成功]**&#x200B;し、使用可能なツールの数が表示されます。
 
