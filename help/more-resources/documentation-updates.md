@@ -4,9 +4,9 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '345'
 ht-degree: 1%
 ---
 # ドキュメントの更新 {#documentation-updates}
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 ## 2026年11月 {#nov-2026}
 
+**2026年11月3日**
+
+* 新規：[同僚を使用したジャーニーのシミュレーション &#x200B;](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
+
 **2026年11月2日**
 
 * 更新：[CX Enterprise Coworkerの概要](../home.md)および[同僚チャットの基本を学ぶ](../chat/ui-guide.md)。 Adobe Analyticsは、Coworker Chatを利用できるアプリケーションとしてリストされるようになりました。
+* 更新：[同僚チャットワークフロー](../chat/use-cases/workflows.md)。 ここでは、AEMのワークフローを調査し、Dispatcherのインサイトを調査するためのスキルを紹介します。 また、在庫の分布、在庫の健全性、リネージュ、重複検出のためのオーディエンススキルも追加されます。また、オーディエンスの作成がB2CおよびB2Bのオーディエンスをサポートしていることに留意してください。
 
 ## 2026年10月 {#oct-2026}
 

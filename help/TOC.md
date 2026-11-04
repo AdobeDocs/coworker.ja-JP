@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: ab937d4c1139a9f60cae1f8411f1797e04bf36be
+source-git-commit: b2e604ea0f3c6f67ebb08267fe9e9dbdbb96f195
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '345'
 ht-degree: 15%
 ---
 
@@ -57,6 +57,7 @@ ht-degree: 15%
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [画像からのジャーニーの作成](./chat/use-cases/journeys/create-journey-from-image.md)
+      - [Coworkerを使用したジャーニーのシミュレーション](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [クロスチャネルジャーニーの作成、シミュレーション、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - ロイヤルティ {#loyalty}
       - [ロイヤルティに関する課題を作成し、インサイトを獲得](./chat/use-cases/journeys/create-loyalty-challenge.md)

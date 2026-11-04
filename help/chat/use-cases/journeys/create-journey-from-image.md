@@ -1,6 +1,6 @@
 ---
 title: 画像からのジャーニーの作成
-description: Adobe CX Enterprise Coworkerを利用して、マーケティング部門のスライドなどのフローチャート画像を、Adobe Journey Optimizer（AJO）ですぐに編集できるジャーニーに変換する方法をご紹介します。
+description: CX Enterprise Coworkerを使用して、フローチャート画像からAdobe Journey Optimizer ジャーニーのドラフトを作成する方法を説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,14 +28,14 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '71'
 ht-degree: 0%
 ---
 
 # 画像からのジャーニーの作成
 
-CX Enterprise Coworkerを利用して、マーケティング部門が作成したPowerPoint スライドなどのフローチャート画像を、すぐに編集できるジャーニーに変換する方法を解説します。 Coworkerが画像からプロンプトを抽出し、レビューと調整を行い、トリガーイベントを要求し、結果を元のデザインと一致するドラフトとして保存する方法が表示されます。
+PowerPoint スライドなどのフローチャート画像をCX Enterprise Coworkerにアップロードします。 このビデオでは、画像から抽出したプロンプトを確認し、トリガーイベントを指定し、編集可能なジャーニードラフトをAdobe Journey Optimizerに保存する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504866/?captions=jpn&learn=on&enablevpops)
