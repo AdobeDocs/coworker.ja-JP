@@ -53,7 +53,7 @@ Adobe Analyticsレポートスイートで指標が変更された理由を調�
 
 開始する前に：
 
-1. **同僚チャットにアクセスし、Adobe Analyticsに接続します。** Coworkerで、**カスタマイズ/統合**&#x200B;に移動し、`aa-mcp`統合が一覧表示され、接続されていることを確認します。 利用できない場合は、管理者に組織の設定を確認するように依頼してください。 設定ガイダンスについては、[同僚チャット &#x200B;](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)でのデータ分析の概要を参照してください。
+1. **同僚チャットにアクセスし、Adobe Analyticsに接続します。** Coworkerで、**カスタマイズ/統合**&#x200B;に移動し、`aa-mcp`統合が一覧表示され、接続されていることを確認します。 利用できない場合は、管理者に組織の設定を確認するように依頼してください。 設定ガイダンスについては、[同僚チャット &#x200B;](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)でのデータ分析の概要を参照してください。
 1. **分析するAdobe Analytics レポートスイートにアクセスできます。** CoworkerはAdobe Analyticsの権限を継承し、Analysis Workspaceで使用できるレポートスイートとコンポーネントのみを使用できます。
 1. **関連データを含むレポートスイートを選択します。** 複数のレポートスイートにアクセスできる場合は、使用するレポートスイートに名前を付けます。
 1. **調査する変更を特定します。** 指標と期間を指定します。 より焦点を絞った分析には、比較期間、関連するディメンションまたはセグメント、同僚にテストしてもらいたい仮説を含めます。
@@ -68,5 +68,5 @@ Adobe Analyticsレポートスイートで指標が変更された理由を調�
 
 ## 関連リソース
 
-* [Adobe Adobe CX Enterprise Coworker Chatでデータを分析](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
-* [同僚とのチャットによるデータ分析を始める](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
+* [Adobe Adobe CX Enterprise Coworker Chatでデータを分析](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
+* [同僚とのチャットによるデータ分析を始める](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
