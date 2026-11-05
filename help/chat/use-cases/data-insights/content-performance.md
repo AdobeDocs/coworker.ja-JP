@@ -28,7 +28,7 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 * Customer Journey AnalyticsデータビューやAdobe Analyticsレポートスイートに接続された共同作業チャット。 [同僚チャット &#x200B;](/help/chat/use-cases/data-insights/analytics-chat.md)によるデータ分析を開始するを参照してください。
 * 分析するデータビューまたはレポートスイートへのアクセスを表示します。 共同作業者チャットは、Customer Journey AnalyticsまたはAdobe Analyticsから権限を継承します。
-* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
+* Content Analytics用に設定されたデータビュー。 Customer Journey Analytics ガイドの「[Content Analyticsの設定](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/content-analytics/configuration/configuration)」を参照してください。
 
 ## ユースケース
 
