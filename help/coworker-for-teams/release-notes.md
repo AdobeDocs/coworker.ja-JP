@@ -4,9 +4,7 @@ title: CX Enterprise Coworker グループ版リリースノート
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
-    internal-label: Coworker for teams
-source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
+source-git-commit: bb309a69ffd855e0b7ac4d6a722a2ddf8850c9d8
 workflow-type: tm+mt
 source-wordcount: '4892'
 ht-degree: 0%

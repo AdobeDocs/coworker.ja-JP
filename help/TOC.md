@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: b7d069b0ebd8fb68e3ffae62cc57d4b91dd248f5
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '359'
 ht-degree: 15%
 ---
 
@@ -54,10 +54,12 @@ ht-degree: 15%
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
       - [プラットフォームの健全性を評価し、オーディエンスを構築する](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [オーディエンスが急増/急減した理由？](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [画像からのジャーニーの作成](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Coworkerを使用したジャーニーのシミュレーション](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [顧客エンゲージメントの促進](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
       - [Coworkerを使用したジャーニーのバージョンの比較](./chat/use-cases/journeys/journey-version-comparison.md)
       - [クロスチャネルジャーニーの作成、シミュレーション、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - ロイヤルティ {#loyalty}
