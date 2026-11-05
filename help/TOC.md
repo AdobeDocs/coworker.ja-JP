@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '356'
 ht-degree: 15%
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 15%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -49,11 +49,12 @@ ht-degree: 15%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
       - [プラットフォームの健全性を評価し、オーディエンスを構築する](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [オーディエンスが急増/急減した理由？](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [画像からのジャーニーの作成](./chat/use-cases/journeys/create-journey-from-image.md)
