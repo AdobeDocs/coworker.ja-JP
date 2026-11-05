@@ -4,9 +4,9 @@ description: 同僚とのチャットを利用して、共通の優れたコン�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -47,7 +47,7 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 | スキル | に使用 |
 | --- | --- |
-| `cja`,`analyze-content` <br/> （利用制限あり） | 共通のコンテンツとは何かを見つける<br>売上は、顧客に表示されているコンテンツに帰属します<br>webとモバイルのクリエイティブを比較<br>それぞれのオーディエンスを動かすビジュアルを把握します<p>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。</p> |
+| `cja`,`analyze-content` | 共通のコンテンツとは何かを見つける<br>売上は、顧客に表示されているコンテンツに帰属します<br>webとモバイルのクリエイティブを比較<br>それぞれのオーディエンスを動かすビジュアルを把握します<p>詳しくは、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。</p> |
 
 ## より良い結果を得るためのヒント
 
@@ -60,6 +60,6 @@ Adobe CX Enterprise Coworker Chatを使用すれば、各アセットの属性�
 
 ## 次の手順
 
-* Coworkerがコンテンツに関する質問に回答する方法については、「[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md) （限定提供）」を参照してください。
+* Coworkerがコンテンツに関する質問に回答する方法については、[&#x200B; コンテンツに関する質問](/help/chat/use-cases/data-insights/ask-content-questions.md)を参照してください。
 * 他の分析ドメインとベストプラクティスを含む、Coworker Chatによるデータ分析の概要については、[Coworker Chatによるデータ分析](/help/chat/use-cases/data-insights/analytics-overview.md)を参照してください。
 * 共同作業者チャットを設定し、作業例について説明するには、[共同作業者チャットを使用したデータ分析の基本を学ぶ](/help/chat/use-cases/data-insights/analytics-chat.md)を参照してください。

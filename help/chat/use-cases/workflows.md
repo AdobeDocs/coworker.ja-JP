@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d788223a7746bda4bb2913f19712c6fc6ab6be7
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '8822'
+source-wordcount: '8820'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -119,7 +119,7 @@ ht-degree: 8%
 | 予測 | 過去のCJAまたはAA データに基づく将来の指標値のプロジェクト | `cja`, `aa` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「今後30日間のセッションを予測」 <br> 「売上目標を達成する予定ですか？」 |
 | [根本原因分析](data-insights/root-cause-analysis.md) | 指標が変化した理由：低下、急上昇、異常を診断します | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先週、コンバージョンが低下した理由は何ですか？」 <br> 「1月15日の売上の急増の原因は何ですか？」 |
 | エグゼクティブサマリーとKPI ダイジェスト | 関係者に提供可能なパフォーマンスの要約、処方レコメンデーション、スライドデッキの概要を作成します | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics（CJA）、Adobe Analytics（AA） | 「先月のエグゼクティブサマリーを教えてください」 <br> 「今四半期のデータからスライドデッキの概要を作成してください」 |
-| [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) （利用制限あり） | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
+| [&#x200B; コンテンツ分析](data-insights/ask-content-questions.md) | Content Analyticsのデータを利用して、コンテンツに関する一般的な質問や具体的な質問に回答します。優先すべきコンテンツ、エンゲージメントを促進する属性、売上を促進するアセットやエクスペリエンスなど、 | `analyze-content`, `cja` | Customer Journey Analytics（CJA） | 「どの種類のコンテンツを優先すればよいですか？」 <br> 「最もパフォーマンスの高い画像に共通する点は何ですか？」 |
 | [AA ↔ CJA データ検証](data-insights/data-validation-aa-cja.md) | 特にAdobe AnalyticsからCustomer Journey Analyticsにアップグレードする場合は、Adobe AnalyticsとCustomer Journey Analytics間でデータを比較、監査、調整できます | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | 「AA レポートスイートとCJA データビューの比較」 <br> 「AAとCJA間のページビューの検証」 |
 | [AA プロジェクトをCJAに移行](data-insights/migrate-projects-aa-cja.md) （利用制限あり） | Adobe Analytics プロジェクトとその関連コンポーネントをCustomer Journey Analyticsに検証、マッピング、および移行し、移行ステータス <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. -->を確認します | なし<br/> （`aa-mcp`統合を使用） | ADOBE ANALYTICS + CJA | 「コンポーネントをAAからCJAに移行したい」 <br> 「レポートスイートのどのディメンションと指標がデータビューにマッピングされていないか？」 |
 | [&#x200B; データセットとフィールドの品質を検証](data-insights/data-validation-aep.md) | Experience Platform データセットとフィールドに対して統計的およびセマンティック検証を実行し、実装後または継続的にデータ品質の問題を検出します<!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | 「データセット Electronics サンプル 1000の検証」 <br> 「Customers_2024 データセットの電子メールフィールドの検証」 |
