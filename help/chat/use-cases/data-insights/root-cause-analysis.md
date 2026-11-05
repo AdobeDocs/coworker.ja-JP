@@ -25,7 +25,7 @@ Adobe CX Enterprise Coworker Chatを使用して、Adobe AnalyticsまたはCusto
 
 次のビデオでは、Coworkerが会話型AIとCustomer Journey Analyticsをどのように組み合わせているかを示しています。 自然言語で質問する方法、結果を可視化する方法、有意義なトレンドを特定する方法、手作業でクエリを作成することなくパフォーマンスを向上させる要因を明らかにする方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496852/?captions=jpn&learn=on&enablevpops)
 
 ### 前提条件
 
