@@ -17,7 +17,7 @@ ht-degree: 0%
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**コンテキスト** > **ブランド**&#x200B;の下に追加されました。
 
@@ -130,7 +130,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 ## ステップ 6：キャンペーンの開始
 
-これで、[ キャンペーンを開始する準備が整いました](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
+これで、[&#x200B; キャンペーンを開始する準備が整いました](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
 
 ## よくある質問
 
