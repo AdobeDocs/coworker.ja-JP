@@ -4,9 +4,7 @@ title: チーム向け共同作業のユースケース
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
-    internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: c016088569c32dce8357ce56f6783cd7ef84b145
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -161,4 +159,4 @@ ht-degree: 0%
 
 ## 構築準備が整ったら？
 
-上記のユースケースを選択し、完全な手順を説明する電子メールキャンペーン [&#128279;] (./)を作成して、試してみてください。
+上記のユースケースを選択し、完全な手順を説明する電子メールキャンペーン ](./)を[作成して、試してみてください。

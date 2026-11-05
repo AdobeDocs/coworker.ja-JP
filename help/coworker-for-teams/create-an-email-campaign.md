@@ -4,9 +4,7 @@ title: メールキャンペーンの作成
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
-    internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: c016088569c32dce8357ce56f6783cd7ef84b145
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 0%
@@ -19,7 +17,7 @@ ht-degree: 0%
 
 次を持っていることを確認します。
 
-* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ &#x200B;](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
+* アクティブなAdobe CX Enterprise Coworker グループ版アカウント（[まだお持ちでない場合は、ここでサインアップ ](https://coworker-campaigns.experience.adobe.com/){target="_blank"}）。
 
 * ブランドが&#x200B;**コンテキスト** > **ブランド**&#x200B;の下に追加されました。
 
@@ -132,7 +130,7 @@ _使用するタイミング：必要な情報が分かっているかもしれ�
 
 ## ステップ 6：キャンペーンの開始
 
-これで、[&#x200B; キャンペーンを開始する準備が整いました](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
+これで、[ キャンペーンを開始する準備が整いました](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign)。
 
 ## よくある質問
 
