@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe CX Enterprise Coworkerが、Adobeのアプリケーションをまたいで、マーケティングの目標をパーソナライズされたカスタマーエンゲージメントジャーニーに変えるためにどのように役立つかをご覧ください。 Adobe Experience Manager（AEM）やAdobe Experience Platform（AEP）の既存の機能を基盤として、Coworkerが適切な訪問者を特定し、Adobe Adobe Journey Optimizerでジャーニーを構築し、プロモーションメッセージを作成する方法をご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507060/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507079/?captions=jpn&learn=on&enablevpops)
