@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '9190'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -258,6 +258,20 @@ Adobe Workfront Chatを使用して、キャンペーンメッセージのコピ
 **関連情報**
 
 * [Coworker for content management](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"}では、Adobe Journey Optimizerのコンテンツ管理ツールと利用可能なスキルについて詳しく説明しています。
+
+## オーケストレーションキャンペーン
+
+Adobe Journey OptimizerでCoworker Chatを使用して、オーケストレーションされたキャンペーンを検索、検査し、ワークフローグラフをレンダリングします。 これらのスキルは読み取り専用です。オーケストレーションされたキャンペーンの作成または編集は、現在のツールセットではサポートされておらず、オーケストレーションされたキャンペーン分析とパフォーマンスレポートはサポートされていません。
+
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| --- | --- | --- | --- | --- |
+| [&#x200B; オーケストレーションされたキャンペーンを検索して参照](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-list){target="_blank"} | 指標カード、チャート、キャンペーンテーブルを備えたダッシュボードとしてレンダリングされ、オーケストレーションされたキャンペーンの概要をリスト、参照、フィルター、検索、カウントまたは取得します | オーケストレーションされたキャンペーンリスト | Adobe Journey Optimizer（AJO） | 「オーケストレーションされたすべてのキャンペーンを一覧表示します。」 <br> 「LIVE オーケストレーションされたキャンペーンを表示します。」 <br> 「メールを使用するオーケストレーションされたキャンペーンの数は？」 <br> 「xavierが作成したオーケストレーションされたキャンペーンを表示します。」 <br> 「実稼動サンドボックスでオーケストレーションされたキャンペーンを参照します。」 <br> 「オーケストレーションされたキャンペーンをステータス DRAFTでフィルタリングします。」 |
+| [&#x200B; オーケストレーションされたキャンペーンを調査](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-get){target="_blank"} | 名前が付いたキャンペーンまたは特定されたオーケストレーション済みキャンペーンの詳細、ステータス、メタデータ、ライフサイクル履歴、実行履歴など、キャンペーンに関するあらゆる情報を取得し、アクティビティグラフを視覚化できます | キャンペーン施策を連携させる | Adobe Journey Optimizer（AJO） | 「夏のリエンゲージメント オーケストレーション キャンペーンの詳細を表示します。」 <br> 「ウェルカムシリーズ OCを公開したのは誰ですか？」 <br> 「第3四半期キャンペーンのライフサイクル履歴を表示します。」 <br> 「ホリデープロモーションのオーケストレーションされたキャンペーンは何回実行されましたか？」 <br> 「オンボーディング OCのグラフを描画/視覚化します。」 <br> 「カート放棄の調整キャンペーンは失敗しましたか？」 |
+| [&#x200B; ワークフローグラフのレンダリング &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-workflow-renderer){target="_blank"} | ノードとエッジを含むJSON ペイロードとして提供されるワークフローまたはオーケストレーショングラフを、視覚的な図としてレンダリングします。<br> グラフペイロードが既に会話にある場合にのみ使用します。<br> キャンペーンのグラフを名前またはIDで描画するには、Orchestrated Campaign Getを使用します。 | オーケストレーションされたキャンペーンワークフローレンダラー | Adobe Journey Optimizer（AJO） | 「このワークフローグラフをダイアグラムとしてレンダリングします。」 <br> 「このオーケストレーショングラフを視覚化します。」 |
+
+**関連情報**
+
+* オーケストレーション済みキャンペーンの[Coworker](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills){target="_blank"}は、Adobe Journey Optimizerのオーケストレーション済みキャンペーンリスト、オーケストレーション済みキャンペーンの取得、およびオーケストレーション済みキャンペーンワークフローレンダラースキルに関する詳細なガイダンス、ユースケース、サンプルプロンプトを提供します。
 
 ## Campaign v8
 
