@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: b7d069b0ebd8fb68e3ffae62cc57d4b91dd248f5
+source-git-commit: 8d80e55f4a2bdda11c5e9f3a97b6fe99c03b9b64
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '364'
 ht-degree: 15%
 ---
 
@@ -16,10 +16,12 @@ ht-degree: 15%
 
 - [同僚ガイド](home.md)
 - [Adobe CX Enterprise CoworkerのAI基盤](/help/ai-platforms.md)
+- 管理 {#administration}
+  - [同僚のアクセス制御](./administration/access-control.md)
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -49,7 +51,7 @@ ht-degree: 15%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
