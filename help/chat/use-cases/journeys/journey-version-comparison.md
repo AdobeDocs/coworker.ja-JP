@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Coworkerを使用してAdobe Journey Optimizer ジャーニーのバージョンを比較する方法を説明します。 視覚的な比較や詳細な要約を確認して、アクティビティ、ブランチ、ジャーニーのプロパティに対する変更を特定し、特定の更新がいつ行われたのかを追跡できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507163/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507247/?captions=jpn&learn=on&enablevpops)

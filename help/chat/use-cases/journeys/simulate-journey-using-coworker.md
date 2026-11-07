@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Adobe WorkfrontのCoworkerを使用して、自動生成されたテストプロファイルとイベントでAdobe Journey Optimizerジャーニーをシミュレートできます。 このビデオでは、公開前にジャーニーパスをテストし、プルーフメッセージを受け取り、パスカバレッジとシミュレーション結果を確認する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507032?captions=jpn&learn=on)

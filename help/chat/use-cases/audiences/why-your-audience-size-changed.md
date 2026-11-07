@@ -30,7 +30,7 @@ ht-degree: 0%
 
 このビデオでは、Coworkerで平易な言語プロンプトを使用して、キャンペーンのローンチ前にAdobe Experience Platform オーディエンスの予期しない増加を調査する方法について説明します。 このチュートリアルでは、原因分析によってオーディエンスサイズの変更を運用データと結び付け、設定変更を除外し、エンジニアリング調査を待たずに可能性のある説明を表示する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507344/?captions=jpn&learn=on&enablevpops)
 
 ベストプラクティスを解説します。
 
