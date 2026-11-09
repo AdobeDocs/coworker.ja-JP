@@ -19,7 +19,7 @@ ht-degree: 8%
 
 >[!AVAILABILITY]
 >
->Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[ スキル ](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
+>Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[&#x200B; スキル &#x200B;](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 ## AI アシスタントによる進化
 
-共同作業者チャットは、[AI アシスタント ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットでは、共有の[共同作業者ビルディングブロック ](/help/home.md#building-blocks)を使用して、質問に答えるだけでなく、会話を通じて作業を完了します。
+共同作業者チャットは、[AI アシスタント &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットでは、共有の[共同作業者ビルディングブロック &#x200B;](/help/home.md#building-blocks)を使用して、質問に答えるだけでなく、会話を通じて作業を完了します。
 
 ## チャット体験
 
