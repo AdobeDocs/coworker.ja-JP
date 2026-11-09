@@ -56,4 +56,4 @@ ht-degree: 8%
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
