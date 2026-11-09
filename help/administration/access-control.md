@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # 同僚のアクセス制御 {#access-control}
@@ -34,7 +34,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## 同僚の管理者を追加 {#add-coworker-admins}
 
-共同作業者の管理者は、[!DNL Adobe Admin Console]の[!DNL Adobe Experience Platform]に&#x200B;**[!UICONTROL 製品管理者]**&#x200B;の役割を割り当てられたユーザーです。
+共同作業者の管理者は、[!DNL Adobe Admin Console]の[!DNL Adobe Experience Platform]に&#x200B;**[!UICONTROL 製品管理者]**&#x200B;または&#x200B;**[!UICONTROL システム管理者]**&#x200B;に割り当てられたユーザーです。
 
 このビデオでは、同僚の管理者を追加する方法を説明します。
 
