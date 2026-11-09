@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker チャットの概要
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # さらに詳しく {#overview}
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 >[!AVAILABILITY]
 >
->Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[&#x200B; スキル &#x200B;](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
+>Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[ スキル ](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 ## AI アシスタントによる進化
 
-共同作業者チャットは、[AI アシスタント &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットは、会話が質問に答えるだけでなく、作業を完了できるようにする[構成要素](#building-blocks)を追加します。
+共同作業者チャットは、[AI アシスタント ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットでは、共有の[共同作業者ビルディングブロック ](/help/home.md#building-blocks)を使用して、質問に答えるだけでなく、会話を通じて作業を完了します。
 
 ## チャット体験
 
@@ -54,16 +54,6 @@ ht-degree: 6%
 * _Adobe Journey Optimizer B2B Edition（近日リリース予定）_
 * _Customer Journey Analytics B2B edition（近日リリース予定）_
 
-## 構成要素
-
-Coworker ChatはCoworkerのビルディングブロックを活用しています。 現在、次の構成要素が利用可能です。
-
-* **エンタープライズ ハーネス：**&#x200B;目標を完了した作業に変換するエンジン。 継続的な自己修正ループ（理由、スキルの選択、実行、検証、繰り返し）を実行し、エラーから回復し、ジョブが実行されるまで並行して作業します。
-* 各タスクを適切に実行するために、プレーンなMarkdownで&#x200B;**スキル：**&#x200B;の再利用可能なプレイブック。 Coworker Chatには、今日の最も一般的な顧客体験タスクに対応するスキルが搭載されており、今後の目標は、あらゆるAdobe CX Enterpriseアプリケーションをまたいで作業をカバーすることです。
-* **MCP コネクタ：**&#x200B;は、すぐに使えるコネクタと独自のコネクタを使用して、Adobeおよびサードパーティシステム全体でアクションを実行するためのアクセスを管理します。
-* **ガバナンス：**&#x200B;の承認ゲート、Adobe組織から継承された権限、アクションの実行前に実行されるチェック、完全な監査証跡。
-* **メモリ：**&#x200B;同僚チャットは、組織全体のルールから個人の好みに至るまで、セッション全体でユーザーの好み、決定、修正を学習します。ユーザーが作業を進めば進めるほど、よりシャープになります。
-
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
