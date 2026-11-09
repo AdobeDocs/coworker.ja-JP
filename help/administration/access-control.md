@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # 同僚のアクセス制御 {#access-control}
@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
+>この機能を使用するには、組織を有効にする必要があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview)を参照してください。
 
 ## アクセスの決定方法 {#how-access-is-determined}
 
@@ -34,15 +34,15 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## 同僚の管理者を追加 {#add-coworker-admins}
 
-共同作業者の管理者は、[!DNL Adobe Admin Console]の[!DNL Adobe Experience Platform]に&#x200B;**[!UICONTROL 製品管理者]**&#x200B;の役割を割り当てられたユーザーです。
+共同作業者の管理者は、[!DNL Adobe Admin Console]の[!DNL Adobe Experience Platform]に&#x200B;**[!UICONTROL 製品管理者]**&#x200B;または&#x200B;**[!UICONTROL システム管理者]**&#x200B;に割り当てられたユーザーです。
 
 このビデオでは、同僚の管理者を追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507042?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
 
 ## ユーザーアクセスの管理 {#manage-user-access}
 
-1. 「同僚」エクスペリエンスを開きます。 手順については、「[同僚にログイン &#x200B;](/help/chat/ui-guide.md#sign-in)」を参照してください。
+1. 「同僚」エクスペリエンスを開きます。 手順については、「[同僚にログイン ](/help/chat/ui-guide.md#sign-in)」を参照してください。
 2. プロファイルメニューを開き、**[!UICONTROL 管理者設定]**&#x200B;を選択します。
 
    プロファイルメニューコントロールがハイライト表示された![同僚ホーム。](./assets/access-control/coworker-home.png)
@@ -55,7 +55,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
    このビデオでは、同僚ユーザーの管理方法について説明します。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507152?captions=jpn&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. Coworkerでは、**[!UICONTROL ユーザー]**&#x200B;を使用して個人のアクセスを管理するか、**[!UICONTROL ユーザーグループ]**&#x200B;を使用してユーザーグループのCoworker アクセスを管理します。 ユーザーグループ設定は、そのメンバーに適用されます。
 
@@ -76,7 +76,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## アクセスに関するヘルプ {#get-help-with-access}
 
-[!UICONTROL &#x200B; アクセス制御]が表示されない場合は、Adobe管理者またはAdobe担当者にお問い合わせください。 ユーザーは、この機能が組織に対して有効になっているかどうか、およびその設定にアクセスできるかどうかを確認できます。
+[!UICONTROL  アクセス制御]が表示されない場合は、Adobe管理者またはAdobe担当者にお問い合わせください。 ユーザーは、この機能が組織に対して有効になっているかどうか、およびその設定にアクセスできるかどうかを確認できます。
 
 アクセスが拒否された場合は、組織全体のデフォルトとユーザーまたはグループの設定を確認するように管理者に依頼します。 共同作業者と互換性のあるCX Enterprise アプリケーションの場合は、そのアプリケーションに対して個別に管理されている権限を確認するように依頼します。
 
