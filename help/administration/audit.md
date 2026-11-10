@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerでイベントを監査する方法について説�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[ アクセスに関するヘルプを参照してください](/help/administration/access-control.md#get-help-with-access)。
+>この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[&#x200B; アクセスに関するヘルプを参照してください](/help/administration/access-control.md#get-help-with-access)。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
