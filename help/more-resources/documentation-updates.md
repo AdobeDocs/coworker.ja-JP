@@ -4,28 +4,28 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # ドキュメントの更新 {#documentation-updates}
 
-このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート &#x200B;](../coworker-for-teams/release-notes.md)を参照してください。
+このページを使用して、CX Enterprise Coworker ドキュメントの新しい実質的に更新されたコンテンツを見つけます。 更新は月別に表示され、最新の最初の更新が表示されます。 Coworker for teamsの製品の変更については、[Coworker for teams リリースノート ](../coworker-for-teams/release-notes.md)を参照してください。
 
 ## 2026年11月 {#nov-2026}
 
 **2026年11月10日**
 
-* 更新：[同僚チャットを開始](../chat/ui-guide.md)。 可用性テーブルに、Customer Journey Analytics B2B edition、Content AnalyticsおよびMarketing Campaign Analyticsが一覧表示されるようになりました。 Coworker Chatは、3つのプラットフォームすべてで没入型および製品内の体験が可能です。
+* 更新：[同僚チャットを開始](../chat/ui-guide.md)。 可用性テーブルに、Customer Journey Analytics B2B edition、Content AnalyticsおよびMarketing Campaign Analyticsが一覧表示されるようになりました。 没入感のある体験は、この3つすべてで提供されます。 Customer Journey Analytics B2B editionおよびContent Analyticsで製品体験を利用できます。近日、Marketing Campaign Analyticsでも利用できるようになります。
 
 **2026年11月4日**
 
-* 更新：[&#x200B; コンテンツに関する質問](../chat/use-cases/data-insights/ask-content-questions.md)です。 `analyze-content` スキルを使用したコンテンツ分析が一般公開されました。
+* 更新：[ コンテンツに関する質問](../chat/use-cases/data-insights/ask-content-questions.md)です。 `analyze-content` スキルを使用したコンテンツ分析が一般公開されました。
 
 **2026年11月3日**
 
-* 新規：[同僚を使用したジャーニーのシミュレーション &#x200B;](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
+* 新規：[同僚を使用したジャーニーのシミュレーション ](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
 
 **2026年11月2日**
 
@@ -56,13 +56,13 @@ ht-degree: 0%
 
 **2026年10月16日**
 
-* 新規：[&#x200B; クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
+* 新規：[ クロスチャネルジャーニーの作成、シミュレーション、分析](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * 新規：[ジャーニー分析の概要](../chat/use-cases/data-insights/journey-analysis.md)
-* 新規：[&#x200B; オーディエンスとセグメント分析の概要](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
-* 新規：[&#x200B; ビジネスパフォーマンスの概要](../chat/use-cases/data-insights/business-performance.md)
-* 新規：[&#x200B; コンテンツパフォーマンスの概要](../chat/use-cases/data-insights/content-performance.md)
-* 新規：[&#x200B; マーケティング測定とアトリビューションの概要](../chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
-* 新規：[&#x200B; インテリジェントな実装と管理の概要](../chat/use-cases/data-insights/data-governance-and-validation.md)
+* 新規：[ オーディエンスとセグメント分析の概要](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
+* 新規：[ ビジネスパフォーマンスの概要](../chat/use-cases/data-insights/business-performance.md)
+* 新規：[ コンテンツパフォーマンスの概要](../chat/use-cases/data-insights/content-performance.md)
+* 新規：[ マーケティング測定とアトリビューションの概要](../chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+* 新規：[ インテリジェントな実装と管理の概要](../chat/use-cases/data-insights/data-governance-and-validation.md)
 
 **2026年10月14日**
 
@@ -74,5 +74,5 @@ ht-degree: 0%
 
 **2026年10月7日**
 
-* 新規：[AEM Assetsでのブランドのオンボーディング &#x200B;](../chat/use-cases/brand-visibility/onboard-aem-assets.md)
-* 新規：[&#x200B; プラグインとマーケットプレイスの管理](../customizations/plugins/manage-plugins-for-your-org.md)
+* 新規：[AEM Assetsでのブランドのオンボーディング ](../chat/use-cases/brand-visibility/onboard-aem-assets.md)
+* 新規：[ プラグインとマーケットプレイスの管理](../customizations/plugins/manage-plugins-for-your-org.md)
