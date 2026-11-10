@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
+source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '520'
 ht-degree: 0%
 ---
 # 同僚のアクセス制御 {#access-control}
@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 アクセス制御は段階的に利用できるようになり、起動時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
+>アクセス制御は、Coworker アクセスを持つすべての顧客にプログレッシブにロールアウトされます。 組織にまだ[!UICONTROL &#x200B; アクセス制御]が表示されていない可能性があります。 詳しくは、[同僚チャットの概要](/help/chat/overview.md)を参照してください。
 
 ## アクセスの決定方法 {#how-access-is-determined}
 
