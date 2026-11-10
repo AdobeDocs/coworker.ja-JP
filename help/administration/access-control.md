@@ -53,7 +53,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
    このビデオでは、同僚ユーザーの管理方法について説明します。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507152?captions=jpn&learn=on){transcript=true}
 
 4. Coworkerでは、**[!UICONTROL ユーザー]**&#x200B;を使用して個人のアクセスを管理するか、**[!UICONTROL ユーザーグループ]**&#x200B;を使用してユーザーグループのCoworker アクセスを管理します。 ユーザーグループ設定は、そのメンバーに適用されます。
 
