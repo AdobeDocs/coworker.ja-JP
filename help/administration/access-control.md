@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 アクセス制御は段階的に利用できるようになり、起動時にすべてのCoworker組織で有効にできない場合があります。詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview)を参照してください。
+>この機能を使用するには、組織を有効にする必要があります。 アクセス制御は段階的に利用できるようになり、起動時にすべてのCoworker組織で有効にできない場合があります。詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
 
 ## アクセスの決定方法 {#how-access-is-determined}
 

@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerでイベントを監査する方法について説�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview)を参照してください。
+>この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
