@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
+source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '520'
 ht-degree: 0%
 ---
 # 同僚のアクセス制御 {#access-control}
@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 アクセス制御は段階的に利用できるようになり、起動時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
+>アクセス制御は、Coworker アクセスを持つすべての顧客にプログレッシブにロールアウトされます。 組織にまだ[!UICONTROL  アクセス制御]が表示されていない可能性があります。 詳しくは、[同僚チャットの概要](/help/chat/overview.md)を参照してください。
 
 ## アクセスの決定方法 {#how-access-is-determined}
 
@@ -38,7 +38,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## ユーザーアクセスの管理 {#manage-user-access}
 
-1. 「同僚」エクスペリエンスを開きます。 手順については、「[同僚にログイン &#x200B;](/help/chat/ui-guide.md#sign-in)」を参照してください。
+1. 「同僚」エクスペリエンスを開きます。 手順については、「[同僚にログイン ](/help/chat/ui-guide.md#sign-in)」を参照してください。
 2. プロファイルメニューを開き、**[!UICONTROL 管理者設定]**&#x200B;を選択します。
 
    プロファイルメニューコントロールがハイライト表示された![同僚ホーム。](./assets/access-control/coworker-home.png)
@@ -51,7 +51,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
    このビデオでは、同僚ユーザーの管理方法について説明します。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507152?captions=jpn&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. Coworkerでは、**[!UICONTROL ユーザー]**&#x200B;を使用して個人のアクセスを管理するか、**[!UICONTROL ユーザーグループ]**&#x200B;を使用してユーザーグループのCoworker アクセスを管理します。 ユーザーグループ設定は、そのメンバーに適用されます。
 
@@ -72,7 +72,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## アクセスに関するヘルプ {#get-help-with-access}
 
-[!UICONTROL &#x200B; アクセス制御]が表示されない場合は、Adobe管理者またはAdobe担当者にお問い合わせください。 ユーザーは、この機能が組織に対して有効になっているかどうか、およびその設定にアクセスできるかどうかを確認できます。
+[!UICONTROL  アクセス制御]が表示されない場合は、Adobe管理者またはAdobe担当者にお問い合わせください。 ユーザーは、この機能が組織に対して有効になっているかどうか、およびその設定にアクセスできるかどうかを確認できます。
 
 アクセスが拒否された場合は、組織全体のデフォルトとユーザーまたはグループの設定を確認するように管理者に依頼します。 共同作業者と互換性のあるCX Enterprise アプリケーションの場合は、そのアプリケーションに対して個別に管理されている権限を確認するように依頼します。
 
