@@ -6,10 +6,10 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3c5387c838bedf96b9f3a3c826b39b6f3414c229
+source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 15%
+source-wordcount: '367'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -18,6 +18,7 @@ ht-degree: 15%
 - [Adobe CX Enterprise CoworkerのAI基盤](/help/ai-platforms.md)
 - 管理 {#administration}
   - [同僚のアクセス制御](./administration/access-control.md)
+  - [Audit Coworker イベント](./administration/audit.md)
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
