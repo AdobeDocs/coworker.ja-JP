@@ -8,9 +8,9 @@ jira: KT-23097
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ef0292caf8def8dcd19512eef1b7950f308d2f5
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 ---
 # Audit Coworker イベント {#audit}
@@ -19,7 +19,7 @@ Adobe CX Enterprise Coworkerでイベントを監査する方法について説�
 
 >[!NOTE]
 >
->この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[同僚チャットの概要](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/overview)を参照してください。
+>この機能を使用するには、組織を有効にする必要があります。 監査は段階的に利用できるようになり、開始時にすべてのCoworker組織で有効にできない場合があります。 詳しくは、[ アクセスに関するヘルプを参照してください](/help/administration/access-control.md#get-help-with-access)。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3508093?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
