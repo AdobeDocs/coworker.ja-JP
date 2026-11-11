@@ -4,9 +4,9 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # ドキュメントの更新 {#documentation-updates}
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **2026年11月10日**
 
-* 更新：[同僚チャットを開始](../chat/ui-guide.md)。 可用性テーブルに、Customer Journey Analytics B2B edition、Content AnalyticsおよびMarketing Campaign Analyticsが一覧表示されるようになりました。 Coworker Chatは、3つのプラットフォームすべてで没入型および製品内の体験が可能です。
+* 更新：[同僚チャットを開始](../chat/ui-guide.md)。 可用性テーブルに、Customer Journey Analytics B2B edition、Content AnalyticsおよびMarketing Campaign Analyticsが一覧表示されるようになりました。 没入感のある体験は、この3つすべてで提供されます。 Customer Journey Analytics B2B editionおよびContent Analyticsで製品体験を利用できます。近日、Marketing Campaign Analyticsでも利用できるようになります。
 
 **2026年11月4日**
 
