@@ -4,14 +4,14 @@ title: タイトルケース内のページのタイトル
 description: Adobe CX Enterprise Coworkerを活用して、[ タスクを]実行する方法をご確認ください。 [行動を促す2番目の文]
 doc-type: Feature Video
 duration: 180
-last-substantial-update: 2026-01-01T00:00:00.000Z
+last-substantial-update: 2026-01-01
 jira: KT-00000
 role: User
 level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: a08e1d51d2c8aec7b558b0c72efb39961b64dd6f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 2%
@@ -49,6 +49,13 @@ KEEPING CONTENT FROM BEING OVERWRITTEN
   the video fields in the front matter only. Updating the steps changes the
   documentation sections only. Make each kind of change in its own commit.
 - Each team edits its own front matter fields (see the comments above).
+
+SUGGESTED PROMPTS TO CREATE OR UPDATE
+
+In VSC, attach a template to Github Chat (or Claude), then use these prompts (or create your own):
+
+- Update `pagename.md` to align with the layout of this template. For additional editorial guidance, see `https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/basic-editorial-guidance`.
+- Use this template to create a page based on source information (wiki, transcript, jira, etc.).
 -->
 
 # 文頭のみ大文字のページのタイトル {#page-id}
