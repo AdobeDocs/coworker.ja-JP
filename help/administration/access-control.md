@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # 同僚のアクセス制御 {#access-control}
@@ -40,14 +40,20 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
 ## ユーザーアクセスの管理 {#manage-user-access}
 
+共同作業者の[!UICONTROL &#x200B; アクセス制御]を使用して、個人またはユーザーグループのアクセスを管理します。
+
+>[!NOTE]
+>
+>一括アクションごとに最大100人のユーザーまたはユーザーグループを選択します。 ユーザーを書き出す場合、書き出しには読み込まれたユーザーのみが含まれます。
+
 1. 「同僚」エクスペリエンスを開きます。 手順については、「[同僚にログイン &#x200B;](/help/chat/ui-guide.md#sign-in)」を参照してください。
-2. プロファイルメニューを開き、**[!UICONTROL 管理者設定]**&#x200B;を選択します。
+1. プロファイルメニューを開き、**[!UICONTROL 管理者設定]**&#x200B;を選択します。
 
    プロファイルメニューコントロールがハイライト表示された![同僚ホーム。](./assets/access-control/coworker-home.png)
 
    管理者設定がハイライト表示された![同僚プロファイルメニュー。](./assets/access-control/admin-settings.png)
 
-3. 「**[!UICONTROL アクセス制御]**」を選択します。
+1. 「**[!UICONTROL アクセス制御]**」を選択します。
 
    アクセス制御カードがハイライト表示された![管理者設定。](./assets/access-control/access-control.png)
 
@@ -55,7 +61,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507152?captions=jpn&learn=on){transcript=true}
 
-4. Coworkerでは、**[!UICONTROL ユーザー]**&#x200B;を使用して個人のアクセスを管理するか、**[!UICONTROL ユーザーグループ]**&#x200B;を使用してユーザーグループのCoworker アクセスを管理します。 ユーザーグループ設定は、そのメンバーに適用されます。
+1. 個別アクセスを管理する&#x200B;**[!UICONTROL ユーザー]**&#x200B;またはグループ アクセスを管理する&#x200B;**[!UICONTROL ユーザーグループ]**&#x200B;を選択します。 ユーザーグループ設定は、そのメンバーに適用されます。
 
    共同作業者ユーザーグループは[!DNL Adobe Admin Console] グループとは別です。 [!DNL Adobe Admin Console]から同僚へのユーザーグループの同期は近日リリース予定です。
 

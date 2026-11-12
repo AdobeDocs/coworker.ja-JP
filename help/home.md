@@ -4,7 +4,7 @@ description: Adobe CX Enterprise Coworkerについて学びましょう。組織
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 14%
@@ -14,6 +14,8 @@ ht-degree: 14%
 [!DNL Coworker]は、組織、チーム、個人の作業の性質を再構築するAIを活用したチームメイトです。 顧客体験とマーケティングのワークフローを自動化することで、組織はタスクを調整するのではなく、ビジネス目標の達成と成果の向上に集中できます。 エージェンティックエンジンとして、同社はビジネスプロセスの自動化に革新的なアプローチを取ります。 企業のコンテキスト、データ、インテリジェンス、コラボレーション、エージェンティックスキルの実行を統合し、ガバナンスと人間による管理を組み込むことで、AI モデルのパフォーマンスと精度を向上させます。
 
 Adobe Workfrontは、複雑で部門横断的な顧客体験ワークフローを運用する企業向けに設計されています。 Coworker ChatとCoworker Projectsが統合されているため、実務担当者は単一のタスクから、Coworker エクスペリエンス内の包括的なマルチチームワークフローに移行できます。 ガバナンス、承認、人間による監視は最初から統合されています。 [Adobe for Business](https://business.adobe.com/jp/products/cx-enterprise-coworker.html)の詳細をご覧ください。
+
+<div id="recs-overview-body-1"></div>
 
 ## 構成要素 {#building-blocks}
 
@@ -162,6 +164,13 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ### Experience League LIVEに参加する
 
