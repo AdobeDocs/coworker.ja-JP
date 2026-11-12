@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
+source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '373'
 ht-degree: 14%
 ---
 
@@ -57,6 +57,7 @@ ht-degree: 14%
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
       - [プラットフォームの健全性を評価し、オーディエンスを構築する](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [アイデアからアクティベーション可能なオーディエンスへ](./chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
       - [オーディエンスが急増/急減した理由？](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
