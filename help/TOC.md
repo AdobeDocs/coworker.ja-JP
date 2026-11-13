@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
+source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '380'
 ht-degree: 14%
 ---
 
@@ -82,6 +82,7 @@ ht-degree: 14%
       - [ブランドコンプライアンスのチェック](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [AEM Sites ページの作成](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assetsのオンボーディング](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [Workfrontでアセットソーシングポータルを構築する](./chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
       - [マーケティングアセットの生成](./chat/use-cases/brand-visibility/generate-assets.md)
     - ワークフロー/プランニング {#workflow-and-planning}
       - [デジタルキャンペーンの立ち上げ計画](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
