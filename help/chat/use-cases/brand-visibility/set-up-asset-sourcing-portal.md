@@ -20,4 +20,4 @@ ht-degree: 0%
 
 AEM Assets向けAdobe Asset Sourcing PortalをCoworkerと連携して設定し、サプライヤーにスコープ付きポータルへのアクセス権を付与する方法について説明します。 Adobe Experience Manager Assetsのカスタムメタデータフィールドをマッピングし、アセットを取り込む際にメタデータを自動的に同期できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508277/?captions=jpn&learn=on&enablevpops)
