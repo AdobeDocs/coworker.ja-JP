@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -212,6 +212,18 @@ ht-degree: 8%
 **関連情報**
 
 * [Coworker for Decisioning](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}は、Adobe Journey Optimizerの意思決定スキルに関する詳細なガイダンス、ユースケース、プロンプトのベストプラクティスを提供します。
+
+## プロセスマネージャー
+
+>[!AVAILABILITY]
+>
+>プロセスマネージャーは&#x200B;**ベータ**&#x200B;です。 プロセスマネージャーについて詳しくは、[&#x200B; プロセスマネージャーの概要](https://experienceleague.adobe.com/ja/docs/experience-platform/process-manager/home)を参照してください。
+
+| ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
+| --- | --- | --- | --- | --- |
+| Process Manager builder | プロセスマネージャーでプロセスを設計、作成、更新、名前変更、削除します。 プロセスマネージャーで使用可能なタスクタイプを一覧表示します。 | `process-manager-builder` | プロセスマネージャー | 「Process Managerで使用できるプロセスをすべてリスト表示します。」 |
+| プロセスマネージャーの実行演算子 | 実行を開始し、実行のステータスと履歴を確認し、実行が失敗した理由を確認し、既存の実行を再実行し、進行中の実行をキャンセルします。 | `process-manager-run-operator` | プロセスマネージャー | 「サンプルプロセスでの実行履歴を確認する」 |
+| Process Manager スケジューラー | プロセスマネージャーのスケジュールの作成、変更、一時停止、再開、一覧表示、削除 | `process-manager-scheduler` | プロセスマネージャー | 「サンプルプロセスのスケジュールのリスト」 |
 
 ## チャネル
 
