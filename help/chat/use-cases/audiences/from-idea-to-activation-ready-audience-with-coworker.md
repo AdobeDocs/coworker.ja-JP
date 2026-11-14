@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Coworkerを使用して、平易な言語のリクエストをターゲットマーケティングオーディエンスに変える方法を説明します。 明確な質問に答えてオーディエンスを絞り込み、その後、Adobe Workfrontで直接作成させ、配信先をまたいで活用する、といった具合です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508217/?captions=jpn&learn=on&enablevpops)
