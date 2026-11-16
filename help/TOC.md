@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '385'
 ht-degree: 14%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -52,7 +52,7 @@ ht-degree: 14%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -86,6 +86,8 @@ ht-degree: 14%
       - [マーケティングアセットの生成](./chat/use-cases/brand-visibility/generate-assets.md)
     - ワークフロー/プランニング {#workflow-and-planning}
       - [デジタルキャンペーンの立ち上げ計画](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
+- 共同作業者プロジェクト {#projects}
+  - [共同作業プロジェクトについて](./projects/overview.md)
 - カスタマイズ {#customizations}
   - [カスタマイズの概要](./customizations/overview.md)
   - スキル {#skills}

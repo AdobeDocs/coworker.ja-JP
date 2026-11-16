@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker チャットの概要
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 8%
+source-wordcount: '514'
+ht-degree: 9%
 ---
 # さらに詳しく {#overview}
 
@@ -19,15 +19,15 @@ ht-degree: 8%
 
 >[!AVAILABILITY]
 >
->Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[&#x200B; スキル &#x200B;](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
+>Coworker Chatが一般公開されました。 機能や接続アプリケーションは拡大し続けます。 現在サポートされている内容については、利用可能な[ スキル ](./use-cases/workflows.md)およびコネクターのセクションを確認してください。
 
 >[!NOTE]
 >
->Coworker Chatは、Adobe CX Enterprise Coworkerのモジュールのひとつです。 他の2つのモジュールが同じ基盤を拡張します。Coworker for teams （1つの会話から完全なキャンペーンを立ち上げて開始する）とCoworker Projects （エンドツーエンドのマルチチームワークフロー用の常時対応型ワークスペース）です。 このページでは、同僚とのチャットについて説明します。
+>共同作業者チャットと[共同作業者プロジェクト ](/help/projects/overview.md)は、Adobe CX Enterprise Coworkerのモジュールです。 このページでは、同僚とのチャットについて説明します。
 
 ## AI アシスタントによる進化
 
-共同作業者チャットは、[AI アシスタント &#x200B;](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットでは、共有の[共同作業者ビルディングブロック &#x200B;](/help/home.md#building-blocks)を使用して、質問に答えるだけでなく、会話を通じて作業を完了します。
+共同作業者チャットは、[AI アシスタント ](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui)およびAdobe Experience Platform Agent Orchestratorに続く次のステップです。 製品情報、業務およびデータインサイトなど、現在AI アシスタントで実行できるあらゆる機能は、引き続き利用可能です。 共同作業者チャットでは、共有の[共同作業者ビルディングブロック ](/help/home.md#building-blocks)を使用して、質問に答えるだけでなく、会話を通じて作業を完了します。
 
 ## チャット体験
 
@@ -56,4 +56,4 @@ ht-degree: 8%
 
 ## ビデオの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3495968?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
