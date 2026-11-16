@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '385'
 ht-degree: 14%
 ---
 
@@ -86,6 +86,8 @@ ht-degree: 14%
       - [マーケティングアセットの生成](./chat/use-cases/brand-visibility/generate-assets.md)
     - ワークフロー/プランニング {#workflow-and-planning}
       - [デジタルキャンペーンの立ち上げ計画](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
+- 共同作業者プロジェクト {#projects}
+  - [共同作業プロジェクトについて](./projects/overview.md)
 - カスタマイズ {#customizations}
   - [カスタマイズの概要](./customizations/overview.md)
   - スキル {#skills}

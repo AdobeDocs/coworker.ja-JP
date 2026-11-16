@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker チャットの概要
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 8%
+source-wordcount: '514'
+ht-degree: 9%
 ---
 # さらに詳しく {#overview}
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Coworker Chatは、Adobe CX Enterprise Coworkerのモジュールのひとつです。 他の2つのモジュールが同じ基盤を拡張します。Coworker for teams （1つの会話から完全なキャンペーンを立ち上げて開始する）とCoworker Projects （エンドツーエンドのマルチチームワークフロー用の常時対応型ワークスペース）です。 このページでは、同僚とのチャットについて説明します。
+>共同作業者チャットと[共同作業者プロジェクト &#x200B;](/help/projects/overview.md)は、Adobe CX Enterprise Coworkerのモジュールです。 このページでは、同僚とのチャットについて説明します。
 
 ## AI アシスタントによる進化
 

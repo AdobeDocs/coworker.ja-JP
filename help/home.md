@@ -4,9 +4,9 @@ description: Adobe CX Enterprise Coworkerについて学びましょう。組織
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1369'
 ht-degree: 14%
 ---
 # CX Enterprise Coworkerの概要 {#overview}
@@ -36,7 +36,7 @@ Coworker ChatとCoworker Projectsは、特に記載されている場合を除�
 | --- | --- | --- |
 | [同僚[!UICONTROL &#x200B; チャット &#x200B;]](./chat/overview.md) | Adobeのさまざまなアプリケーションをまたいで、自然言語でインサイト、コンテンツ、アクションを獲得できます。 | Adobeアカウントチームのライセンスを取得。 [利用状況の確認](#chat-availability)を参照してください。 |
 | [&#x200B; チームの同僚](./coworker-for-teams/overview.md) | 小規模なアジャイルなマーケティングチームとして、キャンペーンの目標から実行を調整する。 | 2026年12月31日（PT）までの無料トライアル。 北米のみ。 |
-| 共同作業者[!UICONTROL &#x200B; プロジェクト &#x200B;] | チームがプロセス、承認、従業員の自律性のレベルを設定する、長期的な部門横断的なワークフローを実行します。 | 近日リリース予定 |
+| [同僚プロジェクト &#x200B;](/help/projects/overview.md) | 進捗、承認、ガバナンスを共有し、チームをまたいでワークフローを調整できます。 | 限定的な連携で、 今後のご利用について詳しくは、Adobe アカウント担当者にお問い合わせください。 |
 
 ## 共同作業者チャット
 
