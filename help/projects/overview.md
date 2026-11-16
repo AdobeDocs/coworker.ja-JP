@@ -82,6 +82,6 @@ Journey Optimizerでキャンペーンとジャーニーの運用状態をモニ
 
 このビデオでは、同僚のプロジェクトについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508236?captions=jpn&learn=on){transcript=true}
 
 
