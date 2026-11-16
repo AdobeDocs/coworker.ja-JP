@@ -24,7 +24,7 @@ Coworker Projectsは、実務担当者が再利用可能なワークフローを
 
 >[!NOTE]
 >
->共同作業者プロジェクトと[共同作業者チャット ](/help/chat/overview.md)は、Adobe CX Enterprise Coworkerのモジュールです。 このページでは、共同作業プロジェクトについて説明します。
+>共同作業者プロジェクトと[共同作業者チャット &#x200B;](/help/chat/overview.md)は、Adobe CX Enterprise Coworkerのモジュールです。 このページでは、共同作業プロジェクトについて説明します。
 
 ## 含まれるプロジェクトテンプレート {#project-templates}
 
