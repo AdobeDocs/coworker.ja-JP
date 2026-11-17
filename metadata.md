@@ -6,11 +6,11 @@ mini-toc-levels: 2
 usetq: true
 git-repo: https://github.com/AdobeDocs/coworker.ja-JP
 index: true
-nudge: true
+color: blue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 49dc3831305c8a1898214a5ad2599707a12c097c
+source-git-commit: 837641cdd202191a8381a6683c8ff58a0bc51a4c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%

@@ -4,10 +4,10 @@ description: CX Enterprise Coworker ドキュメントの新しい更新され�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # ドキュメントの更新 {#documentation-updates}
 
@@ -15,8 +15,27 @@ ht-degree: 0%
 
 ## 2026年11月 {#nov-2026}
 
+**2026年11月16日**
+
+* 新規：[同僚プロジェクトについて](../projects/overview.md)。 共同作業プロジェクトの空き状況は限られています。
+* 更新日：[同僚チャットについて](../chat/overview.md)。 互換性のあるアプリケーションリストには、Customer Journey Analytics B2B edition、Content Analytics、Marketing Campaign Analyticsが含まれるようになりました。 この記事はCoworker Projectsにもリンクされています。
+
+**2026年11月13日**
+
+* 新規：[同僚とのアセットソーシングポータルの構築](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
+* 更新：[同僚](../administration/access-control.md)のアクセス制御。 この記事では、一括アクション（最大100人のユーザーまたはユーザーグループ）の制限について説明し、デフォルトの同僚アクセス設定を明確にしました。
+
+**2026年11月12日**
+
+* 更新：[同僚チャットワークフロー](../chat/use-cases/workflows.md)。 この記事には、プロセスの構築、実行、スケジュール設定に関するプロセスマネージャーのスキルが記載されています。 Process Managerはベータ版です。
+
+**2026年11月11日**
+
+* 新規：[&#x200B; アイデアからアクティベーション可能なオーディエンスへ](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
+
 **2026年11月10日**
 
+* 新規：[同僚イベントの監査](../administration/audit.md)
 * 更新：[同僚チャットを開始](../chat/ui-guide.md)。 可用性テーブルに、Customer Journey Analytics B2B edition、Content AnalyticsおよびMarketing Campaign Analyticsが一覧表示されるようになりました。 没入感のある体験は、この3つすべてで提供されます。 Customer Journey Analytics B2B editionおよびContent Analyticsで製品体験を利用できます。近日、Marketing Campaign Analyticsでも利用できるようになります。
 
 **2026年11月4日**
