@@ -4,13 +4,13 @@ solution: Coworker
 type: Documentation
 mini-toc-levels: 2
 usetq: true
-git-repo: https://github.com/AdobeDocs/coworker.ja-JP
+git-repo: https://github.com/AdobeDocs/coworker.en
 index: true
-color: blue
+color: red
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 837641cdd202191a8381a6683c8ff58a0bc51a4c
+source-git-commit: 5cde47d1b38a943479f95512b7dc5b61b7306a8d
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
