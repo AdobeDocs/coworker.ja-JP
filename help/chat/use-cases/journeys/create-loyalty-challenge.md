@@ -12,9 +12,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 1%
 ---
 
@@ -31,5 +31,5 @@ CX Enterprise Coworkerなら、平易な言葉でプロンプトを入力し、�
 ## 関連トピック
 
 - [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
-- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"}。
+- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"}。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)
