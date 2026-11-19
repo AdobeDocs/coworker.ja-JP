@@ -6,10 +6,10 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 14%
+source-wordcount: '389'
+ht-degree: 21%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -22,7 +22,7 @@ ht-degree: 14%
 - 共同作業者チャット {#chat}
   - [さらに詳しく](./chat/overview.md)
   - [同僚とのチャットを始める](./chat/ui-guide.md)
-  - {hide-from-toc}[遊び場での同僚のチャット &#x200B;](./playground-coworker-chat.md)
+  - {hide-from-toc}[遊び場での同僚のチャット ](./playground-coworker-chat.md)
   - ワークフロー {#use-cases}
     - [共同作業者チャットワークフロー](./chat/use-cases/workflows.md)
     - データインサイト {#data-insights}
@@ -52,7 +52,7 @@ ht-degree: 14%
       - マーケティングの測定とアトリビューション {#marketing-measurement-and-attribution}
         - [概要](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - データオンボーディング {#data-onboarding}
-      - {hide-from-toc}[同僚とのデータのオンボーディング &#x200B;](./agents/data-onboarding-skill.md)
+      - {hide-from-toc}[同僚とのデータのオンボーディング ](./agents/data-onboarding-skill.md)
     - データ管理 {#data-management}
       - [データレイクの管理](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - オーディエンス {#audiences}
@@ -62,12 +62,12 @@ ht-degree: 14%
     - ジャーニー {#journeys}
       - [自然言語を使用したジャーニーの作成](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [画像からのジャーニーの作成](./chat/use-cases/journeys/create-journey-from-image.md)
-      - [Coworkerを使用したジャーニーのシミュレーション](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Coworker を使用したジャーニーのシミュレート](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [顧客エンゲージメントの促進](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
-      - [Coworkerを使用したジャーニーのバージョンの比較](./chat/use-cases/journeys/journey-version-comparison.md)
-      - [クロスチャネルジャーニーの作成、シミュレーション、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
+      - [Coworker を使用したジャーニーのバージョンの比較](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [クロスチャネルジャーニーの作成、シミュレート、分析](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - ロイヤルティ {#loyalty}
-      - [ロイヤルティに関する課題を作成し、インサイトを獲得](./chat/use-cases/journeys/create-loyalty-challenge.md)
+      - [ロイヤルティの課題の作成とインサイトの表示](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - 最適化 {#optimization}
       - [Target アクティビティの起動](./chat/use-cases/optimization/target.md)
       - [テストの加速](./chat/use-cases/optimization/accelerate-experimentation.md)
@@ -97,6 +97,7 @@ ht-degree: 14%
     - [スキルの管理と繰り返し](./customizations/skills/manage-and-iterate-on-skills.md)
   - 統合 {#integrations}
     - [統合とは何ですか？](./customizations/integrations/understanding-integrations-in-coworker.md)
+    - [最初の統合を有効にする](./customizations/integrations/enable-your-first-integration.md)
   - プラグイン {#plugins}
     - [プラグインとは何ですか？](./customizations/plugins/what-are-plugins.md)
     - [組織のプラグインの管理](./customizations/plugins/manage-plugins-for-your-org.md)
