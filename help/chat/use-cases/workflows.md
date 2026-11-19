@@ -4,9 +4,9 @@ title: 共同作業者チャットワークフロー
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
+source-wordcount: '9483'
 ht-degree: 8%
 ---
 # 共同作業者チャットワークフロー {#use-cases}
@@ -205,13 +205,16 @@ ht-degree: 8%
 
 ## 決定
 
+Coworker Chatを使用して、Adobe Journey OptimizerでDecisioning オブジェクトを管理します。自然言語プロンプトから、実施要件ルール、ランキング式、頻度キャッピング式、決定項目を作成および管理します。
+
 | ワークフロー | 説明 | スキル | アプリケーション | サンプルプロンプト |
 | --- | --- | --- | --- | --- |
-| [決定ルールの生成、説明、シミュレーション、最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | 自然言語を使って適格性ルールやランキング式を作成し、平易な英語の説明を得ることができます。<br> 最大3つのプロファイルに対してテストします。<br> PQLの構文を手作業で記述することなく、PQLのサイズ制限に合わせて書き換えます。 | 決定ルールワークフロー | Adobe Journey Optimizer（AJO） | 「ティア 2以上のロイヤルティメンバーを対象とした実施要件ルールを作成します。」 <br><br> 「このルールを自然言語で説明します。」 <br><br> 「テストプロファイルでこのルールをシミュレートします。」 <br><br> 「このPQL ルールを自分に合わせて最適化します。」 |
+| [決定ルールの作成、管理、シミュレーション、最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | 自然言語を使用して、実施要件ルール、ランキング式、オファー項目の頻度キャップ式を作成、検索、修正、削除し、平易な英語の説明を取得します。<br> 最大3つのプロファイルに対して検証し、テストします。<br> PQLの構文を手作業で記述することなく、PQLのサイズ制限に合わせて書き換えます。 | 決定ルールワークフロー | Adobe Journey Optimizer（AJO） | 「Tier 2以上のロイヤルティメンバーを対象とした実施要件ルールを作成します。」 <br><br> 「このルールを自然言語で説明します。」 <br><br> 「テストプロファイルでこのルールをシミュレートします。」 <br><br> 「このPQL ルールを自分に合わせて最適化します。」 <br><br> 「ランキング式をリストします。」 <br><br> 「クリックイベントをカウントするキャッピングルールを作成します。」 |
+| [決定項目の作成と管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | ラベルやタグ、適格性、スケジュール、頻度の上限、コンテンツフラグメント、カスタム属性など、決定項目（オファー）をチャットで説明することで作成します。<br> 項目を更新、承認、未承認、アーカイブ、または完全に削除します。<br> CSV ファイルまたはリストから一度に複数の項目を作成または更新します。 | オファー項目ワークフローの決定 | Adobe Journey Optimizer（AJO） | 「drcのような名前のプレースメントにキャッピングされたオファーを作成します。」 <br><br> 「このCSV ファイルから決定項目を作成します。」 <br><br> 「サマーセール項目を承認します。」 <br><br> 「このオファーをアーカイブします。」 |
 
 **関連情報**
 
-* [Coworker for Decisioning](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}は、Adobe Journey Optimizerの意思決定スキルに関する詳細なガイダンス、ユースケース、プロンプトのベストプラクティスを提供します。
+* [Coworker for Decisioning](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"}は、Adobe Journey OptimizerのDecisioning Rule WorkflowおよびDecisioning Offer Item Workflow スキルに関する詳細なガイダンス、ユースケース、プロンプトに関するベストプラクティスを提供します。
 
 ## プロセスマネージャー
 
