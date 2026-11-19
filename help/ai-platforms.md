@@ -4,9 +4,9 @@ description: Adobe CX Enterprise CoworkerのAI基盤について詳しく見る�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
+source-git-commit: 9210150fc17e1d10484e5aff3997dc0cfbc429de
 workflow-type: tm+mt
-source-wordcount: '2104'
+source-wordcount: '2161'
 ht-degree: 1%
 ---
 
@@ -25,7 +25,7 @@ AI プラットフォームにCoworkerを利用する追加コストはありま
 CoworkerをAI プラットフォームで使用する前に、次の点を確認してください。
 
 * Adobe CX Enterprise Coworkerのプロビジョニングと、Adobeでのアクセス権を設定できます。
-* Adobe Experience Platformと、Adobe Real-Time CDP、Adobe Journey Optimizer、またはAdobe Customer Journey Analyticsの少なくとも1つ。
+* [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html) アプリケーションの1つ。
 * 「[同僚を設定](#set-up-coworker)」に記載されているAI プラットフォームへのアクセス。
 
 ## データアクセスと権限 {#data-access-and-permissions}
@@ -50,13 +50,13 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 ## 同僚の設定 {#set-up-coworker}
 
-設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[&#x200B; サンプルプロンプト &#x200B;](#example-prompts)を試してください。
+設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[ サンプルプロンプト ](#example-prompts)を試してください。
 
 * [Microsoft 365 コパイロット](#microsoft-365-copilot)
 * [ChatGPT](#chatgpt)
 * [クロード](#claude)
 * [ジェミニ・エンタープライズ](#gemini-enterprise)
-* [Amazon クイック](#amazon-quick)
+* [AWS クイック](#amazon-quick)
 * [IBM watsonx Orchestrate](#ibm-watsonx-orchestrate)
 * [Databricks](#databricks)
 
@@ -84,7 +84,7 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 [!DNL Microsoft 365 Copilot]で、**[!UICONTROL エージェント]**&#x200B;を選択してから、**[!UICONTROL その他のエージェント]**&#x200B;を選択します。
 
-![&#x200B; エージェント メニューを開き、その他のエージェントがハイライト表示されたMicrosoft 365 コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
+![ エージェント メニューを開き、その他のエージェントがハイライト表示されたMicrosoft 365 コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
 
 次に、エージェントカタログで「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択します。
 
@@ -136,11 +136,11 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 1. [!DNL Claude]で、**[!UICONTROL カスタマイズ]**&#x200B;を選択します。
 
-   カスタマイズがハイライト表示された![&#x200B; クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
+   カスタマイズがハイライト表示された![ クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
 
 1. **[!UICONTROL Connectors]**、**[!UICONTROL Discover]**&#x200B;を選択し、**[!UICONTROL Search]**&#x200B;を使用してAdobe CX Enterprise Coworkerを検索します。
 
-   ![&#x200B; 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
+   ![ 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
 
 1. 「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択し、「**[!UICONTROL クロードに接続]**」を選択します。
 
@@ -184,19 +184,19 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 1. Adobe CX Enterprise Coworkerを検索します。
 1. **[!UICONTROL Adobe CX Enterprise Coworker]**&#x200B;を選択し、プロンプトを入力して開始します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
-### [!DNL Amazon Quick] {#amazon-quick}
+### [!DNL AWS Quick] {#amazon-quick}
 
-[!DNL Amazon Quick]でCoworkerを使用してマーケティングインサイトを取得します。
+[!DNL AWS Quick]でCoworkerを使用してマーケティングインサイトを取得します。
 
-開始する前に、[!DNL Amazon Quick]とAdobe アカウントへのアクセス権があることを確認してください。
+開始する前に、[!DNL AWS Quick]とAdobe アカウントへのアクセス権があることを確認してください。
 
 #### Connect Coworker {#amazon-quick-connection}
 
-モデル コンテキスト プロトコル （MCP）を使用して[!DNL Amazon Quick]の同僚を接続します。 Adobeは、この接続に対して[!DNL Amazon Quick]を既に承認しています。
+モデル コンテキスト プロトコル （MCP）を使用して[!DNL AWS Quick]の同僚を接続します。 Adobeは、この接続に対して[!DNL AWS Quick]を既に承認しています。
 
-1. [!DNL Amazon Quick]で、**[!UICONTROL コネクタ]**&#x200B;に移動します。
+1. [!DNL AWS Quick]で、**[!UICONTROL コネクタ]**&#x200B;に移動します。
 1. MCPを検索し、コネクタ設定を開きます。
 1. MCP サーバーのURLとして`https://mcp.coworker.experience.adobe.io`を入力します。
 
@@ -207,9 +207,9 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 #### 同僚にアクセス {#amazon-quick-access}
 
-Coworkerを接続した後、[!DNL Amazon Quick]で使用して、Adobe データについて質問します。
+Coworkerを接続した後、[!DNL AWS Quick]で使用して、Adobe データについて質問します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 ### [!DNL IBM watsonx Orchestrate] {#ibm-watsonx-orchestrate}
 
@@ -230,8 +230,8 @@ OAuthを使用してWorkfrontに接続し、Adobe アカウントで認証しま
 
    | フィールド | 値 |
    | --- | --- |
-   | [!UICONTROL &#x200B; サーバーURL] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL &#x200B; トークン URL] | OAuth クライアントのトークンエンドポイントが確認されました。 |
+   | [!UICONTROL  サーバーURL] | `https://mcp.coworker.experience.adobe.io` |
+   | [!UICONTROL  トークン URL] | OAuth クライアントのトークンエンドポイントが確認されました。 |
    | [!UICONTROL 認証URL] | OAuth クライアントの認証エンドポイントが確認されました。 |
    | [!UICONTROL クライアント ID] | 承認済みのOAuth クライアント ID。 |
    | [!UICONTROL クライアント秘密鍵] | 承認済みのOAuth クライアントシークレット。 |
@@ -261,8 +261,8 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 
    | フィールド | 値 |
    | --- | --- |
-   | [!UICONTROL &#x200B; サーバー名] | `cx-coworker`などのわかりやすい名前。 |
-   | [!UICONTROL &#x200B; トランスポートの種類] | [!UICONTROL &#x200B; ストリーミング可能なHTTP] |
+   | [!UICONTROL  サーバー名] | `cx-coworker`などのわかりやすい名前。 |
+   | [!UICONTROL  トランスポートの種類] | [!UICONTROL  ストリーミング可能なHTTP] |
    | [!UICONTROL MCP サーバーのURL] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL 接続] | 認証した同僚の接続。 |
 
@@ -280,7 +280,7 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 1. 必要な同僚ツールを選択し、**[!UICONTROL エージェントに追加]**&#x200B;を選択します。
 1. **[!UICONTROL ドラフトプレビュー]**&#x200B;にプロンプトを入力し、応答を確認して、接続が機能することを確認します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 ### [!DNL Databricks] {#databricks}
 
@@ -302,7 +302,7 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
    | フィールド | 値 |
    | --- | --- |
    | [!UICONTROL ホスト] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL 基本パス &#x200B;] | `/mcp` |
+   | [!UICONTROL 基本パス ] | `/mcp` |
    | [!UICONTROL 資格情報の種類] | [!UICONTROL OAuth U2M] |
 
    カタログ、スキーマ、接続、資格情報フィールドを含むAdobe CX Enterprise Coworkerの![Databricks Marketplace インストール ダイアログ。](./assets/ai-platforms/databricks/databricks-install.png){width="700"}
@@ -332,11 +332,11 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 
 1. **[!UICONTROL 新しいチャット]**&#x200B;を選択し、「Adobe Coworkerを使用して、公開されたオーディエンスを一覧表示する」などのプロンプトを入力します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 <!-- Setup steps for Microsoft 365 Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
 
-<!-- Amazon Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
+<!-- AWS Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
 
 ## サンプルプロンプト {#example-prompts}
 
@@ -346,6 +346,17 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 * 先月の指標を表示します。
 * アクティブなWorkfront プロジェクトを表示します。
 * ロイヤルティオーディエンスでジャーニーを示す。
+
+## 認証と情報ソース {#authentication-and-information-sources}
+
+Adobeの資格情報でログインしたら、組織を選択します。 Coworkerは、デフォルトのサンドボックスとデータビューを情報ソースとして使用します。
+
+情報ソースを変更するには、これらのプロンプトのいずれかを入力します。 プレースホルダーを、使用するデータビューまたはサンドボックスの名前に置き換えます。
+
+* `switch dataview to <dataview>`
+* `switch sandbox to <sandbox>`
+
+チームメンバーは、変更を確認するために応答します。 確認はAI プラットフォームによって異なります。
 
 ## 既知の制限事項 {#known-limitations}
 
