@@ -59,7 +59,7 @@ Adobe CX Enterprise Coworkerのアクセス制御を使用して、Coworkerを�
 
    このビデオでは、同僚ユーザーの管理方法について説明します。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507152?captions=jpn&learn=on){transcript=true}
 
 1. **[!UICONTROL 既定のアクセス権を設定]**&#x200B;で、組織のアクセス権をオンまたはオフにします。
 
