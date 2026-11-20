@@ -21,6 +21,6 @@ Coworkerを使用してAdobe Journey Optimizer ジャーニーのバージョン
 
 ## 関連トピック
 
-- [ ジャーニーの共同作業者：バージョン比較のユースケースとサンプルプロンプトのジャーニーツール ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}
+- [&#x200B; ジャーニーの共同作業者：バージョン比較のユースケースとサンプルプロンプトのジャーニーツール &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}
 - [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)

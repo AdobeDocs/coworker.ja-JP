@@ -23,6 +23,6 @@ Adobe CX Enterprise Coworkerが、Adobeのアプリケーションをまたい�
 ## 関連トピック
 
 - [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
-- [ ジャーニーの共同作業者：Adobe Journey Optimizerでチャネル固有のメッセージコンテンツを生成するためのチャネルコンテンツ作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}。
+- [&#x200B; ジャーニーの共同作業者：Adobe Journey Optimizerでチャネル固有のメッセージコンテンツを生成するためのチャネルコンテンツ作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}。
 - [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)

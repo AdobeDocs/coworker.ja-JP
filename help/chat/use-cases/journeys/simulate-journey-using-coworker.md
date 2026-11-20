@@ -34,6 +34,6 @@ Adobe WorkfrontのCoworkerを使用して、自動生成されたテストプロ
 
 ## 関連トピック
 
-- [Coworker for Journey: ジャーニーシミュレーション ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}。重要なユースケースと、Coworkerによるジャーニーのシミュレーションに関する制限があります。
+- [Coworker for Journey: ジャーニーシミュレーション &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}。重要なユースケースと、Coworkerによるジャーニーのシミュレーションに関する制限があります。
 - [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)
