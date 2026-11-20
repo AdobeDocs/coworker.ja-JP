@@ -56,11 +56,11 @@ ht-degree: 1%
 
 1. 共同作業者設定ダイアログに表示されている&#x200B;**[!UICONTROL リダイレクト URL]**&#x200B;のドメインを追加します。 ダイアログについては、[組織のコネクタの設定](#configure-organization)を参照してください。
 
-   完全なURLを貼り付ける代わりに、[!DNL Atlassian] ドメイン形式のルールに従います。 詳しくは、[!DNL Atlassian] ドキュメントの[使用可能なAtlassian MCP サーバードメイン ](https://support.atlassian.com/security-and-access-policies/docs/available-atlassian-mcp-server-domains/)を参照してください。
+   完全なURLを貼り付ける代わりに、[!DNL Atlassian] ドメイン形式のルールに従います。 詳しくは、[!DNL Atlassian] ドキュメントの[使用可能なAtlassian MCP サーバードメイン &#x200B;](https://support.atlassian.com/security-and-access-policies/docs/available-atlassian-mcp-server-domains/)を参照してください。
 
 1. [!DNL Atlassian]管理者がMCP権限グループ、アプリ ポリシー、およびIP権限許可リストを確認します。 詳しくは、次の[!DNL Atlassian] ドキュメントを参照してください。
 
-   * [各ツールに必要な権限グループとスコープに対して、サポートされているAtlassian MCP ツール ](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)
+   * [各ツールに必要な権限グループとスコープに対して、サポートされているAtlassian MCP ツール &#x200B;](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)
    * [認証とIP許可リストに加える用にAtlassian MCP サーバーの設定](https://support.atlassian.com/security-and-access-policies/docs/control-atlassian-mcp-server-settings/)を制御する
 
 設定する環境には、常に同僚ダイアログに表示されるリダイレクト URLを使用してください。 別の環境からリダイレクト URLをコピーしないでください。
@@ -73,9 +73,9 @@ ht-degree: 1%
 
 1. **[!UICONTROL Connect Jira / Atlassian Rovo]** ダイアログで、修正された&#x200B;**[!UICONTROL サーバーURL]**、`https://mcp.atlassian.com/v2/mcp`を確認します。
 
-   **[!UICONTROL リダイレクト URL]**&#x200B;を確認し、[ アトラシアン アクセスの準備](#prepare-atlassian)の説明に従って、[!DNL Atlassian]管理者がそのドメインを承認していることを確認します。 OAuth資格情報は入力できません。
+   **[!UICONTROL リダイレクト URL]**&#x200B;を確認し、[&#x200B; アトラシアン アクセスの準備](#prepare-atlassian)の説明に従って、[!DNL Atlassian]管理者がそのドメインを承認していることを確認します。 OAuth資格情報は入力できません。
 
-1. **[!UICONTROL ユーザーが利用できるツール]**&#x200B;で、メンバーが使用できるツールを選択します。 詳しくは、[使用可能なツール ](#available-tools)を参照してください。
+1. **[!UICONTROL ユーザーが利用できるツール]**&#x200B;で、メンバーが使用できるツールを選択します。 詳しくは、[使用可能なツール &#x200B;](#available-tools)を参照してください。
 
    `getAccessibleAtlassianResources` サイト検出ツールが必要で、有効なままです。 他の5つのツールはオプションです。 組織内のすべてのユーザーに対してオプションのツールをブロックするには、そのツールを削除します。 削除したツールを復元するには、**[!UICONTROL すべてのツールを復元]**&#x200B;を選択します。 サイト検出のみを有効にして設定を保存できますが、メンバーは作業項目の読み取りや検索を行うことはできません。
 
@@ -113,7 +113,7 @@ ht-degree: 1%
 
 オプションのツールを削除すると、Coworkerでの利用が制限されます。 コネクタがログイン時に要求するOAuth スコープを減らすことはありません。
 
-各ツールには、特定の[!DNL Atlassian]権限グループとスコープが必要です。 詳しくは、[!DNL Atlassian] ドキュメントの[ サポートされているAtlassian MCP ツール ](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)を参照してください。
+各ツールには、特定の[!DNL Atlassian]権限グループとスコープが必要です。 詳しくは、[!DNL Atlassian] ドキュメントの[&#x200B; サポートされているAtlassian MCP ツール &#x200B;](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)を参照してください。
 
 ## メンバーとしてログイン {#sign-in-as-a-member}
 
@@ -121,7 +121,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL ユーザー]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。
 
-1. **[!UICONTROL Jira / Atlassian Rovo]** カードを検索します。 カードに「**[!UICONTROL 未設定]**」と「**[!UICONTROL まだ利用できません」と表示されている場合。 管理者がこの設定を行う必要があります。]**。管理者に[ コネクタの設定](#configure-organization)を依頼してください。 メンバーはコネクタを設定できません。
+1. **[!UICONTROL Jira / Atlassian Rovo]** カードを検索します。 カードに「**[!UICONTROL 未設定]**」と「**[!UICONTROL まだ利用できません」と表示されている場合。 管理者がこの設定を行う必要があります。]**。管理者に[&#x200B; コネクタの設定](#configure-organization)を依頼してください。 メンバーはコネクタを設定できません。
 
 1. **[!UICONTROL ログイン]**&#x200B;を選択し、対象の[!DNL Jira] サイトへのアクセス権を持つ[!DNL Atlassian] アカウントを使用します。 必要なシングルサインオン（SSO）、多要素認証（MFA）、同意プロンプトを入力します。 同意する前に、要求された読み取りおよび検索アクセスを確認してください。
 
@@ -152,7 +152,7 @@ ht-degree: 1%
 | 問題 | 確認すべきこと |
 | --- | --- |
 | クライアントまたはドメインのログインがブロックされています | 環境のリダイレクト URL ドメインが[!DNL Atlassian Administration]で&#x200B;**[!UICONTROL Atlassian MCP サーバー]**&#x200B;設定の下で承認されていることを確認します。 |
-| 同意は成功しますが、ツール呼び出しは拒否されます | [!DNL Jira]権限、MCP権限グループ [!DNL Atlassian]、アプリポリシー、IP権限許可リストを確認します。 各ツールに必要な権限グループについては、[ サポートされているAtlassian MCP ツール ](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)を参照してください。 |
+| 同意は成功しますが、ツール呼び出しは拒否されます | [!DNL Jira]権限、MCP権限グループ [!DNL Atlassian]、アプリポリシー、IP権限許可リストを確認します。 各ツールに必要な権限グループについては、[&#x200B; サポートされているAtlassian MCP ツール &#x200B;](https://support.atlassian.com/atlassian-ai-gateway/docs/supported-tools/)を参照してください。 |
 | JQL検索は失敗しますが、他の読み取りは機能します | 管理者が`searchJiraIssuesUsingJql`を有効にし、接続が`search:jira:agent-interface` スコープを要求していることを確認してください。 |
 | 同意が`invalid_request`を返します | 管理者に、接続が[!DNL Jira] スコープに加えて`read:me`と`read:account`を要求していることを確認するように依頼します。 |
 | 変更後も古いスコープが表示される | 古いユーザーレベル `jira_login`の認証プロバイダーの上書きは、組織の接続よりも優先される可能性があります。 管理者に、古い上書きのみを更新または削除するように依頼してから、再度ログインしてください。 |
