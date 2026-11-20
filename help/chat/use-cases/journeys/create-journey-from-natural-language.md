@@ -13,9 +13,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: da823df94cfeb096cfa02fd939e3025c54e6372b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '166'
 ht-degree: 1%
 ---
 
@@ -27,5 +27,7 @@ ht-degree: 1%
 
 ## 関連トピック
 
+- [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
 - [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)

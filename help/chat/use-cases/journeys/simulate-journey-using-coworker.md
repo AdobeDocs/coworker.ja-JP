@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # Coworkerを使用したAdobe Journey Optimizer ジャーニーのシミュレーション
@@ -31,3 +31,9 @@ ht-degree: 0%
 Adobe WorkfrontのCoworkerを使用して、自動生成されたテストプロファイルとイベントでAdobe Journey Optimizerジャーニーをシミュレートできます。 このビデオでは、公開前にジャーニーパスをテストし、プルーフメッセージを受け取り、パスカバレッジとシミュレーション結果を確認する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507032?captions=jpn&learn=on)
+
+## 関連トピック
+
+- [Coworker for Journey: ジャーニーシミュレーション &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}。重要なユースケースと、Coworkerによるジャーニーのシミュレーションに関する制限があります。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [その他の同僚チャットワークフロー](../workflows.md#journeys)

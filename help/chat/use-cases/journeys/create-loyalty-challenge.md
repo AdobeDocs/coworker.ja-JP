@@ -12,10 +12,10 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 44d80cde607adc9f8c688f85489dba2b932f0fbe
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 0%
 ---
 
 # Adobe Journey OptimizerとCoworker：ロイヤルティに関する課題を特定し、インサイトを獲得
@@ -32,4 +32,6 @@ CX Enterprise Coworkerなら、平易な言葉でプロンプトを入力し、�
 
 - [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
 - Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"}。
-- [その他の同僚チャットワークフロー](../workflows.md#journeys)
+- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティインサイト &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"}は、ロイヤルティポイント、階層、収益指標のクエリ用です。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [その他の同僚チャットワークフロー](../workflows.md#loyalty)
