@@ -23,7 +23,7 @@ ht-degree: 1%
 
 どのようなカスタマージャーニーを構築するのか、その方法をAdobe Journey Optimizerで文書化しましょう。 この動画では、Coworkerがトリガー、タイミング、チャネル、意思決定ロジックをどのように設定するかを説明し、ジャーニーのレビューと改善に集中できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496877/?captions=jpn&learn=on&enablevpops)
 
 ## 関連トピック
 
