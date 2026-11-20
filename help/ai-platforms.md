@@ -25,7 +25,7 @@ AI プラットフォームにCoworkerを利用する追加コストはありま
 CoworkerをAI プラットフォームで使用する前に、次の点を確認してください。
 
 * Adobe CX Enterprise Coworkerのプロビジョニングと、Adobeでのアクセス権を設定できます。
-* [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html) アプリケーションの1つ。
+* [Adobe CX Enterprise](https://business.adobe.com/jp/solutions/customer-experience-orchestration.html) アプリケーションの1つ。
 * 「[同僚を設定](#set-up-coworker)」に記載されているAI プラットフォームへのアクセス。
 
 ## データアクセスと権限 {#data-access-and-permissions}
