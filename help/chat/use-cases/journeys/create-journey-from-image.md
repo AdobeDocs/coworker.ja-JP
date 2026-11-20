@@ -23,14 +23,20 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
 # 画像からのジャーニーの作成
 
 PowerPoint スライドなどのフローチャート画像をCX Enterprise Coworkerにアップロードします。 このビデオでは、画像から抽出したプロンプトを確認し、トリガーイベントを指定し、編集可能なジャーニードラフトをAdobe Journey Optimizerに保存する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504866/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+
+## 関連トピック
+
+- [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [その他の同僚チャットワークフロー](../workflows.md#journeys)

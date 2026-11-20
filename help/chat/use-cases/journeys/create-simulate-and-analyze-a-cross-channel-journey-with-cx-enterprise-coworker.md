@@ -12,14 +12,22 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 4%
 ---
 
-# クロスチャネルジャーニーの作成、シミュレーション、分析
+# クロスチャネルジャーニーの作成、シミュレート、分析
 
 CX Enterprise Coworkerを使用して、平易な言葉でクロスチャネルジャーニーを構築し、メールやSMS コンテンツを生成できます。 このビデオでは、分岐パスをシミュレートし、診断を確認して設定の問題を特定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504707?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+
+## 関連トピック
+
+- [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
+- [ ジャーニーの共同作業者：Adobe Journey Optimizerでチャネル固有のメッセージコンテンツを生成するためのチャネルコンテンツ作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}。
+- [Coworker for Journey: ジャーニーシミュレーション ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}。重要なユースケースと、Coworkerによるジャーニーのシミュレーションに関する制限があります。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [その他の同僚チャットワークフロー](../workflows.md#journeys)
