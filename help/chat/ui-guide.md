@@ -63,7 +63,7 @@ Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 | 設定/ オプション | これを使用すると、次の操作を実行できます。 |
 | --- | --- |
 | アカウント名とメールアドレス | ログインしているAdobe アカウントを確認します。 |
-| **[!UICONTROL 通知]** （ベル アイコン） | [通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)を表示します。 |
+| **[!UICONTROL 通知]** （ベル アイコン） | [通知](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud)を表示します。 |
 | **[!UICONTROL テーマ]** | 明るいテーマと暗いテーマを切り替えます。 |
 | **[!UICONTROL アプリ設定]** | アカウントの詳細とワークスペースの設定を表示します。 |
 | **[!UICONTROL 環境設定]** | アカウント [環境設定](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences)を開きます。 矢印は、ページが同僚の外で開くことを示します。 |
