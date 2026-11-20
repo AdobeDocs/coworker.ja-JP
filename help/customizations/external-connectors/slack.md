@@ -77,13 +77,13 @@ Coworkerでコネクタを設定する前に、アプリ所有者が[!DNL Slack]
 コネクタは、各メンバーのアカウントを認証するユーザーOAuth スコープを使用します。 ボットスコープは使用しません。
 
 1. [!DNL Slack] アプリ設定で、**[!UICONTROL OAuth &amp; Permissions]** > **[!UICONTROL スコープ]** > **[!UICONTROL ユーザートークンスコープ]**&#x200B;を選択します。
-1. 組織が承認するユーザー範囲を追加します。 Coworkerの[ デフォルトのスコープ ](#review-scopes)と比較し、リクエストするスコープのみを追加します。
+1. 組織が承認するユーザー範囲を追加します。 Coworkerの[&#x200B; デフォルトのスコープ &#x200B;](#review-scopes)と比較し、リクエストするスコープのみを追加します。
 
    既定のスコープは、Coworkerの既定の機能セットです。[!DNL Slack]が必要とする最小値ではありません。 古い`search:read` スコープではなく、詳細な`search:read.*` スコープを使用してください。 アプリマニフェストでは、ユーザースコープは`oauth_config.scopes.bot`ではなく`oauth_config.scopes.user`に属しています。
 
 `chat:write` ユーザースコープでは、共同作業者がログインしているメンバーとしてメッセージを送信できます。 組織でメッセージを送信しない場合は、メッセージを除外します。
 
-ワークスペースまたは[!DNL Slack]のエンタープライズ組織では、アプリの承認とスコープのレビューが必要になる場合があります。 アプリの承認が各メンバーの同意に取って代わることはありません。 [!DNL Slack Marketplace]個のアプリのみを許可するポリシーは、内部アプリをブロックできます。 詳しくは、[ ワークスペースのアプリ承認の管理](https://slack.com/help/articles/222386767-Manage-app-approval-for-your-workspace)を参照してください。
+ワークスペースまたは[!DNL Slack]のエンタープライズ組織では、アプリの承認とスコープのレビューが必要になる場合があります。 アプリの承認が各メンバーの同意に取って代わることはありません。 [!DNL Slack Marketplace]個のアプリのみを許可するポリシーは、内部アプリをブロックできます。 詳しくは、[&#x200B; ワークスペースのアプリ承認の管理](https://slack.com/help/articles/222386767-Manage-app-approval-for-your-workspace)を参照してください。
 
 アプリで許可されたIP アドレス制限を使用している場合、[!DNL Slack]はMCP リクエストにも適用します。 許可するアドレスを確認するには、Adobe担当者にお問い合わせください。 IP アドレス範囲を推測しないでください。 セマンティック検索などの一部の機能は、[!DNL Slack] プランによって異なります。
 
@@ -92,7 +92,7 @@ Coworkerでコネクタを設定する前に、アプリ所有者が[!DNL Slack]
 Coworkerは、クライアント IDとクライアントシークレットを使用して、機密OAuth クライアントとして接続します。 [!DNL Slack]個のアプリ設定の一部を元に戻すことができません。変更する前に、次の点を確認してください。
 
 * **コード交換のプルーフ キー（PKCE）:**&#x200B;このコネクタの[!DNL Slack] PKCE設定を確認せずに有効にしないでください。 [!DNL Slack]は、この設定がアプリをパブリッククライアントに変更し、これを元に戻すことができるのは[!DNL Slack] サポートのみであることを文書化します。 詳しくは、[PKCEの使用](https://docs.slack.dev/authentication/using-pkce/)を参照してください。
-* **トークンのローテーション：** [!DNL Slack] トークンのローテーションは、オンにした後にオフにすることはできません。 このアプリの電源を入れる前に、Adobe担当者にお問い合わせください。 詳しくは、[ トークンのローテーションの使用](https://docs.slack.dev/authentication/using-token-rotation/)を参照してください。
+* **トークンのローテーション：** [!DNL Slack] トークンのローテーションは、オンにした後にオフにすることはできません。 このアプリの電源を入れる前に、Adobe担当者にお問い合わせください。 詳しくは、[&#x200B; トークンのローテーションの使用](https://docs.slack.dev/authentication/using-token-rotation/)を参照してください。
 
 ### ボット機能は必要ありません {#bot-features-not-required}
 
@@ -108,15 +108,15 @@ Coworkerは、クライアント IDとクライアントシークレットを使
 
    **[!UICONTROL Connect Slack]** ダイアログが開きます。 コネクターは、固定された[!DNL Slack] MCP サーバーURL `https://mcp.slack.com/mcp`を使用します。 個人用の接続ではなく、この構成の組織範囲を使用してください。
 
-1. [ リダイレクト URLの登録](#register-redirect-url)の説明に従って、**[!UICONTROL Slack アプリケーション]**&#x200B;の&#x200B;**[!UICONTROL リダイレクト URL]**&#x200B;がアプリに登録されていることを確認してください。 次に、アプリの&#x200B;**[!UICONTROL クライアント ID]**&#x200B;と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;を入力します。 両方のフィールドが必須です。
+1. [&#x200B; リダイレクト URLの登録](#register-redirect-url)の説明に従って、**[!UICONTROL Slack アプリケーション]**&#x200B;の&#x200B;**[!UICONTROL リダイレクト URL]**&#x200B;がアプリに登録されていることを確認してください。 次に、アプリの&#x200B;**[!UICONTROL クライアント ID]**&#x200B;と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;を入力します。 両方のフィールドが必須です。
 
    アプリ ID、署名秘密鍵、またはボットトークンは入力しないでください。 Coworkerは、資格情報をプレーンテキストコネクタ設定としてではなく、シークレットとして保存します。
 
    ![Slack アプリケーション セクションに、墨消しリダイレクト URL、空のクライアント IDおよびクライアント秘密鍵フィールド、デフォルトのUser OAuth スコープ、およびユーザーが使用できる最初のツールが表示されているConnect Slack ダイアログ。](./assets/slack/org-configure.png){width="500" zoomable="yes"}
 
-1. **[!UICONTROL ユーザーのOAuth スコープ]**&#x200B;を確認します。 詳しくは、[ ユーザーのOAuth スコープの確認](#review-scopes)を参照してください。
+1. **[!UICONTROL ユーザーのOAuth スコープ]**&#x200B;を確認します。 詳しくは、[&#x200B; ユーザーのOAuth スコープの確認](#review-scopes)を参照してください。
 
-1. ユーザーが利用できる&#x200B;**[!UICONTROL ツール]**&#x200B;の下で、メンバーが使用しないツールをすべて削除します。 少なくとも1つのツールが残っている必要があります。 詳しくは、[使用可能なツール ](#available-tools)を参照してください。
+1. ユーザーが利用できる&#x200B;**[!UICONTROL ツール]**&#x200B;の下で、メンバーが使用しないツールをすべて削除します。 少なくとも1つのツールが残っている必要があります。 詳しくは、[使用可能なツール &#x200B;](#available-tools)を参照してください。
 
 1. **[!UICONTROL アクセスと権限]**&#x200B;を確認し、**[!UICONTROL 接続を保存]**&#x200B;を選択します。 **[!UICONTROL Slack]** カードに&#x200B;**[!UICONTROL 設定が保存されました]**。
 
@@ -126,7 +126,7 @@ Coworkerは、クライアント IDとクライアントシークレットを使
 
    ![Connect Slack ダイアログに、ユーザーのOAuth スコープ、ユーザーが利用できる16個のツール、アクセスと権限に関する通知、OAuth認証、HTTP接続、および60秒のツール タイムアウト設定が表示されます。](./assets/slack/org-scopes-tools.png){width="500" zoomable="yes"}
 
-保存中は、あなたまたはメンバーが[!DNL Slack]にログインしていません。 接続を確認するには、「[ メンバーとしてログイン ](#sign-in-as-a-member)」の説明に従って、自分としてログインします。
+保存中は、あなたまたはメンバーが[!DNL Slack]にログインしていません。 接続を確認するには、「[&#x200B; メンバーとしてログイン &#x200B;](#sign-in-as-a-member)」の説明に従って、自分としてログインします。
 
 ### ユーザーのOAuth スコープの確認 {#review-scopes}
 
@@ -175,7 +175,7 @@ search:read.public search:read.private search:read.im search:read.mpim search:re
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL ユーザー]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。
 
-1. **[!UICONTROL Slack]** カードを検索します。 カードに「**[!UICONTROL 未設定]**」と「**[!UICONTROL まだ利用できません」と表示されている場合。 管理者がこの設定を行う必要があります。]**。管理者に[ コネクタの設定](#configure-organization)を依頼してください。
+1. **[!UICONTROL Slack]** カードを検索します。 カードに「**[!UICONTROL 未設定]**」と「**[!UICONTROL まだ利用できません」と表示されている場合。 管理者がこの設定を行う必要があります。]**。管理者に[&#x200B; コネクタの設定](#configure-organization)を依頼してください。
 
    組織のクライアントの秘密鍵を要求したり、コピーしたりしないでください。
 
@@ -191,7 +191,7 @@ search:read.public search:read.private search:read.im search:read.mpim search:re
    >
    >アプリを認識し、組織がリクエストされたアクセスを承認した場合にのみ続行します。
 
-1. 同僚に戻り、接続ステータスを確認します。 **[!UICONTROL 接続をテスト]**&#x200B;を選択し、[接続に依存する前にSlack アクセス ](#check-access)を確認します。
+1. 同僚に戻り、接続ステータスを確認します。 **[!UICONTROL 接続をテスト]**&#x200B;を選択し、[接続に依存する前にSlack アクセス &#x200B;](#check-access)を確認します。
 
 1. メッセージ施策を注意深く検証。 共同作業者は、メッセージと返信を[!DNL Slack] アカウントとして送信します。
 
