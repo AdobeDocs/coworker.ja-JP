@@ -4,9 +4,9 @@ description: Adobe CX Enterprise CoworkerのAI基盤について詳しく見る�
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 9210150fc17e1d10484e5aff3997dc0cfbc429de
+source-git-commit: 86f96b905c83d202ba5adbc0781582e96f61883e
 workflow-type: tm+mt
-source-wordcount: '2161'
+source-wordcount: '2157'
 ht-degree: 1%
 ---
 
@@ -25,14 +25,14 @@ AI プラットフォームにCoworkerを利用する追加コストはありま
 CoworkerをAI プラットフォームで使用する前に、次の点を確認してください。
 
 * Adobe CX Enterprise Coworkerのプロビジョニングと、Adobeでのアクセス権を設定できます。
-* [Adobe CX Enterprise](https://business.adobe.com/jp/solutions/customer-experience-orchestration.html) アプリケーションの1つ。
+* [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html) アプリケーションの1つ。
 * 「[同僚を設定](#set-up-coworker)」に記載されているAI プラットフォームへのアクセス。
 
 ## データアクセスと権限 {#data-access-and-permissions}
 
 AI プラットフォームの従業員は、Adobe IDに関連付けられた同じデータとアクセスレベルを反映しています。 Experience Platformとその関連ソリューションでは、クエリして表示できる内容が、すでに使用できる権限と一致します。 Coworkerはこれらの権限を継承するため、AI プラットフォーム統合に個別の権限の設定は必要ありません。 Coworkerは読み取り専用のインサイトを返し、顧客データを変更しません。 生成された要約や分析を確認してから、ビジネス上の意思決定に活用できます。
 
-<!-- Confirmed by PM (Siddhartha Srivastava) on 2026-09-02 for Microsoft 365 Copilot, Claude, and ChatGPT. Validate this permissions model for each additional platform before adding its setup section. -->
+<!-- Confirmed by PM (Siddhartha Srivastava) on 2026-09-02 for Microsoft Copilot, Claude, and ChatGPT. Validate this permissions model for each additional platform before adding its setup section. -->
 
 ## 主なユースケース {#key-use-cases}
 
@@ -46,13 +46,13 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 | ワークフローとコンテンツの最適化 | ワークフローを最適化し、CX キャンペーンに必要なアセットとコンテンツを特定する。 クエリやダッシュボードを手作業で作成することなく、キャンペーンのパフォーマンスに関するビジュアルレポートを生成できます。 |
 | より迅速なコラボレーションと意思決定 | オーディエンス、キャンペーン、web トラフィックを検索するために、提案されたプロンプトを使用します。 プランニングミーティング中にチームとインサイトを共有し、プランやデッキを確認しながらリアルタイムで高度な質問に答えます。 |
 
-<!-- Use cases approved by PM Siddhartha Srivastava on 2026-08-31 and confirmed for Microsoft 365 Copilot, Claude, and ChatGPT on 2026-09-02. Validate applicability for each additional platform before adding its setup section. -->
+<!-- Use cases approved by PM Siddhartha Srivastava on 2026-08-31 and confirmed for Microsoft Copilot, Claude, and ChatGPT on 2026-09-02. Validate applicability for each additional platform before adding its setup section. -->
 
 ## 同僚の設定 {#set-up-coworker}
 
-設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[&#x200B; サンプルプロンプト &#x200B;](#example-prompts)を試してください。
+設定の手順については、使用可能なプラットフォームを選択してください。 セットアップ後、[ サンプルプロンプト ](#example-prompts)を試してください。
 
-* [Microsoft 365 コパイロット](#microsoft-365-copilot)
+* [Microsoft Copilot](#microsoft-365-copilot)
 * [ChatGPT](#chatgpt)
 * [クロード](#claude)
 * [ジェミニ・エンタープライズ](#gemini-enterprise)
@@ -60,15 +60,15 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 * [IBM watsonx Orchestrate](#ibm-watsonx-orchestrate)
 * [Databricks](#databricks)
 
-### [!DNL Microsoft 365 Copilot] {#microsoft-365-copilot}
+### [!DNL Microsoft Copilot] {#microsoft-365-copilot}
 
-[!DNL Adobe CX Enterprise Coworker for Copilot]を使用して、[!DNL Microsoft 365 Copilot]でマーケティングインサイトを取得します。
+[!DNL Adobe CX Enterprise Coworker for Copilot]を使用して、[!DNL Microsoft Copilot]でマーケティングインサイトを取得します。
 
-開始する前に、[!DNL Microsoft 365 Copilot]へのアクセス権があることを確認してください。
+開始する前に、[!DNL Microsoft Copilot]へのアクセス権があることを確認してください。
 
 #### 組織アクセスの設定 {#copilot-organization-setup}
 
-エンドユーザーが[!DNL Microsoft 365 Copilot]でCoworkerにアクセスするには、管理者がこれらの手順を完了する必要があります。
+エンドユーザーが[!DNL Microsoft Copilot]でCoworkerにアクセスするには、管理者がこれらの手順を完了する必要があります。
 
 1. [!DNL Microsoft 365 admin center]で、テナント設定で、外部パブリッシャーによって構築されたアプリとエージェントが許可されていることを確認します。
 1. [!DNL Microsoft 365 admin center]と[!DNL Teams admin center]の両方で&#x200B;**[!UICONTROL Adobe CX Enterprise Coworker]**&#x200B;を承認します。 通常、[!DNL Microsoft Commercial Marketplace]または組織の&#x200B;**[!UICONTROL 統合アプリ]** リストからエージェントを見つけることができます。
@@ -80,19 +80,19 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 #### 同僚にアクセス {#copilot-access}
 
-管理者がCoworkerを有効にすると、[!DNL Teams]、[!DNL Word]、[!DNL Excel]、[!DNL PowerPoint]、およびweb チャットを含む[!DNL Microsoft 365 Copilot]個のサーフェスでアクセスできます。
+管理者がCoworkerを有効にすると、[!DNL Teams]、[!DNL Word]、[!DNL Excel]、[!DNL PowerPoint]、およびweb チャットを含む[!DNL Microsoft Copilot]個のサーフェスでアクセスできます。
 
-[!DNL Microsoft 365 Copilot]で、**[!UICONTROL エージェント]**&#x200B;を選択してから、**[!UICONTROL その他のエージェント]**&#x200B;を選択します。
+[!DNL Microsoft Copilot]で、**[!UICONTROL エージェント]**&#x200B;を選択してから、**[!UICONTROL その他のエージェント]**&#x200B;を選択します。
 
-![&#x200B; エージェント メニューを開き、その他のエージェントがハイライト表示されたMicrosoft 365 コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
+![ エージェント メニューが開き、その他のエージェントがハイライト表示されたMicrosoft コパイロット。](./assets/ai-platforms/copilot/copilot-agents.png)
 
 次に、エージェントカタログで「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択します。
 
-![Microsoft 365 Copilot エージェントカタログと、Adobe CX Enterprise Coworkerのリストが強調表示されています。](./assets/ai-platforms/copilot/copilot-select-agent.png)
+![Adobe CX Enterprise Coworkerの一覧がハイライト表示されたMicrosoft Copilot エージェントカタログ。](./assets/ai-platforms/copilot/copilot-select-agent.png)
 
 最後に、**[!UICONTROL Add]**&#x200B;を選択して、担当者に同僚を追加します。
 
-「追加」ボタンがハイライト表示されたMicrosoft 365 コパイロットの![Adobe CX Enterprise Coworkerの詳細。](./assets/ai-platforms/copilot/copilot-add-coworker.png)
+「追加」ボタンがハイライト表示されたMicrosoft コパイロットの![Adobe CX Enterprise Coworkerの詳細。](./assets/ai-platforms/copilot/copilot-add-coworker.png)
 
 ### [!DNL ChatGPT] {#chatgpt}
 
@@ -136,11 +136,11 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 1. [!DNL Claude]で、**[!UICONTROL カスタマイズ]**&#x200B;を選択します。
 
-   カスタマイズがハイライト表示された![&#x200B; クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
+   カスタマイズがハイライト表示された![ クラウドナビゲーション。](./assets/ai-platforms/claude/claude-customize.png)
 
 1. **[!UICONTROL Connectors]**、**[!UICONTROL Discover]**&#x200B;を選択し、**[!UICONTROL Search]**&#x200B;を使用してAdobe CX Enterprise Coworkerを検索します。
 
-   ![&#x200B; 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
+   ![ 「コネクタ」タブが強調表示され、「カタログを見つける」が開いた状態でページをカスタマイズします。](./assets/ai-platforms/claude/claude-connectors.png)
 
 1. 「**[!UICONTROL Adobe CX Enterprise Coworker]**」を選択し、「**[!UICONTROL クロードに接続]**」を選択します。
 
@@ -184,7 +184,7 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 1. Adobe CX Enterprise Coworkerを検索します。
 1. **[!UICONTROL Adobe CX Enterprise Coworker]**&#x200B;を選択し、プロンプトを入力して開始します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 ### [!DNL AWS Quick] {#amazon-quick}
 
@@ -209,7 +209,7 @@ AI プラットフォームでAdobe Workfrontを利用することで、日常�
 
 Coworkerを接続した後、[!DNL AWS Quick]で使用して、Adobe データについて質問します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 ### [!DNL IBM watsonx Orchestrate] {#ibm-watsonx-orchestrate}
 
@@ -230,8 +230,8 @@ OAuthを使用してWorkfrontに接続し、Adobe アカウントで認証しま
 
    | フィールド | 値 |
    | --- | --- |
-   | [!UICONTROL &#x200B; サーバーURL] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL &#x200B; トークン URL] | OAuth クライアントのトークンエンドポイントが確認されました。 |
+   | [!UICONTROL  サーバーURL] | `https://mcp.coworker.experience.adobe.io` |
+   | [!UICONTROL  トークン URL] | OAuth クライアントのトークンエンドポイントが確認されました。 |
    | [!UICONTROL 認証URL] | OAuth クライアントの認証エンドポイントが確認されました。 |
    | [!UICONTROL クライアント ID] | 承認済みのOAuth クライアント ID。 |
    | [!UICONTROL クライアント秘密鍵] | 承認済みのOAuth クライアントシークレット。 |
@@ -261,8 +261,8 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 
    | フィールド | 値 |
    | --- | --- |
-   | [!UICONTROL &#x200B; サーバー名] | `cx-coworker`などのわかりやすい名前。 |
-   | [!UICONTROL &#x200B; トランスポートの種類] | [!UICONTROL &#x200B; ストリーミング可能なHTTP] |
+   | [!UICONTROL  サーバー名] | `cx-coworker`などのわかりやすい名前。 |
+   | [!UICONTROL  トランスポートの種類] | [!UICONTROL  ストリーミング可能なHTTP] |
    | [!UICONTROL MCP サーバーのURL] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL 接続] | 認証した同僚の接続。 |
 
@@ -280,7 +280,7 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 1. 必要な同僚ツールを選択し、**[!UICONTROL エージェントに追加]**&#x200B;を選択します。
 1. **[!UICONTROL ドラフトプレビュー]**&#x200B;にプロンプトを入力し、応答を確認して、接続が機能することを確認します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
 ### [!DNL Databricks] {#databricks}
 
@@ -302,7 +302,7 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
    | フィールド | 値 |
    | --- | --- |
    | [!UICONTROL ホスト] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL 基本パス &#x200B;] | `/mcp` |
+   | [!UICONTROL 基本パス ] | `/mcp` |
    | [!UICONTROL 資格情報の種類] | [!UICONTROL OAuth U2M] |
 
    カタログ、スキーマ、接続、資格情報フィールドを含むAdobe CX Enterprise Coworkerの![Databricks Marketplace インストール ダイアログ。](./assets/ai-platforms/databricks/databricks-install.png){width="700"}
@@ -332,9 +332,9 @@ Adobe IDとの接続を認証するために、メンバーの資格情報を追
 
 1. **[!UICONTROL 新しいチャット]**&#x200B;を選択し、「Adobe Coworkerを使用して、公開されたオーディエンスを一覧表示する」などのプロンプトを入力します。
 
-アイデアについては、[主要なユースケース &#x200B;](#key-use-cases)と[例プロンプト &#x200B;](#example-prompts)を参照してください。
+アイデアについては、[主要なユースケース ](#key-use-cases)と[例プロンプト ](#example-prompts)を参照してください。
 
-<!-- Setup steps for Microsoft 365 Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
+<!-- Setup steps for Microsoft Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
 
 <!-- AWS Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
 
