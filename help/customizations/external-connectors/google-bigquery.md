@@ -52,7 +52,7 @@ Coworkerでコネクタを設定する前に、[!DNL Google Cloud]でプロジ�
 
 1. [Google Cloud Console](https://console.cloud.google.com/)で、プロジェクトを選択または作成します。
 1. まだ有効になっていない場合は、[!DNL BigQuery] APIを有効にします。 APIを有効にすると、[!DNL BigQuery] リモート MCP サーバーも有効になります。
-1. 請求または[BigQuery サンドボックス ](https://docs.cloud.google.com/bigquery/docs/sandbox)を選択し、クエリプロジェクトに対して日次[ カスタムクエリクォータ ](https://docs.cloud.google.com/bigquery/docs/custom-quotas)を適切に設定します。
+1. 請求または[BigQuery サンドボックス &#x200B;](https://docs.cloud.google.com/bigquery/docs/sandbox)を選択し、クエリプロジェクトに対して日次[&#x200B; カスタムクエリクォータ &#x200B;](https://docs.cloud.google.com/bigquery/docs/custom-quotas)を適切に設定します。
 
 >[!IMPORTANT]
 >
@@ -103,17 +103,17 @@ Coworkerでコネクタを設定する前に、[!DNL Google Cloud]でプロジ�
 
    ![組織のGoogle BigQueryを設定ダイアログに、リダイレクト URLが墨消しされ、資格情報フィールドが表示されている接続の詳細セクション、選択された7つの探索およびクエリ ツール、3つのアクセスおよび権限に関する通知が表示されます。](./assets/google-bigquery/org-configure.png){width="500" zoomable="yes"}
 
-1. **[!UICONTROL 探索とクエリ]** ツール グループを展開します。 7つのツールをすべて選択するか、メンバーに必要なツールのみを選択します。 少なくとも1つのツールを選択してください。 詳しくは、[使用可能なツール ](#available-tools)を参照してください。
+1. **[!UICONTROL 探索とクエリ]** ツール グループを展開します。 7つのツールをすべて選択するか、メンバーに必要なツールのみを選択します。 少なくとも1つのツールを選択してください。 詳しくは、[使用可能なツール &#x200B;](#available-tools)を参照してください。
 
    **[!UICONTROL アクセスと権限]**&#x200B;の下の通知を確認します。
 
-   * **[!UICONTROL 読み取り専用ツール ]:** OAuth スコープは広く、それ自体の変更を妨げません。 メンバーのIAM役割を読み取り専用に保ちます。
+   * **[!UICONTROL 読み取り専用ツール &#x200B;]:** OAuth スコープは広く、それ自体の変更を妨げません。 メンバーのIAM役割を読み取り専用に保ちます。
    * **[!UICONTROL 読み取り専用のクエリには料金が発生する可能性があります]:** ドライランとクエリクォータを使用します。 `LIMIT`句は、必ずしもスキャンされたバイトではなく、返される行を制御します。
    * **[!UICONTROL 各自が個別にログインします]:**&#x200B;すべてのメンバーに必要なIAM ロールが必要です。
 
    **[!UICONTROL 接続を保存]**&#x200B;を選択します。 組織カードに、**[!UICONTROL 設定が保存されました]**、**[!UICONTROL 設定を表示]**&#x200B;と表示されます。
 
-設定を保存すると、自分またはメンバーが[!DNL Google]にログインできません。 保存しても、誰でもデータセットをクエリできるとは限りません。 自分でコネクタを使用するには、[ メンバーとしてログイン ](#sign-in-as-a-member)の手順に従います。
+設定を保存すると、自分またはメンバーが[!DNL Google]にログインできません。 保存しても、誰でもデータセットをクエリできるとは限りません。 自分でコネクタを使用するには、[&#x200B; メンバーとしてログイン &#x200B;](#sign-in-as-a-member)の手順に従います。
 
 ### 利用可能なツール {#available-tools}
 
@@ -129,7 +129,7 @@ Coworkerでコネクタを設定する前に、[!DNL Google Cloud]でプロジ�
 | `get_query_results` | クエリの結果を取得するか、実行中のクエリを確認します。 |
 | `get_job` | クエリジョブのステータス、エラー、統計を確認します。 |
 
-クエリワークフローの場合は、`execute_sql_readonly`、`get_query_results`、`get_job`を一緒に選択しておくと、長時間実行されるクエリジョブに従うことができます。 共同作業者は、[!DNL BigQuery] MCP サーバーから`execute_sql`および`cancel_job` ツールを提供していません。 [!DNL Google]が後でサーバーに追加するツールは、自動的には有効になっていません。 ツールの詳細については、[BigQuery MCP リファレンス ](https://docs.cloud.google.com/bigquery/docs/reference/mcp)を参照してください。
+クエリワークフローの場合は、`execute_sql_readonly`、`get_query_results`、`get_job`を一緒に選択しておくと、長時間実行されるクエリジョブに従うことができます。 共同作業者は、[!DNL BigQuery] MCP サーバーから`execute_sql`および`cancel_job` ツールを提供していません。 [!DNL Google]が後でサーバーに追加するツールは、自動的には有効になっていません。 ツールの詳細については、[BigQuery MCP リファレンス &#x200B;](https://docs.cloud.google.com/bigquery/docs/reference/mcp)を参照してください。
 
 ツールを使用する場合は、次の制限を考慮してください。
 
@@ -144,7 +144,7 @@ Coworkerでコネクタを設定する前に、[!DNL Google Cloud]でプロジ�
 
 1. **[!UICONTROL カスタマイズ]**&#x200B;を開き、**[!UICONTROL ユーザー]**&#x200B;を選択してから、**[!UICONTROL 外部コネクタ]**&#x200B;を選択します。 **[!UICONTROL ログインしていない]**&#x200B;と表示されている&#x200B;**[!UICONTROL Google BigQuery]** カードで、**[!UICONTROL ログイン]**&#x200B;を選択します。
 
-   カードで管理者がコネクタを設定する必要があると表示された場合は、管理者に[ コネクタを設定](#configure-organization)するように依頼します。
+   カードで管理者がコネクタを設定する必要があると表示された場合は、管理者に[&#x200B; コネクタを設定](#configure-organization)するように依頼します。
 
 1. [!DNL Google] **[!UICONTROL アカウントを選択]**&#x200B;画面で、必要なIAM アクセスを持つアカウントを選択するか、**[!UICONTROL 別のアカウントを使用]**&#x200B;を選択します。 次に、シングルサインオン（SSO）や多要素認証（MFA）など、組織が必要とするサインインステップを完了します。
 
@@ -168,7 +168,7 @@ Coworkerでコネクタを設定する前に、[!DNL Google Cloud]でプロジ�
 
    ![Googleの同意画面。adobe.ioという名前のサンプルアプリが、未確認のアプリに関する警告、アカウントの墨消し、キャンセルおよび続行ボタンを表示して、Google BigQueryのデータを表示および管理するためのアクセスを要求します。](./assets/google-bigquery/member-consent.png){width="500" zoomable="yes"}
 
-1. Coworkerに戻り、コネクタの詳細で管理者&#x200B;]**が有効にした**[!UICONTROL  ツールを確認します。 メンバーはツールを表示できますが、ツールの選択を変更することはできません。 接続を確認するには、**[!UICONTROL テスト]**&#x200B;を選択します。
+1. Coworkerに戻り、コネクタの詳細で管理者&#x200B;**が有効にした** ツールを確認します。 メンバーはツールを表示できますが、ツールの選択を変更することはできません。 接続を確認するには、**[!UICONTROL テスト]**&#x200B;を選択します。
 
    メンバーの![google-bigquery コネクタの詳細。接続済みステータス、ソース、認証方法、ツールのタイムアウト、ログアウトおよび再読み込みツール ボタンを使用した署名済み接続、接続が終了したことを示すメッセージ、管理者が有効にした最初のツールを表示します。](./assets/google-bigquery/member-details.png){width="700" zoomable="yes"}
 
