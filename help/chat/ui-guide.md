@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
-source-wordcount: '2116'
-ht-degree: 3%
+source-wordcount: '2131'
+ht-degree: 4%
 ---
 # 同僚とのチャットを始める {#ui-guide}
 
@@ -24,6 +24,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 |---|---|---|
 | Real-Time CDP | 今すぐ利用可能 | 近日リリース予定 |
 | Adobe Journey Optimizer | 今すぐ利用可能 | 近日リリース予定 |
+| Adobe Journey Optimizer B2B Edition | 今すぐ利用可能 | 近日リリース予定 |
 | Customer Journey Analytics | 今すぐ利用可能 | 今すぐ利用可能 |
 | Customer Journey Analytics B2B edition | 今すぐ利用可能 | 今すぐ利用可能 |
 | Content Analytics | 今すぐ利用可能 | 今すぐ利用可能 |
@@ -33,12 +34,13 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 | ターゲット | 今すぐ利用可能 | 今すぐ利用可能 |
 | AEM | 今すぐ利用可能 | 今すぐ利用可能 |
 | Marketo Engage | 今すぐ利用可能 | 近日リリース予定 |
+| Marketo Optimizer | 今すぐ利用可能 | 今すぐ利用可能 |
 
 ## [!DNL Coworker]にログイン {#sign-in}
 
 Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
-1. [Adobe IDを使用して](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
+1. [Adobe IDを使用して](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
 
    ログイン後、[!DNL CX Enterprise] アプリケーションメニューから、または直接リンクを使用して[!DNL Coworker]を開くことができます。
 
