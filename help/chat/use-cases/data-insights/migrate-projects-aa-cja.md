@@ -2,14 +2,33 @@
 title: Adobe Analytics プロジェクトのCustomer Journey Analyticsへの移行
 description: Coworkerを使用して、Adobe Analytics Workspace プロジェクトとそのコンポーネントを検証、マッピング、Customer Journey Analyticsに移行してから、移行ステータスを確認します。
 feature: AI Tools
-role: Admin
+role: Admin, User
 level: Intermediate
+doc-type: Feature Video
+duration: '00:05:41'
+last-substantial-update: 2026-11-20T00:00:00.000Z
+jira: KT-23118
+autotag-review: '2026-11-20T18:24:50.351Z'
+TQID: 'https://experienceleague.adobe.com/FmcRExwh-Qjt5tqi4iKwX0B1m8KoIfRXQHRTI4gH6vE'
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '1785'
+source-wordcount: '1795'
 ht-degree: 1%
 ---
 
@@ -26,6 +45,10 @@ Coworkerは、プロジェクト内のディメンションと指標がCustomer 
 >[!AVAILABILITY]
 >
 >この記事で説明する機能は、リリースの限定的なテスト段階にあり、お使いの環境ではまだ利用できない場合があります。 このメモは、機能が一般公開された時点で削除されます。
+
+## AAからCJAへのステップバイステッププランから始める
+
+>[!VIDEO](https://video.tv.adobe.com/v/3508619/?learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

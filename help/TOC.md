@@ -6,9 +6,9 @@ description: CX EnterpriseのAI ツールについてご確認ください。 CX
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 98439066e28b43d6f97f1ac769dfb9d45e698ea9
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 22%
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 22%
         - [実装チェックリストの生成](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [アップグレード時にAAからCJA データを検証する](./chat/use-cases/data-insights/data-validation-aa-cja.md)
         - [AA プロジェクトのCJAへの移行](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
+        - [Content Analytics プランの作成](./chat/use-cases/data-insights/content-analytics-implementation-plan.md)
         - [ストリーミングメディア実装の検証](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [CJA レポート用のデータセット品質の検証](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Experience Platform データの検証](./chat/use-cases/data-insights/data-validation-aep.md)
