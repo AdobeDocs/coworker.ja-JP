@@ -27,7 +27,7 @@ ht-degree: 1%
 
 ## 関連トピック
 
-- [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
-- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
+- [Coworker for journeys: Adobe Journey Optimizerでジャーニーを作成するための主要なユースケース、プロンプト作成のベストプラクティス、範囲外のスキルを備えたジャーニー作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create):Coworker Chatのジャーニー作成を強化する基盤となるAI機能。
 - [その他の同僚チャットワークフロー](../workflows.md#journeys)

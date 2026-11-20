@@ -30,8 +30,8 @@ CX Enterprise Coworkerなら、平易な言葉でプロンプトを入力し、�
 
 ## 関連トピック
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
-- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"}。
-- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティインサイト &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"}は、ロイヤルティポイント、階層、収益指標のクエリ用です。
-- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
+- [Journey Agent](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent)。他のAJO AI機能（ジャーニーの作成、分析、シミュレーションなど）については、共同作業チャットを通じて利用できます。
+- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティチャレンジ管理](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"}。
+- Adobe Journey Optimizer ドキュメントの[&#x200B; ロイヤルティインサイト &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"}は、ロイヤルティポイント、階層、収益指標のクエリ用です。
+- [Journey Optimizerの共同作業スキルの概要であるJourney Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}の共同作業スキル。
 - [その他の同僚チャットワークフロー](../workflows.md#loyalty)
