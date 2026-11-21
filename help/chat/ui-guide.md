@@ -40,7 +40,7 @@ Coworker Chatでは、Adobe CX Enterpriseのデータやツールを使用して
 
 Adobeの資格情報を使用して[!DNL Coworker]にログインします。
 
-1. [Adobe IDを使用して](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
+1. [Adobe IDを使用して](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise)CX Enterpriseにログインします。
 
    ログイン後、[!DNL CX Enterprise] アプリケーションメニューから、または直接リンクを使用して[!DNL Coworker]を開くことができます。
 
